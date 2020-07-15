@@ -1,24 +1,31 @@
 import csv
 
 
-def write(s, data):
-    with open('Data/Sorted/' + s + ".csv", 'w', newline='') as csvfile:
-        writer = csv.writer(csvfile, delimiter=' ',
-                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
+def write_file(s, data):
+    with open('Data/States/' + s + ".csv", 'w', newline='') as csvfile:
+        writer = csv.writer(csvfile, delimiter=',',
+                            quoting=csv.QUOTE_MINIMAL)
         for row in data:
             writer.writerow(row)
 
 
-with open("Data/us-counties.csv", newline='') as csvfile:
+data = []
+
+with open("Data/us-states.csv", newline='') as csvfile:
     reader = csv.reader(csvfile, delimiter=',')
 
-    my_list = ["NOT DATA"]
     for row in reader:
-        if row[0] != my_list[-1][0]:
-            print(row[0])
-            write(my_list[-1][0], my_list)
-            my_list.clear()
-            my_list.append(["NOT DATA"])
-        my_list.append(row)
+        data.append(row)
 
+my_list = []
+used_list = []
+for row in data:
+    if not row[2] in used_list:
+        used_list.append(row[2])
+        for inner_row in data:
+            if inner_row[2] == row[2]:
+                my_list.append(inner_row)
+        write_file(row[2], my_list)
+        print("WRITING", row[2])
 
+    my_list.clear()

@@ -1,10 +1,13 @@
 import requests
 import json
 import urllib
-from os import getcwd
+import os
 import twint
 from geopy.geocoders import Nominatim
 
+mypath = "/Data/Sorted"
+arr = os.listdir()
+print(arr)
 
 
 geolocator = Nominatim(user_agent="COVID_Tracker")
@@ -34,7 +37,7 @@ print(data['results'][0]['county_name'])
 
 
 url = "https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports_us/04-12-2020.csv"
-directory = getcwd()
+directory = os.getcwd()
 print(directory)
 filename = directory + 'somefile.txt'
 r = requests.get(url)

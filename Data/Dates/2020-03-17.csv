@@ -1,0 +1,547 @@
+NOT DATA
+2020-03-17,Baldwin,Alabama,01003,1,0
+2020-03-17,Elmore,Alabama,01051,2,0
+2020-03-17,Jefferson,Alabama,01073,21,0
+2020-03-17,Lee,Alabama,01081,3,0
+2020-03-17,Limestone,Alabama,01083,1,0
+2020-03-17,Madison,Alabama,01089,1,0
+2020-03-17,Montgomery,Alabama,01101,2,0
+2020-03-17,Shelby,Alabama,01117,4,0
+2020-03-17,St. Clair,Alabama,01115,1,0
+2020-03-17,Tuscaloosa,Alabama,01125,3,0
+2020-03-17,Anchorage,Alaska,02020,2,0
+2020-03-17,Fairbanks North Star Borough,Alaska,02090,3,0
+2020-03-17,Ketchikan Gateway Borough,Alaska,02130,1,0
+2020-03-17,Graham,Arizona,04009,1,0
+2020-03-17,Maricopa,Arizona,04013,9,0
+2020-03-17,Navajo,Arizona,04017,1,0
+2020-03-17,Pima,Arizona,04019,4,0
+2020-03-17,Pinal,Arizona,04021,5,0
+2020-03-17,Cleburne,Arkansas,05023,1,0
+2020-03-17,Cleveland,Arkansas,05025,1,0
+2020-03-17,Desha,Arkansas,05041,1,0
+2020-03-17,Garland,Arkansas,05051,2,0
+2020-03-17,Jefferson,Arkansas,05069,5,0
+2020-03-17,Lincoln,Arkansas,05079,1,0
+2020-03-17,Pulaski,Arkansas,05119,10,0
+2020-03-17,Saline,Arkansas,05125,1,0
+2020-03-17,Alameda,California,06001,49,0
+2020-03-17,Contra Costa,California,06013,34,0
+2020-03-17,Fresno,California,06019,2,0
+2020-03-17,Humboldt,California,06023,1,0
+2020-03-17,Kern,California,06029,1,0
+2020-03-17,Los Angeles,California,06037,144,1
+2020-03-17,Madera,California,06039,1,0
+2020-03-17,Marin,California,06041,4,0
+2020-03-17,Monterey,California,06053,2,0
+2020-03-17,Napa,California,06055,1,0
+2020-03-17,Nevada,California,06057,1,0
+2020-03-17,Orange,California,06059,29,0
+2020-03-17,Placer,California,06061,8,1
+2020-03-17,Riverside,California,06065,16,3
+2020-03-17,Sacramento,California,06067,39,2
+2020-03-17,San Benito,California,06069,2,1
+2020-03-17,San Bernardino,California,06071,3,0
+2020-03-17,San Diego,California,06073,61,0
+2020-03-17,San Francisco,California,06075,46,0
+2020-03-17,San Joaquin,California,06077,13,0
+2020-03-17,San Luis Obispo,California,06079,6,0
+2020-03-17,San Mateo,California,06081,64,1
+2020-03-17,Santa Barbara,California,06083,2,0
+2020-03-17,Santa Clara,California,06085,155,5
+2020-03-17,Santa Cruz,California,06087,2,0
+2020-03-17,Shasta,California,06089,1,0
+2020-03-17,Solano,California,06095,15,0
+2020-03-17,Sonoma,California,06097,9,0
+2020-03-17,Stanislaus,California,06099,4,0
+2020-03-17,Tulare,California,06107,3,0
+2020-03-17,Ventura,California,06111,10,0
+2020-03-17,Yolo,California,06113,4,0
+2020-03-17,Adams,Colorado,08001,10,0
+2020-03-17,Arapahoe,Colorado,08005,18,0
+2020-03-17,Boulder,Colorado,08013,8,0
+2020-03-17,Clear Creek,Colorado,08019,2,0
+2020-03-17,Denver,Colorado,08031,41,0
+2020-03-17,Douglas,Colorado,08035,9,0
+2020-03-17,Eagle,Colorado,08037,34,0
+2020-03-17,El Paso,Colorado,08041,6,2
+2020-03-17,Garfield,Colorado,08045,2,0
+2020-03-17,Gunnison,Colorado,08051,11,0
+2020-03-17,Jefferson,Colorado,08059,17,0
+2020-03-17,Larimer,Colorado,08069,2,0
+2020-03-17,Mesa,Colorado,08077,1,0
+2020-03-17,Pitkin,Colorado,08097,11,0
+2020-03-17,Pueblo,Colorado,08101,1,0
+2020-03-17,Routt,Colorado,08107,2,0
+2020-03-17,Summit,Colorado,08117,3,0
+2020-03-17,Weld,Colorado,08123,5,1
+2020-03-17,Fairfield,Connecticut,09001,48,0
+2020-03-17,Hartford,Connecticut,09003,7,0
+2020-03-17,Litchfield,Connecticut,09005,5,0
+2020-03-17,New Haven,Connecticut,09009,8,0
+2020-03-17,New Castle,Delaware,10003,15,0
+2020-03-17,Sussex,Delaware,10005,1,0
+2020-03-17,District of Columbia,District of Columbia,11001,31,0
+2020-03-17,Alachua,Florida,12001,6,0
+2020-03-17,Baker,Florida,12003,1,0
+2020-03-17,Brevard,Florida,12009,1,0
+2020-03-17,Broward,Florida,12011,55,1
+2020-03-17,Charlotte,Florida,12015,1,0
+2020-03-17,Citrus,Florida,12017,2,0
+2020-03-17,Clay,Florida,12019,4,0
+2020-03-17,Collier,Florida,12021,7,0
+2020-03-17,Duval,Florida,12031,10,0
+2020-03-17,Escambia,Florida,12033,1,0
+2020-03-17,Hillsborough,Florida,12057,9,0
+2020-03-17,Lake,Florida,12069,1,0
+2020-03-17,Lee,Florida,12071,7,2
+2020-03-17,Manatee,Florida,12081,7,1
+2020-03-17,Miami-Dade,Florida,12086,43,0
+2020-03-17,Nassau,Florida,12089,1,0
+2020-03-17,Okaloosa,Florida,12091,2,0
+2020-03-17,Orange,Florida,12095,6,1
+2020-03-17,Osceola,Florida,12097,7,0
+2020-03-17,Palm Beach,Florida,12099,11,0
+2020-03-17,Pasco,Florida,12101,2,0
+2020-03-17,Pinellas,Florida,12103,4,0
+2020-03-17,Polk,Florida,12105,1,0
+2020-03-17,Santa Rosa,Florida,12113,1,1
+2020-03-17,Sarasota,Florida,12115,4,0
+2020-03-17,Seminole,Florida,12117,4,0
+2020-03-17,St. Johns,Florida,12109,3,0
+2020-03-17,Volusia,Florida,12127,9,0
+2020-03-17,Bartow,Georgia,13015,11,0
+2020-03-17,Charlton,Georgia,13049,1,0
+2020-03-17,Cherokee,Georgia,13057,4,0
+2020-03-17,Clarke,Georgia,13059,3,0
+2020-03-17,Clayton,Georgia,13063,5,0
+2020-03-17,Cobb,Georgia,13067,25,1
+2020-03-17,Coweta,Georgia,13077,3,0
+2020-03-17,DeKalb,Georgia,13089,15,0
+2020-03-17,Dougherty,Georgia,13095,6,0
+2020-03-17,Fayette,Georgia,13113,5,0
+2020-03-17,Floyd,Georgia,13115,5,0
+2020-03-17,Forsyth,Georgia,13117,1,0
+2020-03-17,Fulton,Georgia,13121,33,0
+2020-03-17,Gordon,Georgia,13129,2,0
+2020-03-17,Gwinnett,Georgia,13135,7,0
+2020-03-17,Hall,Georgia,13139,1,0
+2020-03-17,Henry,Georgia,13151,2,0
+2020-03-17,Lee,Georgia,13177,2,0
+2020-03-17,Lowndes,Georgia,13185,4,0
+2020-03-17,Newton,Georgia,13217,1,0
+2020-03-17,Paulding,Georgia,13223,1,0
+2020-03-17,Polk,Georgia,13233,1,0
+2020-03-17,Richmond,Georgia,13245,1,0
+2020-03-17,Troup,Georgia,13285,2,0
+2020-03-17,Whitfield,Georgia,13313,1,0
+2020-03-17,Unknown,Guam,,3,0
+2020-03-17,Hawaii,Hawaii,15001,1,0
+2020-03-17,Honolulu,Hawaii,15003,8,0
+2020-03-17,Kauai,Hawaii,15007,2,0
+2020-03-17,Maui,Hawaii,15009,3,0
+2020-03-17,Ada,Idaho,16001,3,0
+2020-03-17,Blaine,Idaho,16013,4,0
+2020-03-17,Madison,Idaho,16065,1,0
+2020-03-17,Teton,Idaho,16081,1,0
+2020-03-17,Clinton,Illinois,17027,2,0
+2020-03-17,Cook,Illinois,17031,107,1
+2020-03-17,Cumberland,Illinois,17035,1,0
+2020-03-17,DuPage,Illinois,17043,26,0
+2020-03-17,Kane,Illinois,17089,3,0
+2020-03-17,Lake,Illinois,17097,7,0
+2020-03-17,McHenry,Illinois,17111,2,0
+2020-03-17,Peoria,Illinois,17143,1,0
+2020-03-17,Sangamon,Illinois,17167,3,0
+2020-03-17,St. Clair,Illinois,17163,2,0
+2020-03-17,Whiteside,Illinois,17195,1,0
+2020-03-17,Will,Illinois,17197,2,0
+2020-03-17,Winnebago,Illinois,17201,1,0
+2020-03-17,Woodford,Illinois,17203,1,0
+2020-03-17,Adams,Indiana,18001,1,0
+2020-03-17,Bartholomew,Indiana,18005,1,0
+2020-03-17,Boone,Indiana,18011,1,0
+2020-03-17,Floyd,Indiana,18043,1,0
+2020-03-17,Franklin,Indiana,18047,2,0
+2020-03-17,Hamilton,Indiana,18057,1,0
+2020-03-17,Hendricks,Indiana,18063,3,0
+2020-03-17,Howard,Indiana,18067,2,0
+2020-03-17,Johnson,Indiana,18081,3,1
+2020-03-17,LaPorte,Indiana,18091,1,0
+2020-03-17,Lake,Indiana,18089,2,0
+2020-03-17,Marion,Indiana,18097,9,1
+2020-03-17,Noble,Indiana,18113,1,0
+2020-03-17,St. Joseph,Indiana,18141,1,0
+2020-03-17,Wells,Indiana,18179,1,0
+2020-03-17,Adair,Iowa,19001,1,0
+2020-03-17,Allamakee,Iowa,19005,2,0
+2020-03-17,Black Hawk,Iowa,19013,1,0
+2020-03-17,Carroll,Iowa,19027,1,0
+2020-03-17,Dallas,Iowa,19049,3,0
+2020-03-17,Harrison,Iowa,19085,1,0
+2020-03-17,Johnson,Iowa,19103,18,0
+2020-03-17,Polk,Iowa,19153,1,0
+2020-03-17,Pottawattamie,Iowa,19155,1,0
+2020-03-17,Butler,Kansas,20015,1,0
+2020-03-17,Douglas,Kansas,20045,1,0
+2020-03-17,Ford,Kansas,20057,1,0
+2020-03-17,Franklin,Kansas,20059,1,0
+2020-03-17,Johnson,Kansas,20091,10,0
+2020-03-17,Wyandotte,Kansas,20209,3,1
+2020-03-17,Bourbon,Kentucky,21017,1,1
+2020-03-17,Clark,Kentucky,21049,1,0
+2020-03-17,Fayette,Kentucky,21067,5,0
+2020-03-17,Harrison,Kentucky,21097,6,0
+2020-03-17,Jefferson,Kentucky,21111,9,0
+2020-03-17,Lyon,Kentucky,21143,1,0
+2020-03-17,Montgomery,Kentucky,21173,2,0
+2020-03-17,Nelson,Kentucky,21179,1,0
+2020-03-17,Ascension,Louisiana,22005,1,0
+2020-03-17,Bossier,Louisiana,22015,1,0
+2020-03-17,Caddo,Louisiana,22017,4,0
+2020-03-17,East Baton Rouge,Louisiana,22033,1,0
+2020-03-17,Jefferson,Louisiana,22051,35,0
+2020-03-17,Lafourche,Louisiana,22057,2,0
+2020-03-17,Orleans,Louisiana,22071,136,5
+2020-03-17,St. Bernard,Louisiana,22087,2,0
+2020-03-17,St. Charles,Louisiana,22089,3,0
+2020-03-17,St. John the Baptist,Louisiana,22095,1,0
+2020-03-17,St. Tammany,Louisiana,22103,6,0
+2020-03-17,Terrebonne,Louisiana,22109,3,0
+2020-03-17,Washington,Louisiana,22117,1,0
+2020-03-17,Androscoggin,Maine,23001,3,0
+2020-03-17,Cumberland,Maine,23005,20,0
+2020-03-17,Kennebec,Maine,23011,1,0
+2020-03-17,Lincoln,Maine,23015,3,0
+2020-03-17,Oxford,Maine,23017,1,0
+2020-03-17,Unknown,Maine,,3,0
+2020-03-17,York,Maine,23031,1,0
+2020-03-17,Anne Arundel,Maryland,24003,3,0
+2020-03-17,Baltimore,Maryland,24005,4,0
+2020-03-17,Baltimore city,Maryland,24510,3,0
+2020-03-17,Carroll,Maryland,24013,1,0
+2020-03-17,Charles,Maryland,24017,1,0
+2020-03-17,Frederick,Maryland,24021,1,0
+2020-03-17,Harford,Maryland,24025,2,0
+2020-03-17,Howard,Maryland,24027,3,0
+2020-03-17,Montgomery,Maryland,24031,24,0
+2020-03-17,Prince George's,Maryland,24033,14,0
+2020-03-17,Talbot,Maryland,24041,1,0
+2020-03-17,Barnstable,Massachusetts,25001,2,0
+2020-03-17,Berkshire,Massachusetts,25003,14,0
+2020-03-17,Bristol,Massachusetts,25005,5,0
+2020-03-17,Essex,Massachusetts,25009,8,0
+2020-03-17,Hampden,Massachusetts,25013,1,0
+2020-03-17,Middlesex,Massachusetts,25017,89,0
+2020-03-17,Norfolk,Massachusetts,25021,43,0
+2020-03-17,Plymouth,Massachusetts,25023,5,0
+2020-03-17,Suffolk,Massachusetts,25025,42,0
+2020-03-17,Unknown,Massachusetts,,1,0
+2020-03-17,Worcester,Massachusetts,25027,8,0
+2020-03-17,Bay,Michigan,26017,1,0
+2020-03-17,Charlevoix,Michigan,26029,1,0
+2020-03-17,Ingham,Michigan,26065,2,0
+2020-03-17,Jackson,Michigan,26075,1,0
+2020-03-17,Kent,Michigan,26081,5,0
+2020-03-17,Leelanau,Michigan,26089,1,0
+2020-03-17,Macomb,Michigan,26099,8,0
+2020-03-17,Monroe,Michigan,26115,1,0
+2020-03-17,Montcalm,Michigan,26117,1,0
+2020-03-17,Oakland,Michigan,26125,16,0
+2020-03-17,Otsego,Michigan,26137,1,0
+2020-03-17,Ottawa,Michigan,26139,1,0
+2020-03-17,St. Clair,Michigan,26147,2,0
+2020-03-17,Washtenaw,Michigan,26161,7,0
+2020-03-17,Wayne,Michigan,26163,17,0
+2020-03-17,Anoka,Minnesota,27003,3,0
+2020-03-17,Benton,Minnesota,27009,1,0
+2020-03-17,Blue Earth,Minnesota,27013,1,0
+2020-03-17,Carver,Minnesota,27019,1,0
+2020-03-17,Dakota,Minnesota,27037,7,0
+2020-03-17,Hennepin,Minnesota,27053,26,0
+2020-03-17,Martin,Minnesota,27091,2,0
+2020-03-17,Nicollet,Minnesota,27103,1,0
+2020-03-17,Olmsted,Minnesota,27109,3,0
+2020-03-17,Ramsey,Minnesota,27123,8,0
+2020-03-17,Renville,Minnesota,27129,1,0
+2020-03-17,Stearns,Minnesota,27145,3,0
+2020-03-17,Waseca,Minnesota,27161,1,0
+2020-03-17,Washington,Minnesota,27163,1,0
+2020-03-17,Wright,Minnesota,27171,1,0
+2020-03-17,Copiah,Mississippi,28029,2,0
+2020-03-17,Forrest,Mississippi,28035,3,0
+2020-03-17,Hancock,Mississippi,28045,1,0
+2020-03-17,Harrison,Mississippi,28047,1,0
+2020-03-17,Hinds,Mississippi,28049,6,0
+2020-03-17,Jackson,Mississippi,28059,1,0
+2020-03-17,Leflore,Mississippi,28083,4,0
+2020-03-17,Monroe,Mississippi,28095,1,0
+2020-03-17,Pearl River,Mississippi,28109,2,0
+2020-03-17,Boone,Missouri,29019,1,0
+2020-03-17,Cass,Missouri,29037,2,0
+2020-03-17,Cole,Missouri,29051,1,0
+2020-03-17,Greene,Missouri,29077,4,0
+2020-03-17,Henry,Missouri,29083,1,0
+2020-03-17,Jackson,Missouri,29095,2,0
+2020-03-17,St. Louis,Missouri,29189,5,0
+2020-03-17,Gallatin,Montana,30031,1,0
+2020-03-17,Lewis and Clark,Montana,30049,1,0
+2020-03-17,Missoula,Montana,30063,2,0
+2020-03-17,Silver Bow,Montana,30093,1,0
+2020-03-17,Yellowstone,Montana,30111,3,0
+2020-03-17,Cass,Nebraska,31025,1,0
+2020-03-17,Douglas,Nebraska,31055,33,0
+2020-03-17,Knox,Nebraska,31107,1,0
+2020-03-17,Sarpy,Nebraska,31153,1,0
+2020-03-17,Carson City,Nevada,32510,1,0
+2020-03-17,Clark,Nevada,32003,42,1
+2020-03-17,Washoe,Nevada,32031,12,0
+2020-03-17,Carroll,New Hampshire,33003,1,0
+2020-03-17,Grafton,New Hampshire,33009,7,0
+2020-03-17,Hillsborough,New Hampshire,33011,4,0
+2020-03-17,Rockingham,New Hampshire,33015,14,0
+2020-03-17,Bergen,New Jersey,34003,84,2
+2020-03-17,Burlington,New Jersey,34005,5,0
+2020-03-17,Camden,New Jersey,34007,3,0
+2020-03-17,Essex,New Jersey,34013,32,0
+2020-03-17,Gloucester,New Jersey,34015,2,0
+2020-03-17,Hudson,New Jersey,34017,24,0
+2020-03-17,Hunterdon,New Jersey,34019,4,0
+2020-03-17,Mercer,New Jersey,34021,9,0
+2020-03-17,Middlesex,New Jersey,34023,20,0
+2020-03-17,Monmouth,New Jersey,34025,22,1
+2020-03-17,Morris,New Jersey,34027,19,0
+2020-03-17,Ocean,New Jersey,34029,4,0
+2020-03-17,Passaic,New Jersey,34031,10,0
+2020-03-17,Somerset,New Jersey,34035,6,0
+2020-03-17,Union,New Jersey,34039,22,0
+2020-03-17,Unknown,New Jersey,,1,0
+2020-03-17,Warren,New Jersey,34041,1,0
+2020-03-17,Bernalillo,New Mexico,35001,14,0
+2020-03-17,Sandoval,New Mexico,35043,2,0
+2020-03-17,Santa Fe,New Mexico,35049,4,0
+2020-03-17,Socorro,New Mexico,35053,2,0
+2020-03-17,Taos,New Mexico,35055,1,0
+2020-03-17,Albany,New York,36001,23,0
+2020-03-17,Allegany,New York,36003,2,0
+2020-03-17,Broome,New York,36007,1,0
+2020-03-17,Clinton,New York,36019,1,0
+2020-03-17,Delaware,New York,36025,1,0
+2020-03-17,Dutchess,New York,36027,16,0
+2020-03-17,Erie,New York,36029,7,0
+2020-03-17,Greene,New York,36039,2,0
+2020-03-17,Herkimer,New York,36043,1,0
+2020-03-17,Monroe,New York,36055,11,0
+2020-03-17,Montgomery,New York,36057,1,0
+2020-03-17,Nassau,New York,36059,131,2
+2020-03-17,New York City,New York,,646,11
+2020-03-17,Onondaga,New York,36067,2,0
+2020-03-17,Ontario,New York,36069,1,0
+2020-03-17,Orange,New York,36071,15,0
+2020-03-17,Putnam,New York,36079,2,0
+2020-03-17,Rensselaer,New York,36083,1,0
+2020-03-17,Rockland,New York,36087,22,2
+2020-03-17,Saratoga,New York,36091,9,0
+2020-03-17,Schenectady,New York,36093,5,0
+2020-03-17,Suffolk,New York,36103,84,3
+2020-03-17,Sullivan,New York,36105,1,0
+2020-03-17,Tioga,New York,36107,1,0
+2020-03-17,Tompkins,New York,36109,1,0
+2020-03-17,Ulster,New York,36111,8,0
+2020-03-17,Westchester,New York,36119,379,0
+2020-03-17,Wyoming,New York,36121,1,0
+2020-03-17,Brunswick,North Carolina,37019,1,0
+2020-03-17,Cabarrus,North Carolina,37025,1,0
+2020-03-17,Chatham,North Carolina,37037,1,0
+2020-03-17,Craven,North Carolina,37049,1,0
+2020-03-17,Durham,North Carolina,37063,1,0
+2020-03-17,Forsyth,North Carolina,37067,2,0
+2020-03-17,Harnett,North Carolina,37085,3,0
+2020-03-17,Iredell,North Carolina,37097,1,0
+2020-03-17,Johnston,North Carolina,37101,2,0
+2020-03-17,Mecklenburg,North Carolina,37119,7,0
+2020-03-17,Onslow,North Carolina,37133,1,0
+2020-03-17,Sampson,North Carolina,37163,1,0
+2020-03-17,Wake,North Carolina,37183,17,0
+2020-03-17,Watauga,North Carolina,37189,1,0
+2020-03-17,Wayne,North Carolina,37191,1,0
+2020-03-17,Wilson,North Carolina,37195,1,0
+2020-03-17,Burleigh,North Dakota,38015,2,0
+2020-03-17,Cass,North Dakota,38017,1,0
+2020-03-17,Ward,North Dakota,38101,2,0
+2020-03-17,Belmont,Ohio,39013,2,0
+2020-03-17,Butler,Ohio,39017,6,0
+2020-03-17,Coshocton,Ohio,39031,2,0
+2020-03-17,Cuyahoga,Ohio,39035,31,0
+2020-03-17,Darke,Ohio,39037,1,0
+2020-03-17,Franklin,Ohio,39049,4,0
+2020-03-17,Geauga,Ohio,39055,1,0
+2020-03-17,Lake,Ohio,39085,1,0
+2020-03-17,Lorain,Ohio,39093,4,0
+2020-03-17,Lucas,Ohio,39095,1,0
+2020-03-17,Mahoning,Ohio,39099,1,0
+2020-03-17,Medina,Ohio,39103,3,0
+2020-03-17,Stark,Ohio,39151,3,0
+2020-03-17,Summit,Ohio,39153,4,0
+2020-03-17,Trumbull,Ohio,39155,2,0
+2020-03-17,Tuscarawas,Ohio,39157,1,0
+2020-03-17,Canadian,Oklahoma,40017,2,0
+2020-03-17,Cleveland,Oklahoma,40027,1,0
+2020-03-17,Jackson,Oklahoma,40065,1,0
+2020-03-17,Kay,Oklahoma,40071,2,0
+2020-03-17,Oklahoma,Oklahoma,40109,6,0
+2020-03-17,Pawnee,Oklahoma,40117,1,0
+2020-03-17,Payne,Oklahoma,40119,1,0
+2020-03-17,Tulsa,Oklahoma,40143,4,0
+2020-03-17,Benton,Oregon,41003,1,0
+2020-03-17,Clackamas,Oregon,41005,6,0
+2020-03-17,Deschutes,Oregon,41017,6,0
+2020-03-17,Douglas,Oregon,41019,1,0
+2020-03-17,Jackson,Oregon,41029,2,0
+2020-03-17,Klamath,Oregon,41035,1,0
+2020-03-17,Lane,Oregon,41039,2,1
+2020-03-17,Linn,Oregon,41043,15,0
+2020-03-17,Marion,Oregon,41047,4,0
+2020-03-17,Multnomah,Oregon,41051,3,1
+2020-03-17,Polk,Oregon,41053,1,0
+2020-03-17,Umatilla,Oregon,41059,2,0
+2020-03-17,Washington,Oregon,41067,21,0
+2020-03-17,Yamhill,Oregon,41071,1,0
+2020-03-17,Allegheny,Pennsylvania,42003,10,0
+2020-03-17,Beaver,Pennsylvania,42007,1,0
+2020-03-17,Bucks,Pennsylvania,42017,9,0
+2020-03-17,Chester,Pennsylvania,42029,4,0
+2020-03-17,Cumberland,Pennsylvania,42041,10,0
+2020-03-17,Delaware,Pennsylvania,42045,9,0
+2020-03-17,Lehigh,Pennsylvania,42077,1,0
+2020-03-17,Luzerne,Pennsylvania,42079,1,0
+2020-03-17,Monroe,Pennsylvania,42089,9,0
+2020-03-17,Montgomery,Pennsylvania,42091,32,0
+2020-03-17,Northampton,Pennsylvania,42095,1,0
+2020-03-17,Philadelphia,Pennsylvania,42101,10,0
+2020-03-17,Pike,Pennsylvania,42103,1,0
+2020-03-17,Washington,Pennsylvania,42125,2,0
+2020-03-17,Wayne,Pennsylvania,42127,1,0
+2020-03-17,Unknown,Puerto Rico,,5,0
+2020-03-17,Unknown,Rhode Island,,23,0
+2020-03-17,Anderson,South Carolina,45007,2,0
+2020-03-17,Beaufort,South Carolina,45013,4,0
+2020-03-17,Calhoun,South Carolina,45017,1,0
+2020-03-17,Charleston,South Carolina,45019,3,0
+2020-03-17,Fairfield,South Carolina,45039,1,0
+2020-03-17,Greenville,South Carolina,45045,2,0
+2020-03-17,Horry,South Carolina,45051,4,0
+2020-03-17,Kershaw,South Carolina,45055,22,0
+2020-03-17,Lancaster,South Carolina,45057,2,0
+2020-03-17,Lexington,South Carolina,45063,3,1
+2020-03-17,Richland,South Carolina,45079,1,0
+2020-03-17,Spartanburg,South Carolina,45083,1,0
+2020-03-17,York,South Carolina,45091,1,0
+2020-03-17,Beadle,South Dakota,46005,1,0
+2020-03-17,Bon Homme,South Dakota,46009,1,0
+2020-03-17,Charles Mix,South Dakota,46023,1,0
+2020-03-17,Davison,South Dakota,46035,2,1
+2020-03-17,McCook,South Dakota,46087,1,0
+2020-03-17,Minnehaha,South Dakota,46099,5,0
+2020-03-17,Campbell,Tennessee,47013,1,0
+2020-03-17,Davidson,Tennessee,47037,42,0
+2020-03-17,Hamilton,Tennessee,47065,1,0
+2020-03-17,Jefferson,Tennessee,47089,1,0
+2020-03-17,Knox,Tennessee,47093,2,0
+2020-03-17,Rutherford,Tennessee,47149,1,0
+2020-03-17,Sevier,Tennessee,47155,1,0
+2020-03-17,Shelby,Tennessee,47157,2,0
+2020-03-17,Sullivan,Tennessee,47163,1,0
+2020-03-17,Williamson,Tennessee,47187,21,0
+2020-03-17,Bell,Texas,48027,1,0
+2020-03-17,Bexar,Texas,48029,13,0
+2020-03-17,Bowie,Texas,48037,1,0
+2020-03-17,Brazoria,Texas,48039,2,0
+2020-03-17,Brazos,Texas,48041,1,0
+2020-03-17,Collin,Texas,48085,8,0
+2020-03-17,Dallas,Texas,48113,23,0
+2020-03-17,Denton,Texas,48121,1,0
+2020-03-17,El Paso,Texas,48141,2,0
+2020-03-17,Ellis,Texas,48139,2,0
+2020-03-17,Fort Bend,Texas,48157,10,0
+2020-03-17,Galveston,Texas,48167,1,0
+2020-03-17,Gregg,Texas,48183,1,0
+2020-03-17,Harris,Texas,48201,16,0
+2020-03-17,Hays,Texas,48209,1,0
+2020-03-17,Lubbock,Texas,48303,2,0
+2020-03-17,Matagorda,Texas,48321,2,1
+2020-03-17,Montgomery,Texas,48339,3,0
+2020-03-17,Smith,Texas,48423,4,0
+2020-03-17,Tarrant,Texas,48439,6,0
+2020-03-17,Travis,Texas,48453,6,0
+2020-03-17,Davis,Utah,49011,4,0
+2020-03-17,Salt Lake,Utah,49035,23,0
+2020-03-17,Summit,Utah,49043,15,0
+2020-03-17,Tooele,Utah,49045,1,0
+2020-03-17,Utah,Utah,49049,1,0
+2020-03-17,Wasatch,Utah,49051,2,0
+2020-03-17,Washington,Utah,49053,1,0
+2020-03-17,Weber,Utah,49057,4,0
+2020-03-17,Bennington,Vermont,50003,3,0
+2020-03-17,Chittenden,Vermont,50007,6,0
+2020-03-17,Orange,Vermont,50017,1,0
+2020-03-17,Washington,Vermont,50023,1,0
+2020-03-17,Windsor,Vermont,50027,3,0
+2020-03-17,Unknown,Virgin Islands,,2,0
+2020-03-17,Alexandria city,Virginia,51510,2,0
+2020-03-17,Arlington,Virginia,51013,13,0
+2020-03-17,Charlottesville city,Virginia,51540,1,0
+2020-03-17,Chesterfield,Virginia,51041,4,0
+2020-03-17,Fairfax,Virginia,51059,12,0
+2020-03-17,Goochland,Virginia,51075,1,0
+2020-03-17,Hanover,Virginia,51085,1,0
+2020-03-17,Harrisonburg city,Virginia,51660,1,0
+2020-03-17,Henrico,Virginia,51087,2,0
+2020-03-17,James City,Virginia,51095,12,2
+2020-03-17,Loudoun,Virginia,51107,5,0
+2020-03-17,Prince Edward,Virginia,51147,1,0
+2020-03-17,Prince William,Virginia,51153,4,0
+2020-03-17,Spotsylvania,Virginia,51177,1,0
+2020-03-17,Stafford,Virginia,51179,1,0
+2020-03-17,Virginia Beach city,Virginia,51810,4,0
+2020-03-17,Williamsburg city,Virginia,51830,1,0
+2020-03-17,York,Virginia,51199,1,0
+2020-03-17,Chelan,Washington,53007,3,1
+2020-03-17,Clark,Washington,53011,4,2
+2020-03-17,Columbia,Washington,53013,1,0
+2020-03-17,Franklin,Washington,53021,1,0
+2020-03-17,Grant,Washington,53025,6,0
+2020-03-17,Grays Harbor,Washington,53027,1,0
+2020-03-17,Island,Washington,53029,14,0
+2020-03-17,Jefferson,Washington,53031,4,0
+2020-03-17,King,Washington,53033,518,47
+2020-03-17,Kitsap,Washington,53035,7,0
+2020-03-17,Kittitas,Washington,53037,3,0
+2020-03-17,Klickitat,Washington,53039,1,0
+2020-03-17,Lewis,Washington,53041,1,0
+2020-03-17,Lincoln,Washington,53043,1,0
+2020-03-17,Mason,Washington,53045,1,0
+2020-03-17,Pierce,Washington,53053,44,0
+2020-03-17,Skagit,Washington,53057,9,0
+2020-03-17,Snohomish,Washington,53061,265,4
+2020-03-17,Spokane,Washington,53063,7,0
+2020-03-17,Thurston,Washington,53067,5,0
+2020-03-17,Walla Walla,Washington,53071,1,0
+2020-03-17,Whatcom,Washington,53073,6,0
+2020-03-17,Yakima,Washington,53077,5,0
+2020-03-17,Jefferson,West Virginia,54037,1,0
+2020-03-17,Dane,Wisconsin,55025,19,0
+2020-03-17,Fond du Lac,Wisconsin,55039,11,0
+2020-03-17,Kenosha,Wisconsin,55059,4,0
+2020-03-17,Milwaukee,Wisconsin,55079,24,0
+2020-03-17,Outagamie,Wisconsin,55087,1,0
+2020-03-17,Pierce,Wisconsin,55093,1,0
+2020-03-17,Racine,Wisconsin,55101,1,0
+2020-03-17,Sheboygan,Wisconsin,55117,3,0
+2020-03-17,Waukesha,Wisconsin,55133,4,0
+2020-03-17,Winnebago,Wisconsin,55139,3,0
+2020-03-17,Wood,Wisconsin,55141,1,0
+2020-03-17,Fremont,Wyoming,56013,8,0
+2020-03-17,Laramie,Wyoming,56021,2,0
+2020-03-17,Park,Wyoming,56029,1,0
+2020-03-17,Sheridan,Wyoming,56033,4,0
