@@ -3,6 +3,7 @@ import json
 import urllib
 import os
 import twint
+import csv
 from geopy.geocoders import Nominatim
 import datetime
 
@@ -80,9 +81,18 @@ def process(file_name):
     Takes the file, scrape twitter for trigger words, outputs the results to
     another compiled csv
     """
-    search_twitter(arg="j", input_date="2020-07-10", place="Virginia")
+    # list of words to search twitter
+    trigger_list = ["#NoMasks", "#BurnYourMask", "#IWillNotComply",
+                    "#OpenAmerica", "#OpenSchools", "#WearAMask", "#WearADamnMask"]
+    # reading csv
+    with open(os.path.join("Data/States", file_name), newline='') as csvfile:
+        reader = csv.reader(csvfile, delimiter=',')
+        for row in reader:
+            print(row)
+        search_twitter(arg="j", input_date="2020-07-10", place="Virginia")
 
 
 list = os.listdir("Data/States")
 for file in list:
+    print(os.path.join("Data/States", file))
     process(file)
