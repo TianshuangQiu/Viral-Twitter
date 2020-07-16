@@ -1,2 +1,0 @@
-twint
-geopy
