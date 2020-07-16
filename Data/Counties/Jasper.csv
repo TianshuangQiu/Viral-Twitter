@@ -1,0 +1,873 @@
+2020-03-21,Jasper,Missouri,29097,1,0
+2020-03-21,Jasper,South Carolina,45053,1,0
+2020-03-22,Jasper,Missouri,29097,1,0
+2020-03-22,Jasper,South Carolina,45053,1,0
+2020-03-23,Jasper,Missouri,29097,1,0
+2020-03-23,Jasper,South Carolina,45053,1,0
+2020-03-24,Jasper,Georgia,13159,1,0
+2020-03-24,Jasper,Iowa,19099,1,0
+2020-03-24,Jasper,Missouri,29097,1,0
+2020-03-24,Jasper,South Carolina,45053,2,0
+2020-03-25,Jasper,Georgia,13159,2,0
+2020-03-25,Jasper,Indiana,18073,1,0
+2020-03-25,Jasper,Iowa,19099,1,0
+2020-03-25,Jasper,Missouri,29097,2,0
+2020-03-25,Jasper,South Carolina,45053,2,0
+2020-03-26,Jasper,Georgia,13159,2,0
+2020-03-26,Jasper,Indiana,18073,3,1
+2020-03-26,Jasper,Iowa,19099,2,0
+2020-03-26,Jasper,Missouri,29097,2,0
+2020-03-26,Jasper,South Carolina,45053,3,0
+2020-03-27,Jasper,Georgia,13159,2,0
+2020-03-27,Jasper,Indiana,18073,4,1
+2020-03-27,Jasper,Iowa,19099,2,0
+2020-03-27,Jasper,Missouri,29097,2,0
+2020-03-27,Jasper,South Carolina,45053,3,0
+2020-03-28,Jasper,Georgia,13159,2,0
+2020-03-28,Jasper,Indiana,18073,5,1
+2020-03-28,Jasper,Iowa,19099,3,0
+2020-03-28,Jasper,Missouri,29097,2,0
+2020-03-28,Jasper,South Carolina,45053,3,0
+2020-03-29,Jasper,Georgia,13159,2,0
+2020-03-29,Jasper,Indiana,18073,6,1
+2020-03-29,Jasper,Iowa,19099,4,0
+2020-03-29,Jasper,Missouri,29097,2,0
+2020-03-29,Jasper,South Carolina,45053,3,0
+2020-03-30,Jasper,Georgia,13159,2,0
+2020-03-30,Jasper,Indiana,18073,6,1
+2020-03-30,Jasper,Iowa,19099,5,0
+2020-03-30,Jasper,Missouri,29097,4,0
+2020-03-30,Jasper,South Carolina,45053,3,0
+2020-03-31,Jasper,Georgia,13159,2,0
+2020-03-31,Jasper,Indiana,18073,8,1
+2020-03-31,Jasper,Iowa,19099,6,0
+2020-03-31,Jasper,Missouri,29097,4,0
+2020-03-31,Jasper,South Carolina,45053,3,0
+2020-04-01,Jasper,Georgia,13159,2,0
+2020-04-01,Jasper,Indiana,18073,9,1
+2020-04-01,Jasper,Iowa,19099,7,0
+2020-04-01,Jasper,Mississippi,28061,1,0
+2020-04-01,Jasper,Missouri,29097,5,0
+2020-04-01,Jasper,South Carolina,45053,4,0
+2020-04-02,Jasper,Georgia,13159,2,0
+2020-04-02,Jasper,Indiana,18073,11,1
+2020-04-02,Jasper,Iowa,19099,7,0
+2020-04-02,Jasper,Mississippi,28061,2,0
+2020-04-02,Jasper,Missouri,29097,5,0
+2020-04-02,Jasper,South Carolina,45053,7,0
+2020-04-02,Jasper,Texas,48241,2,0
+2020-04-03,Jasper,Georgia,13159,2,0
+2020-04-03,Jasper,Indiana,18073,13,1
+2020-04-03,Jasper,Iowa,19099,8,0
+2020-04-03,Jasper,Mississippi,28061,3,0
+2020-04-03,Jasper,Missouri,29097,8,0
+2020-04-03,Jasper,South Carolina,45053,8,0
+2020-04-03,Jasper,Texas,48241,2,0
+2020-04-04,Jasper,Georgia,13159,4,0
+2020-04-04,Jasper,Illinois,17079,2,0
+2020-04-04,Jasper,Indiana,18073,15,1
+2020-04-04,Jasper,Iowa,19099,8,0
+2020-04-04,Jasper,Mississippi,28061,3,0
+2020-04-04,Jasper,Missouri,29097,8,0
+2020-04-04,Jasper,South Carolina,45053,9,0
+2020-04-04,Jasper,Texas,48241,2,0
+2020-04-05,Jasper,Georgia,13159,3,0
+2020-04-05,Jasper,Illinois,17079,3,0
+2020-04-05,Jasper,Indiana,18073,12,1
+2020-04-05,Jasper,Iowa,19099,8,0
+2020-04-05,Jasper,Mississippi,28061,3,0
+2020-04-05,Jasper,Missouri,29097,8,0
+2020-04-05,Jasper,South Carolina,45053,9,0
+2020-04-05,Jasper,Texas,48241,2,0
+2020-04-06,Jasper,Georgia,13159,4,0
+2020-04-06,Jasper,Illinois,17079,4,0
+2020-04-06,Jasper,Indiana,18073,15,1
+2020-04-06,Jasper,Iowa,19099,8,0
+2020-04-06,Jasper,Mississippi,28061,3,0
+2020-04-06,Jasper,Missouri,29097,9,0
+2020-04-06,Jasper,South Carolina,45053,11,0
+2020-04-06,Jasper,Texas,48241,3,0
+2020-04-07,Jasper,Georgia,13159,6,0
+2020-04-07,Jasper,Illinois,17079,3,0
+2020-04-07,Jasper,Indiana,18073,15,1
+2020-04-07,Jasper,Iowa,19099,8,0
+2020-04-07,Jasper,Mississippi,28061,4,0
+2020-04-07,Jasper,Missouri,29097,9,0
+2020-04-07,Jasper,South Carolina,45053,12,0
+2020-04-07,Jasper,Texas,48241,3,0
+2020-04-08,Jasper,Georgia,13159,5,0
+2020-04-08,Jasper,Illinois,17079,3,0
+2020-04-08,Jasper,Indiana,18073,14,1
+2020-04-08,Jasper,Iowa,19099,8,0
+2020-04-08,Jasper,Mississippi,28061,4,0
+2020-04-08,Jasper,Missouri,29097,10,0
+2020-04-08,Jasper,South Carolina,45053,12,0
+2020-04-08,Jasper,Texas,48241,3,0
+2020-04-09,Jasper,Georgia,13159,6,0
+2020-04-09,Jasper,Illinois,17079,3,0
+2020-04-09,Jasper,Indiana,18073,16,1
+2020-04-09,Jasper,Iowa,19099,9,0
+2020-04-09,Jasper,Mississippi,28061,10,0
+2020-04-09,Jasper,Missouri,29097,11,0
+2020-04-09,Jasper,South Carolina,45053,11,0
+2020-04-09,Jasper,Texas,48241,5,1
+2020-04-10,Jasper,Georgia,13159,6,0
+2020-04-10,Jasper,Illinois,17079,3,0
+2020-04-10,Jasper,Indiana,18073,15,1
+2020-04-10,Jasper,Iowa,19099,10,0
+2020-04-10,Jasper,Mississippi,28061,10,0
+2020-04-10,Jasper,Missouri,29097,13,0
+2020-04-10,Jasper,South Carolina,45053,11,0
+2020-04-10,Jasper,Texas,48241,6,1
+2020-04-11,Jasper,Georgia,13159,6,0
+2020-04-11,Jasper,Illinois,17079,3,0
+2020-04-11,Jasper,Indiana,18073,16,1
+2020-04-11,Jasper,Iowa,19099,10,0
+2020-04-11,Jasper,Mississippi,28061,12,0
+2020-04-11,Jasper,Missouri,29097,13,0
+2020-04-11,Jasper,South Carolina,45053,11,0
+2020-04-11,Jasper,Texas,48241,7,1
+2020-04-12,Jasper,Georgia,13159,8,0
+2020-04-12,Jasper,Illinois,17079,3,0
+2020-04-12,Jasper,Indiana,18073,17,1
+2020-04-12,Jasper,Iowa,19099,11,0
+2020-04-12,Jasper,Mississippi,28061,14,0
+2020-04-12,Jasper,Missouri,29097,13,0
+2020-04-12,Jasper,South Carolina,45053,11,0
+2020-04-12,Jasper,Texas,48241,7,1
+2020-04-13,Jasper,Georgia,13159,9,0
+2020-04-13,Jasper,Illinois,17079,3,1
+2020-04-13,Jasper,Indiana,18073,18,1
+2020-04-13,Jasper,Iowa,19099,12,0
+2020-04-13,Jasper,Mississippi,28061,14,0
+2020-04-13,Jasper,Missouri,29097,21,0
+2020-04-13,Jasper,South Carolina,45053,12,0
+2020-04-13,Jasper,Texas,48241,7,1
+2020-04-14,Jasper,Georgia,13159,9,0
+2020-04-14,Jasper,Illinois,17079,3,1
+2020-04-14,Jasper,Indiana,18073,18,1
+2020-04-14,Jasper,Iowa,19099,15,0
+2020-04-14,Jasper,Mississippi,28061,14,0
+2020-04-14,Jasper,Missouri,29097,21,0
+2020-04-14,Jasper,South Carolina,45053,14,0
+2020-04-14,Jasper,Texas,48241,7,1
+2020-04-15,Jasper,Georgia,13159,10,0
+2020-04-15,Jasper,Illinois,17079,3,1
+2020-04-15,Jasper,Indiana,18073,19,1
+2020-04-15,Jasper,Iowa,19099,17,0
+2020-04-15,Jasper,Mississippi,28061,15,0
+2020-04-15,Jasper,Missouri,29097,22,0
+2020-04-15,Jasper,South Carolina,45053,14,0
+2020-04-15,Jasper,Texas,48241,7,1
+2020-04-16,Jasper,Georgia,13159,10,0
+2020-04-16,Jasper,Illinois,17079,3,1
+2020-04-16,Jasper,Indiana,18073,19,1
+2020-04-16,Jasper,Iowa,19099,23,0
+2020-04-16,Jasper,Mississippi,28061,19,0
+2020-04-16,Jasper,Missouri,29097,22,0
+2020-04-16,Jasper,South Carolina,45053,14,0
+2020-04-16,Jasper,Texas,48241,7,1
+2020-04-17,Jasper,Georgia,13159,14,0
+2020-04-17,Jasper,Illinois,17079,4,1
+2020-04-17,Jasper,Indiana,18073,22,1
+2020-04-17,Jasper,Iowa,19099,28,0
+2020-04-17,Jasper,Mississippi,28061,20,1
+2020-04-17,Jasper,Missouri,29097,22,0
+2020-04-17,Jasper,South Carolina,45053,15,0
+2020-04-17,Jasper,Texas,48241,7,1
+2020-04-18,Jasper,Georgia,13159,15,0
+2020-04-18,Jasper,Illinois,17079,7,1
+2020-04-18,Jasper,Indiana,18073,21,1
+2020-04-18,Jasper,Iowa,19099,33,0
+2020-04-18,Jasper,Mississippi,28061,22,1
+2020-04-18,Jasper,Missouri,29097,22,0
+2020-04-18,Jasper,South Carolina,45053,16,0
+2020-04-18,Jasper,Texas,48241,7,1
+2020-04-19,Jasper,Georgia,13159,17,0
+2020-04-19,Jasper,Illinois,17079,20,1
+2020-04-19,Jasper,Indiana,18073,22,1
+2020-04-19,Jasper,Iowa,19099,36,0
+2020-04-19,Jasper,Mississippi,28061,23,1
+2020-04-19,Jasper,Missouri,29097,22,0
+2020-04-19,Jasper,South Carolina,45053,15,1
+2020-04-19,Jasper,Texas,48241,7,1
+2020-04-20,Jasper,Georgia,13159,17,0
+2020-04-20,Jasper,Illinois,17079,20,2
+2020-04-20,Jasper,Indiana,18073,25,1
+2020-04-20,Jasper,Iowa,19099,42,0
+2020-04-20,Jasper,Mississippi,28061,23,1
+2020-04-20,Jasper,Missouri,29097,22,0
+2020-04-20,Jasper,South Carolina,45053,15,1
+2020-04-20,Jasper,Texas,48241,7,1
+2020-04-21,Jasper,Georgia,13159,18,0
+2020-04-21,Jasper,Illinois,17079,36,2
+2020-04-21,Jasper,Indiana,18073,26,1
+2020-04-21,Jasper,Iowa,19099,53,0
+2020-04-21,Jasper,Mississippi,28061,23,1
+2020-04-21,Jasper,Missouri,29097,22,0
+2020-04-21,Jasper,South Carolina,45053,15,1
+2020-04-21,Jasper,Texas,48241,10,1
+2020-04-22,Jasper,Georgia,13159,18,0
+2020-04-22,Jasper,Illinois,17079,36,2
+2020-04-22,Jasper,Indiana,18073,24,1
+2020-04-22,Jasper,Iowa,19099,53,0
+2020-04-22,Jasper,Mississippi,28061,24,1
+2020-04-22,Jasper,Missouri,29097,22,0
+2020-04-22,Jasper,South Carolina,45053,15,1
+2020-04-22,Jasper,Texas,48241,10,1
+2020-04-23,Jasper,Georgia,13159,19,0
+2020-04-23,Jasper,Illinois,17079,40,2
+2020-04-23,Jasper,Indiana,18073,28,1
+2020-04-23,Jasper,Iowa,19099,55,0
+2020-04-23,Jasper,Mississippi,28061,27,1
+2020-04-23,Jasper,Missouri,29097,22,0
+2020-04-23,Jasper,South Carolina,45053,15,1
+2020-04-23,Jasper,Texas,48241,10,1
+2020-04-24,Jasper,Georgia,13159,20,0
+2020-04-24,Jasper,Illinois,17079,41,2
+2020-04-24,Jasper,Indiana,18073,35,1
+2020-04-24,Jasper,Iowa,19099,73,0
+2020-04-24,Jasper,Mississippi,28061,29,1
+2020-04-24,Jasper,Missouri,29097,22,0
+2020-04-24,Jasper,South Carolina,45053,17,1
+2020-04-24,Jasper,Texas,48241,10,1
+2020-04-25,Jasper,Georgia,13159,20,0
+2020-04-25,Jasper,Illinois,17079,42,2
+2020-04-25,Jasper,Indiana,18073,33,1
+2020-04-25,Jasper,Iowa,19099,79,0
+2020-04-25,Jasper,Mississippi,28061,32,1
+2020-04-25,Jasper,Missouri,29097,22,0
+2020-04-25,Jasper,South Carolina,45053,17,1
+2020-04-25,Jasper,Texas,48241,10,1
+2020-04-26,Jasper,Georgia,13159,20,0
+2020-04-26,Jasper,Illinois,17079,41,2
+2020-04-26,Jasper,Indiana,18073,29,1
+2020-04-26,Jasper,Iowa,19099,83,0
+2020-04-26,Jasper,Mississippi,28061,31,1
+2020-04-26,Jasper,Missouri,29097,23,0
+2020-04-26,Jasper,South Carolina,45053,19,1
+2020-04-26,Jasper,Texas,48241,12,1
+2020-04-27,Jasper,Georgia,13159,20,0
+2020-04-27,Jasper,Illinois,17079,42,3
+2020-04-27,Jasper,Indiana,18073,30,1
+2020-04-27,Jasper,Iowa,19099,91,0
+2020-04-27,Jasper,Mississippi,28061,32,1
+2020-04-27,Jasper,Missouri,29097,23,0
+2020-04-27,Jasper,South Carolina,45053,19,1
+2020-04-27,Jasper,Texas,48241,12,1
+2020-04-28,Jasper,Georgia,13159,22,0
+2020-04-28,Jasper,Illinois,17079,44,3
+2020-04-28,Jasper,Indiana,18073,32,1
+2020-04-28,Jasper,Iowa,19099,109,0
+2020-04-28,Jasper,Mississippi,28061,33,1
+2020-04-28,Jasper,Missouri,29097,23,0
+2020-04-28,Jasper,South Carolina,45053,19,1
+2020-04-28,Jasper,Texas,48241,12,1
+2020-04-29,Jasper,Georgia,13159,22,0
+2020-04-29,Jasper,Illinois,17079,44,4
+2020-04-29,Jasper,Indiana,18073,32,1
+2020-04-29,Jasper,Iowa,19099,130,1
+2020-04-29,Jasper,Mississippi,28061,34,1
+2020-04-29,Jasper,Missouri,29097,23,0
+2020-04-29,Jasper,South Carolina,45053,19,1
+2020-04-29,Jasper,Texas,48241,12,1
+2020-04-30,Jasper,Georgia,13159,21,0
+2020-04-30,Jasper,Illinois,17079,44,5
+2020-04-30,Jasper,Indiana,18073,34,1
+2020-04-30,Jasper,Iowa,19099,130,1
+2020-04-30,Jasper,Mississippi,28061,42,1
+2020-04-30,Jasper,Missouri,29097,24,0
+2020-04-30,Jasper,South Carolina,45053,19,1
+2020-04-30,Jasper,Texas,48241,16,1
+2020-05-01,Jasper,Georgia,13159,22,0
+2020-05-01,Jasper,Illinois,17079,44,5
+2020-05-01,Jasper,Indiana,18073,34,1
+2020-05-01,Jasper,Iowa,19099,155,1
+2020-05-01,Jasper,Mississippi,28061,48,1
+2020-05-01,Jasper,Missouri,29097,24,0
+2020-05-01,Jasper,South Carolina,45053,21,1
+2020-05-01,Jasper,Texas,48241,16,1
+2020-05-02,Jasper,Georgia,13159,23,0
+2020-05-02,Jasper,Illinois,17079,45,5
+2020-05-02,Jasper,Indiana,18073,34,1
+2020-05-02,Jasper,Iowa,19099,175,1
+2020-05-02,Jasper,Mississippi,28061,54,1
+2020-05-02,Jasper,Missouri,29097,24,0
+2020-05-02,Jasper,South Carolina,45053,21,1
+2020-05-02,Jasper,Texas,48241,18,1
+2020-05-03,Jasper,Georgia,13159,24,0
+2020-05-03,Jasper,Illinois,17079,45,5
+2020-05-03,Jasper,Indiana,18073,37,1
+2020-05-03,Jasper,Iowa,19099,193,1
+2020-05-03,Jasper,Mississippi,28061,55,1
+2020-05-03,Jasper,Missouri,29097,24,0
+2020-05-03,Jasper,South Carolina,45053,21,1
+2020-05-03,Jasper,Texas,48241,18,1
+2020-05-04,Jasper,Georgia,13159,25,0
+2020-05-04,Jasper,Illinois,17079,48,5
+2020-05-04,Jasper,Indiana,18073,37,1
+2020-05-04,Jasper,Iowa,19099,210,2
+2020-05-04,Jasper,Mississippi,28061,62,1
+2020-05-04,Jasper,Missouri,29097,24,0
+2020-05-04,Jasper,South Carolina,45053,21,1
+2020-05-04,Jasper,Texas,48241,18,1
+2020-05-05,Jasper,Georgia,13159,25,0
+2020-05-05,Jasper,Illinois,17079,48,5
+2020-05-05,Jasper,Indiana,18073,38,1
+2020-05-05,Jasper,Iowa,19099,219,3
+2020-05-05,Jasper,Mississippi,28061,64,2
+2020-05-05,Jasper,Missouri,29097,24,0
+2020-05-05,Jasper,South Carolina,45053,21,1
+2020-05-05,Jasper,Texas,48241,18,1
+2020-05-06,Jasper,Georgia,13159,26,0
+2020-05-06,Jasper,Illinois,17079,46,5
+2020-05-06,Jasper,Indiana,18073,38,1
+2020-05-06,Jasper,Iowa,19099,220,5
+2020-05-06,Jasper,Mississippi,28061,66,2
+2020-05-06,Jasper,Missouri,29097,24,0
+2020-05-06,Jasper,South Carolina,45053,21,1
+2020-05-06,Jasper,Texas,48241,18,1
+2020-05-07,Jasper,Georgia,13159,26,0
+2020-05-07,Jasper,Illinois,17079,46,5
+2020-05-07,Jasper,Indiana,18073,38,1
+2020-05-07,Jasper,Iowa,19099,229,5
+2020-05-07,Jasper,Mississippi,28061,76,2
+2020-05-07,Jasper,Missouri,29097,24,0
+2020-05-07,Jasper,South Carolina,45053,21,1
+2020-05-07,Jasper,Texas,48241,18,1
+2020-05-08,Jasper,Georgia,13159,26,0
+2020-05-08,Jasper,Illinois,17079,46,6
+2020-05-08,Jasper,Indiana,18073,37,1
+2020-05-08,Jasper,Iowa,19099,235,6
+2020-05-08,Jasper,Mississippi,28061,84,2
+2020-05-08,Jasper,Missouri,29097,24,0
+2020-05-08,Jasper,South Carolina,45053,21,1
+2020-05-08,Jasper,Texas,48241,19,1
+2020-05-09,Jasper,Georgia,13159,25,0
+2020-05-09,Jasper,Illinois,17079,46,6
+2020-05-09,Jasper,Indiana,18073,38,1
+2020-05-09,Jasper,Iowa,19099,238,8
+2020-05-09,Jasper,Mississippi,28061,86,2
+2020-05-09,Jasper,Missouri,29097,26,0
+2020-05-09,Jasper,South Carolina,45053,23,1
+2020-05-09,Jasper,Texas,48241,19,1
+2020-05-10,Jasper,Georgia,13159,25,0
+2020-05-10,Jasper,Illinois,17079,46,6
+2020-05-10,Jasper,Indiana,18073,40,1
+2020-05-10,Jasper,Iowa,19099,238,8
+2020-05-10,Jasper,Mississippi,28061,86,2
+2020-05-10,Jasper,Missouri,29097,26,0
+2020-05-10,Jasper,South Carolina,45053,25,1
+2020-05-10,Jasper,Texas,48241,19,1
+2020-05-11,Jasper,Georgia,13159,25,0
+2020-05-11,Jasper,Illinois,17079,46,6
+2020-05-11,Jasper,Indiana,18073,41,1
+2020-05-11,Jasper,Iowa,19099,238,8
+2020-05-11,Jasper,Mississippi,28061,89,2
+2020-05-11,Jasper,Missouri,29097,26,0
+2020-05-11,Jasper,South Carolina,45053,25,1
+2020-05-11,Jasper,Texas,48241,19,1
+2020-05-12,Jasper,Georgia,13159,26,0
+2020-05-12,Jasper,Illinois,17079,46,6
+2020-05-12,Jasper,Indiana,18073,40,1
+2020-05-12,Jasper,Iowa,19099,239,8
+2020-05-12,Jasper,Mississippi,28061,92,2
+2020-05-12,Jasper,Missouri,29097,27,0
+2020-05-12,Jasper,South Carolina,45053,25,1
+2020-05-12,Jasper,Texas,48241,28,2
+2020-05-13,Jasper,Georgia,13159,26,0
+2020-05-13,Jasper,Illinois,17079,45,7
+2020-05-13,Jasper,Indiana,18073,41,1
+2020-05-13,Jasper,Iowa,19099,239,10
+2020-05-13,Jasper,Mississippi,28061,97,3
+2020-05-13,Jasper,Missouri,29097,27,0
+2020-05-13,Jasper,South Carolina,45053,25,1
+2020-05-13,Jasper,Texas,48241,32,2
+2020-05-14,Jasper,Georgia,13159,26,0
+2020-05-14,Jasper,Illinois,17079,45,7
+2020-05-14,Jasper,Indiana,18073,41,1
+2020-05-14,Jasper,Iowa,19099,240,11
+2020-05-14,Jasper,Mississippi,28061,104,3
+2020-05-14,Jasper,Missouri,29097,27,0
+2020-05-14,Jasper,South Carolina,45053,25,1
+2020-05-14,Jasper,Texas,48241,33,2
+2020-05-15,Jasper,Georgia,13159,26,0
+2020-05-15,Jasper,Illinois,17079,45,7
+2020-05-15,Jasper,Indiana,18073,43,1
+2020-05-15,Jasper,Iowa,19099,241,11
+2020-05-15,Jasper,Mississippi,28061,110,3
+2020-05-15,Jasper,Missouri,29097,27,0
+2020-05-15,Jasper,South Carolina,45053,25,1
+2020-05-15,Jasper,Texas,48241,33,2
+2020-05-16,Jasper,Georgia,13159,26,0
+2020-05-16,Jasper,Illinois,17079,46,8
+2020-05-16,Jasper,Indiana,18073,44,1
+2020-05-16,Jasper,Iowa,19099,242,12
+2020-05-16,Jasper,Mississippi,28061,110,3
+2020-05-16,Jasper,Missouri,29097,27,0
+2020-05-16,Jasper,South Carolina,45053,26,1
+2020-05-16,Jasper,Texas,48241,33,2
+2020-05-17,Jasper,Georgia,13159,26,0
+2020-05-17,Jasper,Illinois,17079,45,7
+2020-05-17,Jasper,Indiana,18073,44,1
+2020-05-17,Jasper,Iowa,19099,247,12
+2020-05-17,Jasper,Mississippi,28061,111,3
+2020-05-17,Jasper,Missouri,29097,27,0
+2020-05-17,Jasper,South Carolina,45053,26,1
+2020-05-17,Jasper,Texas,48241,33,2
+2020-05-18,Jasper,Georgia,13159,26,0
+2020-05-18,Jasper,Illinois,17079,45,7
+2020-05-18,Jasper,Indiana,18073,44,1
+2020-05-18,Jasper,Iowa,19099,249,13
+2020-05-18,Jasper,Mississippi,28061,114,3
+2020-05-18,Jasper,Missouri,29097,27,0
+2020-05-18,Jasper,South Carolina,45053,27,1
+2020-05-18,Jasper,Texas,48241,33,2
+2020-05-19,Jasper,Georgia,13159,26,0
+2020-05-19,Jasper,Illinois,17079,45,7
+2020-05-19,Jasper,Indiana,18073,43,1
+2020-05-19,Jasper,Iowa,19099,250,14
+2020-05-19,Jasper,Mississippi,28061,116,3
+2020-05-19,Jasper,Missouri,29097,27,0
+2020-05-19,Jasper,South Carolina,45053,27,1
+2020-05-19,Jasper,Texas,48241,33,2
+2020-05-20,Jasper,Georgia,13159,26,0
+2020-05-20,Jasper,Illinois,17079,45,7
+2020-05-20,Jasper,Indiana,18073,49,1
+2020-05-20,Jasper,Iowa,19099,251,14
+2020-05-20,Jasper,Mississippi,28061,123,3
+2020-05-20,Jasper,Missouri,29097,27,0
+2020-05-20,Jasper,South Carolina,45053,28,1
+2020-05-20,Jasper,Texas,48241,34,2
+2020-05-21,Jasper,Georgia,13159,26,1
+2020-05-21,Jasper,Illinois,17079,45,7
+2020-05-21,Jasper,Indiana,18073,49,1
+2020-05-21,Jasper,Iowa,19099,251,15
+2020-05-21,Jasper,Mississippi,28061,126,3
+2020-05-21,Jasper,Missouri,29097,28,0
+2020-05-21,Jasper,South Carolina,45053,28,1
+2020-05-21,Jasper,Texas,48241,34,2
+2020-05-22,Jasper,Georgia,13159,31,1
+2020-05-22,Jasper,Illinois,17079,45,7
+2020-05-22,Jasper,Indiana,18073,51,1
+2020-05-22,Jasper,Iowa,19099,250,15
+2020-05-22,Jasper,Mississippi,28061,131,3
+2020-05-22,Jasper,Missouri,29097,29,0
+2020-05-22,Jasper,South Carolina,45053,30,2
+2020-05-22,Jasper,Texas,48241,34,2
+2020-05-23,Jasper,Georgia,13159,31,1
+2020-05-23,Jasper,Illinois,17079,45,7
+2020-05-23,Jasper,Indiana,18073,53,1
+2020-05-23,Jasper,Iowa,19099,250,15
+2020-05-23,Jasper,Mississippi,28061,135,3
+2020-05-23,Jasper,Missouri,29097,29,0
+2020-05-23,Jasper,South Carolina,45053,36,2
+2020-05-23,Jasper,Texas,48241,34,2
+2020-05-24,Jasper,Georgia,13159,31,1
+2020-05-24,Jasper,Illinois,17079,45,7
+2020-05-24,Jasper,Indiana,18073,55,1
+2020-05-24,Jasper,Iowa,19099,256,16
+2020-05-24,Jasper,Mississippi,28061,139,3
+2020-05-24,Jasper,Missouri,29097,30,0
+2020-05-24,Jasper,South Carolina,45053,38,2
+2020-05-24,Jasper,Texas,48241,34,2
+2020-05-25,Jasper,Georgia,13159,31,1
+2020-05-25,Jasper,Illinois,17079,45,7
+2020-05-25,Jasper,Indiana,18073,57,1
+2020-05-25,Jasper,Iowa,19099,256,16
+2020-05-25,Jasper,Mississippi,28061,145,3
+2020-05-25,Jasper,Missouri,29097,30,0
+2020-05-25,Jasper,South Carolina,45053,38,2
+2020-05-25,Jasper,Texas,48241,34,2
+2020-05-26,Jasper,Georgia,13159,32,1
+2020-05-26,Jasper,Illinois,17079,45,7
+2020-05-26,Jasper,Indiana,18073,59,1
+2020-05-26,Jasper,Iowa,19099,257,16
+2020-05-26,Jasper,Mississippi,28061,146,3
+2020-05-26,Jasper,Missouri,29097,30,0
+2020-05-26,Jasper,South Carolina,45053,39,2
+2020-05-26,Jasper,Texas,48241,34,2
+2020-05-27,Jasper,Georgia,13159,32,1
+2020-05-27,Jasper,Illinois,17079,45,7
+2020-05-27,Jasper,Indiana,18073,63,1
+2020-05-27,Jasper,Iowa,19099,258,16
+2020-05-27,Jasper,Mississippi,28061,148,3
+2020-05-27,Jasper,Missouri,29097,30,0
+2020-05-27,Jasper,South Carolina,45053,39,2
+2020-05-27,Jasper,Texas,48241,34,2
+2020-05-28,Jasper,Georgia,13159,32,1
+2020-05-28,Jasper,Illinois,17079,45,7
+2020-05-28,Jasper,Indiana,18073,67,1
+2020-05-28,Jasper,Iowa,19099,260,16
+2020-05-28,Jasper,Mississippi,28061,152,4
+2020-05-28,Jasper,Missouri,29097,30,0
+2020-05-28,Jasper,South Carolina,45053,39,2
+2020-05-28,Jasper,Texas,48241,34,2
+2020-05-29,Jasper,Georgia,13159,33,1
+2020-05-29,Jasper,Illinois,17079,45,7
+2020-05-29,Jasper,Indiana,18073,66,1
+2020-05-29,Jasper,Iowa,19099,260,16
+2020-05-29,Jasper,Mississippi,28061,152,4
+2020-05-29,Jasper,Missouri,29097,32,0
+2020-05-29,Jasper,South Carolina,45053,39,2
+2020-05-29,Jasper,Texas,48241,34,2
+2020-05-30,Jasper,Georgia,13159,36,1
+2020-05-30,Jasper,Illinois,17079,45,7
+2020-05-30,Jasper,Indiana,18073,67,1
+2020-05-30,Jasper,Iowa,19099,261,16
+2020-05-30,Jasper,Mississippi,28061,157,4
+2020-05-30,Jasper,Missouri,29097,32,0
+2020-05-30,Jasper,South Carolina,45053,41,2
+2020-05-30,Jasper,Texas,48241,34,2
+2020-05-31,Jasper,Georgia,13159,36,1
+2020-05-31,Jasper,Illinois,17079,45,7
+2020-05-31,Jasper,Indiana,18073,68,1
+2020-05-31,Jasper,Iowa,19099,260,16
+2020-05-31,Jasper,Mississippi,28061,163,4
+2020-05-31,Jasper,Missouri,29097,32,0
+2020-05-31,Jasper,South Carolina,45053,42,2
+2020-05-31,Jasper,Texas,48241,34,2
+2020-06-01,Jasper,Georgia,13159,40,1
+2020-06-01,Jasper,Illinois,17079,45,7
+2020-06-01,Jasper,Indiana,18073,69,1
+2020-06-01,Jasper,Iowa,19099,260,17
+2020-06-01,Jasper,Mississippi,28061,163,4
+2020-06-01,Jasper,Missouri,29097,32,0
+2020-06-01,Jasper,South Carolina,45053,42,2
+2020-06-01,Jasper,Texas,48241,34,2
+2020-06-02,Jasper,Georgia,13159,39,1
+2020-06-02,Jasper,Illinois,17079,46,7
+2020-06-02,Jasper,Indiana,18073,69,1
+2020-06-02,Jasper,Iowa,19099,261,17
+2020-06-02,Jasper,Mississippi,28061,165,4
+2020-06-02,Jasper,Missouri,29097,35,0
+2020-06-02,Jasper,South Carolina,45053,43,2
+2020-06-02,Jasper,Texas,48241,34,2
+2020-06-03,Jasper,Georgia,13159,40,1
+2020-06-03,Jasper,Illinois,17079,46,7
+2020-06-03,Jasper,Indiana,18073,71,1
+2020-06-03,Jasper,Iowa,19099,263,17
+2020-06-03,Jasper,Mississippi,28061,166,4
+2020-06-03,Jasper,Missouri,29097,36,0
+2020-06-03,Jasper,South Carolina,45053,43,2
+2020-06-03,Jasper,Texas,48241,34,2
+2020-06-04,Jasper,Georgia,13159,45,1
+2020-06-04,Jasper,Illinois,17079,46,7
+2020-06-04,Jasper,Indiana,18073,74,1
+2020-06-04,Jasper,Iowa,19099,269,17
+2020-06-04,Jasper,Mississippi,28061,167,4
+2020-06-04,Jasper,Missouri,29097,39,0
+2020-06-04,Jasper,South Carolina,45053,43,2
+2020-06-04,Jasper,Texas,48241,34,2
+2020-06-05,Jasper,Georgia,13159,46,1
+2020-06-05,Jasper,Illinois,17079,46,7
+2020-06-05,Jasper,Indiana,18073,75,1
+2020-06-05,Jasper,Iowa,19099,269,17
+2020-06-05,Jasper,Mississippi,28061,168,4
+2020-06-05,Jasper,Missouri,29097,40,0
+2020-06-05,Jasper,South Carolina,45053,45,2
+2020-06-05,Jasper,Texas,48241,34,2
+2020-06-06,Jasper,Georgia,13159,47,1
+2020-06-06,Jasper,Illinois,17079,46,7
+2020-06-06,Jasper,Indiana,18073,76,1
+2020-06-06,Jasper,Iowa,19099,271,17
+2020-06-06,Jasper,Mississippi,28061,175,4
+2020-06-06,Jasper,Missouri,29097,45,0
+2020-06-06,Jasper,South Carolina,45053,46,2
+2020-06-06,Jasper,Texas,48241,34,2
+2020-06-07,Jasper,Georgia,13159,48,1
+2020-06-07,Jasper,Illinois,17079,46,7
+2020-06-07,Jasper,Indiana,18073,76,1
+2020-06-07,Jasper,Iowa,19099,274,17
+2020-06-07,Jasper,Mississippi,28061,179,4
+2020-06-07,Jasper,Missouri,29097,50,0
+2020-06-07,Jasper,South Carolina,45053,47,2
+2020-06-07,Jasper,Texas,48241,34,2
+2020-06-08,Jasper,Georgia,13159,49,1
+2020-06-08,Jasper,Illinois,17079,46,7
+2020-06-08,Jasper,Indiana,18073,77,1
+2020-06-08,Jasper,Iowa,19099,273,17
+2020-06-08,Jasper,Mississippi,28061,184,4
+2020-06-08,Jasper,Missouri,29097,58,0
+2020-06-08,Jasper,South Carolina,45053,48,2
+2020-06-08,Jasper,Texas,48241,34,2
+2020-06-09,Jasper,Georgia,13159,51,1
+2020-06-09,Jasper,Illinois,17079,46,7
+2020-06-09,Jasper,Indiana,18073,81,1
+2020-06-09,Jasper,Iowa,19099,275,17
+2020-06-09,Jasper,Mississippi,28061,185,4
+2020-06-09,Jasper,Missouri,29097,65,0
+2020-06-09,Jasper,South Carolina,45053,50,2
+2020-06-09,Jasper,Texas,48241,34,2
+2020-06-10,Jasper,Georgia,13159,51,1
+2020-06-10,Jasper,Illinois,17079,46,7
+2020-06-10,Jasper,Indiana,18073,83,1
+2020-06-10,Jasper,Iowa,19099,277,17
+2020-06-10,Jasper,Mississippi,28061,189,4
+2020-06-10,Jasper,Missouri,29097,73,0
+2020-06-10,Jasper,South Carolina,45053,50,2
+2020-06-10,Jasper,Texas,48241,34,2
+2020-06-11,Jasper,Georgia,13159,55,1
+2020-06-11,Jasper,Illinois,17079,46,7
+2020-06-11,Jasper,Indiana,18073,82,1
+2020-06-11,Jasper,Iowa,19099,278,17
+2020-06-11,Jasper,Mississippi,28061,189,4
+2020-06-11,Jasper,Missouri,29097,80,0
+2020-06-11,Jasper,South Carolina,45053,52,2
+2020-06-11,Jasper,Texas,48241,34,2
+2020-06-12,Jasper,Georgia,13159,56,1
+2020-06-12,Jasper,Illinois,17079,46,7
+2020-06-12,Jasper,Indiana,18073,82,1
+2020-06-12,Jasper,Iowa,19099,279,17
+2020-06-12,Jasper,Mississippi,28061,190,4
+2020-06-12,Jasper,Missouri,29097,103,0
+2020-06-12,Jasper,South Carolina,45053,54,2
+2020-06-12,Jasper,Texas,48241,34,2
+2020-06-13,Jasper,Georgia,13159,56,1
+2020-06-13,Jasper,Illinois,17079,46,7
+2020-06-13,Jasper,Indiana,18073,83,1
+2020-06-13,Jasper,Iowa,19099,280,17
+2020-06-13,Jasper,Mississippi,28061,193,4
+2020-06-13,Jasper,Missouri,29097,115,0
+2020-06-13,Jasper,South Carolina,45053,54,2
+2020-06-13,Jasper,Texas,48241,34,2
+2020-06-14,Jasper,Georgia,13159,56,1
+2020-06-14,Jasper,Illinois,17079,46,7
+2020-06-14,Jasper,Indiana,18073,84,1
+2020-06-14,Jasper,Iowa,19099,283,17
+2020-06-14,Jasper,Mississippi,28061,193,4
+2020-06-14,Jasper,Missouri,29097,115,0
+2020-06-14,Jasper,South Carolina,45053,54,3
+2020-06-14,Jasper,Texas,48241,34,2
+2020-06-15,Jasper,Georgia,13159,56,1
+2020-06-15,Jasper,Illinois,17079,46,7
+2020-06-15,Jasper,Indiana,18073,85,1
+2020-06-15,Jasper,Iowa,19099,282,17
+2020-06-15,Jasper,Mississippi,28061,197,4
+2020-06-15,Jasper,Missouri,29097,131,0
+2020-06-15,Jasper,South Carolina,45053,55,3
+2020-06-15,Jasper,Texas,48241,34,2
+2020-06-16,Jasper,Georgia,13159,56,1
+2020-06-16,Jasper,Illinois,17079,46,7
+2020-06-16,Jasper,Indiana,18073,86,1
+2020-06-16,Jasper,Iowa,19099,283,17
+2020-06-16,Jasper,Mississippi,28061,200,4
+2020-06-16,Jasper,Missouri,29097,163,0
+2020-06-16,Jasper,South Carolina,45053,56,3
+2020-06-16,Jasper,Texas,48241,34,2
+2020-06-17,Jasper,Georgia,13159,59,1
+2020-06-17,Jasper,Illinois,17079,46,7
+2020-06-17,Jasper,Indiana,18073,87,1
+2020-06-17,Jasper,Iowa,19099,287,17
+2020-06-17,Jasper,Mississippi,28061,203,4
+2020-06-17,Jasper,Missouri,29097,168,0
+2020-06-17,Jasper,South Carolina,45053,57,3
+2020-06-17,Jasper,Texas,48241,34,2
+2020-06-18,Jasper,Georgia,13159,61,1
+2020-06-18,Jasper,Illinois,17079,46,7
+2020-06-18,Jasper,Indiana,18073,88,1
+2020-06-18,Jasper,Iowa,19099,290,17
+2020-06-18,Jasper,Mississippi,28061,203,4
+2020-06-18,Jasper,Missouri,29097,191,0
+2020-06-18,Jasper,South Carolina,45053,65,3
+2020-06-18,Jasper,Texas,48241,34,2
+2020-06-19,Jasper,Georgia,13159,61,1
+2020-06-19,Jasper,Illinois,17079,46,7
+2020-06-19,Jasper,Indiana,18073,90,1
+2020-06-19,Jasper,Iowa,19099,290,17
+2020-06-19,Jasper,Mississippi,28061,203,4
+2020-06-19,Jasper,Missouri,29097,195,0
+2020-06-19,Jasper,South Carolina,45053,67,3
+2020-06-19,Jasper,Texas,48241,34,2
+2020-06-20,Jasper,Georgia,13159,61,1
+2020-06-20,Jasper,Illinois,17079,46,7
+2020-06-20,Jasper,Indiana,18073,91,1
+2020-06-20,Jasper,Iowa,19099,291,17
+2020-06-20,Jasper,Mississippi,28061,203,4
+2020-06-20,Jasper,Missouri,29097,235,0
+2020-06-20,Jasper,South Carolina,45053,72,3
+2020-06-20,Jasper,Texas,48241,35,2
+2020-06-21,Jasper,Georgia,13159,61,1
+2020-06-21,Jasper,Illinois,17079,46,7
+2020-06-21,Jasper,Indiana,18073,92,1
+2020-06-21,Jasper,Iowa,19099,296,17
+2020-06-21,Jasper,Mississippi,28061,203,4
+2020-06-21,Jasper,Missouri,29097,260,0
+2020-06-21,Jasper,South Carolina,45053,76,3
+2020-06-21,Jasper,Texas,48241,36,2
+2020-06-22,Jasper,Georgia,13159,63,1
+2020-06-22,Jasper,Illinois,17079,46,7
+2020-06-22,Jasper,Indiana,18073,93,2
+2020-06-22,Jasper,Iowa,19099,298,17
+2020-06-22,Jasper,Mississippi,28061,212,6
+2020-06-22,Jasper,Missouri,29097,260,0
+2020-06-22,Jasper,South Carolina,45053,82,3
+2020-06-22,Jasper,Texas,48241,36,2
+2020-06-23,Jasper,Georgia,13159,65,1
+2020-06-23,Jasper,Illinois,17079,46,7
+2020-06-23,Jasper,Indiana,18073,94,2
+2020-06-23,Jasper,Iowa,19099,304,17
+2020-06-23,Jasper,Mississippi,28061,216,6
+2020-06-23,Jasper,Missouri,29097,303,0
+2020-06-23,Jasper,South Carolina,45053,87,3
+2020-06-23,Jasper,Texas,48241,39,2
+2020-06-24,Jasper,Georgia,13159,65,1
+2020-06-24,Jasper,Illinois,17079,46,7
+2020-06-24,Jasper,Indiana,18073,97,2
+2020-06-24,Jasper,Iowa,19099,305,17
+2020-06-24,Jasper,Mississippi,28061,218,6
+2020-06-24,Jasper,Missouri,29097,309,0
+2020-06-24,Jasper,South Carolina,45053,92,3
+2020-06-24,Jasper,Texas,48241,41,2
+2020-06-25,Jasper,Georgia,13159,64,1
+2020-06-25,Jasper,Illinois,17079,46,7
+2020-06-25,Jasper,Indiana,18073,101,2
+2020-06-25,Jasper,Iowa,19099,305,17
+2020-06-25,Jasper,Mississippi,28061,221,6
+2020-06-25,Jasper,Missouri,29097,311,1
+2020-06-25,Jasper,South Carolina,45053,95,3
+2020-06-25,Jasper,Texas,48241,43,2
+2020-06-26,Jasper,Georgia,13159,65,1
+2020-06-26,Jasper,Illinois,17079,46,7
+2020-06-26,Jasper,Indiana,18073,102,2
+2020-06-26,Jasper,Iowa,19099,306,17
+2020-06-26,Jasper,Mississippi,28061,221,6
+2020-06-26,Jasper,Missouri,29097,338,1
+2020-06-26,Jasper,South Carolina,45053,103,3
+2020-06-26,Jasper,Texas,48241,43,2
+2020-06-27,Jasper,Georgia,13159,67,1
+2020-06-27,Jasper,Illinois,17079,46,7
+2020-06-27,Jasper,Indiana,18073,103,2
+2020-06-27,Jasper,Iowa,19099,309,17
+2020-06-27,Jasper,Mississippi,28061,229,6
+2020-06-27,Jasper,Missouri,29097,356,1
+2020-06-27,Jasper,South Carolina,45053,110,3
+2020-06-27,Jasper,Texas,48241,43,2
+2020-06-28,Jasper,Georgia,13159,66,1
+2020-06-28,Jasper,Illinois,17079,46,7
+2020-06-28,Jasper,Indiana,18073,107,2
+2020-06-28,Jasper,Iowa,19099,313,17
+2020-06-28,Jasper,Mississippi,28061,234,6
+2020-06-28,Jasper,Missouri,29097,368,1
+2020-06-28,Jasper,South Carolina,45053,121,3
+2020-06-28,Jasper,Texas,48241,51,2
+2020-06-29,Jasper,Georgia,13159,66,1
+2020-06-29,Jasper,Illinois,17079,46,7
+2020-06-29,Jasper,Indiana,18073,108,2
+2020-06-29,Jasper,Iowa,19099,315,17
+2020-06-29,Jasper,Mississippi,28061,239,6
+2020-06-29,Jasper,Missouri,29097,398,1
+2020-06-29,Jasper,South Carolina,45053,122,3
+2020-06-29,Jasper,Texas,48241,51,2
+2020-06-30,Jasper,Georgia,13159,68,1
+2020-06-30,Jasper,Illinois,17079,46,7
+2020-06-30,Jasper,Indiana,18073,108,2
+2020-06-30,Jasper,Iowa,19099,317,17
+2020-06-30,Jasper,Mississippi,28061,245,6
+2020-06-30,Jasper,Missouri,29097,449,1
+2020-06-30,Jasper,South Carolina,45053,132,3
+2020-06-30,Jasper,Texas,48241,51,2
+2020-07-01,Jasper,Georgia,13159,69,1
+2020-07-01,Jasper,Illinois,17079,46,7
+2020-07-01,Jasper,Indiana,18073,110,2
+2020-07-01,Jasper,Iowa,19099,318,17
+2020-07-01,Jasper,Mississippi,28061,250,6
+2020-07-01,Jasper,Missouri,29097,474,1
+2020-07-01,Jasper,South Carolina,45053,138,3
+2020-07-01,Jasper,Texas,48241,52,2
+2020-07-02,Jasper,Georgia,13159,69,1
+2020-07-02,Jasper,Illinois,17079,46,7
+2020-07-02,Jasper,Indiana,18073,114,2
+2020-07-02,Jasper,Iowa,19099,321,17
+2020-07-02,Jasper,Mississippi,28061,251,6
+2020-07-02,Jasper,Missouri,29097,481,1
+2020-07-02,Jasper,South Carolina,45053,142,3
+2020-07-02,Jasper,Texas,48241,52,2
+2020-07-03,Jasper,Georgia,13159,76,1
+2020-07-03,Jasper,Illinois,17079,47,7
+2020-07-03,Jasper,Indiana,18073,115,2
+2020-07-03,Jasper,Iowa,19099,321,17
+2020-07-03,Jasper,Mississippi,28061,256,6
+2020-07-03,Jasper,Missouri,29097,515,1
+2020-07-03,Jasper,South Carolina,45053,170,3
+2020-07-03,Jasper,Texas,48241,60,2
+2020-07-04,Jasper,Georgia,13159,77,1
+2020-07-04,Jasper,Illinois,17079,47,7
+2020-07-04,Jasper,Indiana,18073,115,2
+2020-07-04,Jasper,Iowa,19099,323,17
+2020-07-04,Jasper,Mississippi,28061,261,6
+2020-07-04,Jasper,Missouri,29097,582,1
+2020-07-04,Jasper,South Carolina,45053,170,3
+2020-07-04,Jasper,Texas,48241,60,2
+2020-07-05,Jasper,Georgia,13159,77,1
+2020-07-05,Jasper,Illinois,17079,47,7
+2020-07-05,Jasper,Indiana,18073,122,2
+2020-07-05,Jasper,Iowa,19099,324,17
+2020-07-05,Jasper,Mississippi,28061,262,6
+2020-07-05,Jasper,Missouri,29097,587,1
+2020-07-05,Jasper,South Carolina,45053,178,3
+2020-07-05,Jasper,Texas,48241,61,2
+2020-07-06,Jasper,Georgia,13159,78,1
+2020-07-06,Jasper,Illinois,17079,47,7
+2020-07-06,Jasper,Indiana,18073,122,2
+2020-07-06,Jasper,Iowa,19099,325,17
+2020-07-06,Jasper,Mississippi,28061,263,6
+2020-07-06,Jasper,Missouri,29097,611,1
+2020-07-06,Jasper,South Carolina,45053,188,3
+2020-07-06,Jasper,Texas,48241,61,2
+2020-07-07,Jasper,Georgia,13159,79,1
+2020-07-07,Jasper,Illinois,17079,47,7
+2020-07-07,Jasper,Indiana,18073,122,2
+2020-07-07,Jasper,Iowa,19099,325,17
+2020-07-07,Jasper,Mississippi,28061,267,6
+2020-07-07,Jasper,Missouri,29097,652,1
+2020-07-07,Jasper,South Carolina,45053,208,3
+2020-07-07,Jasper,Texas,48241,69,2
+2020-07-08,Jasper,Georgia,13159,78,1
+2020-07-08,Jasper,Illinois,17079,47,7
+2020-07-08,Jasper,Indiana,18073,124,2
+2020-07-08,Jasper,Iowa,19099,330,17
+2020-07-08,Jasper,Mississippi,28061,266,6
+2020-07-08,Jasper,Missouri,29097,692,1
+2020-07-08,Jasper,South Carolina,45053,215,3
+2020-07-08,Jasper,Texas,48241,69,2
+2020-07-09,Jasper,Georgia,13159,83,1
+2020-07-09,Jasper,Illinois,17079,47,7
+2020-07-09,Jasper,Indiana,18073,126,2
+2020-07-09,Jasper,Iowa,19099,332,17
+2020-07-09,Jasper,Mississippi,28061,267,6
+2020-07-09,Jasper,Missouri,29097,733,2
+2020-07-09,Jasper,South Carolina,45053,221,3
+2020-07-09,Jasper,Texas,48241,70,2
+2020-07-10,Jasper,Georgia,13159,83,1
+2020-07-10,Jasper,Illinois,17079,47,7
+2020-07-10,Jasper,Indiana,18073,134,2
+2020-07-10,Jasper,Iowa,19099,337,17
+2020-07-10,Jasper,Mississippi,28061,271,6
+2020-07-10,Jasper,Missouri,29097,748,1
+2020-07-10,Jasper,South Carolina,45053,248,3
+2020-07-10,Jasper,Texas,48241,70,2
+2020-07-11,Jasper,Georgia,13159,88,1
+2020-07-11,Jasper,Illinois,17079,47,7
+2020-07-11,Jasper,Indiana,18073,136,2
+2020-07-11,Jasper,Iowa,19099,345,17
+2020-07-11,Jasper,Mississippi,28061,277,6
+2020-07-11,Jasper,Missouri,29097,761,1
+2020-07-11,Jasper,South Carolina,45053,258,3
+2020-07-11,Jasper,Texas,48241,70,2
+2020-07-12,Jasper,Georgia,13159,89,1
+2020-07-12,Jasper,Illinois,17079,47,7
+2020-07-12,Jasper,Indiana,18073,137,2
+2020-07-12,Jasper,Iowa,19099,354,17
+2020-07-12,Jasper,Mississippi,28061,281,6
+2020-07-12,Jasper,Missouri,29097,772,1
+2020-07-12,Jasper,South Carolina,45053,265,3
+2020-07-12,Jasper,Texas,48241,71,2
+2020-07-13,Jasper,Georgia,13159,89,1
+2020-07-13,Jasper,Illinois,17079,47,7
+2020-07-13,Jasper,Indiana,18073,137,2
+2020-07-13,Jasper,Iowa,19099,357,17
+2020-07-13,Jasper,Mississippi,28061,282,6
+2020-07-13,Jasper,Missouri,29097,778,1
+2020-07-13,Jasper,South Carolina,45053,270,3
+2020-07-13,Jasper,Texas,48241,71,2

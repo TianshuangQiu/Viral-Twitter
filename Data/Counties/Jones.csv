@@ -1,0 +1,533 @@
+2020-03-19,Jones,Mississippi,28067,1,0
+2020-03-20,Jones,Mississippi,28067,1,0
+2020-03-21,Jones,Mississippi,28067,1,0
+2020-03-22,Jones,Mississippi,28067,1,0
+2020-03-23,Jones,Mississippi,28067,1,0
+2020-03-24,Jones,Mississippi,28067,1,0
+2020-03-25,Jones,Georgia,13169,1,0
+2020-03-25,Jones,Mississippi,28067,1,0
+2020-03-26,Jones,Georgia,13169,1,0
+2020-03-26,Jones,Mississippi,28067,1,0
+2020-03-27,Jones,Georgia,13169,2,0
+2020-03-27,Jones,Mississippi,28067,1,0
+2020-03-28,Jones,Georgia,13169,2,0
+2020-03-28,Jones,Mississippi,28067,3,0
+2020-03-29,Jones,Georgia,13169,2,0
+2020-03-29,Jones,Mississippi,28067,5,0
+2020-03-30,Jones,Georgia,13169,2,0
+2020-03-30,Jones,Iowa,19105,1,0
+2020-03-30,Jones,Mississippi,28067,6,0
+2020-03-31,Jones,Georgia,13169,3,0
+2020-03-31,Jones,Iowa,19105,4,0
+2020-03-31,Jones,Mississippi,28067,6,0
+2020-04-01,Jones,Georgia,13169,4,0
+2020-04-01,Jones,Iowa,19105,4,0
+2020-04-01,Jones,Mississippi,28067,6,0
+2020-04-02,Jones,Georgia,13169,5,0
+2020-04-02,Jones,Iowa,19105,5,0
+2020-04-02,Jones,Mississippi,28067,6,0
+2020-04-03,Jones,Georgia,13169,6,0
+2020-04-03,Jones,Iowa,19105,5,0
+2020-04-03,Jones,Mississippi,28067,8,0
+2020-04-04,Jones,Georgia,13169,6,0
+2020-04-04,Jones,Iowa,19105,5,0
+2020-04-04,Jones,Mississippi,28067,9,0
+2020-04-05,Jones,Georgia,13169,6,0
+2020-04-05,Jones,Iowa,19105,6,0
+2020-04-05,Jones,Mississippi,28067,11,0
+2020-04-06,Jones,Georgia,13169,6,0
+2020-04-06,Jones,Iowa,19105,6,0
+2020-04-06,Jones,Mississippi,28067,13,0
+2020-04-07,Jones,Georgia,13169,7,0
+2020-04-07,Jones,Iowa,19105,6,0
+2020-04-07,Jones,Mississippi,28067,14,0
+2020-04-08,Jones,Georgia,13169,7,0
+2020-04-08,Jones,Iowa,19105,6,0
+2020-04-08,Jones,Mississippi,28067,15,0
+2020-04-08,Jones,Texas,48253,1,0
+2020-04-09,Jones,Georgia,13169,9,0
+2020-04-09,Jones,Iowa,19105,8,0
+2020-04-09,Jones,Mississippi,28067,19,0
+2020-04-09,Jones,North Carolina,37103,3,0
+2020-04-09,Jones,Texas,48253,1,0
+2020-04-10,Jones,Georgia,13169,10,0
+2020-04-10,Jones,Iowa,19105,8,0
+2020-04-10,Jones,Mississippi,28067,25,0
+2020-04-10,Jones,North Carolina,37103,3,0
+2020-04-10,Jones,Texas,48253,2,0
+2020-04-11,Jones,Georgia,13169,11,0
+2020-04-11,Jones,Iowa,19105,8,0
+2020-04-11,Jones,Mississippi,28067,30,0
+2020-04-11,Jones,North Carolina,37103,6,1
+2020-04-11,Jones,Texas,48253,2,0
+2020-04-12,Jones,Georgia,13169,12,0
+2020-04-12,Jones,Iowa,19105,8,0
+2020-04-12,Jones,Mississippi,28067,33,0
+2020-04-12,Jones,North Carolina,37103,7,1
+2020-04-12,Jones,Texas,48253,2,0
+2020-04-13,Jones,Georgia,13169,12,0
+2020-04-13,Jones,Iowa,19105,10,0
+2020-04-13,Jones,Mississippi,28067,37,0
+2020-04-13,Jones,North Carolina,37103,7,1
+2020-04-13,Jones,Texas,48253,2,0
+2020-04-14,Jones,Georgia,13169,14,0
+2020-04-14,Jones,Iowa,19105,11,0
+2020-04-14,Jones,Mississippi,28067,40,0
+2020-04-14,Jones,North Carolina,37103,7,1
+2020-04-14,Jones,Texas,48253,2,0
+2020-04-15,Jones,Georgia,13169,15,0
+2020-04-15,Jones,Iowa,19105,11,0
+2020-04-15,Jones,Mississippi,28067,42,0
+2020-04-15,Jones,North Carolina,37103,8,1
+2020-04-15,Jones,Texas,48253,2,0
+2020-04-16,Jones,Georgia,13169,15,0
+2020-04-16,Jones,Iowa,19105,12,0
+2020-04-16,Jones,Mississippi,28067,48,0
+2020-04-16,Jones,North Carolina,37103,8,1
+2020-04-16,Jones,Texas,48253,3,0
+2020-04-17,Jones,Georgia,13169,16,0
+2020-04-17,Jones,Iowa,19105,13,0
+2020-04-17,Jones,Mississippi,28067,56,0
+2020-04-17,Jones,North Carolina,37103,8,1
+2020-04-17,Jones,Texas,48253,3,0
+2020-04-18,Jones,Georgia,13169,16,0
+2020-04-18,Jones,Iowa,19105,14,0
+2020-04-18,Jones,Mississippi,28067,63,0
+2020-04-18,Jones,North Carolina,37103,8,1
+2020-04-18,Jones,Texas,48253,3,0
+2020-04-19,Jones,Georgia,13169,17,0
+2020-04-19,Jones,Iowa,19105,14,0
+2020-04-19,Jones,Mississippi,28067,70,0
+2020-04-19,Jones,North Carolina,37103,8,1
+2020-04-19,Jones,Texas,48253,3,0
+2020-04-20,Jones,Georgia,13169,20,0
+2020-04-20,Jones,Iowa,19105,15,0
+2020-04-20,Jones,Mississippi,28067,74,0
+2020-04-20,Jones,North Carolina,37103,8,1
+2020-04-20,Jones,Texas,48253,3,0
+2020-04-21,Jones,Georgia,13169,21,0
+2020-04-21,Jones,Iowa,19105,16,0
+2020-04-21,Jones,Mississippi,28067,80,0
+2020-04-21,Jones,North Carolina,37103,9,1
+2020-04-21,Jones,Texas,48253,3,0
+2020-04-22,Jones,Georgia,13169,22,0
+2020-04-22,Jones,Iowa,19105,17,0
+2020-04-22,Jones,Mississippi,28067,88,0
+2020-04-22,Jones,North Carolina,37103,9,2
+2020-04-22,Jones,Texas,48253,3,0
+2020-04-23,Jones,Georgia,13169,24,0
+2020-04-23,Jones,Iowa,19105,18,0
+2020-04-23,Jones,Mississippi,28067,94,0
+2020-04-23,Jones,North Carolina,37103,9,2
+2020-04-23,Jones,Texas,48253,4,0
+2020-04-24,Jones,Georgia,13169,24,0
+2020-04-24,Jones,Iowa,19105,18,0
+2020-04-24,Jones,Mississippi,28067,104,0
+2020-04-24,Jones,North Carolina,37103,9,2
+2020-04-24,Jones,Texas,48253,7,0
+2020-04-25,Jones,Georgia,13169,26,0
+2020-04-25,Jones,Iowa,19105,18,0
+2020-04-25,Jones,Mississippi,28067,116,0
+2020-04-25,Jones,North Carolina,37103,11,2
+2020-04-25,Jones,Texas,48253,13,0
+2020-04-26,Jones,Georgia,13169,26,0
+2020-04-26,Jones,Iowa,19105,18,0
+2020-04-26,Jones,Mississippi,28067,118,1
+2020-04-26,Jones,North Carolina,37103,11,2
+2020-04-26,Jones,Texas,48253,13,0
+2020-04-27,Jones,Georgia,13169,27,0
+2020-04-27,Jones,Iowa,19105,19,0
+2020-04-27,Jones,Mississippi,28067,130,1
+2020-04-27,Jones,North Carolina,37103,12,2
+2020-04-27,Jones,Texas,48253,13,0
+2020-04-28,Jones,Georgia,13169,28,0
+2020-04-28,Jones,Iowa,19105,19,0
+2020-04-28,Jones,Mississippi,28067,132,1
+2020-04-28,Jones,North Carolina,37103,12,2
+2020-04-28,Jones,Texas,48253,13,0
+2020-04-29,Jones,Georgia,13169,28,0
+2020-04-29,Jones,Iowa,19105,20,0
+2020-04-29,Jones,Mississippi,28067,136,1
+2020-04-29,Jones,North Carolina,37103,12,2
+2020-04-29,Jones,Texas,48253,37,0
+2020-04-30,Jones,Georgia,13169,28,0
+2020-04-30,Jones,Iowa,19105,21,0
+2020-04-30,Jones,Mississippi,28067,143,1
+2020-04-30,Jones,North Carolina,37103,14,2
+2020-04-30,Jones,Texas,48253,37,0
+2020-05-01,Jones,Georgia,13169,29,0
+2020-05-01,Jones,Iowa,19105,22,0
+2020-05-01,Jones,Mississippi,28067,159,2
+2020-05-01,Jones,North Carolina,37103,15,2
+2020-05-01,Jones,Texas,48253,37,0
+2020-05-02,Jones,Georgia,13169,29,0
+2020-05-02,Jones,Iowa,19105,24,0
+2020-05-02,Jones,Mississippi,28067,168,2
+2020-05-02,Jones,North Carolina,37103,17,2
+2020-05-02,Jones,Texas,48253,62,0
+2020-05-03,Jones,Georgia,13169,29,0
+2020-05-03,Jones,Iowa,19105,24,0
+2020-05-03,Jones,Mississippi,28067,172,2
+2020-05-03,Jones,North Carolina,37103,18,2
+2020-05-03,Jones,Texas,48253,62,0
+2020-05-04,Jones,Georgia,13169,29,0
+2020-05-04,Jones,Iowa,19105,24,0
+2020-05-04,Jones,Mississippi,28067,185,2
+2020-05-04,Jones,North Carolina,37103,18,2
+2020-05-04,Jones,Texas,48253,78,0
+2020-05-05,Jones,Georgia,13169,31,0
+2020-05-05,Jones,Iowa,19105,25,0
+2020-05-05,Jones,Mississippi,28067,193,2
+2020-05-05,Jones,North Carolina,37103,18,2
+2020-05-05,Jones,Texas,48253,78,0
+2020-05-06,Jones,Georgia,13169,31,0
+2020-05-06,Jones,Iowa,19105,25,0
+2020-05-06,Jones,Mississippi,28067,199,4
+2020-05-06,Jones,North Carolina,37103,19,2
+2020-05-06,Jones,Texas,48253,84,0
+2020-05-07,Jones,Georgia,13169,30,0
+2020-05-07,Jones,Iowa,19105,30,0
+2020-05-07,Jones,Mississippi,28067,209,4
+2020-05-07,Jones,North Carolina,37103,19,2
+2020-05-07,Jones,Texas,48253,84,0
+2020-05-08,Jones,Georgia,13169,31,0
+2020-05-08,Jones,Iowa,19105,31,0
+2020-05-08,Jones,Mississippi,28067,223,4
+2020-05-08,Jones,North Carolina,37103,18,2
+2020-05-08,Jones,Texas,48253,87,0
+2020-05-09,Jones,Georgia,13169,30,0
+2020-05-09,Jones,Iowa,19105,31,0
+2020-05-09,Jones,Mississippi,28067,243,5
+2020-05-09,Jones,North Carolina,37103,18,2
+2020-05-09,Jones,Texas,48253,92,0
+2020-05-10,Jones,Georgia,13169,31,0
+2020-05-10,Jones,Iowa,19105,31,0
+2020-05-10,Jones,Mississippi,28067,247,5
+2020-05-10,Jones,North Carolina,37103,18,2
+2020-05-10,Jones,Texas,48253,92,0
+2020-05-11,Jones,Georgia,13169,30,0
+2020-05-11,Jones,Iowa,19105,34,0
+2020-05-11,Jones,Mississippi,28067,249,5
+2020-05-11,Jones,North Carolina,37103,20,2
+2020-05-11,Jones,Texas,48253,95,0
+2020-05-12,Jones,Georgia,13169,30,0
+2020-05-12,Jones,Iowa,19105,34,0
+2020-05-12,Jones,Mississippi,28067,260,6
+2020-05-12,Jones,North Carolina,37103,19,2
+2020-05-12,Jones,Texas,48253,96,0
+2020-05-13,Jones,Georgia,13169,30,0
+2020-05-13,Jones,Iowa,19105,34,0
+2020-05-13,Jones,Mississippi,28067,264,6
+2020-05-13,Jones,North Carolina,37103,20,2
+2020-05-13,Jones,Texas,48253,101,0
+2020-05-14,Jones,Georgia,13169,30,0
+2020-05-14,Jones,Iowa,19105,35,0
+2020-05-14,Jones,Mississippi,28067,287,7
+2020-05-14,Jones,North Carolina,37103,21,2
+2020-05-14,Jones,Texas,48253,110,0
+2020-05-15,Jones,Georgia,13169,30,0
+2020-05-15,Jones,Iowa,19105,36,0
+2020-05-15,Jones,Mississippi,28067,304,7
+2020-05-15,Jones,North Carolina,37103,21,2
+2020-05-15,Jones,Texas,48253,110,0
+2020-05-16,Jones,Georgia,13169,30,0
+2020-05-16,Jones,Iowa,19105,36,0
+2020-05-16,Jones,Mississippi,28067,319,8
+2020-05-16,Jones,North Carolina,37103,21,2
+2020-05-16,Jones,Texas,48253,112,0
+2020-05-17,Jones,Georgia,13169,30,0
+2020-05-17,Jones,Iowa,19105,36,0
+2020-05-17,Jones,Mississippi,28067,337,9
+2020-05-17,Jones,North Carolina,37103,21,2
+2020-05-17,Jones,Texas,48253,112,0
+2020-05-18,Jones,Georgia,13169,30,0
+2020-05-18,Jones,Iowa,19105,36,0
+2020-05-18,Jones,Mississippi,28067,342,9
+2020-05-18,Jones,North Carolina,37103,23,2
+2020-05-18,Jones,Texas,48253,112,0
+2020-05-19,Jones,Georgia,13169,31,0
+2020-05-19,Jones,Iowa,19105,36,0
+2020-05-19,Jones,Mississippi,28067,358,10
+2020-05-19,Jones,North Carolina,37103,22,2
+2020-05-19,Jones,Texas,48253,115,0
+2020-05-20,Jones,Georgia,13169,32,0
+2020-05-20,Jones,Iowa,19105,36,0
+2020-05-20,Jones,Mississippi,28067,366,12
+2020-05-20,Jones,North Carolina,37103,22,2
+2020-05-20,Jones,Texas,48253,117,0
+2020-05-21,Jones,Georgia,13169,32,0
+2020-05-21,Jones,Iowa,19105,36,0
+2020-05-21,Jones,Mississippi,28067,386,12
+2020-05-21,Jones,North Carolina,37103,22,2
+2020-05-21,Jones,Texas,48253,134,0
+2020-05-22,Jones,Georgia,13169,32,0
+2020-05-22,Jones,Iowa,19105,36,0
+2020-05-22,Jones,Mississippi,28067,422,12
+2020-05-22,Jones,North Carolina,37103,26,2
+2020-05-22,Jones,Texas,48253,134,0
+2020-05-23,Jones,Georgia,13169,33,0
+2020-05-23,Jones,Iowa,19105,36,0
+2020-05-23,Jones,Mississippi,28067,435,13
+2020-05-23,Jones,North Carolina,37103,28,2
+2020-05-23,Jones,Texas,48253,135,0
+2020-05-24,Jones,Georgia,13169,34,0
+2020-05-24,Jones,Iowa,19105,36,0
+2020-05-24,Jones,Mississippi,28067,467,13
+2020-05-24,Jones,North Carolina,37103,26,2
+2020-05-24,Jones,Texas,48253,135,0
+2020-05-25,Jones,Georgia,13169,34,0
+2020-05-25,Jones,Iowa,19105,36,0
+2020-05-25,Jones,Mississippi,28067,492,15
+2020-05-25,Jones,North Carolina,37103,26,2
+2020-05-25,Jones,Texas,48253,135,0
+2020-05-26,Jones,Georgia,13169,34,0
+2020-05-26,Jones,Iowa,19105,36,0
+2020-05-26,Jones,Mississippi,28067,506,18
+2020-05-26,Jones,North Carolina,37103,26,2
+2020-05-26,Jones,Texas,48253,135,0
+2020-05-27,Jones,Georgia,13169,34,0
+2020-05-27,Jones,Iowa,19105,36,0
+2020-05-27,Jones,Mississippi,28067,525,19
+2020-05-27,Jones,North Carolina,37103,26,3
+2020-05-27,Jones,Texas,48253,135,0
+2020-05-28,Jones,Georgia,13169,35,0
+2020-05-28,Jones,Iowa,19105,36,0
+2020-05-28,Jones,Mississippi,28067,566,22
+2020-05-28,Jones,North Carolina,37103,26,3
+2020-05-28,Jones,Texas,48253,323,0
+2020-05-29,Jones,Georgia,13169,35,0
+2020-05-29,Jones,Iowa,19105,36,0
+2020-05-29,Jones,Mississippi,28067,576,25
+2020-05-29,Jones,North Carolina,37103,26,3
+2020-05-29,Jones,Texas,48253,354,0
+2020-05-30,Jones,Georgia,13169,37,0
+2020-05-30,Jones,Iowa,19105,36,0
+2020-05-30,Jones,Mississippi,28067,598,25
+2020-05-30,Jones,North Carolina,37103,26,3
+2020-05-30,Jones,Texas,48253,401,0
+2020-05-31,Jones,Georgia,13169,37,0
+2020-05-31,Jones,Iowa,19105,36,0
+2020-05-31,Jones,Mississippi,28067,629,28
+2020-05-31,Jones,North Carolina,37103,26,3
+2020-05-31,Jones,Texas,48253,401,0
+2020-06-01,Jones,Georgia,13169,40,0
+2020-06-01,Jones,Iowa,19105,37,0
+2020-06-01,Jones,Mississippi,28067,652,28
+2020-06-01,Jones,North Carolina,37103,26,3
+2020-06-01,Jones,Texas,48253,401,0
+2020-06-02,Jones,Georgia,13169,40,0
+2020-06-02,Jones,Iowa,19105,37,0
+2020-06-02,Jones,Mississippi,28067,663,31
+2020-06-02,Jones,North Carolina,37103,26,3
+2020-06-02,Jones,Texas,48253,606,0
+2020-06-03,Jones,Georgia,13169,44,0
+2020-06-03,Jones,Iowa,19105,37,0
+2020-06-03,Jones,Mississippi,28067,686,32
+2020-06-03,Jones,North Carolina,37103,26,3
+2020-06-03,Jones,Texas,48253,637,0
+2020-06-04,Jones,Georgia,13169,48,0
+2020-06-04,Jones,Iowa,19105,37,0
+2020-06-04,Jones,Mississippi,28067,701,33
+2020-06-04,Jones,North Carolina,37103,26,3
+2020-06-04,Jones,Texas,48253,636,0
+2020-06-05,Jones,Georgia,13169,49,0
+2020-06-05,Jones,Iowa,19105,37,0
+2020-06-05,Jones,Mississippi,28067,709,33
+2020-06-05,Jones,North Carolina,37103,26,3
+2020-06-05,Jones,Texas,48253,637,0
+2020-06-06,Jones,Georgia,13169,49,0
+2020-06-06,Jones,Iowa,19105,37,0
+2020-06-06,Jones,Mississippi,28067,715,34
+2020-06-06,Jones,North Carolina,37103,26,3
+2020-06-06,Jones,Texas,48253,637,0
+2020-06-07,Jones,Georgia,13169,49,0
+2020-06-07,Jones,Iowa,19105,37,0
+2020-06-07,Jones,Mississippi,28067,729,34
+2020-06-07,Jones,North Carolina,37103,26,3
+2020-06-07,Jones,Texas,48253,637,0
+2020-06-08,Jones,Georgia,13169,49,0
+2020-06-08,Jones,Iowa,19105,38,0
+2020-06-08,Jones,Mississippi,28067,777,36
+2020-06-08,Jones,North Carolina,37103,26,3
+2020-06-08,Jones,Texas,48253,637,0
+2020-06-09,Jones,Georgia,13169,49,0
+2020-06-09,Jones,Iowa,19105,38,0
+2020-06-09,Jones,Mississippi,28067,792,36
+2020-06-09,Jones,North Carolina,37103,26,3
+2020-06-09,Jones,Texas,48253,636,0
+2020-06-10,Jones,Georgia,13169,50,0
+2020-06-10,Jones,Iowa,19105,38,0
+2020-06-10,Jones,Mississippi,28067,812,36
+2020-06-10,Jones,North Carolina,37103,26,3
+2020-06-10,Jones,Texas,48253,636,0
+2020-06-11,Jones,Georgia,13169,50,0
+2020-06-11,Jones,Iowa,19105,38,0
+2020-06-11,Jones,Mississippi,28067,812,36
+2020-06-11,Jones,North Carolina,37103,26,3
+2020-06-11,Jones,Texas,48253,633,0
+2020-06-12,Jones,Georgia,13169,50,0
+2020-06-12,Jones,Iowa,19105,41,0
+2020-06-12,Jones,Mississippi,28067,845,37
+2020-06-12,Jones,North Carolina,37103,26,3
+2020-06-12,Jones,Texas,48253,632,0
+2020-06-13,Jones,Georgia,13169,51,0
+2020-06-13,Jones,Iowa,19105,41,0
+2020-06-13,Jones,Mississippi,28067,852,38
+2020-06-13,Jones,North Carolina,37103,26,3
+2020-06-13,Jones,Texas,48253,631,0
+2020-06-14,Jones,Georgia,13169,51,0
+2020-06-14,Jones,Iowa,19105,41,0
+2020-06-14,Jones,Mississippi,28067,868,38
+2020-06-14,Jones,North Carolina,37103,27,3
+2020-06-14,Jones,Texas,48253,631,0
+2020-06-15,Jones,Georgia,13169,51,0
+2020-06-15,Jones,Iowa,19105,41,0
+2020-06-15,Jones,Mississippi,28067,881,39
+2020-06-15,Jones,North Carolina,37103,27,3
+2020-06-15,Jones,Texas,48253,631,0
+2020-06-16,Jones,Georgia,13169,51,0
+2020-06-16,Jones,Iowa,19105,41,0
+2020-06-16,Jones,Mississippi,28067,899,43
+2020-06-16,Jones,North Carolina,37103,26,3
+2020-06-16,Jones,Texas,48253,630,0
+2020-06-17,Jones,Georgia,13169,51,0
+2020-06-17,Jones,Iowa,19105,41,0
+2020-06-17,Jones,Mississippi,28067,910,44
+2020-06-17,Jones,North Carolina,37103,26,3
+2020-06-17,Jones,Texas,48253,615,0
+2020-06-18,Jones,Georgia,13169,51,0
+2020-06-18,Jones,Iowa,19105,42,0
+2020-06-18,Jones,Mississippi,28067,910,44
+2020-06-18,Jones,North Carolina,37103,26,3
+2020-06-18,Jones,Texas,48253,614,0
+2020-06-19,Jones,Georgia,13169,51,0
+2020-06-19,Jones,Iowa,19105,43,0
+2020-06-19,Jones,Mississippi,28067,910,44
+2020-06-19,Jones,North Carolina,37103,26,3
+2020-06-19,Jones,Texas,48253,610,0
+2020-06-20,Jones,Georgia,13169,51,0
+2020-06-20,Jones,Iowa,19105,43,0
+2020-06-20,Jones,Mississippi,28067,910,44
+2020-06-20,Jones,North Carolina,37103,26,3
+2020-06-20,Jones,Texas,48253,650,0
+2020-06-21,Jones,Georgia,13169,51,0
+2020-06-21,Jones,Iowa,19105,46,0
+2020-06-21,Jones,Mississippi,28067,910,44
+2020-06-21,Jones,North Carolina,37103,28,3
+2020-06-21,Jones,Texas,48253,650,0
+2020-06-22,Jones,Georgia,13169,51,0
+2020-06-22,Jones,Iowa,19105,47,0
+2020-06-22,Jones,Mississippi,28067,928,47
+2020-06-22,Jones,North Carolina,37103,28,3
+2020-06-22,Jones,Texas,48253,650,0
+2020-06-23,Jones,Georgia,13169,51,0
+2020-06-23,Jones,Iowa,19105,47,0
+2020-06-23,Jones,Mississippi,28067,952,47
+2020-06-23,Jones,North Carolina,37103,29,3
+2020-06-23,Jones,Texas,48253,604,0
+2020-06-24,Jones,Georgia,13169,52,0
+2020-06-24,Jones,Iowa,19105,47,0
+2020-06-24,Jones,Mississippi,28067,965,48
+2020-06-24,Jones,North Carolina,37103,29,3
+2020-06-24,Jones,Texas,48253,604,0
+2020-06-25,Jones,Georgia,13169,52,0
+2020-06-25,Jones,Iowa,19105,51,0
+2020-06-25,Jones,Mississippi,28067,994,48
+2020-06-25,Jones,North Carolina,37103,29,3
+2020-06-25,Jones,Texas,48253,604,0
+2020-06-26,Jones,Georgia,13169,61,0
+2020-06-26,Jones,Iowa,19105,51,0
+2020-06-26,Jones,Mississippi,28067,998,48
+2020-06-26,Jones,North Carolina,37103,32,3
+2020-06-26,Jones,Texas,48253,604,0
+2020-06-27,Jones,Georgia,13169,61,0
+2020-06-27,Jones,Iowa,19105,51,0
+2020-06-27,Jones,Mississippi,28067,1014,48
+2020-06-27,Jones,North Carolina,37103,32,3
+2020-06-27,Jones,Texas,48253,607,0
+2020-06-28,Jones,Georgia,13169,62,0
+2020-06-28,Jones,Iowa,19105,51,0
+2020-06-28,Jones,Mississippi,28067,1027,48
+2020-06-28,Jones,North Carolina,37103,35,3
+2020-06-28,Jones,Texas,48253,607,0
+2020-06-29,Jones,Georgia,13169,62,0
+2020-06-29,Jones,Iowa,19105,53,0
+2020-06-29,Jones,Mississippi,28067,1033,49
+2020-06-29,Jones,North Carolina,37103,35,3
+2020-06-29,Jones,Texas,48253,607,0
+2020-06-30,Jones,Georgia,13169,73,0
+2020-06-30,Jones,Iowa,19105,54,0
+2020-06-30,Jones,Mississippi,28067,1061,49
+2020-06-30,Jones,North Carolina,37103,35,3
+2020-06-30,Jones,Texas,48253,611,0
+2020-07-01,Jones,Georgia,13169,77,0
+2020-07-01,Jones,Iowa,19105,55,0
+2020-07-01,Jones,Mississippi,28067,1069,49
+2020-07-01,Jones,North Carolina,37103,35,3
+2020-07-01,Jones,Texas,48253,613,0
+2020-07-02,Jones,Georgia,13169,95,0
+2020-07-02,Jones,Iowa,19105,56,0
+2020-07-02,Jones,Mississippi,28067,1091,49
+2020-07-02,Jones,North Carolina,37103,35,3
+2020-07-02,Jones,Texas,48253,610,0
+2020-07-03,Jones,Georgia,13169,98,0
+2020-07-03,Jones,Iowa,19105,56,0
+2020-07-03,Jones,Mississippi,28067,1104,49
+2020-07-03,Jones,North Carolina,37103,36,3
+2020-07-03,Jones,Texas,48253,610,0
+2020-07-04,Jones,Georgia,13169,101,0
+2020-07-04,Jones,Iowa,19105,56,0
+2020-07-04,Jones,Mississippi,28067,1120,49
+2020-07-04,Jones,North Carolina,37103,36,3
+2020-07-04,Jones,Texas,48253,610,0
+2020-07-05,Jones,Georgia,13169,103,0
+2020-07-05,Jones,Iowa,19105,60,0
+2020-07-05,Jones,Mississippi,28067,1124,49
+2020-07-05,Jones,North Carolina,37103,36,3
+2020-07-05,Jones,Texas,48253,610,0
+2020-07-06,Jones,Georgia,13169,104,0
+2020-07-06,Jones,Iowa,19105,61,0
+2020-07-06,Jones,Mississippi,28067,1128,49
+2020-07-06,Jones,North Carolina,37103,38,3
+2020-07-06,Jones,Texas,48253,610,0
+2020-07-07,Jones,Georgia,13169,114,0
+2020-07-07,Jones,Iowa,19105,64,0
+2020-07-07,Jones,Mississippi,28067,1140,49
+2020-07-07,Jones,North Carolina,37103,39,3
+2020-07-07,Jones,Texas,48253,609,0
+2020-07-08,Jones,Georgia,13169,123,0
+2020-07-08,Jones,Iowa,19105,65,0
+2020-07-08,Jones,Mississippi,28067,1159,49
+2020-07-08,Jones,North Carolina,37103,37,3
+2020-07-08,Jones,South Dakota,46075,1,0
+2020-07-08,Jones,Texas,48253,611,0
+2020-07-09,Jones,Georgia,13169,130,0
+2020-07-09,Jones,Iowa,19105,68,0
+2020-07-09,Jones,Mississippi,28067,1173,49
+2020-07-09,Jones,North Carolina,37103,38,3
+2020-07-09,Jones,South Dakota,46075,1,0
+2020-07-09,Jones,Texas,48253,607,0
+2020-07-10,Jones,Georgia,13169,131,0
+2020-07-10,Jones,Iowa,19105,69,0
+2020-07-10,Jones,Mississippi,28067,1185,49
+2020-07-10,Jones,North Carolina,37103,37,3
+2020-07-10,Jones,South Dakota,46075,1,0
+2020-07-10,Jones,Texas,48253,604,0
+2020-07-11,Jones,Georgia,13169,133,0
+2020-07-11,Jones,Iowa,19105,71,0
+2020-07-11,Jones,Mississippi,28067,1203,49
+2020-07-11,Jones,North Carolina,37103,39,3
+2020-07-11,Jones,South Dakota,46075,1,0
+2020-07-11,Jones,Texas,48253,604,0
+2020-07-12,Jones,Georgia,13169,133,0
+2020-07-12,Jones,Iowa,19105,72,1
+2020-07-12,Jones,Mississippi,28067,1224,49
+2020-07-12,Jones,North Carolina,37103,43,3
+2020-07-12,Jones,South Dakota,46075,1,0
+2020-07-12,Jones,Texas,48253,604,0
+2020-07-13,Jones,Georgia,13169,135,0
+2020-07-13,Jones,Iowa,19105,74,1
+2020-07-13,Jones,Mississippi,28067,1231,49
+2020-07-13,Jones,North Carolina,37103,43,3
+2020-07-13,Jones,South Dakota,46075,1,0
+2020-07-13,Jones,Texas,48253,604,0

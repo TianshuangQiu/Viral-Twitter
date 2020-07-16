@@ -1,0 +1,924 @@
+2020-03-12,Columbia,Washington,53013,1,0
+2020-03-13,Columbia,Washington,53013,1,0
+2020-03-14,Columbia,Washington,53013,1,0
+2020-03-15,Columbia,Washington,53013,1,0
+2020-03-16,Columbia,Washington,53013,1,0
+2020-03-17,Columbia,Washington,53013,1,0
+2020-03-18,Columbia,Georgia,13073,1,0
+2020-03-18,Columbia,Washington,53013,1,0
+2020-03-19,Columbia,Georgia,13073,1,0
+2020-03-19,Columbia,Washington,53013,1,0
+2020-03-19,Columbia,Wisconsin,55021,4,0
+2020-03-20,Columbia,Georgia,13073,1,0
+2020-03-20,Columbia,New York,36021,1,0
+2020-03-20,Columbia,Washington,53013,1,0
+2020-03-20,Columbia,Wisconsin,55021,5,0
+2020-03-21,Columbia,Georgia,13073,3,0
+2020-03-21,Columbia,New York,36021,2,0
+2020-03-21,Columbia,Washington,53013,1,0
+2020-03-21,Columbia,Wisconsin,55021,5,0
+2020-03-22,Columbia,Florida,12023,2,0
+2020-03-22,Columbia,Georgia,13073,3,0
+2020-03-22,Columbia,New York,36021,5,0
+2020-03-22,Columbia,Pennsylvania,42037,1,0
+2020-03-22,Columbia,Washington,53013,1,0
+2020-03-22,Columbia,Wisconsin,55021,5,0
+2020-03-23,Columbia,Florida,12023,2,0
+2020-03-23,Columbia,Georgia,13073,3,0
+2020-03-23,Columbia,New York,36021,10,0
+2020-03-23,Columbia,Pennsylvania,42037,1,0
+2020-03-23,Columbia,Washington,53013,1,0
+2020-03-23,Columbia,Wisconsin,55021,5,0
+2020-03-24,Columbia,Arkansas,05027,1,0
+2020-03-24,Columbia,Florida,12023,3,0
+2020-03-24,Columbia,Georgia,13073,6,0
+2020-03-24,Columbia,New York,36021,11,0
+2020-03-24,Columbia,Pennsylvania,42037,1,0
+2020-03-24,Columbia,Washington,53013,1,0
+2020-03-24,Columbia,Wisconsin,55021,5,0
+2020-03-25,Columbia,Arkansas,05027,1,0
+2020-03-25,Columbia,Florida,12023,3,0
+2020-03-25,Columbia,Georgia,13073,10,0
+2020-03-25,Columbia,New York,36021,12,0
+2020-03-25,Columbia,Pennsylvania,42037,1,0
+2020-03-25,Columbia,Washington,53013,1,0
+2020-03-25,Columbia,Wisconsin,55021,5,0
+2020-03-26,Columbia,Arkansas,05027,1,0
+2020-03-26,Columbia,Florida,12023,3,0
+2020-03-26,Columbia,Georgia,13073,10,0
+2020-03-26,Columbia,New York,36021,13,0
+2020-03-26,Columbia,Pennsylvania,42037,3,0
+2020-03-26,Columbia,Washington,53013,1,0
+2020-03-26,Columbia,Wisconsin,55021,5,0
+2020-03-27,Columbia,Arkansas,05027,1,0
+2020-03-27,Columbia,Florida,12023,3,0
+2020-03-27,Columbia,Georgia,13073,10,0
+2020-03-27,Columbia,New York,36021,20,0
+2020-03-27,Columbia,Oregon,41009,1,0
+2020-03-27,Columbia,Pennsylvania,42037,3,0
+2020-03-27,Columbia,Washington,53013,1,0
+2020-03-27,Columbia,Wisconsin,55021,7,0
+2020-03-28,Columbia,Arkansas,05027,1,0
+2020-03-28,Columbia,Florida,12023,3,0
+2020-03-28,Columbia,Georgia,13073,12,0
+2020-03-28,Columbia,New York,36021,22,0
+2020-03-28,Columbia,Oregon,41009,1,0
+2020-03-28,Columbia,Pennsylvania,42037,4,0
+2020-03-28,Columbia,Washington,53013,1,0
+2020-03-28,Columbia,Wisconsin,55021,7,0
+2020-03-29,Columbia,Arkansas,05027,2,0
+2020-03-29,Columbia,Florida,12023,3,0
+2020-03-29,Columbia,Georgia,13073,12,0
+2020-03-29,Columbia,New York,36021,23,1
+2020-03-29,Columbia,Oregon,41009,1,0
+2020-03-29,Columbia,Pennsylvania,42037,6,0
+2020-03-29,Columbia,Washington,53013,1,0
+2020-03-29,Columbia,Wisconsin,55021,9,0
+2020-03-30,Columbia,Arkansas,05027,2,0
+2020-03-30,Columbia,Florida,12023,3,0
+2020-03-30,Columbia,Georgia,13073,14,0
+2020-03-30,Columbia,New York,36021,26,1
+2020-03-30,Columbia,Oregon,41009,1,0
+2020-03-30,Columbia,Pennsylvania,42037,6,0
+2020-03-30,Columbia,Washington,53013,1,0
+2020-03-30,Columbia,Wisconsin,55021,9,0
+2020-03-31,Columbia,Arkansas,05027,2,0
+2020-03-31,Columbia,Florida,12023,3,0
+2020-03-31,Columbia,Georgia,13073,24,0
+2020-03-31,Columbia,New York,36021,36,1
+2020-03-31,Columbia,Oregon,41009,1,0
+2020-03-31,Columbia,Pennsylvania,42037,7,0
+2020-03-31,Columbia,Washington,53013,1,0
+2020-03-31,Columbia,Wisconsin,55021,9,0
+2020-04-01,Columbia,Arkansas,05027,2,0
+2020-04-01,Columbia,Florida,12023,3,0
+2020-04-01,Columbia,Georgia,13073,24,0
+2020-04-01,Columbia,New York,36021,41,1
+2020-04-01,Columbia,Oregon,41009,1,0
+2020-04-01,Columbia,Pennsylvania,42037,8,0
+2020-04-01,Columbia,Washington,53013,1,0
+2020-04-01,Columbia,Wisconsin,55021,13,0
+2020-04-02,Columbia,Arkansas,05027,2,0
+2020-04-02,Columbia,Florida,12023,4,0
+2020-04-02,Columbia,Georgia,13073,27,0
+2020-04-02,Columbia,New York,36021,41,2
+2020-04-02,Columbia,Oregon,41009,1,0
+2020-04-02,Columbia,Pennsylvania,42037,11,0
+2020-04-02,Columbia,Washington,53013,1,0
+2020-04-02,Columbia,Wisconsin,55021,15,0
+2020-04-03,Columbia,Arkansas,05027,3,0
+2020-04-03,Columbia,Florida,12023,4,0
+2020-04-03,Columbia,Georgia,13073,33,0
+2020-04-03,Columbia,New York,36021,41,2
+2020-04-03,Columbia,Oregon,41009,1,0
+2020-04-03,Columbia,Pennsylvania,42037,15,0
+2020-04-03,Columbia,Washington,53013,1,0
+2020-04-03,Columbia,Wisconsin,55021,18,0
+2020-04-04,Columbia,Arkansas,05027,3,0
+2020-04-04,Columbia,Florida,12023,10,0
+2020-04-04,Columbia,Georgia,13073,36,0
+2020-04-04,Columbia,New York,36021,61,3
+2020-04-04,Columbia,Oregon,41009,3,0
+2020-04-04,Columbia,Pennsylvania,42037,20,0
+2020-04-04,Columbia,Washington,53013,1,0
+2020-04-04,Columbia,Wisconsin,55021,19,0
+2020-04-05,Columbia,Arkansas,05027,3,0
+2020-04-05,Columbia,Florida,12023,13,0
+2020-04-05,Columbia,Georgia,13073,36,0
+2020-04-05,Columbia,New York,36021,61,3
+2020-04-05,Columbia,Oregon,41009,6,0
+2020-04-05,Columbia,Pennsylvania,42037,22,0
+2020-04-05,Columbia,Washington,53013,1,0
+2020-04-05,Columbia,Wisconsin,55021,19,0
+2020-04-06,Columbia,Arkansas,05027,3,0
+2020-04-06,Columbia,Florida,12023,15,0
+2020-04-06,Columbia,Georgia,13073,40,0
+2020-04-06,Columbia,New York,36021,70,3
+2020-04-06,Columbia,Oregon,41009,8,0
+2020-04-06,Columbia,Pennsylvania,42037,26,0
+2020-04-06,Columbia,Washington,53013,1,0
+2020-04-06,Columbia,Wisconsin,55021,21,1
+2020-04-07,Columbia,Arkansas,05027,3,0
+2020-04-07,Columbia,Florida,12023,16,0
+2020-04-07,Columbia,Georgia,13073,46,0
+2020-04-07,Columbia,New York,36021,72,3
+2020-04-07,Columbia,Oregon,41009,8,0
+2020-04-07,Columbia,Pennsylvania,42037,42,1
+2020-04-07,Columbia,Washington,53013,1,0
+2020-04-07,Columbia,Wisconsin,55021,23,1
+2020-04-08,Columbia,Arkansas,05027,3,0
+2020-04-08,Columbia,Florida,12023,16,0
+2020-04-08,Columbia,Georgia,13073,50,0
+2020-04-08,Columbia,New York,36021,72,4
+2020-04-08,Columbia,Oregon,41009,9,0
+2020-04-08,Columbia,Pennsylvania,42037,54,1
+2020-04-08,Columbia,Washington,53013,1,0
+2020-04-08,Columbia,Wisconsin,55021,24,1
+2020-04-09,Columbia,Arkansas,05027,3,0
+2020-04-09,Columbia,Florida,12023,18,0
+2020-04-09,Columbia,Georgia,13073,58,0
+2020-04-09,Columbia,New York,36021,70,4
+2020-04-09,Columbia,Oregon,41009,10,0
+2020-04-09,Columbia,Pennsylvania,42037,65,2
+2020-04-09,Columbia,Washington,53013,1,0
+2020-04-09,Columbia,Wisconsin,55021,25,1
+2020-04-10,Columbia,Arkansas,05027,3,0
+2020-04-10,Columbia,Florida,12023,23,0
+2020-04-10,Columbia,Georgia,13073,65,0
+2020-04-10,Columbia,New York,36021,74,4
+2020-04-10,Columbia,Oregon,41009,10,0
+2020-04-10,Columbia,Pennsylvania,42037,81,2
+2020-04-10,Columbia,Washington,53013,1,0
+2020-04-10,Columbia,Wisconsin,55021,24,1
+2020-04-11,Columbia,Arkansas,05027,3,0
+2020-04-11,Columbia,Florida,12023,25,0
+2020-04-11,Columbia,Georgia,13073,68,0
+2020-04-11,Columbia,New York,36021,77,6
+2020-04-11,Columbia,Oregon,41009,10,0
+2020-04-11,Columbia,Pennsylvania,42037,99,2
+2020-04-11,Columbia,Washington,53013,1,0
+2020-04-11,Columbia,Wisconsin,55021,24,1
+2020-04-12,Columbia,Arkansas,05027,3,0
+2020-04-12,Columbia,Florida,12023,26,0
+2020-04-12,Columbia,Georgia,13073,69,0
+2020-04-12,Columbia,New York,36021,79,8
+2020-04-12,Columbia,Oregon,41009,10,0
+2020-04-12,Columbia,Pennsylvania,42037,106,3
+2020-04-12,Columbia,Washington,53013,1,0
+2020-04-12,Columbia,Wisconsin,55021,24,1
+2020-04-13,Columbia,Arkansas,05027,3,0
+2020-04-13,Columbia,Florida,12023,27,0
+2020-04-13,Columbia,Georgia,13073,71,0
+2020-04-13,Columbia,New York,36021,80,9
+2020-04-13,Columbia,Oregon,41009,12,0
+2020-04-13,Columbia,Pennsylvania,42037,113,3
+2020-04-13,Columbia,Washington,53013,1,0
+2020-04-13,Columbia,Wisconsin,55021,25,1
+2020-04-14,Columbia,Arkansas,05027,3,0
+2020-04-14,Columbia,Florida,12023,28,0
+2020-04-14,Columbia,Georgia,13073,75,0
+2020-04-14,Columbia,New York,36021,84,10
+2020-04-14,Columbia,Oregon,41009,11,0
+2020-04-14,Columbia,Pennsylvania,42037,125,3
+2020-04-14,Columbia,Washington,53013,1,0
+2020-04-14,Columbia,Wisconsin,55021,25,1
+2020-04-15,Columbia,Arkansas,05027,4,0
+2020-04-15,Columbia,Florida,12023,34,0
+2020-04-15,Columbia,Georgia,13073,79,0
+2020-04-15,Columbia,New York,36021,96,11
+2020-04-15,Columbia,Oregon,41009,14,0
+2020-04-15,Columbia,Pennsylvania,42037,131,3
+2020-04-15,Columbia,Washington,53013,1,0
+2020-04-15,Columbia,Wisconsin,55021,27,1
+2020-04-16,Columbia,Arkansas,05027,4,0
+2020-04-16,Columbia,Florida,12023,35,0
+2020-04-16,Columbia,Georgia,13073,87,0
+2020-04-16,Columbia,New York,36021,99,13
+2020-04-16,Columbia,Oregon,41009,14,0
+2020-04-16,Columbia,Pennsylvania,42037,146,3
+2020-04-16,Columbia,Washington,53013,1,0
+2020-04-16,Columbia,Wisconsin,55021,27,1
+2020-04-17,Columbia,Arkansas,05027,4,0
+2020-04-17,Columbia,Florida,12023,35,0
+2020-04-17,Columbia,Georgia,13073,91,1
+2020-04-17,Columbia,New York,36021,101,13
+2020-04-17,Columbia,Oregon,41009,14,0
+2020-04-17,Columbia,Pennsylvania,42037,166,3
+2020-04-17,Columbia,Washington,53013,1,0
+2020-04-17,Columbia,Wisconsin,55021,27,1
+2020-04-18,Columbia,Arkansas,05027,5,0
+2020-04-18,Columbia,Florida,12023,36,0
+2020-04-18,Columbia,Georgia,13073,100,1
+2020-04-18,Columbia,New York,36021,105,13
+2020-04-18,Columbia,Oregon,41009,14,0
+2020-04-18,Columbia,Pennsylvania,42037,184,4
+2020-04-18,Columbia,Washington,53013,1,0
+2020-04-18,Columbia,Wisconsin,55021,27,1
+2020-04-19,Columbia,Arkansas,05027,5,0
+2020-04-19,Columbia,Florida,12023,39,0
+2020-04-19,Columbia,Georgia,13073,101,1
+2020-04-19,Columbia,New York,36021,107,15
+2020-04-19,Columbia,Oregon,41009,14,0
+2020-04-19,Columbia,Pennsylvania,42037,202,6
+2020-04-19,Columbia,Washington,53013,1,0
+2020-04-19,Columbia,Wisconsin,55021,27,1
+2020-04-20,Columbia,Arkansas,05027,5,0
+2020-04-20,Columbia,Florida,12023,40,0
+2020-04-20,Columbia,Georgia,13073,116,2
+2020-04-20,Columbia,New York,36021,111,15
+2020-04-20,Columbia,Oregon,41009,14,0
+2020-04-20,Columbia,Pennsylvania,42037,208,7
+2020-04-20,Columbia,Washington,53013,1,0
+2020-04-20,Columbia,Wisconsin,55021,27,1
+2020-04-21,Columbia,Arkansas,05027,5,0
+2020-04-21,Columbia,Florida,12023,43,0
+2020-04-21,Columbia,Georgia,13073,122,2
+2020-04-21,Columbia,New York,36021,113,16
+2020-04-21,Columbia,Oregon,41009,14,0
+2020-04-21,Columbia,Pennsylvania,42037,225,8
+2020-04-21,Columbia,Washington,53013,1,0
+2020-04-21,Columbia,Wisconsin,55021,27,1
+2020-04-22,Columbia,Arkansas,05027,5,0
+2020-04-22,Columbia,Florida,12023,42,0
+2020-04-22,Columbia,Georgia,13073,124,2
+2020-04-22,Columbia,New York,36021,117,16
+2020-04-22,Columbia,Oregon,41009,14,0
+2020-04-22,Columbia,Pennsylvania,42037,239,8
+2020-04-22,Columbia,Washington,53013,1,0
+2020-04-22,Columbia,Wisconsin,55021,27,1
+2020-04-23,Columbia,Arkansas,05027,5,0
+2020-04-23,Columbia,Florida,12023,46,0
+2020-04-23,Columbia,Georgia,13073,129,2
+2020-04-23,Columbia,New York,36021,123,16
+2020-04-23,Columbia,Oregon,41009,14,0
+2020-04-23,Columbia,Pennsylvania,42037,245,8
+2020-04-23,Columbia,Washington,53013,1,0
+2020-04-23,Columbia,Wisconsin,55021,27,1
+2020-04-24,Columbia,Arkansas,05027,6,0
+2020-04-24,Columbia,Florida,12023,46,0
+2020-04-24,Columbia,Georgia,13073,137,2
+2020-04-24,Columbia,New York,36021,129,16
+2020-04-24,Columbia,Oregon,41009,14,0
+2020-04-24,Columbia,Pennsylvania,42037,252,8
+2020-04-24,Columbia,Washington,53013,1,0
+2020-04-24,Columbia,Wisconsin,55021,27,1
+2020-04-25,Columbia,Arkansas,05027,5,0
+2020-04-25,Columbia,Florida,12023,47,0
+2020-04-25,Columbia,Georgia,13073,138,2
+2020-04-25,Columbia,New York,36021,140,16
+2020-04-25,Columbia,Oregon,41009,14,0
+2020-04-25,Columbia,Pennsylvania,42037,257,8
+2020-04-25,Columbia,Washington,53013,1,0
+2020-04-25,Columbia,Wisconsin,55021,27,1
+2020-04-26,Columbia,Arkansas,05027,6,0
+2020-04-26,Columbia,Florida,12023,49,0
+2020-04-26,Columbia,Georgia,13073,143,2
+2020-04-26,Columbia,New York,36021,143,16
+2020-04-26,Columbia,Oregon,41009,14,0
+2020-04-26,Columbia,Pennsylvania,42037,269,8
+2020-04-26,Columbia,Washington,53013,1,0
+2020-04-26,Columbia,Wisconsin,55021,27,1
+2020-04-27,Columbia,Arkansas,05027,9,0
+2020-04-27,Columbia,Florida,12023,53,0
+2020-04-27,Columbia,Georgia,13073,144,2
+2020-04-27,Columbia,New York,36021,146,16
+2020-04-27,Columbia,Oregon,41009,14,0
+2020-04-27,Columbia,Pennsylvania,42037,277,8
+2020-04-27,Columbia,Washington,53013,1,0
+2020-04-27,Columbia,Wisconsin,55021,27,1
+2020-04-28,Columbia,Arkansas,05027,12,0
+2020-04-28,Columbia,Florida,12023,55,2
+2020-04-28,Columbia,Georgia,13073,149,3
+2020-04-28,Columbia,New York,36021,154,16
+2020-04-28,Columbia,Oregon,41009,14,0
+2020-04-28,Columbia,Pennsylvania,42037,279,8
+2020-04-28,Columbia,Washington,53013,1,0
+2020-04-28,Columbia,Wisconsin,55021,27,1
+2020-04-29,Columbia,Arkansas,05027,12,0
+2020-04-29,Columbia,Florida,12023,57,2
+2020-04-29,Columbia,Georgia,13073,156,4
+2020-04-29,Columbia,New York,36021,165,16
+2020-04-29,Columbia,Oregon,41009,14,0
+2020-04-29,Columbia,Pennsylvania,42037,283,14
+2020-04-29,Columbia,Washington,53013,1,0
+2020-04-29,Columbia,Wisconsin,55021,27,1
+2020-04-30,Columbia,Arkansas,05027,13,0
+2020-04-30,Columbia,Florida,12023,58,2
+2020-04-30,Columbia,Georgia,13073,160,4
+2020-04-30,Columbia,New York,36021,170,16
+2020-04-30,Columbia,Oregon,41009,14,0
+2020-04-30,Columbia,Pennsylvania,42037,283,14
+2020-04-30,Columbia,Washington,53013,1,0
+2020-04-30,Columbia,Wisconsin,55021,27,1
+2020-05-01,Columbia,Arkansas,05027,13,0
+2020-05-01,Columbia,Florida,12023,64,2
+2020-05-01,Columbia,Georgia,13073,162,4
+2020-05-01,Columbia,New York,36021,202,16
+2020-05-01,Columbia,Oregon,41009,14,0
+2020-05-01,Columbia,Pennsylvania,42037,289,14
+2020-05-01,Columbia,Washington,53013,1,0
+2020-05-01,Columbia,Wisconsin,55021,28,1
+2020-05-02,Columbia,Arkansas,05027,13,2
+2020-05-02,Columbia,Florida,12023,68,2
+2020-05-02,Columbia,Georgia,13073,163,4
+2020-05-02,Columbia,New York,36021,205,16
+2020-05-02,Columbia,Oregon,41009,14,0
+2020-05-02,Columbia,Pennsylvania,42037,290,14
+2020-05-02,Columbia,Washington,53013,1,0
+2020-05-02,Columbia,Wisconsin,55021,29,1
+2020-05-03,Columbia,Arkansas,05027,13,2
+2020-05-03,Columbia,Florida,12023,92,2
+2020-05-03,Columbia,Georgia,13073,164,4
+2020-05-03,Columbia,New York,36021,209,17
+2020-05-03,Columbia,Oregon,41009,14,0
+2020-05-03,Columbia,Pennsylvania,42037,291,14
+2020-05-03,Columbia,Washington,53013,1,0
+2020-05-03,Columbia,Wisconsin,55021,29,1
+2020-05-04,Columbia,Arkansas,05027,13,2
+2020-05-04,Columbia,Florida,12023,96,2
+2020-05-04,Columbia,Georgia,13073,168,4
+2020-05-04,Columbia,New York,36021,213,17
+2020-05-04,Columbia,Oregon,41009,14,0
+2020-05-04,Columbia,Pennsylvania,42037,296,14
+2020-05-04,Columbia,Washington,53013,1,0
+2020-05-04,Columbia,Wisconsin,55021,30,1
+2020-05-05,Columbia,Arkansas,05027,13,2
+2020-05-05,Columbia,Florida,12023,96,2
+2020-05-05,Columbia,Georgia,13073,169,5
+2020-05-05,Columbia,New York,36021,229,18
+2020-05-05,Columbia,Oregon,41009,14,0
+2020-05-05,Columbia,Pennsylvania,42037,298,16
+2020-05-05,Columbia,Washington,53013,1,0
+2020-05-05,Columbia,Wisconsin,55021,32,1
+2020-05-06,Columbia,Arkansas,05027,15,2
+2020-05-06,Columbia,Florida,12023,96,2
+2020-05-06,Columbia,Georgia,13073,170,5
+2020-05-06,Columbia,New York,36021,291,21
+2020-05-06,Columbia,Oregon,41009,15,0
+2020-05-06,Columbia,Pennsylvania,42037,302,16
+2020-05-06,Columbia,Washington,53013,1,0
+2020-05-06,Columbia,Wisconsin,55021,32,1
+2020-05-07,Columbia,Arkansas,05027,15,2
+2020-05-07,Columbia,Florida,12023,101,2
+2020-05-07,Columbia,Georgia,13073,170,5
+2020-05-07,Columbia,New York,36021,302,21
+2020-05-07,Columbia,Oregon,41009,15,0
+2020-05-07,Columbia,Pennsylvania,42037,306,21
+2020-05-07,Columbia,Washington,53013,1,0
+2020-05-07,Columbia,Wisconsin,55021,32,1
+2020-05-08,Columbia,Arkansas,05027,15,2
+2020-05-08,Columbia,Florida,12023,102,2
+2020-05-08,Columbia,Georgia,13073,178,5
+2020-05-08,Columbia,New York,36021,304,21
+2020-05-08,Columbia,Oregon,41009,15,0
+2020-05-08,Columbia,Pennsylvania,42037,307,20
+2020-05-08,Columbia,Washington,53013,1,0
+2020-05-08,Columbia,Wisconsin,55021,32,1
+2020-05-09,Columbia,Arkansas,05027,15,2
+2020-05-09,Columbia,Florida,12023,102,2
+2020-05-09,Columbia,Georgia,13073,179,5
+2020-05-09,Columbia,New York,36021,304,23
+2020-05-09,Columbia,Oregon,41009,15,0
+2020-05-09,Columbia,Pennsylvania,42037,323,28
+2020-05-09,Columbia,Washington,53013,1,0
+2020-05-09,Columbia,Wisconsin,55021,32,1
+2020-05-10,Columbia,Arkansas,05027,15,2
+2020-05-10,Columbia,Florida,12023,103,2
+2020-05-10,Columbia,Georgia,13073,183,5
+2020-05-10,Columbia,New York,36021,312,23
+2020-05-10,Columbia,Oregon,41009,15,0
+2020-05-10,Columbia,Pennsylvania,42037,324,28
+2020-05-10,Columbia,Washington,53013,1,0
+2020-05-10,Columbia,Wisconsin,55021,32,1
+2020-05-11,Columbia,Arkansas,05027,15,2
+2020-05-11,Columbia,Florida,12023,103,2
+2020-05-11,Columbia,Georgia,13073,183,5
+2020-05-11,Columbia,New York,36021,314,23
+2020-05-11,Columbia,Oregon,41009,15,0
+2020-05-11,Columbia,Pennsylvania,42037,328,28
+2020-05-11,Columbia,Washington,53013,1,0
+2020-05-11,Columbia,Wisconsin,55021,32,1
+2020-05-12,Columbia,Arkansas,05027,15,2
+2020-05-12,Columbia,Florida,12023,105,2
+2020-05-12,Columbia,Georgia,13073,186,6
+2020-05-12,Columbia,New York,36021,314,26
+2020-05-12,Columbia,Oregon,41009,15,0
+2020-05-12,Columbia,Pennsylvania,42037,330,28
+2020-05-12,Columbia,Washington,53013,1,0
+2020-05-12,Columbia,Wisconsin,55021,34,1
+2020-05-13,Columbia,Arkansas,05027,15,2
+2020-05-13,Columbia,Florida,12023,107,2
+2020-05-13,Columbia,Georgia,13073,191,6
+2020-05-13,Columbia,New York,36021,318,29
+2020-05-13,Columbia,Oregon,41009,16,0
+2020-05-13,Columbia,Pennsylvania,42037,330,28
+2020-05-13,Columbia,Washington,53013,1,0
+2020-05-13,Columbia,Wisconsin,55021,34,1
+2020-05-14,Columbia,Arkansas,05027,15,2
+2020-05-14,Columbia,Florida,12023,107,2
+2020-05-14,Columbia,Georgia,13073,197,6
+2020-05-14,Columbia,New York,36021,327,30
+2020-05-14,Columbia,Oregon,41009,16,0
+2020-05-14,Columbia,Pennsylvania,42037,333,31
+2020-05-14,Columbia,Washington,53013,1,0
+2020-05-14,Columbia,Wisconsin,55021,34,1
+2020-05-15,Columbia,Arkansas,05027,15,2
+2020-05-15,Columbia,Florida,12023,108,2
+2020-05-15,Columbia,Georgia,13073,202,6
+2020-05-15,Columbia,New York,36021,333,30
+2020-05-15,Columbia,Oregon,41009,16,0
+2020-05-15,Columbia,Pennsylvania,42037,334,33
+2020-05-15,Columbia,Washington,53013,1,0
+2020-05-15,Columbia,Wisconsin,55021,34,1
+2020-05-16,Columbia,Arkansas,05027,15,2
+2020-05-16,Columbia,Florida,12023,108,2
+2020-05-16,Columbia,Georgia,13073,205,6
+2020-05-16,Columbia,New York,36021,338,30
+2020-05-16,Columbia,Oregon,41009,16,0
+2020-05-16,Columbia,Pennsylvania,42037,336,33
+2020-05-16,Columbia,Washington,53013,1,0
+2020-05-16,Columbia,Wisconsin,55021,36,1
+2020-05-17,Columbia,Arkansas,05027,15,2
+2020-05-17,Columbia,Florida,12023,111,2
+2020-05-17,Columbia,Georgia,13073,205,6
+2020-05-17,Columbia,New York,36021,340,30
+2020-05-17,Columbia,Oregon,41009,16,0
+2020-05-17,Columbia,Pennsylvania,42037,336,33
+2020-05-17,Columbia,Washington,53013,1,0
+2020-05-17,Columbia,Wisconsin,55021,36,1
+2020-05-18,Columbia,Arkansas,05027,16,2
+2020-05-18,Columbia,Florida,12023,113,2
+2020-05-18,Columbia,Georgia,13073,212,6
+2020-05-18,Columbia,New York,36021,346,31
+2020-05-18,Columbia,Oregon,41009,16,0
+2020-05-18,Columbia,Pennsylvania,42037,337,29
+2020-05-18,Columbia,Washington,53013,1,0
+2020-05-18,Columbia,Wisconsin,55021,36,1
+2020-05-19,Columbia,Arkansas,05027,18,2
+2020-05-19,Columbia,Florida,12023,113,2
+2020-05-19,Columbia,Georgia,13073,212,6
+2020-05-19,Columbia,New York,36021,350,32
+2020-05-19,Columbia,Oregon,41009,16,0
+2020-05-19,Columbia,Pennsylvania,42037,337,29
+2020-05-19,Columbia,Washington,53013,1,0
+2020-05-19,Columbia,Wisconsin,55021,36,1
+2020-05-20,Columbia,Arkansas,05027,20,2
+2020-05-20,Columbia,Florida,12023,115,2
+2020-05-20,Columbia,Georgia,13073,214,6
+2020-05-20,Columbia,New York,36021,350,32
+2020-05-20,Columbia,Oregon,41009,16,0
+2020-05-20,Columbia,Pennsylvania,42037,340,29
+2020-05-20,Columbia,Washington,53013,1,0
+2020-05-20,Columbia,Wisconsin,55021,37,1
+2020-05-21,Columbia,Arkansas,05027,20,2
+2020-05-21,Columbia,Florida,12023,119,2
+2020-05-21,Columbia,Georgia,13073,224,6
+2020-05-21,Columbia,New York,36021,355,34
+2020-05-21,Columbia,Oregon,41009,16,0
+2020-05-21,Columbia,Pennsylvania,42037,342,29
+2020-05-21,Columbia,Washington,53013,1,0
+2020-05-21,Columbia,Wisconsin,55021,36,1
+2020-05-22,Columbia,Arkansas,05027,20,2
+2020-05-22,Columbia,Florida,12023,121,2
+2020-05-22,Columbia,Georgia,13073,223,6
+2020-05-22,Columbia,New York,36021,356,34
+2020-05-22,Columbia,Oregon,41009,16,0
+2020-05-22,Columbia,Pennsylvania,42037,342,29
+2020-05-22,Columbia,Washington,53013,1,0
+2020-05-22,Columbia,Wisconsin,55021,37,1
+2020-05-23,Columbia,Arkansas,05027,20,2
+2020-05-23,Columbia,Florida,12023,125,2
+2020-05-23,Columbia,Georgia,13073,223,6
+2020-05-23,Columbia,New York,36021,359,35
+2020-05-23,Columbia,Oregon,41009,16,0
+2020-05-23,Columbia,Pennsylvania,42037,342,29
+2020-05-23,Columbia,Washington,53013,1,0
+2020-05-23,Columbia,Wisconsin,55021,37,1
+2020-05-24,Columbia,Arkansas,05027,20,2
+2020-05-24,Columbia,Florida,12023,130,2
+2020-05-24,Columbia,Georgia,13073,223,6
+2020-05-24,Columbia,New York,36021,365,36
+2020-05-24,Columbia,Oregon,41009,16,0
+2020-05-24,Columbia,Pennsylvania,42037,344,30
+2020-05-24,Columbia,Washington,53013,1,0
+2020-05-24,Columbia,Wisconsin,55021,37,1
+2020-05-25,Columbia,Arkansas,05027,20,2
+2020-05-25,Columbia,Florida,12023,131,2
+2020-05-25,Columbia,Georgia,13073,224,6
+2020-05-25,Columbia,New York,36021,372,36
+2020-05-25,Columbia,Oregon,41009,16,0
+2020-05-25,Columbia,Pennsylvania,42037,343,31
+2020-05-25,Columbia,Washington,53013,1,0
+2020-05-25,Columbia,Wisconsin,55021,38,1
+2020-05-26,Columbia,Arkansas,05027,20,2
+2020-05-26,Columbia,Florida,12023,132,2
+2020-05-26,Columbia,Georgia,13073,229,7
+2020-05-26,Columbia,New York,36021,373,36
+2020-05-26,Columbia,Oregon,41009,16,0
+2020-05-26,Columbia,Pennsylvania,42037,343,31
+2020-05-26,Columbia,Washington,53013,1,0
+2020-05-26,Columbia,Wisconsin,55021,38,1
+2020-05-27,Columbia,Arkansas,05027,20,2
+2020-05-27,Columbia,Florida,12023,135,2
+2020-05-27,Columbia,Georgia,13073,237,7
+2020-05-27,Columbia,New York,36021,380,37
+2020-05-27,Columbia,Oregon,41009,16,0
+2020-05-27,Columbia,Pennsylvania,42037,346,31
+2020-05-27,Columbia,Washington,53013,1,0
+2020-05-27,Columbia,Wisconsin,55021,40,1
+2020-05-28,Columbia,Arkansas,05027,20,2
+2020-05-28,Columbia,Florida,12023,136,2
+2020-05-28,Columbia,Georgia,13073,243,7
+2020-05-28,Columbia,New York,36021,380,37
+2020-05-28,Columbia,Oregon,41009,16,0
+2020-05-28,Columbia,Pennsylvania,42037,346,31
+2020-05-28,Columbia,Washington,53013,1,0
+2020-05-28,Columbia,Wisconsin,55021,42,1
+2020-05-29,Columbia,Arkansas,05027,21,2
+2020-05-29,Columbia,Florida,12023,140,2
+2020-05-29,Columbia,Georgia,13073,248,7
+2020-05-29,Columbia,New York,36021,382,37
+2020-05-29,Columbia,Oregon,41009,16,0
+2020-05-29,Columbia,Pennsylvania,42037,346,31
+2020-05-29,Columbia,Washington,53013,1,0
+2020-05-29,Columbia,Wisconsin,55021,43,1
+2020-05-30,Columbia,Arkansas,05027,25,2
+2020-05-30,Columbia,Florida,12023,144,2
+2020-05-30,Columbia,Georgia,13073,248,7
+2020-05-30,Columbia,New York,36021,383,37
+2020-05-30,Columbia,Oregon,41009,16,0
+2020-05-30,Columbia,Pennsylvania,42037,346,31
+2020-05-30,Columbia,Washington,53013,1,0
+2020-05-30,Columbia,Wisconsin,55021,44,1
+2020-05-31,Columbia,Arkansas,05027,23,2
+2020-05-31,Columbia,Florida,12023,144,2
+2020-05-31,Columbia,Georgia,13073,248,7
+2020-05-31,Columbia,New York,36021,387,38
+2020-05-31,Columbia,Oregon,41009,16,0
+2020-05-31,Columbia,Pennsylvania,42037,348,31
+2020-05-31,Columbia,Washington,53013,1,0
+2020-05-31,Columbia,Wisconsin,55021,44,1
+2020-06-01,Columbia,Arkansas,05027,23,2
+2020-06-01,Columbia,Florida,12023,148,2
+2020-06-01,Columbia,Georgia,13073,251,8
+2020-06-01,Columbia,New York,36021,389,38
+2020-06-01,Columbia,Oregon,41009,16,0
+2020-06-01,Columbia,Pennsylvania,42037,348,31
+2020-06-01,Columbia,Washington,53013,1,0
+2020-06-01,Columbia,Wisconsin,55021,44,1
+2020-06-02,Columbia,Arkansas,05027,22,2
+2020-06-02,Columbia,Florida,12023,147,2
+2020-06-02,Columbia,Georgia,13073,251,8
+2020-06-02,Columbia,New York,36021,391,38
+2020-06-02,Columbia,Oregon,41009,16,0
+2020-06-02,Columbia,Pennsylvania,42037,349,31
+2020-06-02,Columbia,Washington,53013,1,0
+2020-06-02,Columbia,Wisconsin,55021,44,1
+2020-06-03,Columbia,Arkansas,05027,22,2
+2020-06-03,Columbia,Florida,12023,153,2
+2020-06-03,Columbia,Georgia,13073,266,8
+2020-06-03,Columbia,New York,36021,399,38
+2020-06-03,Columbia,Oregon,41009,16,0
+2020-06-03,Columbia,Pennsylvania,42037,349,31
+2020-06-03,Columbia,Washington,53013,1,0
+2020-06-03,Columbia,Wisconsin,55021,44,1
+2020-06-04,Columbia,Arkansas,05027,23,2
+2020-06-04,Columbia,Florida,12023,160,2
+2020-06-04,Columbia,Georgia,13073,266,8
+2020-06-04,Columbia,New York,36021,400,39
+2020-06-04,Columbia,Oregon,41009,16,0
+2020-06-04,Columbia,Pennsylvania,42037,352,31
+2020-06-04,Columbia,Washington,53013,1,0
+2020-06-04,Columbia,Wisconsin,55021,44,1
+2020-06-05,Columbia,Arkansas,05027,23,2
+2020-06-05,Columbia,Florida,12023,167,2
+2020-06-05,Columbia,Georgia,13073,270,8
+2020-06-05,Columbia,New York,36021,411,39
+2020-06-05,Columbia,Oregon,41009,16,0
+2020-06-05,Columbia,Pennsylvania,42037,352,31
+2020-06-05,Columbia,Washington,53013,1,0
+2020-06-05,Columbia,Wisconsin,55021,44,1
+2020-06-06,Columbia,Arkansas,05027,23,2
+2020-06-06,Columbia,Florida,12023,171,2
+2020-06-06,Columbia,Georgia,13073,274,8
+2020-06-06,Columbia,New York,36021,412,39
+2020-06-06,Columbia,Oregon,41009,16,0
+2020-06-06,Columbia,Pennsylvania,42037,361,31
+2020-06-06,Columbia,Washington,53013,1,0
+2020-06-06,Columbia,Wisconsin,55021,44,1
+2020-06-07,Columbia,Arkansas,05027,23,2
+2020-06-07,Columbia,Florida,12023,171,2
+2020-06-07,Columbia,Georgia,13073,274,8
+2020-06-07,Columbia,New York,36021,414,39
+2020-06-07,Columbia,Oregon,41009,16,0
+2020-06-07,Columbia,Pennsylvania,42037,364,31
+2020-06-07,Columbia,Washington,53013,1,0
+2020-06-07,Columbia,Wisconsin,55021,46,1
+2020-06-08,Columbia,Arkansas,05027,25,2
+2020-06-08,Columbia,Florida,12023,171,2
+2020-06-08,Columbia,Georgia,13073,278,8
+2020-06-08,Columbia,New York,36021,414,39
+2020-06-08,Columbia,Oregon,41009,16,0
+2020-06-08,Columbia,Pennsylvania,42037,364,31
+2020-06-08,Columbia,Washington,53013,1,0
+2020-06-08,Columbia,Wisconsin,55021,46,1
+2020-06-09,Columbia,Arkansas,05027,26,2
+2020-06-09,Columbia,Florida,12023,174,2
+2020-06-09,Columbia,Georgia,13073,288,8
+2020-06-09,Columbia,New York,36021,414,40
+2020-06-09,Columbia,Oregon,41009,17,0
+2020-06-09,Columbia,Pennsylvania,42037,367,31
+2020-06-09,Columbia,Washington,53013,1,0
+2020-06-09,Columbia,Wisconsin,55021,47,1
+2020-06-10,Columbia,Arkansas,05027,26,2
+2020-06-10,Columbia,Florida,12023,175,2
+2020-06-10,Columbia,Georgia,13073,289,8
+2020-06-10,Columbia,New York,36021,420,41
+2020-06-10,Columbia,Oregon,41009,17,0
+2020-06-10,Columbia,Pennsylvania,42037,368,32
+2020-06-10,Columbia,Washington,53013,1,0
+2020-06-10,Columbia,Wisconsin,55021,49,1
+2020-06-11,Columbia,Arkansas,05027,27,2
+2020-06-11,Columbia,Florida,12023,177,2
+2020-06-11,Columbia,Georgia,13073,290,8
+2020-06-11,Columbia,New York,36021,424,41
+2020-06-11,Columbia,Oregon,41009,17,0
+2020-06-11,Columbia,Pennsylvania,42037,369,33
+2020-06-11,Columbia,Washington,53013,1,0
+2020-06-11,Columbia,Wisconsin,55021,50,1
+2020-06-12,Columbia,Arkansas,05027,27,2
+2020-06-12,Columbia,Florida,12023,177,2
+2020-06-12,Columbia,Georgia,13073,295,8
+2020-06-12,Columbia,New York,36021,428,42
+2020-06-12,Columbia,Oregon,41009,20,0
+2020-06-12,Columbia,Pennsylvania,42037,371,33
+2020-06-12,Columbia,Washington,53013,1,0
+2020-06-12,Columbia,Wisconsin,55021,55,1
+2020-06-13,Columbia,Arkansas,05027,27,2
+2020-06-13,Columbia,Florida,12023,177,2
+2020-06-13,Columbia,Georgia,13073,296,8
+2020-06-13,Columbia,New York,36021,431,42
+2020-06-13,Columbia,Oregon,41009,21,0
+2020-06-13,Columbia,Pennsylvania,42037,376,33
+2020-06-13,Columbia,Washington,53013,1,0
+2020-06-13,Columbia,Wisconsin,55021,56,1
+2020-06-14,Columbia,Arkansas,05027,28,2
+2020-06-14,Columbia,Florida,12023,182,2
+2020-06-14,Columbia,Georgia,13073,300,8
+2020-06-14,Columbia,New York,36021,436,42
+2020-06-14,Columbia,Oregon,41009,22,0
+2020-06-14,Columbia,Pennsylvania,42037,378,33
+2020-06-14,Columbia,Washington,53013,1,0
+2020-06-14,Columbia,Wisconsin,55021,56,1
+2020-06-15,Columbia,Arkansas,05027,28,2
+2020-06-15,Columbia,Florida,12023,183,2
+2020-06-15,Columbia,Georgia,13073,301,8
+2020-06-15,Columbia,New York,36021,439,42
+2020-06-15,Columbia,Oregon,41009,22,0
+2020-06-15,Columbia,Pennsylvania,42037,380,33
+2020-06-15,Columbia,Washington,53013,1,0
+2020-06-15,Columbia,Wisconsin,55021,56,1
+2020-06-16,Columbia,Arkansas,05027,29,2
+2020-06-16,Columbia,Florida,12023,187,2
+2020-06-16,Columbia,Georgia,13073,305,8
+2020-06-16,Columbia,New York,36021,442,43
+2020-06-16,Columbia,Oregon,41009,22,0
+2020-06-16,Columbia,Pennsylvania,42037,385,33
+2020-06-16,Columbia,Washington,53013,1,0
+2020-06-16,Columbia,Wisconsin,55021,58,1
+2020-06-17,Columbia,Arkansas,05027,28,2
+2020-06-17,Columbia,Florida,12023,202,3
+2020-06-17,Columbia,Georgia,13073,324,8
+2020-06-17,Columbia,New York,36021,442,43
+2020-06-17,Columbia,Oregon,41009,22,0
+2020-06-17,Columbia,Pennsylvania,42037,387,33
+2020-06-17,Columbia,Washington,53013,1,0
+2020-06-17,Columbia,Wisconsin,55021,59,1
+2020-06-18,Columbia,Arkansas,05027,29,2
+2020-06-18,Columbia,Florida,12023,205,3
+2020-06-18,Columbia,Georgia,13073,329,8
+2020-06-18,Columbia,New York,36021,443,43
+2020-06-18,Columbia,Oregon,41009,26,0
+2020-06-18,Columbia,Pennsylvania,42037,389,33
+2020-06-18,Columbia,Washington,53013,1,0
+2020-06-18,Columbia,Wisconsin,55021,60,1
+2020-06-19,Columbia,Arkansas,05027,31,2
+2020-06-19,Columbia,Florida,12023,205,3
+2020-06-19,Columbia,Georgia,13073,335,8
+2020-06-19,Columbia,New York,36021,446,43
+2020-06-19,Columbia,Oregon,41009,26,0
+2020-06-19,Columbia,Pennsylvania,42037,390,33
+2020-06-19,Columbia,Washington,53013,2,0
+2020-06-19,Columbia,Wisconsin,55021,63,1
+2020-06-20,Columbia,Arkansas,05027,32,2
+2020-06-20,Columbia,Florida,12023,219,3
+2020-06-20,Columbia,Georgia,13073,339,8
+2020-06-20,Columbia,New York,36021,451,43
+2020-06-20,Columbia,Oregon,41009,26,0
+2020-06-20,Columbia,Pennsylvania,42037,391,33
+2020-06-20,Columbia,Washington,53013,2,0
+2020-06-20,Columbia,Wisconsin,55021,64,1
+2020-06-21,Columbia,Arkansas,05027,38,2
+2020-06-21,Columbia,Florida,12023,227,3
+2020-06-21,Columbia,Georgia,13073,342,8
+2020-06-21,Columbia,New York,36021,451,43
+2020-06-21,Columbia,Oregon,41009,26,0
+2020-06-21,Columbia,Pennsylvania,42037,392,33
+2020-06-21,Columbia,Washington,53013,2,0
+2020-06-21,Columbia,Wisconsin,55021,68,1
+2020-06-22,Columbia,Arkansas,05027,43,2
+2020-06-22,Columbia,Florida,12023,232,3
+2020-06-22,Columbia,Georgia,13073,345,8
+2020-06-22,Columbia,New York,36021,452,43
+2020-06-22,Columbia,Oregon,41009,26,0
+2020-06-22,Columbia,Pennsylvania,42037,397,33
+2020-06-22,Columbia,Washington,53013,2,0
+2020-06-22,Columbia,Wisconsin,55021,69,1
+2020-06-23,Columbia,Arkansas,05027,44,3
+2020-06-23,Columbia,Florida,12023,233,3
+2020-06-23,Columbia,Georgia,13073,359,8
+2020-06-23,Columbia,New York,36021,454,43
+2020-06-23,Columbia,Oregon,41009,26,0
+2020-06-23,Columbia,Pennsylvania,42037,397,33
+2020-06-23,Columbia,Washington,53013,8,0
+2020-06-23,Columbia,Wisconsin,55021,70,1
+2020-06-24,Columbia,Arkansas,05027,72,3
+2020-06-24,Columbia,Florida,12023,243,3
+2020-06-24,Columbia,Georgia,13073,367,9
+2020-06-24,Columbia,New York,36021,454,43
+2020-06-24,Columbia,Oregon,41009,26,0
+2020-06-24,Columbia,Pennsylvania,42037,398,33
+2020-06-24,Columbia,Washington,53013,8,0
+2020-06-24,Columbia,Wisconsin,55021,70,1
+2020-06-25,Columbia,Arkansas,05027,72,3
+2020-06-25,Columbia,Florida,12023,246,3
+2020-06-25,Columbia,Georgia,13073,377,9
+2020-06-25,Columbia,New York,36021,455,43
+2020-06-25,Columbia,Oregon,41009,26,0
+2020-06-25,Columbia,Pennsylvania,42037,399,33
+2020-06-25,Columbia,Washington,53013,8,0
+2020-06-25,Columbia,Wisconsin,55021,74,1
+2020-06-26,Columbia,Arkansas,05027,73,3
+2020-06-26,Columbia,Florida,12023,250,3
+2020-06-26,Columbia,Georgia,13073,392,9
+2020-06-26,Columbia,New York,36021,460,43
+2020-06-26,Columbia,Oregon,41009,27,0
+2020-06-26,Columbia,Pennsylvania,42037,399,33
+2020-06-26,Columbia,Washington,53013,8,0
+2020-06-26,Columbia,Wisconsin,55021,76,1
+2020-06-27,Columbia,Arkansas,05027,74,3
+2020-06-27,Columbia,Florida,12023,261,3
+2020-06-27,Columbia,Georgia,13073,410,9
+2020-06-27,Columbia,New York,36021,461,43
+2020-06-27,Columbia,Oregon,41009,28,0
+2020-06-27,Columbia,Pennsylvania,42037,399,33
+2020-06-27,Columbia,Washington,53013,8,0
+2020-06-27,Columbia,Wisconsin,55021,79,1
+2020-06-28,Columbia,Arkansas,05027,84,3
+2020-06-28,Columbia,Florida,12023,269,3
+2020-06-28,Columbia,Georgia,13073,422,9
+2020-06-28,Columbia,New York,36021,463,43
+2020-06-28,Columbia,Oregon,41009,29,0
+2020-06-28,Columbia,Pennsylvania,42037,399,33
+2020-06-28,Columbia,Washington,53013,8,0
+2020-06-28,Columbia,Wisconsin,55021,80,1
+2020-06-29,Columbia,Arkansas,05027,84,3
+2020-06-29,Columbia,Florida,12023,281,3
+2020-06-29,Columbia,Georgia,13073,444,9
+2020-06-29,Columbia,New York,36021,463,43
+2020-06-29,Columbia,Oregon,41009,29,0
+2020-06-29,Columbia,Pennsylvania,42037,400,33
+2020-06-29,Columbia,Washington,53013,8,0
+2020-06-29,Columbia,Wisconsin,55021,83,1
+2020-06-30,Columbia,Arkansas,05027,83,3
+2020-06-30,Columbia,Florida,12023,287,3
+2020-06-30,Columbia,Georgia,13073,470,9
+2020-06-30,Columbia,New York,36021,464,43
+2020-06-30,Columbia,Oregon,41009,29,0
+2020-06-30,Columbia,Pennsylvania,42037,400,34
+2020-06-30,Columbia,Washington,53013,8,0
+2020-06-30,Columbia,Wisconsin,55021,85,1
+2020-07-01,Columbia,Arkansas,05027,84,4
+2020-07-01,Columbia,Florida,12023,296,3
+2020-07-01,Columbia,Georgia,13073,505,9
+2020-07-01,Columbia,New York,36021,466,43
+2020-07-01,Columbia,Oregon,41009,30,0
+2020-07-01,Columbia,Pennsylvania,42037,403,34
+2020-07-01,Columbia,Washington,53013,8,0
+2020-07-01,Columbia,Wisconsin,55021,88,1
+2020-07-02,Columbia,Arkansas,05027,84,4
+2020-07-02,Columbia,Florida,12023,316,3
+2020-07-02,Columbia,Georgia,13073,531,9
+2020-07-02,Columbia,New York,36021,472,43
+2020-07-02,Columbia,Oregon,41009,31,0
+2020-07-02,Columbia,Pennsylvania,42037,405,34
+2020-07-02,Columbia,Washington,53013,8,0
+2020-07-02,Columbia,Wisconsin,55021,89,1
+2020-07-03,Columbia,Arkansas,05027,85,4
+2020-07-03,Columbia,Florida,12023,331,3
+2020-07-03,Columbia,Georgia,13073,565,9
+2020-07-03,Columbia,New York,36021,474,43
+2020-07-03,Columbia,Oregon,41009,35,0
+2020-07-03,Columbia,Pennsylvania,42037,407,34
+2020-07-03,Columbia,Washington,53013,8,0
+2020-07-03,Columbia,Wisconsin,55021,91,1
+2020-07-04,Columbia,Arkansas,05027,89,4
+2020-07-04,Columbia,Florida,12023,348,3
+2020-07-04,Columbia,Georgia,13073,602,9
+2020-07-04,Columbia,New York,36021,474,43
+2020-07-04,Columbia,Oregon,41009,36,0
+2020-07-04,Columbia,Pennsylvania,42037,408,34
+2020-07-04,Columbia,Washington,53013,8,0
+2020-07-04,Columbia,Wisconsin,55021,94,1
+2020-07-05,Columbia,Arkansas,05027,90,4
+2020-07-05,Columbia,Florida,12023,361,3
+2020-07-05,Columbia,Georgia,13073,627,9
+2020-07-05,Columbia,New York,36021,475,43
+2020-07-05,Columbia,Oregon,41009,39,0
+2020-07-05,Columbia,Pennsylvania,42037,411,34
+2020-07-05,Columbia,Washington,53013,8,0
+2020-07-05,Columbia,Wisconsin,55021,101,1
+2020-07-06,Columbia,Arkansas,05027,90,4
+2020-07-06,Columbia,Florida,12023,364,4
+2020-07-06,Columbia,Georgia,13073,637,9
+2020-07-06,Columbia,New York,36021,477,43
+2020-07-06,Columbia,Oregon,41009,42,0
+2020-07-06,Columbia,Pennsylvania,42037,411,34
+2020-07-06,Columbia,Washington,53013,8,0
+2020-07-06,Columbia,Wisconsin,55021,101,1
+2020-07-07,Columbia,Arkansas,05027,90,4
+2020-07-07,Columbia,Florida,12023,377,4
+2020-07-07,Columbia,Georgia,13073,655,10
+2020-07-07,Columbia,New York,36021,479,43
+2020-07-07,Columbia,Oregon,41009,44,0
+2020-07-07,Columbia,Pennsylvania,42037,412,34
+2020-07-07,Columbia,Washington,53013,8,0
+2020-07-07,Columbia,Wisconsin,55021,104,1
+2020-07-08,Columbia,Arkansas,05027,100,4
+2020-07-08,Columbia,Florida,12023,392,4
+2020-07-08,Columbia,Georgia,13073,690,12
+2020-07-08,Columbia,New York,36021,482,43
+2020-07-08,Columbia,Oregon,41009,45,0
+2020-07-08,Columbia,Pennsylvania,42037,413,35
+2020-07-08,Columbia,Washington,53013,8,0
+2020-07-08,Columbia,Wisconsin,55021,105,1
+2020-07-09,Columbia,Arkansas,05027,103,5
+2020-07-09,Columbia,Florida,12023,421,4
+2020-07-09,Columbia,Georgia,13073,709,12
+2020-07-09,Columbia,New York,36021,482,43
+2020-07-09,Columbia,Oregon,41009,47,0
+2020-07-09,Columbia,Pennsylvania,42037,416,35
+2020-07-09,Columbia,Washington,53013,8,0
+2020-07-09,Columbia,Wisconsin,55021,110,1
+2020-07-10,Columbia,Arkansas,05027,105,5
+2020-07-10,Columbia,Florida,12023,433,4
+2020-07-10,Columbia,Georgia,13073,783,12
+2020-07-10,Columbia,New York,36021,482,43
+2020-07-10,Columbia,Oregon,41009,47,0
+2020-07-10,Columbia,Pennsylvania,42037,417,35
+2020-07-10,Columbia,Washington,53013,8,0
+2020-07-10,Columbia,Wisconsin,55021,113,1
+2020-07-11,Columbia,Arkansas,05027,107,5
+2020-07-11,Columbia,Florida,12023,462,4
+2020-07-11,Columbia,Georgia,13073,829,12
+2020-07-11,Columbia,New York,36021,485,43
+2020-07-11,Columbia,Oregon,41009,48,0
+2020-07-11,Columbia,Pennsylvania,42037,419,35
+2020-07-11,Columbia,Washington,53013,8,0
+2020-07-11,Columbia,Wisconsin,55021,116,1
+2020-07-12,Columbia,Arkansas,05027,109,5
+2020-07-12,Columbia,Florida,12023,475,4
+2020-07-12,Columbia,Georgia,13073,852,12
+2020-07-12,Columbia,New York,36021,486,43
+2020-07-12,Columbia,Oregon,41009,48,0
+2020-07-12,Columbia,Pennsylvania,42037,419,35
+2020-07-12,Columbia,Washington,53013,9,0
+2020-07-12,Columbia,Wisconsin,55021,120,1
+2020-07-13,Columbia,Arkansas,05027,109,5
+2020-07-13,Columbia,Florida,12023,589,4
+2020-07-13,Columbia,Georgia,13073,961,12
+2020-07-13,Columbia,New York,36021,487,43
+2020-07-13,Columbia,Oregon,41009,54,0
+2020-07-13,Columbia,Pennsylvania,42037,420,35
+2020-07-13,Columbia,Washington,53013,9,0
+2020-07-13,Columbia,Wisconsin,55021,123,1

@@ -1,0 +1,526 @@
+2020-03-19,Henderson,Kentucky,21101,1,0
+2020-03-20,Henderson,Kentucky,21101,2,0
+2020-03-21,Henderson,Kentucky,21101,3,0
+2020-03-22,Henderson,Kentucky,21101,5,0
+2020-03-22,Henderson,North Carolina,37089,1,0
+2020-03-23,Henderson,Kentucky,21101,5,0
+2020-03-23,Henderson,North Carolina,37089,1,0
+2020-03-24,Henderson,Kentucky,21101,5,0
+2020-03-24,Henderson,North Carolina,37089,2,0
+2020-03-25,Henderson,Kentucky,21101,5,0
+2020-03-25,Henderson,North Carolina,37089,2,0
+2020-03-26,Henderson,Kentucky,21101,5,0
+2020-03-26,Henderson,North Carolina,37089,4,0
+2020-03-27,Henderson,Kentucky,21101,5,0
+2020-03-27,Henderson,North Carolina,37089,6,0
+2020-03-28,Henderson,Kentucky,21101,5,0
+2020-03-28,Henderson,North Carolina,37089,9,0
+2020-03-29,Henderson,Kentucky,21101,5,0
+2020-03-29,Henderson,North Carolina,37089,13,0
+2020-03-29,Henderson,Texas,48213,1,0
+2020-03-30,Henderson,Kentucky,21101,5,0
+2020-03-30,Henderson,North Carolina,37089,16,0
+2020-03-30,Henderson,Texas,48213,1,0
+2020-03-31,Henderson,Kentucky,21101,5,0
+2020-03-31,Henderson,North Carolina,37089,18,0
+2020-03-31,Henderson,Texas,48213,1,0
+2020-04-01,Henderson,Kentucky,21101,7,0
+2020-04-01,Henderson,North Carolina,37089,18,0
+2020-04-01,Henderson,Texas,48213,1,0
+2020-04-02,Henderson,Kentucky,21101,7,0
+2020-04-02,Henderson,North Carolina,37089,22,0
+2020-04-02,Henderson,Texas,48213,1,0
+2020-04-03,Henderson,Kentucky,21101,7,0
+2020-04-03,Henderson,North Carolina,37089,22,1
+2020-04-03,Henderson,Texas,48213,1,0
+2020-04-04,Henderson,Kentucky,21101,9,0
+2020-04-04,Henderson,North Carolina,37089,25,1
+2020-04-04,Henderson,Texas,48213,1,0
+2020-04-05,Henderson,Kentucky,21101,15,0
+2020-04-05,Henderson,North Carolina,37089,50,1
+2020-04-05,Henderson,Tennessee,47077,1,0
+2020-04-05,Henderson,Texas,48213,1,0
+2020-04-06,Henderson,Kentucky,21101,15,0
+2020-04-06,Henderson,North Carolina,37089,51,1
+2020-04-06,Henderson,Tennessee,47077,1,0
+2020-04-06,Henderson,Texas,48213,1,0
+2020-04-07,Henderson,Kentucky,21101,20,0
+2020-04-07,Henderson,North Carolina,37089,51,1
+2020-04-07,Henderson,Tennessee,47077,2,0
+2020-04-07,Henderson,Texas,48213,1,0
+2020-04-08,Henderson,Kentucky,21101,20,0
+2020-04-08,Henderson,North Carolina,37089,50,2
+2020-04-08,Henderson,Tennessee,47077,2,0
+2020-04-08,Henderson,Texas,48213,1,0
+2020-04-09,Henderson,Kentucky,21101,23,0
+2020-04-09,Henderson,North Carolina,37089,55,2
+2020-04-09,Henderson,Tennessee,47077,2,0
+2020-04-09,Henderson,Texas,48213,6,0
+2020-04-10,Henderson,Kentucky,21101,23,0
+2020-04-10,Henderson,North Carolina,37089,55,2
+2020-04-10,Henderson,Tennessee,47077,2,0
+2020-04-10,Henderson,Texas,48213,10,0
+2020-04-11,Henderson,Kentucky,21101,29,0
+2020-04-11,Henderson,North Carolina,37089,68,2
+2020-04-11,Henderson,Tennessee,47077,2,0
+2020-04-11,Henderson,Texas,48213,10,0
+2020-04-12,Henderson,Kentucky,21101,23,0
+2020-04-12,Henderson,North Carolina,37089,76,2
+2020-04-12,Henderson,Tennessee,47077,2,0
+2020-04-12,Henderson,Texas,48213,10,0
+2020-04-13,Henderson,Kentucky,21101,23,0
+2020-04-13,Henderson,North Carolina,37089,97,2
+2020-04-13,Henderson,Tennessee,47077,2,0
+2020-04-13,Henderson,Texas,48213,10,0
+2020-04-14,Henderson,Kentucky,21101,24,0
+2020-04-14,Henderson,North Carolina,37089,97,3
+2020-04-14,Henderson,Tennessee,47077,2,0
+2020-04-14,Henderson,Texas,48213,10,0
+2020-04-15,Henderson,Kentucky,21101,26,0
+2020-04-15,Henderson,North Carolina,37089,97,4
+2020-04-15,Henderson,Tennessee,47077,2,0
+2020-04-15,Henderson,Texas,48213,11,0
+2020-04-16,Henderson,Kentucky,21101,28,0
+2020-04-16,Henderson,North Carolina,37089,106,8
+2020-04-16,Henderson,Tennessee,47077,2,0
+2020-04-16,Henderson,Texas,48213,12,0
+2020-04-17,Henderson,Illinois,17071,1,0
+2020-04-17,Henderson,Kentucky,21101,30,0
+2020-04-17,Henderson,North Carolina,37089,106,11
+2020-04-17,Henderson,Tennessee,47077,2,0
+2020-04-17,Henderson,Texas,48213,12,0
+2020-04-18,Henderson,Illinois,17071,2,0
+2020-04-18,Henderson,Kentucky,21101,30,0
+2020-04-18,Henderson,North Carolina,37089,108,11
+2020-04-18,Henderson,Tennessee,47077,4,0
+2020-04-18,Henderson,Texas,48213,13,0
+2020-04-19,Henderson,Illinois,17071,2,0
+2020-04-19,Henderson,Kentucky,21101,36,0
+2020-04-19,Henderson,North Carolina,37089,120,11
+2020-04-19,Henderson,Tennessee,47077,4,0
+2020-04-19,Henderson,Texas,48213,13,0
+2020-04-20,Henderson,Illinois,17071,2,0
+2020-04-20,Henderson,Kentucky,21101,36,0
+2020-04-20,Henderson,North Carolina,37089,128,13
+2020-04-20,Henderson,Tennessee,47077,4,0
+2020-04-20,Henderson,Texas,48213,13,0
+2020-04-21,Henderson,Illinois,17071,2,0
+2020-04-21,Henderson,Kentucky,21101,43,0
+2020-04-21,Henderson,North Carolina,37089,129,13
+2020-04-21,Henderson,Tennessee,47077,5,0
+2020-04-21,Henderson,Texas,48213,15,0
+2020-04-22,Henderson,Illinois,17071,2,0
+2020-04-22,Henderson,Kentucky,21101,43,0
+2020-04-22,Henderson,North Carolina,37089,129,13
+2020-04-22,Henderson,Tennessee,47077,5,0
+2020-04-22,Henderson,Texas,48213,19,0
+2020-04-23,Henderson,Illinois,17071,3,0
+2020-04-23,Henderson,Kentucky,21101,47,1
+2020-04-23,Henderson,North Carolina,37089,129,14
+2020-04-23,Henderson,Tennessee,47077,5,0
+2020-04-23,Henderson,Texas,48213,22,0
+2020-04-24,Henderson,Illinois,17071,4,0
+2020-04-24,Henderson,Kentucky,21101,47,1
+2020-04-24,Henderson,North Carolina,37089,147,14
+2020-04-24,Henderson,Tennessee,47077,5,0
+2020-04-24,Henderson,Texas,48213,22,0
+2020-04-25,Henderson,Illinois,17071,4,0
+2020-04-25,Henderson,Kentucky,21101,47,1
+2020-04-25,Henderson,North Carolina,37089,152,14
+2020-04-25,Henderson,Tennessee,47077,5,0
+2020-04-25,Henderson,Texas,48213,22,0
+2020-04-26,Henderson,Illinois,17071,4,0
+2020-04-26,Henderson,Kentucky,21101,58,1
+2020-04-26,Henderson,North Carolina,37089,156,14
+2020-04-26,Henderson,Tennessee,47077,6,0
+2020-04-26,Henderson,Texas,48213,24,0
+2020-04-27,Henderson,Illinois,17071,4,0
+2020-04-27,Henderson,Kentucky,21101,58,1
+2020-04-27,Henderson,North Carolina,37089,156,14
+2020-04-27,Henderson,Tennessee,47077,6,0
+2020-04-27,Henderson,Texas,48213,24,0
+2020-04-28,Henderson,Illinois,17071,4,0
+2020-04-28,Henderson,Kentucky,21101,63,1
+2020-04-28,Henderson,North Carolina,37089,155,16
+2020-04-28,Henderson,Tennessee,47077,6,0
+2020-04-28,Henderson,Texas,48213,24,0
+2020-04-29,Henderson,Illinois,17071,4,0
+2020-04-29,Henderson,Kentucky,21101,63,1
+2020-04-29,Henderson,North Carolina,37089,159,18
+2020-04-29,Henderson,Tennessee,47077,6,0
+2020-04-29,Henderson,Texas,48213,24,0
+2020-04-30,Henderson,Illinois,17071,4,0
+2020-04-30,Henderson,Kentucky,21101,63,1
+2020-04-30,Henderson,North Carolina,37089,177,20
+2020-04-30,Henderson,Tennessee,47077,7,0
+2020-04-30,Henderson,Texas,48213,25,0
+2020-05-01,Henderson,Illinois,17071,5,0
+2020-05-01,Henderson,Kentucky,21101,63,1
+2020-05-01,Henderson,North Carolina,37089,195,21
+2020-05-01,Henderson,Tennessee,47077,7,0
+2020-05-01,Henderson,Texas,48213,25,0
+2020-05-02,Henderson,Illinois,17071,5,0
+2020-05-02,Henderson,Kentucky,21101,63,1
+2020-05-02,Henderson,North Carolina,37089,201,21
+2020-05-02,Henderson,Tennessee,47077,9,0
+2020-05-02,Henderson,Texas,48213,28,0
+2020-05-03,Henderson,Illinois,17071,5,0
+2020-05-03,Henderson,Kentucky,21101,65,1
+2020-05-03,Henderson,North Carolina,37089,201,21
+2020-05-03,Henderson,Tennessee,47077,9,0
+2020-05-03,Henderson,Texas,48213,28,0
+2020-05-04,Henderson,Illinois,17071,4,0
+2020-05-04,Henderson,Kentucky,21101,72,1
+2020-05-04,Henderson,North Carolina,37089,203,21
+2020-05-04,Henderson,Tennessee,47077,9,0
+2020-05-04,Henderson,Texas,48213,28,0
+2020-05-05,Henderson,Illinois,17071,4,0
+2020-05-05,Henderson,Kentucky,21101,74,2
+2020-05-05,Henderson,North Carolina,37089,210,21
+2020-05-05,Henderson,Tennessee,47077,10,0
+2020-05-05,Henderson,Texas,48213,32,0
+2020-05-06,Henderson,Illinois,17071,5,0
+2020-05-06,Henderson,Kentucky,21101,76,2
+2020-05-06,Henderson,North Carolina,37089,213,22
+2020-05-06,Henderson,Tennessee,47077,10,0
+2020-05-06,Henderson,Texas,48213,33,0
+2020-05-07,Henderson,Illinois,17071,5,0
+2020-05-07,Henderson,Kentucky,21101,79,2
+2020-05-07,Henderson,North Carolina,37089,216,23
+2020-05-07,Henderson,Tennessee,47077,10,0
+2020-05-07,Henderson,Texas,48213,34,0
+2020-05-08,Henderson,Illinois,17071,6,0
+2020-05-08,Henderson,Kentucky,21101,79,2
+2020-05-08,Henderson,North Carolina,37089,218,24
+2020-05-08,Henderson,Tennessee,47077,10,0
+2020-05-08,Henderson,Texas,48213,36,0
+2020-05-09,Henderson,Illinois,17071,6,0
+2020-05-09,Henderson,Kentucky,21101,81,2
+2020-05-09,Henderson,North Carolina,37089,224,27
+2020-05-09,Henderson,Tennessee,47077,10,0
+2020-05-09,Henderson,Texas,48213,36,0
+2020-05-10,Henderson,Illinois,17071,6,0
+2020-05-10,Henderson,Kentucky,21101,82,2
+2020-05-10,Henderson,North Carolina,37089,226,27
+2020-05-10,Henderson,Tennessee,47077,10,0
+2020-05-10,Henderson,Texas,48213,41,0
+2020-05-11,Henderson,Illinois,17071,6,0
+2020-05-11,Henderson,Kentucky,21101,82,3
+2020-05-11,Henderson,North Carolina,37089,227,28
+2020-05-11,Henderson,Tennessee,47077,10,0
+2020-05-11,Henderson,Texas,48213,41,0
+2020-05-12,Henderson,Illinois,17071,7,0
+2020-05-12,Henderson,Kentucky,21101,86,3
+2020-05-12,Henderson,North Carolina,37089,237,28
+2020-05-12,Henderson,Tennessee,47077,10,0
+2020-05-12,Henderson,Texas,48213,46,0
+2020-05-13,Henderson,Illinois,17071,7,0
+2020-05-13,Henderson,Kentucky,21101,87,3
+2020-05-13,Henderson,North Carolina,37089,250,30
+2020-05-13,Henderson,Tennessee,47077,10,0
+2020-05-13,Henderson,Texas,48213,47,0
+2020-05-14,Henderson,Illinois,17071,7,0
+2020-05-14,Henderson,Kentucky,21101,89,3
+2020-05-14,Henderson,North Carolina,37089,261,35
+2020-05-14,Henderson,Tennessee,47077,11,0
+2020-05-14,Henderson,Texas,48213,47,0
+2020-05-15,Henderson,Illinois,17071,7,0
+2020-05-15,Henderson,Kentucky,21101,93,3
+2020-05-15,Henderson,North Carolina,37089,273,36
+2020-05-15,Henderson,Tennessee,47077,11,0
+2020-05-15,Henderson,Texas,48213,48,0
+2020-05-16,Henderson,Illinois,17071,8,0
+2020-05-16,Henderson,Kentucky,21101,95,3
+2020-05-16,Henderson,North Carolina,37089,279,38
+2020-05-16,Henderson,Tennessee,47077,12,0
+2020-05-16,Henderson,Texas,48213,48,0
+2020-05-17,Henderson,Illinois,17071,8,0
+2020-05-17,Henderson,Kentucky,21101,95,3
+2020-05-17,Henderson,North Carolina,37089,282,38
+2020-05-17,Henderson,Tennessee,47077,12,0
+2020-05-17,Henderson,Texas,48213,48,0
+2020-05-18,Henderson,Illinois,17071,8,0
+2020-05-18,Henderson,Kentucky,21101,95,3
+2020-05-18,Henderson,North Carolina,37089,287,39
+2020-05-18,Henderson,Tennessee,47077,12,0
+2020-05-18,Henderson,Texas,48213,48,0
+2020-05-19,Henderson,Illinois,17071,8,0
+2020-05-19,Henderson,Kentucky,21101,97,4
+2020-05-19,Henderson,North Carolina,37089,295,41
+2020-05-19,Henderson,Tennessee,47077,12,0
+2020-05-19,Henderson,Texas,48213,49,0
+2020-05-20,Henderson,Illinois,17071,8,0
+2020-05-20,Henderson,Kentucky,21101,98,4
+2020-05-20,Henderson,North Carolina,37089,298,41
+2020-05-20,Henderson,Tennessee,47077,12,0
+2020-05-20,Henderson,Texas,48213,49,0
+2020-05-21,Henderson,Illinois,17071,8,0
+2020-05-21,Henderson,Kentucky,21101,101,4
+2020-05-21,Henderson,North Carolina,37089,302,41
+2020-05-21,Henderson,Tennessee,47077,12,0
+2020-05-21,Henderson,Texas,48213,51,0
+2020-05-22,Henderson,Illinois,17071,8,0
+2020-05-22,Henderson,Kentucky,21101,103,4
+2020-05-22,Henderson,North Carolina,37089,305,41
+2020-05-22,Henderson,Tennessee,47077,12,0
+2020-05-22,Henderson,Texas,48213,51,0
+2020-05-23,Henderson,Illinois,17071,8,0
+2020-05-23,Henderson,Kentucky,21101,103,4
+2020-05-23,Henderson,North Carolina,37089,312,42
+2020-05-23,Henderson,Tennessee,47077,12,0
+2020-05-23,Henderson,Texas,48213,55,0
+2020-05-24,Henderson,Illinois,17071,8,0
+2020-05-24,Henderson,Kentucky,21101,104,4
+2020-05-24,Henderson,North Carolina,37089,315,42
+2020-05-24,Henderson,Tennessee,47077,12,0
+2020-05-24,Henderson,Texas,48213,55,0
+2020-05-25,Henderson,Illinois,17071,8,0
+2020-05-25,Henderson,Kentucky,21101,104,4
+2020-05-25,Henderson,North Carolina,37089,318,42
+2020-05-25,Henderson,Tennessee,47077,13,0
+2020-05-25,Henderson,Texas,48213,55,0
+2020-05-26,Henderson,Illinois,17071,8,0
+2020-05-26,Henderson,Kentucky,21101,104,4
+2020-05-26,Henderson,North Carolina,37089,318,43
+2020-05-26,Henderson,Tennessee,47077,13,0
+2020-05-26,Henderson,Texas,48213,55,0
+2020-05-27,Henderson,Illinois,17071,8,0
+2020-05-27,Henderson,Kentucky,21101,109,4
+2020-05-27,Henderson,North Carolina,37089,324,46
+2020-05-27,Henderson,Tennessee,47077,14,0
+2020-05-27,Henderson,Texas,48213,56,0
+2020-05-28,Henderson,Illinois,17071,8,0
+2020-05-28,Henderson,Kentucky,21101,112,4
+2020-05-28,Henderson,North Carolina,37089,326,46
+2020-05-28,Henderson,Tennessee,47077,14,0
+2020-05-28,Henderson,Texas,48213,57,0
+2020-05-29,Henderson,Illinois,17071,8,0
+2020-05-29,Henderson,Kentucky,21101,115,4
+2020-05-29,Henderson,North Carolina,37089,333,45
+2020-05-29,Henderson,Tennessee,47077,15,0
+2020-05-29,Henderson,Texas,48213,57,2
+2020-05-30,Henderson,Illinois,17071,8,0
+2020-05-30,Henderson,Kentucky,21101,116,4
+2020-05-30,Henderson,North Carolina,37089,338,45
+2020-05-30,Henderson,Tennessee,47077,15,0
+2020-05-30,Henderson,Texas,48213,57,2
+2020-05-31,Henderson,Illinois,17071,8,0
+2020-05-31,Henderson,Kentucky,21101,116,4
+2020-05-31,Henderson,North Carolina,37089,344,45
+2020-05-31,Henderson,Tennessee,47077,15,0
+2020-05-31,Henderson,Texas,48213,57,2
+2020-06-01,Henderson,Illinois,17071,8,0
+2020-06-01,Henderson,Kentucky,21101,118,4
+2020-06-01,Henderson,North Carolina,37089,346,45
+2020-06-01,Henderson,Tennessee,47077,15,0
+2020-06-01,Henderson,Texas,48213,57,2
+2020-06-02,Henderson,Illinois,17071,8,0
+2020-06-02,Henderson,Kentucky,21101,119,4
+2020-06-02,Henderson,North Carolina,37089,351,45
+2020-06-02,Henderson,Tennessee,47077,15,0
+2020-06-02,Henderson,Texas,48213,59,2
+2020-06-03,Henderson,Illinois,17071,8,0
+2020-06-03,Henderson,Kentucky,21101,120,4
+2020-06-03,Henderson,North Carolina,37089,351,47
+2020-06-03,Henderson,Tennessee,47077,15,0
+2020-06-03,Henderson,Texas,48213,63,3
+2020-06-04,Henderson,Illinois,17071,8,0
+2020-06-04,Henderson,Kentucky,21101,121,4
+2020-06-04,Henderson,North Carolina,37089,353,47
+2020-06-04,Henderson,Tennessee,47077,15,0
+2020-06-04,Henderson,Texas,48213,65,3
+2020-06-05,Henderson,Illinois,17071,8,0
+2020-06-05,Henderson,Kentucky,21101,121,4
+2020-06-05,Henderson,North Carolina,37089,365,48
+2020-06-05,Henderson,Tennessee,47077,15,0
+2020-06-05,Henderson,Texas,48213,65,3
+2020-06-06,Henderson,Illinois,17071,8,0
+2020-06-06,Henderson,Kentucky,21101,121,4
+2020-06-06,Henderson,North Carolina,37089,368,48
+2020-06-06,Henderson,Tennessee,47077,15,0
+2020-06-06,Henderson,Texas,48213,68,3
+2020-06-07,Henderson,Illinois,17071,8,0
+2020-06-07,Henderson,Kentucky,21101,121,4
+2020-06-07,Henderson,North Carolina,37089,372,48
+2020-06-07,Henderson,Tennessee,47077,15,0
+2020-06-07,Henderson,Texas,48213,68,3
+2020-06-08,Henderson,Illinois,17071,8,0
+2020-06-08,Henderson,Kentucky,21101,121,4
+2020-06-08,Henderson,North Carolina,37089,388,48
+2020-06-08,Henderson,Tennessee,47077,15,0
+2020-06-08,Henderson,Texas,48213,68,3
+2020-06-09,Henderson,Illinois,17071,8,0
+2020-06-09,Henderson,Kentucky,21101,121,4
+2020-06-09,Henderson,North Carolina,37089,388,48
+2020-06-09,Henderson,Tennessee,47077,16,0
+2020-06-09,Henderson,Texas,48213,71,3
+2020-06-10,Henderson,Illinois,17071,8,0
+2020-06-10,Henderson,Kentucky,21101,122,4
+2020-06-10,Henderson,North Carolina,37089,403,49
+2020-06-10,Henderson,Tennessee,47077,16,0
+2020-06-10,Henderson,Texas,48213,71,3
+2020-06-11,Henderson,Illinois,17071,8,0
+2020-06-11,Henderson,Kentucky,21101,126,4
+2020-06-11,Henderson,North Carolina,37089,403,49
+2020-06-11,Henderson,Tennessee,47077,17,0
+2020-06-11,Henderson,Texas,48213,74,3
+2020-06-12,Henderson,Illinois,17071,8,0
+2020-06-12,Henderson,Kentucky,21101,131,4
+2020-06-12,Henderson,North Carolina,37089,433,49
+2020-06-12,Henderson,Tennessee,47077,17,0
+2020-06-12,Henderson,Texas,48213,74,3
+2020-06-13,Henderson,Illinois,17071,8,0
+2020-06-13,Henderson,Kentucky,21101,131,4
+2020-06-13,Henderson,North Carolina,37089,433,49
+2020-06-13,Henderson,Tennessee,47077,18,0
+2020-06-13,Henderson,Texas,48213,80,3
+2020-06-14,Henderson,Illinois,17071,8,0
+2020-06-14,Henderson,Kentucky,21101,138,4
+2020-06-14,Henderson,North Carolina,37089,441,49
+2020-06-14,Henderson,Tennessee,47077,18,0
+2020-06-14,Henderson,Texas,48213,80,3
+2020-06-15,Henderson,Illinois,17071,8,0
+2020-06-15,Henderson,Kentucky,21101,138,4
+2020-06-15,Henderson,North Carolina,37089,455,49
+2020-06-15,Henderson,Tennessee,47077,19,0
+2020-06-15,Henderson,Texas,48213,80,3
+2020-06-16,Henderson,Illinois,17071,8,0
+2020-06-16,Henderson,Kentucky,21101,142,4
+2020-06-16,Henderson,North Carolina,37089,458,49
+2020-06-16,Henderson,Tennessee,47077,19,0
+2020-06-16,Henderson,Texas,48213,82,3
+2020-06-17,Henderson,Illinois,17071,8,0
+2020-06-17,Henderson,Kentucky,21101,147,4
+2020-06-17,Henderson,North Carolina,37089,463,49
+2020-06-17,Henderson,Tennessee,47077,19,0
+2020-06-17,Henderson,Texas,48213,85,3
+2020-06-18,Henderson,Illinois,17071,8,0
+2020-06-18,Henderson,Kentucky,21101,150,4
+2020-06-18,Henderson,North Carolina,37089,471,49
+2020-06-18,Henderson,Tennessee,47077,19,0
+2020-06-18,Henderson,Texas,48213,90,3
+2020-06-19,Henderson,Illinois,17071,8,0
+2020-06-19,Henderson,Kentucky,21101,151,4
+2020-06-19,Henderson,North Carolina,37089,480,49
+2020-06-19,Henderson,Tennessee,47077,19,0
+2020-06-19,Henderson,Texas,48213,94,3
+2020-06-20,Henderson,Illinois,17071,8,0
+2020-06-20,Henderson,Kentucky,21101,151,4
+2020-06-20,Henderson,North Carolina,37089,491,49
+2020-06-20,Henderson,Tennessee,47077,20,0
+2020-06-20,Henderson,Texas,48213,97,3
+2020-06-21,Henderson,Illinois,17071,8,0
+2020-06-21,Henderson,Kentucky,21101,152,4
+2020-06-21,Henderson,North Carolina,37089,497,49
+2020-06-21,Henderson,Tennessee,47077,21,0
+2020-06-21,Henderson,Texas,48213,97,3
+2020-06-22,Henderson,Illinois,17071,8,0
+2020-06-22,Henderson,Kentucky,21101,152,4
+2020-06-22,Henderson,North Carolina,37089,514,49
+2020-06-22,Henderson,Tennessee,47077,22,0
+2020-06-22,Henderson,Texas,48213,97,3
+2020-06-23,Henderson,Illinois,17071,8,0
+2020-06-23,Henderson,Kentucky,21101,155,4
+2020-06-23,Henderson,North Carolina,37089,514,49
+2020-06-23,Henderson,Tennessee,47077,25,0
+2020-06-23,Henderson,Texas,48213,102,3
+2020-06-24,Henderson,Illinois,17071,8,0
+2020-06-24,Henderson,Kentucky,21101,155,4
+2020-06-24,Henderson,North Carolina,37089,540,50
+2020-06-24,Henderson,Tennessee,47077,26,0
+2020-06-24,Henderson,Texas,48213,104,4
+2020-06-25,Henderson,Illinois,17071,8,0
+2020-06-25,Henderson,Kentucky,21101,155,4
+2020-06-25,Henderson,North Carolina,37089,540,50
+2020-06-25,Henderson,Tennessee,47077,27,0
+2020-06-25,Henderson,Texas,48213,109,4
+2020-06-26,Henderson,Illinois,17071,8,0
+2020-06-26,Henderson,Kentucky,21101,155,4
+2020-06-26,Henderson,North Carolina,37089,558,50
+2020-06-26,Henderson,Tennessee,47077,28,0
+2020-06-26,Henderson,Texas,48213,116,4
+2020-06-27,Henderson,Illinois,17071,8,0
+2020-06-27,Henderson,Kentucky,21101,161,4
+2020-06-27,Henderson,North Carolina,37089,558,50
+2020-06-27,Henderson,Tennessee,47077,31,0
+2020-06-27,Henderson,Texas,48213,116,4
+2020-06-28,Henderson,Illinois,17071,8,0
+2020-06-28,Henderson,Kentucky,21101,161,4
+2020-06-28,Henderson,North Carolina,37089,569,50
+2020-06-28,Henderson,Tennessee,47077,31,0
+2020-06-28,Henderson,Texas,48213,117,4
+2020-06-29,Henderson,Illinois,17071,8,0
+2020-06-29,Henderson,Kentucky,21101,163,4
+2020-06-29,Henderson,North Carolina,37089,606,50
+2020-06-29,Henderson,Tennessee,47077,31,0
+2020-06-29,Henderson,Texas,48213,117,4
+2020-06-30,Henderson,Illinois,17071,8,0
+2020-06-30,Henderson,Kentucky,21101,165,4
+2020-06-30,Henderson,North Carolina,37089,610,50
+2020-06-30,Henderson,Tennessee,47077,32,0
+2020-06-30,Henderson,Texas,48213,128,4
+2020-07-01,Henderson,Illinois,17071,8,0
+2020-07-01,Henderson,Kentucky,21101,165,4
+2020-07-01,Henderson,North Carolina,37089,655,50
+2020-07-01,Henderson,Tennessee,47077,35,0
+2020-07-01,Henderson,Texas,48213,137,4
+2020-07-02,Henderson,Illinois,17071,8,0
+2020-07-02,Henderson,Kentucky,21101,166,4
+2020-07-02,Henderson,North Carolina,37089,667,50
+2020-07-02,Henderson,Tennessee,47077,39,0
+2020-07-02,Henderson,Texas,48213,143,4
+2020-07-03,Henderson,Illinois,17071,8,0
+2020-07-03,Henderson,Kentucky,21101,170,4
+2020-07-03,Henderson,North Carolina,37089,675,50
+2020-07-03,Henderson,Tennessee,47077,44,0
+2020-07-03,Henderson,Texas,48213,159,4
+2020-07-04,Henderson,Illinois,17071,8,0
+2020-07-04,Henderson,Kentucky,21101,170,4
+2020-07-04,Henderson,North Carolina,37089,687,50
+2020-07-04,Henderson,Tennessee,47077,45,0
+2020-07-04,Henderson,Texas,48213,159,4
+2020-07-05,Henderson,Illinois,17071,8,0
+2020-07-05,Henderson,Kentucky,21101,170,4
+2020-07-05,Henderson,North Carolina,37089,703,50
+2020-07-05,Henderson,Tennessee,47077,46,0
+2020-07-05,Henderson,Texas,48213,168,4
+2020-07-06,Henderson,Illinois,17071,8,0
+2020-07-06,Henderson,Kentucky,21101,174,4
+2020-07-06,Henderson,North Carolina,37089,720,51
+2020-07-06,Henderson,Tennessee,47077,48,0
+2020-07-06,Henderson,Texas,48213,168,4
+2020-07-07,Henderson,Illinois,17071,8,0
+2020-07-07,Henderson,Kentucky,21101,180,4
+2020-07-07,Henderson,North Carolina,37089,738,51
+2020-07-07,Henderson,Tennessee,47077,48,0
+2020-07-07,Henderson,Texas,48213,196,4
+2020-07-08,Henderson,Illinois,17071,8,0
+2020-07-08,Henderson,Kentucky,21101,182,4
+2020-07-08,Henderson,North Carolina,37089,789,51
+2020-07-08,Henderson,Tennessee,47077,56,0
+2020-07-08,Henderson,Texas,48213,215,4
+2020-07-09,Henderson,Illinois,17071,8,0
+2020-07-09,Henderson,Kentucky,21101,194,4
+2020-07-09,Henderson,North Carolina,37089,820,51
+2020-07-09,Henderson,Tennessee,47077,62,0
+2020-07-09,Henderson,Texas,48213,225,4
+2020-07-10,Henderson,Illinois,17071,8,0
+2020-07-10,Henderson,Kentucky,21101,194,4
+2020-07-10,Henderson,North Carolina,37089,883,51
+2020-07-10,Henderson,Tennessee,47077,65,0
+2020-07-10,Henderson,Texas,48213,230,4
+2020-07-11,Henderson,Illinois,17071,8,0
+2020-07-11,Henderson,Kentucky,21101,210,4
+2020-07-11,Henderson,North Carolina,37089,883,51
+2020-07-11,Henderson,Tennessee,47077,71,0
+2020-07-11,Henderson,Texas,48213,256,4
+2020-07-12,Henderson,Illinois,17071,8,0
+2020-07-12,Henderson,Kentucky,21101,210,4
+2020-07-12,Henderson,North Carolina,37089,885,51
+2020-07-12,Henderson,Tennessee,47077,74,0
+2020-07-12,Henderson,Texas,48213,256,4
+2020-07-13,Henderson,Illinois,17071,8,0
+2020-07-13,Henderson,Kentucky,21101,214,4
+2020-07-13,Henderson,North Carolina,37089,951,51
+2020-07-13,Henderson,Tennessee,47077,83,0
+2020-07-13,Henderson,Texas,48213,256,4

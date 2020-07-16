@@ -1,0 +1,433 @@
+2020-03-06,Camden,New Jersey,34007,1,0
+2020-03-07,Camden,New Jersey,34007,1,0
+2020-03-08,Camden,New Jersey,34007,1,0
+2020-03-09,Camden,New Jersey,34007,1,0
+2020-03-10,Camden,New Jersey,34007,1,0
+2020-03-11,Camden,New Jersey,34007,1,0
+2020-03-12,Camden,New Jersey,34007,1,0
+2020-03-13,Camden,New Jersey,34007,2,0
+2020-03-14,Camden,New Jersey,34007,2,0
+2020-03-15,Camden,New Jersey,34007,2,0
+2020-03-16,Camden,New Jersey,34007,3,0
+2020-03-17,Camden,New Jersey,34007,3,0
+2020-03-18,Camden,New Jersey,34007,10,0
+2020-03-19,Camden,New Jersey,34007,11,0
+2020-03-20,Camden,New Jersey,34007,15,0
+2020-03-21,Camden,New Jersey,34007,15,0
+2020-03-22,Camden,New Jersey,34007,22,0
+2020-03-23,Camden,Missouri,29029,1,0
+2020-03-23,Camden,New Jersey,34007,33,0
+2020-03-24,Camden,Georgia,13039,1,0
+2020-03-24,Camden,Missouri,29029,1,0
+2020-03-24,Camden,New Jersey,34007,51,1
+2020-03-25,Camden,Georgia,13039,1,0
+2020-03-25,Camden,Missouri,29029,1,0
+2020-03-25,Camden,New Jersey,34007,61,1
+2020-03-26,Camden,Georgia,13039,2,0
+2020-03-26,Camden,Missouri,29029,1,0
+2020-03-26,Camden,New Jersey,34007,73,1
+2020-03-27,Camden,Georgia,13039,2,0
+2020-03-27,Camden,Missouri,29029,1,0
+2020-03-27,Camden,New Jersey,34007,95,1
+2020-03-28,Camden,Georgia,13039,2,0
+2020-03-28,Camden,Missouri,29029,4,1
+2020-03-28,Camden,New Jersey,34007,123,1
+2020-03-29,Camden,Georgia,13039,2,0
+2020-03-29,Camden,Missouri,29029,7,1
+2020-03-29,Camden,New Jersey,34007,163,1
+2020-03-30,Camden,Georgia,13039,4,0
+2020-03-30,Camden,Missouri,29029,11,1
+2020-03-30,Camden,New Jersey,34007,200,1
+2020-03-31,Camden,Georgia,13039,4,0
+2020-03-31,Camden,Missouri,29029,12,1
+2020-03-31,Camden,New Jersey,34007,228,3
+2020-04-01,Camden,Georgia,13039,5,0
+2020-04-01,Camden,Missouri,29029,17,1
+2020-04-01,Camden,New Jersey,34007,289,3
+2020-04-02,Camden,Georgia,13039,6,0
+2020-04-02,Camden,Missouri,29029,19,1
+2020-04-02,Camden,New Jersey,34007,343,8
+2020-04-03,Camden,Georgia,13039,6,0
+2020-04-03,Camden,Missouri,29029,21,1
+2020-04-03,Camden,New Jersey,34007,406,8
+2020-04-04,Camden,Georgia,13039,6,0
+2020-04-04,Camden,Missouri,29029,20,1
+2020-04-04,Camden,New Jersey,34007,481,10
+2020-04-05,Camden,Georgia,13039,9,0
+2020-04-05,Camden,Missouri,29029,24,1
+2020-04-05,Camden,New Jersey,34007,556,10
+2020-04-06,Camden,Georgia,13039,15,0
+2020-04-06,Camden,Missouri,29029,24,1
+2020-04-06,Camden,New Jersey,34007,645,10
+2020-04-07,Camden,Georgia,13039,17,0
+2020-04-07,Camden,Missouri,29029,24,1
+2020-04-07,Camden,New Jersey,34007,736,12
+2020-04-08,Camden,Georgia,13039,19,0
+2020-04-08,Camden,Missouri,29029,25,1
+2020-04-08,Camden,New Jersey,34007,838,22
+2020-04-09,Camden,Georgia,13039,19,0
+2020-04-09,Camden,Missouri,29029,26,1
+2020-04-09,Camden,New Jersey,34007,990,23
+2020-04-10,Camden,Georgia,13039,19,0
+2020-04-10,Camden,Missouri,29029,26,1
+2020-04-10,Camden,New Jersey,34007,1072,29
+2020-04-11,Camden,Georgia,13039,20,0
+2020-04-11,Camden,Missouri,29029,26,1
+2020-04-11,Camden,New Jersey,34007,1180,29
+2020-04-12,Camden,Georgia,13039,21,0
+2020-04-12,Camden,Missouri,29029,26,1
+2020-04-12,Camden,New Jersey,34007,1270,32
+2020-04-13,Camden,Georgia,13039,22,0
+2020-04-13,Camden,Missouri,29029,26,1
+2020-04-13,Camden,New Jersey,34007,1401,35
+2020-04-14,Camden,Georgia,13039,22,0
+2020-04-14,Camden,Missouri,29029,26,1
+2020-04-14,Camden,New Jersey,34007,1477,41
+2020-04-15,Camden,Georgia,13039,24,0
+2020-04-15,Camden,Missouri,29029,28,1
+2020-04-15,Camden,New Jersey,34007,1587,49
+2020-04-16,Camden,Georgia,13039,26,0
+2020-04-16,Camden,Missouri,29029,31,1
+2020-04-16,Camden,New Jersey,34007,1734,60
+2020-04-17,Camden,Georgia,13039,27,0
+2020-04-17,Camden,Missouri,29029,32,1
+2020-04-17,Camden,New Jersey,34007,1807,64
+2020-04-18,Camden,Georgia,13039,28,0
+2020-04-18,Camden,Missouri,29029,32,1
+2020-04-18,Camden,New Jersey,34007,1918,73
+2020-04-19,Camden,Georgia,13039,28,0
+2020-04-19,Camden,Missouri,29029,32,1
+2020-04-19,Camden,New Jersey,34007,2131,74
+2020-04-20,Camden,Georgia,13039,27,0
+2020-04-20,Camden,Missouri,29029,33,1
+2020-04-20,Camden,New Jersey,34007,2255,81
+2020-04-21,Camden,Georgia,13039,27,0
+2020-04-21,Camden,Missouri,29029,35,1
+2020-04-21,Camden,New Jersey,34007,2379,89
+2020-04-22,Camden,Georgia,13039,27,0
+2020-04-22,Camden,Missouri,29029,35,1
+2020-04-22,Camden,New Jersey,34007,2528,94
+2020-04-23,Camden,Georgia,13039,28,1
+2020-04-23,Camden,Missouri,29029,35,1
+2020-04-23,Camden,New Jersey,34007,2683,104
+2020-04-24,Camden,Georgia,13039,28,1
+2020-04-24,Camden,Missouri,29029,35,1
+2020-04-24,Camden,New Jersey,34007,2750,106
+2020-04-25,Camden,Georgia,13039,28,1
+2020-04-25,Camden,Missouri,29029,35,1
+2020-04-25,Camden,New Jersey,34007,2870,118
+2020-04-26,Camden,Georgia,13039,28,1
+2020-04-26,Camden,Missouri,29029,35,1
+2020-04-26,Camden,New Jersey,34007,2983,121
+2020-04-27,Camden,Georgia,13039,30,1
+2020-04-27,Camden,Missouri,29029,35,1
+2020-04-27,Camden,New Jersey,34007,3124,122
+2020-04-27,Camden,North Carolina,37029,1,0
+2020-04-28,Camden,Georgia,13039,31,1
+2020-04-28,Camden,Missouri,29029,35,1
+2020-04-28,Camden,New Jersey,34007,3285,124
+2020-04-28,Camden,North Carolina,37029,1,0
+2020-04-29,Camden,Georgia,13039,32,1
+2020-04-29,Camden,Missouri,29029,35,1
+2020-04-29,Camden,New Jersey,34007,3385,136
+2020-04-29,Camden,North Carolina,37029,1,0
+2020-04-30,Camden,Georgia,13039,33,1
+2020-04-30,Camden,Missouri,29029,35,1
+2020-04-30,Camden,New Jersey,34007,3519,147
+2020-04-30,Camden,North Carolina,37029,1,0
+2020-05-01,Camden,Georgia,13039,33,1
+2020-05-01,Camden,Missouri,29029,35,1
+2020-05-01,Camden,New Jersey,34007,3646,155
+2020-05-01,Camden,North Carolina,37029,1,0
+2020-05-02,Camden,Georgia,13039,34,1
+2020-05-02,Camden,Missouri,29029,35,1
+2020-05-02,Camden,New Jersey,34007,3773,161
+2020-05-02,Camden,North Carolina,37029,2,0
+2020-05-03,Camden,Georgia,13039,35,1
+2020-05-03,Camden,Missouri,29029,35,1
+2020-05-03,Camden,New Jersey,34007,3973,163
+2020-05-03,Camden,North Carolina,37029,2,0
+2020-05-04,Camden,Georgia,13039,33,1
+2020-05-04,Camden,Missouri,29029,35,1
+2020-05-04,Camden,New Jersey,34007,4073,163
+2020-05-04,Camden,North Carolina,37029,2,0
+2020-05-05,Camden,Georgia,13039,34,1
+2020-05-05,Camden,Missouri,29029,35,1
+2020-05-05,Camden,New Jersey,34007,4251,180
+2020-05-05,Camden,North Carolina,37029,2,0
+2020-05-06,Camden,Georgia,13039,34,1
+2020-05-06,Camden,Missouri,29029,35,1
+2020-05-06,Camden,New Jersey,34007,4307,189
+2020-05-06,Camden,North Carolina,37029,2,0
+2020-05-07,Camden,Georgia,13039,35,1
+2020-05-07,Camden,Missouri,29029,35,1
+2020-05-07,Camden,New Jersey,34007,4479,193
+2020-05-07,Camden,North Carolina,37029,2,0
+2020-05-08,Camden,Georgia,13039,35,1
+2020-05-08,Camden,Missouri,29029,35,1
+2020-05-08,Camden,New Jersey,34007,4619,199
+2020-05-08,Camden,North Carolina,37029,2,0
+2020-05-09,Camden,Georgia,13039,36,1
+2020-05-09,Camden,Missouri,29029,35,1
+2020-05-09,Camden,New Jersey,34007,4758,217
+2020-05-09,Camden,North Carolina,37029,2,0
+2020-05-10,Camden,Georgia,13039,37,1
+2020-05-10,Camden,Missouri,29029,36,1
+2020-05-10,Camden,New Jersey,34007,4870,225
+2020-05-10,Camden,North Carolina,37029,2,0
+2020-05-11,Camden,Georgia,13039,37,1
+2020-05-11,Camden,Missouri,29029,36,1
+2020-05-11,Camden,New Jersey,34007,4959,227
+2020-05-11,Camden,North Carolina,37029,2,0
+2020-05-12,Camden,Georgia,13039,37,1
+2020-05-12,Camden,Missouri,29029,36,1
+2020-05-12,Camden,New Jersey,34007,5043,236
+2020-05-12,Camden,North Carolina,37029,2,0
+2020-05-13,Camden,Georgia,13039,43,1
+2020-05-13,Camden,Missouri,29029,36,1
+2020-05-13,Camden,New Jersey,34007,5099,246
+2020-05-13,Camden,North Carolina,37029,2,0
+2020-05-14,Camden,Georgia,13039,46,1
+2020-05-14,Camden,Missouri,29029,36,1
+2020-05-14,Camden,New Jersey,34007,5172,256
+2020-05-14,Camden,North Carolina,37029,2,0
+2020-05-15,Camden,Georgia,13039,46,1
+2020-05-15,Camden,Missouri,29029,36,1
+2020-05-15,Camden,New Jersey,34007,5255,262
+2020-05-15,Camden,North Carolina,37029,2,0
+2020-05-16,Camden,Georgia,13039,47,1
+2020-05-16,Camden,Missouri,29029,36,1
+2020-05-16,Camden,New Jersey,34007,5381,268
+2020-05-16,Camden,North Carolina,37029,2,0
+2020-05-17,Camden,Georgia,13039,47,1
+2020-05-17,Camden,Missouri,29029,36,1
+2020-05-17,Camden,New Jersey,34007,5455,272
+2020-05-17,Camden,North Carolina,37029,2,0
+2020-05-18,Camden,Georgia,13039,50,1
+2020-05-18,Camden,Missouri,29029,36,1
+2020-05-18,Camden,New Jersey,34007,5573,275
+2020-05-18,Camden,North Carolina,37029,2,0
+2020-05-19,Camden,Georgia,13039,51,1
+2020-05-19,Camden,Missouri,29029,36,1
+2020-05-19,Camden,New Jersey,34007,5644,279
+2020-05-19,Camden,North Carolina,37029,3,0
+2020-05-20,Camden,Georgia,13039,52,1
+2020-05-20,Camden,Missouri,29029,36,1
+2020-05-20,Camden,New Jersey,34007,5738,286
+2020-05-20,Camden,North Carolina,37029,3,0
+2020-05-21,Camden,Georgia,13039,53,1
+2020-05-21,Camden,Missouri,29029,36,1
+2020-05-21,Camden,New Jersey,34007,5818,290
+2020-05-21,Camden,North Carolina,37029,3,0
+2020-05-22,Camden,Georgia,13039,53,1
+2020-05-22,Camden,Missouri,29029,36,1
+2020-05-22,Camden,New Jersey,34007,5923,299
+2020-05-22,Camden,North Carolina,37029,3,0
+2020-05-23,Camden,Georgia,13039,53,1
+2020-05-23,Camden,Missouri,29029,36,1
+2020-05-23,Camden,New Jersey,34007,5953,303
+2020-05-23,Camden,North Carolina,37029,3,0
+2020-05-24,Camden,Georgia,13039,56,1
+2020-05-24,Camden,Missouri,29029,38,1
+2020-05-24,Camden,New Jersey,34007,6024,307
+2020-05-24,Camden,North Carolina,37029,3,0
+2020-05-25,Camden,Georgia,13039,55,1
+2020-05-25,Camden,Missouri,29029,38,1
+2020-05-25,Camden,New Jersey,34007,6103,308
+2020-05-25,Camden,North Carolina,37029,3,0
+2020-05-26,Camden,Georgia,13039,55,1
+2020-05-26,Camden,Missouri,29029,37,1
+2020-05-26,Camden,New Jersey,34007,6171,307
+2020-05-26,Camden,North Carolina,37029,3,0
+2020-05-27,Camden,Georgia,13039,56,1
+2020-05-27,Camden,Missouri,29029,37,1
+2020-05-27,Camden,New Jersey,34007,6227,313
+2020-05-27,Camden,North Carolina,37029,3,0
+2020-05-28,Camden,Georgia,13039,62,1
+2020-05-28,Camden,Missouri,29029,37,1
+2020-05-28,Camden,New Jersey,34007,6292,318
+2020-05-28,Camden,North Carolina,37029,3,0
+2020-05-29,Camden,Georgia,13039,62,1
+2020-05-29,Camden,Missouri,29029,37,1
+2020-05-29,Camden,New Jersey,34007,6350,327
+2020-05-29,Camden,North Carolina,37029,3,0
+2020-05-30,Camden,Georgia,13039,61,1
+2020-05-30,Camden,Missouri,29029,37,1
+2020-05-30,Camden,New Jersey,34007,6425,334
+2020-05-30,Camden,North Carolina,37029,3,0
+2020-05-31,Camden,Georgia,13039,62,1
+2020-05-31,Camden,Missouri,29029,37,1
+2020-05-31,Camden,New Jersey,34007,6510,338
+2020-05-31,Camden,North Carolina,37029,3,0
+2020-06-01,Camden,Georgia,13039,63,1
+2020-06-01,Camden,Missouri,29029,37,1
+2020-06-01,Camden,New Jersey,34007,6543,338
+2020-06-01,Camden,North Carolina,37029,3,0
+2020-06-02,Camden,Georgia,13039,64,1
+2020-06-02,Camden,Missouri,29029,37,1
+2020-06-02,Camden,New Jersey,34007,6603,339
+2020-06-02,Camden,North Carolina,37029,3,0
+2020-06-03,Camden,Georgia,13039,66,1
+2020-06-03,Camden,Missouri,29029,37,1
+2020-06-03,Camden,New Jersey,34007,6645,346
+2020-06-03,Camden,North Carolina,37029,3,0
+2020-06-04,Camden,Georgia,13039,68,1
+2020-06-04,Camden,Missouri,29029,37,1
+2020-06-04,Camden,New Jersey,34007,6663,352
+2020-06-04,Camden,North Carolina,37029,3,0
+2020-06-05,Camden,Georgia,13039,69,1
+2020-06-05,Camden,Missouri,29029,37,1
+2020-06-05,Camden,New Jersey,34007,6732,357
+2020-06-05,Camden,North Carolina,37029,3,0
+2020-06-06,Camden,Georgia,13039,69,1
+2020-06-06,Camden,Missouri,29029,37,1
+2020-06-06,Camden,New Jersey,34007,6785,364
+2020-06-06,Camden,North Carolina,37029,3,0
+2020-06-07,Camden,Georgia,13039,69,1
+2020-06-07,Camden,Missouri,29029,37,1
+2020-06-07,Camden,New Jersey,34007,6799,369
+2020-06-07,Camden,North Carolina,37029,3,0
+2020-06-08,Camden,Georgia,13039,69,1
+2020-06-08,Camden,Missouri,29029,37,1
+2020-06-08,Camden,New Jersey,34007,6827,374
+2020-06-08,Camden,North Carolina,37029,3,0
+2020-06-09,Camden,Georgia,13039,70,1
+2020-06-09,Camden,Missouri,29029,37,1
+2020-06-09,Camden,New Jersey,34007,6849,381
+2020-06-09,Camden,North Carolina,37029,3,0
+2020-06-10,Camden,Georgia,13039,70,1
+2020-06-10,Camden,Missouri,29029,37,1
+2020-06-10,Camden,New Jersey,34007,6903,394
+2020-06-10,Camden,North Carolina,37029,3,0
+2020-06-11,Camden,Georgia,13039,70,1
+2020-06-11,Camden,Missouri,29029,37,1
+2020-06-11,Camden,New Jersey,34007,6938,400
+2020-06-11,Camden,North Carolina,37029,3,0
+2020-06-12,Camden,Georgia,13039,71,1
+2020-06-12,Camden,Missouri,29029,38,1
+2020-06-12,Camden,New Jersey,34007,6952,399
+2020-06-12,Camden,North Carolina,37029,3,0
+2020-06-13,Camden,Georgia,13039,73,1
+2020-06-13,Camden,Missouri,29029,38,1
+2020-06-13,Camden,New Jersey,34007,6986,405
+2020-06-13,Camden,North Carolina,37029,6,0
+2020-06-14,Camden,Georgia,13039,73,1
+2020-06-14,Camden,Missouri,29029,38,1
+2020-06-14,Camden,New Jersey,34007,7018,407
+2020-06-14,Camden,North Carolina,37029,6,0
+2020-06-15,Camden,Georgia,13039,75,1
+2020-06-15,Camden,Missouri,29029,40,1
+2020-06-15,Camden,New Jersey,34007,7025,416
+2020-06-15,Camden,North Carolina,37029,6,0
+2020-06-16,Camden,Georgia,13039,75,1
+2020-06-16,Camden,Missouri,29029,43,1
+2020-06-16,Camden,New Jersey,34007,7040,417
+2020-06-16,Camden,North Carolina,37029,7,0
+2020-06-17,Camden,Georgia,13039,75,1
+2020-06-17,Camden,Missouri,29029,45,1
+2020-06-17,Camden,New Jersey,34007,7047,417
+2020-06-17,Camden,North Carolina,37029,7,0
+2020-06-18,Camden,Georgia,13039,76,1
+2020-06-18,Camden,Missouri,29029,45,1
+2020-06-18,Camden,New Jersey,34007,7061,417
+2020-06-18,Camden,North Carolina,37029,9,0
+2020-06-19,Camden,Georgia,13039,81,1
+2020-06-19,Camden,Missouri,29029,45,1
+2020-06-19,Camden,New Jersey,34007,7088,415
+2020-06-19,Camden,North Carolina,37029,12,0
+2020-06-20,Camden,Georgia,13039,92,1
+2020-06-20,Camden,Missouri,29029,47,1
+2020-06-20,Camden,New Jersey,34007,7117,416
+2020-06-20,Camden,North Carolina,37029,16,0
+2020-06-21,Camden,Georgia,13039,96,1
+2020-06-21,Camden,Missouri,29029,48,1
+2020-06-21,Camden,New Jersey,34007,7135,416
+2020-06-21,Camden,North Carolina,37029,19,0
+2020-06-22,Camden,Georgia,13039,99,1
+2020-06-22,Camden,Missouri,29029,50,1
+2020-06-22,Camden,New Jersey,34007,7153,417
+2020-06-22,Camden,North Carolina,37029,19,0
+2020-06-23,Camden,Georgia,13039,102,1
+2020-06-23,Camden,Missouri,29029,54,1
+2020-06-23,Camden,New Jersey,34007,7163,421
+2020-06-23,Camden,North Carolina,37029,22,0
+2020-06-24,Camden,Georgia,13039,104,1
+2020-06-24,Camden,Missouri,29029,55,1
+2020-06-24,Camden,New Jersey,34007,7185,425
+2020-06-24,Camden,North Carolina,37029,23,0
+2020-06-25,Camden,Georgia,13039,106,1
+2020-06-25,Camden,Missouri,29029,57,1
+2020-06-25,Camden,New Jersey,34007,7259,474
+2020-06-25,Camden,North Carolina,37029,23,0
+2020-06-26,Camden,Georgia,13039,112,1
+2020-06-26,Camden,Missouri,29029,60,1
+2020-06-26,Camden,New Jersey,34007,7292,478
+2020-06-26,Camden,North Carolina,37029,23,0
+2020-06-27,Camden,Georgia,13039,114,2
+2020-06-27,Camden,Missouri,29029,60,1
+2020-06-27,Camden,New Jersey,34007,7325,480
+2020-06-27,Camden,North Carolina,37029,24,0
+2020-06-28,Camden,Georgia,13039,113,2
+2020-06-28,Camden,Missouri,29029,60,1
+2020-06-28,Camden,New Jersey,34007,7331,483
+2020-06-28,Camden,North Carolina,37029,24,0
+2020-06-29,Camden,Georgia,13039,114,2
+2020-06-29,Camden,Missouri,29029,63,1
+2020-06-29,Camden,New Jersey,34007,7344,485
+2020-06-29,Camden,North Carolina,37029,26,0
+2020-06-30,Camden,Georgia,13039,128,2
+2020-06-30,Camden,Missouri,29029,66,1
+2020-06-30,Camden,New Jersey,34007,7364,489
+2020-06-30,Camden,North Carolina,37029,28,0
+2020-07-01,Camden,Georgia,13039,135,2
+2020-07-01,Camden,Missouri,29029,66,1
+2020-07-01,Camden,New Jersey,34007,7415,493
+2020-07-01,Camden,North Carolina,37029,29,0
+2020-07-02,Camden,Georgia,13039,147,2
+2020-07-02,Camden,Missouri,29029,67,1
+2020-07-02,Camden,New Jersey,34007,7457,503
+2020-07-02,Camden,North Carolina,37029,30,0
+2020-07-03,Camden,Georgia,13039,170,2
+2020-07-03,Camden,Missouri,29029,66,1
+2020-07-03,Camden,New Jersey,34007,7470,513
+2020-07-03,Camden,North Carolina,37029,31,0
+2020-07-04,Camden,Georgia,13039,183,2
+2020-07-04,Camden,Missouri,29029,69,1
+2020-07-04,Camden,New Jersey,34007,7485,518
+2020-07-04,Camden,North Carolina,37029,31,0
+2020-07-05,Camden,Georgia,13039,188,2
+2020-07-05,Camden,Missouri,29029,70,1
+2020-07-05,Camden,New Jersey,34007,7530,521
+2020-07-05,Camden,North Carolina,37029,31,0
+2020-07-06,Camden,Georgia,13039,204,2
+2020-07-06,Camden,Missouri,29029,71,1
+2020-07-06,Camden,New Jersey,34007,7547,525
+2020-07-06,Camden,North Carolina,37029,31,0
+2020-07-07,Camden,Georgia,13039,212,2
+2020-07-07,Camden,Missouri,29029,74,1
+2020-07-07,Camden,New Jersey,34007,7587,534
+2020-07-07,Camden,North Carolina,37029,33,0
+2020-07-08,Camden,Georgia,13039,233,2
+2020-07-08,Camden,Missouri,29029,76,2
+2020-07-08,Camden,New Jersey,34007,7624,538
+2020-07-08,Camden,North Carolina,37029,34,1
+2020-07-09,Camden,Georgia,13039,235,2
+2020-07-09,Camden,Missouri,29029,77,2
+2020-07-09,Camden,New Jersey,34007,7652,540
+2020-07-09,Camden,North Carolina,37029,34,1
+2020-07-10,Camden,Georgia,13039,255,2
+2020-07-10,Camden,Missouri,29029,78,2
+2020-07-10,Camden,New Jersey,34007,7683,541
+2020-07-10,Camden,North Carolina,37029,34,1
+2020-07-11,Camden,Georgia,13039,265,2
+2020-07-11,Camden,Missouri,29029,83,2
+2020-07-11,Camden,New Jersey,34007,7722,546
+2020-07-11,Camden,North Carolina,37029,35,1
+2020-07-12,Camden,Georgia,13039,283,2
+2020-07-12,Camden,Missouri,29029,85,2
+2020-07-12,Camden,New Jersey,34007,7744,546
+2020-07-12,Camden,North Carolina,37029,35,1
+2020-07-13,Camden,Georgia,13039,301,2
+2020-07-13,Camden,Missouri,29029,87,2
+2020-07-13,Camden,New Jersey,34007,7768,551
+2020-07-13,Camden,North Carolina,37029,38,1

@@ -1,0 +1,879 @@
+2020-03-15,Putnam,New York,36079,2,0
+2020-03-16,Putnam,New York,36079,2,0
+2020-03-17,Putnam,New York,36079,2,0
+2020-03-18,Putnam,New York,36079,2,0
+2020-03-19,Putnam,New York,36079,2,0
+2020-03-20,Putnam,New York,36079,7,0
+2020-03-21,Putnam,Florida,12107,1,0
+2020-03-21,Putnam,New York,36079,22,0
+2020-03-21,Putnam,Tennessee,47141,5,0
+2020-03-21,Putnam,West Virginia,54079,1,0
+2020-03-22,Putnam,Florida,12107,2,0
+2020-03-22,Putnam,Indiana,18133,1,0
+2020-03-22,Putnam,New York,36079,37,0
+2020-03-22,Putnam,Tennessee,47141,6,0
+2020-03-22,Putnam,West Virginia,54079,1,0
+2020-03-23,Putnam,Florida,12107,2,0
+2020-03-23,Putnam,Indiana,18133,1,0
+2020-03-23,Putnam,New York,36079,45,0
+2020-03-23,Putnam,Tennessee,47141,6,0
+2020-03-23,Putnam,West Virginia,54079,1,0
+2020-03-24,Putnam,Florida,12107,2,0
+2020-03-24,Putnam,Indiana,18133,1,0
+2020-03-24,Putnam,New York,36079,67,0
+2020-03-24,Putnam,Tennessee,47141,8,0
+2020-03-24,Putnam,West Virginia,54079,1,0
+2020-03-25,Putnam,Florida,12107,5,0
+2020-03-25,Putnam,Indiana,18133,2,0
+2020-03-25,Putnam,New York,36079,84,0
+2020-03-25,Putnam,Tennessee,47141,9,0
+2020-03-25,Putnam,West Virginia,54079,2,0
+2020-03-26,Putnam,Florida,12107,12,0
+2020-03-26,Putnam,Indiana,18133,2,1
+2020-03-26,Putnam,New York,36079,94,0
+2020-03-26,Putnam,Tennessee,47141,11,0
+2020-03-26,Putnam,West Virginia,54079,2,0
+2020-03-27,Putnam,Florida,12107,12,0
+2020-03-27,Putnam,Indiana,18133,2,1
+2020-03-27,Putnam,New York,36079,111,0
+2020-03-27,Putnam,Tennessee,47141,13,0
+2020-03-27,Putnam,West Virginia,54079,3,0
+2020-03-28,Putnam,Florida,12107,12,0
+2020-03-28,Putnam,Indiana,18133,5,1
+2020-03-28,Putnam,New York,36079,131,0
+2020-03-28,Putnam,Tennessee,47141,17,0
+2020-03-28,Putnam,West Virginia,54079,3,0
+2020-03-29,Putnam,Florida,12107,12,0
+2020-03-29,Putnam,Indiana,18133,5,1
+2020-03-29,Putnam,New York,36079,144,0
+2020-03-29,Putnam,Tennessee,47141,17,0
+2020-03-29,Putnam,West Virginia,54079,3,0
+2020-03-30,Putnam,Florida,12107,13,0
+2020-03-30,Putnam,Indiana,18133,7,1
+2020-03-30,Putnam,New York,36079,167,0
+2020-03-30,Putnam,Tennessee,47141,24,0
+2020-03-30,Putnam,West Virginia,54079,4,0
+2020-03-31,Putnam,Florida,12107,13,0
+2020-03-31,Putnam,Indiana,18133,7,1
+2020-03-31,Putnam,New York,36079,186,0
+2020-03-31,Putnam,Tennessee,47141,24,0
+2020-03-31,Putnam,West Virginia,54079,4,0
+2020-04-01,Putnam,Florida,12107,13,0
+2020-04-01,Putnam,Georgia,13237,1,0
+2020-04-01,Putnam,Indiana,18133,11,1
+2020-04-01,Putnam,New York,36079,207,0
+2020-04-01,Putnam,Tennessee,47141,31,0
+2020-04-01,Putnam,West Virginia,54079,5,0
+2020-04-02,Putnam,Florida,12107,14,0
+2020-04-02,Putnam,Georgia,13237,2,0
+2020-04-02,Putnam,Indiana,18133,11,1
+2020-04-02,Putnam,New York,36079,236,0
+2020-04-02,Putnam,Tennessee,47141,37,0
+2020-04-02,Putnam,West Virginia,54079,5,0
+2020-04-03,Putnam,Florida,12107,15,1
+2020-04-03,Putnam,Georgia,13237,2,0
+2020-04-03,Putnam,Indiana,18133,13,1
+2020-04-03,Putnam,New York,36079,236,0
+2020-04-03,Putnam,Tennessee,47141,81,0
+2020-04-03,Putnam,West Virginia,54079,5,0
+2020-04-04,Putnam,Florida,12107,18,1
+2020-04-04,Putnam,Georgia,13237,2,0
+2020-04-04,Putnam,Indiana,18133,14,1
+2020-04-04,Putnam,New York,36079,283,9
+2020-04-04,Putnam,Tennessee,47141,81,0
+2020-04-04,Putnam,West Virginia,54079,5,0
+2020-04-05,Putnam,Florida,12107,19,1
+2020-04-05,Putnam,Georgia,13237,2,0
+2020-04-05,Putnam,Indiana,18133,17,1
+2020-04-05,Putnam,New York,36079,314,9
+2020-04-05,Putnam,Tennessee,47141,81,0
+2020-04-05,Putnam,West Virginia,54079,6,0
+2020-04-06,Putnam,Florida,12107,19,1
+2020-04-06,Putnam,Georgia,13237,3,0
+2020-04-06,Putnam,Indiana,18133,21,1
+2020-04-06,Putnam,New York,36079,345,12
+2020-04-06,Putnam,Ohio,39137,1,0
+2020-04-06,Putnam,Tennessee,47141,81,0
+2020-04-06,Putnam,West Virginia,54079,8,0
+2020-04-07,Putnam,Florida,12107,20,1
+2020-04-07,Putnam,Georgia,13237,5,0
+2020-04-07,Putnam,Indiana,18133,25,1
+2020-04-07,Putnam,New York,36079,366,13
+2020-04-07,Putnam,Ohio,39137,1,0
+2020-04-07,Putnam,Tennessee,47141,81,0
+2020-04-07,Putnam,West Virginia,54079,10,0
+2020-04-08,Putnam,Florida,12107,24,1
+2020-04-08,Putnam,Georgia,13237,5,0
+2020-04-08,Putnam,Indiana,18133,27,1
+2020-04-08,Putnam,New York,36079,403,15
+2020-04-08,Putnam,Ohio,39137,1,0
+2020-04-08,Putnam,Tennessee,47141,81,0
+2020-04-08,Putnam,West Virginia,54079,10,0
+2020-04-09,Putnam,Florida,12107,25,1
+2020-04-09,Putnam,Georgia,13237,5,0
+2020-04-09,Putnam,Indiana,18133,30,2
+2020-04-09,Putnam,New York,36079,438,16
+2020-04-09,Putnam,Ohio,39137,1,0
+2020-04-09,Putnam,Tennessee,47141,82,0
+2020-04-09,Putnam,West Virginia,54079,11,0
+2020-04-10,Putnam,Florida,12107,29,1
+2020-04-10,Putnam,Georgia,13237,5,0
+2020-04-10,Putnam,Indiana,18133,31,3
+2020-04-10,Putnam,New York,36079,487,18
+2020-04-10,Putnam,Ohio,39137,1,0
+2020-04-10,Putnam,Tennessee,47141,84,0
+2020-04-10,Putnam,West Virginia,54079,11,0
+2020-04-11,Putnam,Florida,12107,34,1
+2020-04-11,Putnam,Georgia,13237,5,0
+2020-04-11,Putnam,Indiana,18133,32,2
+2020-04-11,Putnam,New York,36079,494,20
+2020-04-11,Putnam,Ohio,39137,1,0
+2020-04-11,Putnam,Tennessee,47141,85,0
+2020-04-11,Putnam,West Virginia,54079,11,0
+2020-04-12,Putnam,Florida,12107,43,1
+2020-04-12,Putnam,Georgia,13237,6,0
+2020-04-12,Putnam,Indiana,18133,32,3
+2020-04-12,Putnam,New York,36079,497,23
+2020-04-12,Putnam,Ohio,39137,1,0
+2020-04-12,Putnam,Tennessee,47141,85,0
+2020-04-12,Putnam,West Virginia,54079,11,0
+2020-04-13,Putnam,Florida,12107,42,1
+2020-04-13,Putnam,Georgia,13237,7,0
+2020-04-13,Putnam,Indiana,18133,33,3
+2020-04-13,Putnam,New York,36079,502,25
+2020-04-13,Putnam,Ohio,39137,1,0
+2020-04-13,Putnam,Tennessee,47141,87,0
+2020-04-13,Putnam,West Virginia,54079,12,0
+2020-04-14,Putnam,Florida,12107,43,1
+2020-04-14,Putnam,Georgia,13237,12,0
+2020-04-14,Putnam,Indiana,18133,38,3
+2020-04-14,Putnam,New York,36079,558,27
+2020-04-14,Putnam,Ohio,39137,2,0
+2020-04-14,Putnam,Tennessee,47141,92,0
+2020-04-14,Putnam,West Virginia,54079,13,0
+2020-04-15,Putnam,Florida,12107,46,1
+2020-04-15,Putnam,Georgia,13237,12,0
+2020-04-15,Putnam,Indiana,18133,42,3
+2020-04-15,Putnam,New York,36079,571,28
+2020-04-15,Putnam,Ohio,39137,4,0
+2020-04-15,Putnam,Tennessee,47141,93,0
+2020-04-15,Putnam,West Virginia,54079,13,0
+2020-04-16,Putnam,Florida,12107,49,1
+2020-04-16,Putnam,Georgia,13237,14,0
+2020-04-16,Putnam,Indiana,18133,43,3
+2020-04-16,Putnam,New York,36079,573,29
+2020-04-16,Putnam,Ohio,39137,4,0
+2020-04-16,Putnam,Tennessee,47141,93,2
+2020-04-16,Putnam,West Virginia,54079,13,0
+2020-04-17,Putnam,Florida,12107,52,1
+2020-04-17,Putnam,Georgia,13237,17,1
+2020-04-17,Putnam,Indiana,18133,47,4
+2020-04-17,Putnam,New York,36079,578,29
+2020-04-17,Putnam,Ohio,39137,13,0
+2020-04-17,Putnam,Tennessee,47141,94,2
+2020-04-17,Putnam,West Virginia,54079,14,0
+2020-04-18,Putnam,Florida,12107,55,1
+2020-04-18,Putnam,Georgia,13237,19,1
+2020-04-18,Putnam,Indiana,18133,50,4
+2020-04-18,Putnam,New York,36079,582,29
+2020-04-18,Putnam,Ohio,39137,14,0
+2020-04-18,Putnam,Tennessee,47141,95,2
+2020-04-18,Putnam,West Virginia,54079,14,0
+2020-04-19,Putnam,Florida,12107,56,1
+2020-04-19,Putnam,Georgia,13237,22,1
+2020-04-19,Putnam,Indiana,18133,51,4
+2020-04-19,Putnam,New York,36079,592,35
+2020-04-19,Putnam,Ohio,39137,18,0
+2020-04-19,Putnam,Tennessee,47141,95,2
+2020-04-19,Putnam,West Virginia,54079,14,0
+2020-04-20,Putnam,Florida,12107,58,1
+2020-04-20,Putnam,Georgia,13237,25,2
+2020-04-20,Putnam,Indiana,18133,51,4
+2020-04-20,Putnam,New York,36079,599,37
+2020-04-20,Putnam,Ohio,39137,21,0
+2020-04-20,Putnam,Tennessee,47141,96,3
+2020-04-20,Putnam,West Virginia,54079,15,0
+2020-04-21,Putnam,Florida,12107,59,1
+2020-04-21,Putnam,Georgia,13237,26,2
+2020-04-21,Putnam,Indiana,18133,54,4
+2020-04-21,Putnam,New York,36079,605,38
+2020-04-21,Putnam,Ohio,39137,22,0
+2020-04-21,Putnam,Tennessee,47141,95,3
+2020-04-21,Putnam,West Virginia,54079,16,0
+2020-04-22,Putnam,Florida,12107,65,1
+2020-04-22,Putnam,Georgia,13237,27,2
+2020-04-22,Putnam,Indiana,18133,54,4
+2020-04-22,Putnam,New York,36079,611,39
+2020-04-22,Putnam,Ohio,39137,24,2
+2020-04-22,Putnam,Tennessee,47141,100,4
+2020-04-22,Putnam,West Virginia,54079,16,0
+2020-04-23,Putnam,Florida,12107,75,1
+2020-04-23,Putnam,Georgia,13237,29,2
+2020-04-23,Putnam,Indiana,18133,55,4
+2020-04-23,Putnam,New York,36079,615,41
+2020-04-23,Putnam,Ohio,39137,47,3
+2020-04-23,Putnam,Tennessee,47141,101,4
+2020-04-23,Putnam,West Virginia,54079,17,0
+2020-04-24,Putnam,Florida,12107,81,1
+2020-04-24,Putnam,Georgia,13237,31,3
+2020-04-24,Putnam,Indiana,18133,57,4
+2020-04-24,Putnam,New York,36079,619,42
+2020-04-24,Putnam,Ohio,39137,49,4
+2020-04-24,Putnam,Tennessee,47141,101,4
+2020-04-24,Putnam,West Virginia,54079,16,0
+2020-04-25,Putnam,Florida,12107,83,1
+2020-04-25,Putnam,Georgia,13237,31,3
+2020-04-25,Putnam,Indiana,18133,59,4
+2020-04-25,Putnam,New York,36079,885,42
+2020-04-25,Putnam,Ohio,39137,51,5
+2020-04-25,Putnam,Tennessee,47141,106,5
+2020-04-25,Putnam,West Virginia,54079,17,0
+2020-04-26,Putnam,Florida,12107,87,1
+2020-04-26,Putnam,Georgia,13237,31,3
+2020-04-26,Putnam,Indiana,18133,59,4
+2020-04-26,Putnam,New York,36079,904,42
+2020-04-26,Putnam,Ohio,39137,54,5
+2020-04-26,Putnam,Tennessee,47141,109,5
+2020-04-26,Putnam,West Virginia,54079,18,0
+2020-04-27,Putnam,Florida,12107,87,1
+2020-04-27,Putnam,Georgia,13237,37,5
+2020-04-27,Putnam,Indiana,18133,59,4
+2020-04-27,Putnam,New York,36079,925,42
+2020-04-27,Putnam,Ohio,39137,54,5
+2020-04-27,Putnam,Tennessee,47141,114,5
+2020-04-27,Putnam,West Virginia,54079,21,0
+2020-04-28,Putnam,Florida,12107,103,1
+2020-04-28,Putnam,Georgia,13237,37,5
+2020-04-28,Putnam,Indiana,18133,60,4
+2020-04-28,Putnam,New York,36079,932,45
+2020-04-28,Putnam,Ohio,39137,63,6
+2020-04-28,Putnam,Tennessee,47141,115,5
+2020-04-28,Putnam,West Virginia,54079,22,0
+2020-04-29,Putnam,Florida,12107,103,1
+2020-04-29,Putnam,Georgia,13237,37,5
+2020-04-29,Putnam,Indiana,18133,64,4
+2020-04-29,Putnam,New York,36079,946,45
+2020-04-29,Putnam,Ohio,39137,64,6
+2020-04-29,Putnam,Tennessee,47141,119,5
+2020-04-29,Putnam,West Virginia,54079,25,0
+2020-04-30,Putnam,Florida,12107,106,1
+2020-04-30,Putnam,Georgia,13237,40,5
+2020-04-30,Putnam,Indiana,18133,70,4
+2020-04-30,Putnam,New York,36079,970,45
+2020-04-30,Putnam,Ohio,39137,67,8
+2020-04-30,Putnam,Tennessee,47141,121,5
+2020-04-30,Putnam,West Virginia,54079,25,0
+2020-05-01,Putnam,Florida,12107,108,1
+2020-05-01,Putnam,Georgia,13237,42,5
+2020-05-01,Putnam,Indiana,18133,75,4
+2020-05-01,Putnam,New York,36079,990,45
+2020-05-01,Putnam,Ohio,39137,68,8
+2020-05-01,Putnam,Tennessee,47141,122,5
+2020-05-01,Putnam,West Virginia,54079,27,1
+2020-05-02,Putnam,Florida,12107,117,2
+2020-05-02,Putnam,Georgia,13237,42,5
+2020-05-02,Putnam,Indiana,18133,75,4
+2020-05-02,Putnam,New York,36079,1003,46
+2020-05-02,Putnam,Ohio,39137,69,9
+2020-05-02,Putnam,Tennessee,47141,136,5
+2020-05-02,Putnam,West Virginia,54079,27,0
+2020-05-03,Putnam,Florida,12107,120,2
+2020-05-03,Putnam,Georgia,13237,41,5
+2020-05-03,Putnam,Indiana,18133,80,4
+2020-05-03,Putnam,New York,36079,1013,47
+2020-05-03,Putnam,Ohio,39137,69,9
+2020-05-03,Putnam,Tennessee,47141,136,5
+2020-05-03,Putnam,West Virginia,54079,28,0
+2020-05-04,Putnam,Florida,12107,121,2
+2020-05-04,Putnam,Georgia,13237,46,5
+2020-05-04,Putnam,Indiana,18133,82,4
+2020-05-04,Putnam,New York,36079,1026,47
+2020-05-04,Putnam,Ohio,39137,71,9
+2020-05-04,Putnam,Tennessee,47141,139,5
+2020-05-04,Putnam,West Virginia,54079,29,0
+2020-05-05,Putnam,Florida,12107,121,4
+2020-05-05,Putnam,Georgia,13237,49,5
+2020-05-05,Putnam,Indiana,18133,85,5
+2020-05-05,Putnam,New York,36079,1031,47
+2020-05-05,Putnam,Ohio,39137,71,10
+2020-05-05,Putnam,Tennessee,47141,160,5
+2020-05-05,Putnam,West Virginia,54079,27,0
+2020-05-06,Putnam,Florida,12107,120,4
+2020-05-06,Putnam,Georgia,13237,50,5
+2020-05-06,Putnam,Indiana,18133,85,5
+2020-05-06,Putnam,New York,36079,1040,56
+2020-05-06,Putnam,Ohio,39137,71,12
+2020-05-06,Putnam,Tennessee,47141,162,5
+2020-05-06,Putnam,West Virginia,54079,27,0
+2020-05-07,Putnam,Florida,12107,120,4
+2020-05-07,Putnam,Georgia,13237,52,5
+2020-05-07,Putnam,Indiana,18133,84,5
+2020-05-07,Putnam,New York,36079,1066,56
+2020-05-07,Putnam,Ohio,39137,73,12
+2020-05-07,Putnam,Tennessee,47141,162,5
+2020-05-07,Putnam,West Virginia,54079,27,0
+2020-05-08,Putnam,Florida,12107,120,4
+2020-05-08,Putnam,Georgia,13237,54,6
+2020-05-08,Putnam,Indiana,18133,89,5
+2020-05-08,Putnam,New York,36079,1074,56
+2020-05-08,Putnam,Ohio,39137,75,13
+2020-05-08,Putnam,Tennessee,47141,166,5
+2020-05-08,Putnam,West Virginia,54079,27,0
+2020-05-09,Putnam,Florida,12107,125,4
+2020-05-09,Putnam,Georgia,13237,55,6
+2020-05-09,Putnam,Indiana,18133,90,5
+2020-05-09,Putnam,New York,36079,1080,56
+2020-05-09,Putnam,Ohio,39137,76,13
+2020-05-09,Putnam,Tennessee,47141,166,5
+2020-05-09,Putnam,West Virginia,54079,27,0
+2020-05-10,Putnam,Florida,12107,126,4
+2020-05-10,Putnam,Georgia,13237,55,6
+2020-05-10,Putnam,Indiana,18133,89,5
+2020-05-10,Putnam,New York,36079,1089,58
+2020-05-10,Putnam,Ohio,39137,76,13
+2020-05-10,Putnam,Tennessee,47141,175,5
+2020-05-10,Putnam,West Virginia,54079,27,0
+2020-05-11,Putnam,Florida,12107,127,2
+2020-05-11,Putnam,Georgia,13237,58,6
+2020-05-11,Putnam,Indiana,18133,94,5
+2020-05-11,Putnam,New York,36079,1098,58
+2020-05-11,Putnam,Ohio,39137,76,13
+2020-05-11,Putnam,Tennessee,47141,178,5
+2020-05-11,Putnam,West Virginia,54079,28,0
+2020-05-12,Putnam,Florida,12107,127,2
+2020-05-12,Putnam,Georgia,13237,59,6
+2020-05-12,Putnam,Indiana,18133,96,5
+2020-05-12,Putnam,New York,36079,1098,58
+2020-05-12,Putnam,Ohio,39137,77,13
+2020-05-12,Putnam,Tennessee,47141,180,5
+2020-05-12,Putnam,West Virginia,54079,28,0
+2020-05-13,Putnam,Florida,12107,127,2
+2020-05-13,Putnam,Georgia,13237,59,6
+2020-05-13,Putnam,Indiana,18133,97,5
+2020-05-13,Putnam,New York,36079,1108,58
+2020-05-13,Putnam,Ohio,39137,77,13
+2020-05-13,Putnam,Tennessee,47141,190,5
+2020-05-13,Putnam,West Virginia,54079,29,0
+2020-05-14,Putnam,Florida,12107,127,3
+2020-05-14,Putnam,Georgia,13237,60,6
+2020-05-14,Putnam,Indiana,18133,99,5
+2020-05-14,Putnam,New York,36079,1115,58
+2020-05-14,Putnam,Ohio,39137,77,13
+2020-05-14,Putnam,Tennessee,47141,204,5
+2020-05-14,Putnam,West Virginia,54079,29,0
+2020-05-15,Putnam,Florida,12107,127,3
+2020-05-15,Putnam,Georgia,13237,62,7
+2020-05-15,Putnam,Indiana,18133,100,5
+2020-05-15,Putnam,New York,36079,1121,58
+2020-05-15,Putnam,Ohio,39137,80,13
+2020-05-15,Putnam,Tennessee,47141,206,5
+2020-05-15,Putnam,West Virginia,54079,29,0
+2020-05-16,Putnam,Florida,12107,128,3
+2020-05-16,Putnam,Georgia,13237,77,7
+2020-05-16,Putnam,Illinois,17155,2,0
+2020-05-16,Putnam,Indiana,18133,122,5
+2020-05-16,Putnam,New York,36079,1127,59
+2020-05-16,Putnam,Ohio,39137,80,13
+2020-05-16,Putnam,Tennessee,47141,232,5
+2020-05-16,Putnam,West Virginia,54079,29,0
+2020-05-17,Putnam,Florida,12107,131,3
+2020-05-17,Putnam,Georgia,13237,77,7
+2020-05-17,Putnam,Illinois,17155,2,0
+2020-05-17,Putnam,Indiana,18133,125,5
+2020-05-17,Putnam,New York,36079,1136,59
+2020-05-17,Putnam,Ohio,39137,82,13
+2020-05-17,Putnam,Tennessee,47141,235,5
+2020-05-17,Putnam,West Virginia,54079,29,0
+2020-05-18,Putnam,Florida,12107,134,3
+2020-05-18,Putnam,Georgia,13237,79,7
+2020-05-18,Putnam,Illinois,17155,1,0
+2020-05-18,Putnam,Indiana,18133,125,5
+2020-05-18,Putnam,New York,36079,1141,59
+2020-05-18,Putnam,Ohio,39137,84,13
+2020-05-18,Putnam,Tennessee,47141,240,5
+2020-05-18,Putnam,West Virginia,54079,29,0
+2020-05-19,Putnam,Florida,12107,134,3
+2020-05-19,Putnam,Georgia,13237,80,7
+2020-05-19,Putnam,Illinois,17155,1,0
+2020-05-19,Putnam,Indiana,18133,128,6
+2020-05-19,Putnam,New York,36079,1159,59
+2020-05-19,Putnam,Ohio,39137,84,13
+2020-05-19,Putnam,Tennessee,47141,286,5
+2020-05-19,Putnam,West Virginia,54079,29,0
+2020-05-20,Putnam,Florida,12107,135,3
+2020-05-20,Putnam,Georgia,13237,83,7
+2020-05-20,Putnam,Illinois,17155,1,0
+2020-05-20,Putnam,Indiana,18133,131,6
+2020-05-20,Putnam,New York,36079,1168,59
+2020-05-20,Putnam,Ohio,39137,84,13
+2020-05-20,Putnam,Tennessee,47141,286,5
+2020-05-20,Putnam,West Virginia,54079,30,0
+2020-05-21,Putnam,Florida,12107,136,4
+2020-05-21,Putnam,Georgia,13237,86,7
+2020-05-21,Putnam,Illinois,17155,1,0
+2020-05-21,Putnam,Indiana,18133,132,6
+2020-05-21,Putnam,New York,36079,1175,59
+2020-05-21,Putnam,Ohio,39137,84,13
+2020-05-21,Putnam,Tennessee,47141,321,5
+2020-05-21,Putnam,West Virginia,54079,31,0
+2020-05-22,Putnam,Florida,12107,138,4
+2020-05-22,Putnam,Georgia,13237,84,8
+2020-05-22,Putnam,Illinois,17155,1,0
+2020-05-22,Putnam,Indiana,18133,132,6
+2020-05-22,Putnam,New York,36079,1187,59
+2020-05-22,Putnam,Ohio,39137,84,13
+2020-05-22,Putnam,Tennessee,47141,350,5
+2020-05-22,Putnam,West Virginia,54079,31,0
+2020-05-23,Putnam,Florida,12107,139,4
+2020-05-23,Putnam,Georgia,13237,85,8
+2020-05-23,Putnam,Illinois,17155,1,0
+2020-05-23,Putnam,Indiana,18133,134,7
+2020-05-23,Putnam,New York,36079,1200,59
+2020-05-23,Putnam,Ohio,39137,85,14
+2020-05-23,Putnam,Tennessee,47141,359,5
+2020-05-23,Putnam,West Virginia,54079,31,0
+2020-05-24,Putnam,Florida,12107,140,4
+2020-05-24,Putnam,Georgia,13237,87,8
+2020-05-24,Putnam,Illinois,17155,1,0
+2020-05-24,Putnam,Indiana,18133,136,7
+2020-05-24,Putnam,New York,36079,1208,59
+2020-05-24,Putnam,Ohio,39137,85,14
+2020-05-24,Putnam,Tennessee,47141,377,5
+2020-05-24,Putnam,West Virginia,54079,32,0
+2020-05-25,Putnam,Florida,12107,143,4
+2020-05-25,Putnam,Georgia,13237,88,8
+2020-05-25,Putnam,Illinois,17155,1,0
+2020-05-25,Putnam,Indiana,18133,138,7
+2020-05-25,Putnam,New York,36079,1214,59
+2020-05-25,Putnam,Ohio,39137,87,14
+2020-05-25,Putnam,Tennessee,47141,380,5
+2020-05-25,Putnam,West Virginia,54079,32,0
+2020-05-26,Putnam,Florida,12107,144,4
+2020-05-26,Putnam,Georgia,13237,88,8
+2020-05-26,Putnam,Illinois,17155,1,0
+2020-05-26,Putnam,Indiana,18133,138,7
+2020-05-26,Putnam,New York,36079,1222,59
+2020-05-26,Putnam,Ohio,39137,87,14
+2020-05-26,Putnam,Tennessee,47141,410,5
+2020-05-26,Putnam,West Virginia,54079,33,0
+2020-05-27,Putnam,Florida,12107,144,4
+2020-05-27,Putnam,Georgia,13237,88,9
+2020-05-27,Putnam,Illinois,17155,1,0
+2020-05-27,Putnam,Indiana,18133,139,7
+2020-05-27,Putnam,New York,36079,1227,59
+2020-05-27,Putnam,Ohio,39137,87,14
+2020-05-27,Putnam,Tennessee,47141,428,5
+2020-05-27,Putnam,West Virginia,54079,33,1
+2020-05-28,Putnam,Florida,12107,149,5
+2020-05-28,Putnam,Georgia,13237,88,9
+2020-05-28,Putnam,Illinois,17155,1,0
+2020-05-28,Putnam,Indiana,18133,140,7
+2020-05-28,Putnam,New York,36079,1236,59
+2020-05-28,Putnam,Ohio,39137,88,14
+2020-05-28,Putnam,Tennessee,47141,461,5
+2020-05-28,Putnam,West Virginia,54079,35,1
+2020-05-29,Putnam,Florida,12107,149,5
+2020-05-29,Putnam,Georgia,13237,89,9
+2020-05-29,Putnam,Illinois,17155,1,0
+2020-05-29,Putnam,Indiana,18133,141,7
+2020-05-29,Putnam,New York,36079,1241,60
+2020-05-29,Putnam,Ohio,39137,90,14
+2020-05-29,Putnam,Tennessee,47141,465,6
+2020-05-29,Putnam,West Virginia,54079,35,0
+2020-05-30,Putnam,Florida,12107,150,5
+2020-05-30,Putnam,Georgia,13237,90,9
+2020-05-30,Putnam,Illinois,17155,1,0
+2020-05-30,Putnam,Indiana,18133,141,7
+2020-05-30,Putnam,New York,36079,1248,60
+2020-05-30,Putnam,Ohio,39137,91,14
+2020-05-30,Putnam,Tennessee,47141,479,5
+2020-05-30,Putnam,West Virginia,54079,35,0
+2020-05-31,Putnam,Florida,12107,152,6
+2020-05-31,Putnam,Georgia,13237,90,9
+2020-05-31,Putnam,Illinois,17155,1,0
+2020-05-31,Putnam,Indiana,18133,142,7
+2020-05-31,Putnam,New York,36079,1252,60
+2020-05-31,Putnam,Ohio,39137,92,14
+2020-05-31,Putnam,Tennessee,47141,479,5
+2020-05-31,Putnam,West Virginia,54079,34,0
+2020-06-01,Putnam,Florida,12107,153,6
+2020-06-01,Putnam,Georgia,13237,93,9
+2020-06-01,Putnam,Illinois,17155,1,0
+2020-06-01,Putnam,Indiana,18133,142,7
+2020-06-01,Putnam,New York,36079,1257,60
+2020-06-01,Putnam,Ohio,39137,93,14
+2020-06-01,Putnam,Tennessee,47141,479,5
+2020-06-01,Putnam,West Virginia,54079,34,0
+2020-06-02,Putnam,Florida,12107,154,6
+2020-06-02,Putnam,Georgia,13237,93,9
+2020-06-02,Putnam,Illinois,17155,1,0
+2020-06-02,Putnam,Indiana,18133,142,7
+2020-06-02,Putnam,New York,36079,1262,60
+2020-06-02,Putnam,Ohio,39137,93,14
+2020-06-02,Putnam,Tennessee,47141,507,5
+2020-06-02,Putnam,West Virginia,54079,37,0
+2020-06-03,Putnam,Florida,12107,154,6
+2020-06-03,Putnam,Georgia,13237,95,9
+2020-06-03,Putnam,Illinois,17155,1,0
+2020-06-03,Putnam,Indiana,18133,142,7
+2020-06-03,Putnam,New York,36079,1264,60
+2020-06-03,Putnam,Ohio,39137,95,14
+2020-06-03,Putnam,Tennessee,47141,519,6
+2020-06-03,Putnam,West Virginia,54079,38,0
+2020-06-04,Putnam,Florida,12107,165,6
+2020-06-04,Putnam,Georgia,13237,97,9
+2020-06-04,Putnam,Illinois,17155,1,0
+2020-06-04,Putnam,Indiana,18133,147,7
+2020-06-04,Putnam,New York,36079,1268,60
+2020-06-04,Putnam,Ohio,39137,95,14
+2020-06-04,Putnam,Tennessee,47141,524,6
+2020-06-04,Putnam,West Virginia,54079,38,0
+2020-06-05,Putnam,Florida,12107,172,6
+2020-06-05,Putnam,Georgia,13237,99,9
+2020-06-05,Putnam,Illinois,17155,1,0
+2020-06-05,Putnam,Indiana,18133,147,7
+2020-06-05,Putnam,New York,36079,1270,60
+2020-06-05,Putnam,Ohio,39137,95,14
+2020-06-05,Putnam,Tennessee,47141,525,6
+2020-06-05,Putnam,West Virginia,54079,38,0
+2020-06-06,Putnam,Florida,12107,173,6
+2020-06-06,Putnam,Georgia,13237,100,9
+2020-06-06,Putnam,Illinois,17155,1,0
+2020-06-06,Putnam,Indiana,18133,147,7
+2020-06-06,Putnam,New York,36079,1274,60
+2020-06-06,Putnam,Ohio,39137,96,14
+2020-06-06,Putnam,Tennessee,47141,529,6
+2020-06-06,Putnam,West Virginia,54079,39,0
+2020-06-07,Putnam,Florida,12107,173,6
+2020-06-07,Putnam,Georgia,13237,100,9
+2020-06-07,Putnam,Illinois,17155,1,0
+2020-06-07,Putnam,Indiana,18133,148,7
+2020-06-07,Putnam,Missouri,29171,1,0
+2020-06-07,Putnam,New York,36079,1277,60
+2020-06-07,Putnam,Ohio,39137,97,14
+2020-06-07,Putnam,Tennessee,47141,552,6
+2020-06-07,Putnam,West Virginia,54079,39,0
+2020-06-08,Putnam,Florida,12107,174,6
+2020-06-08,Putnam,Georgia,13237,100,9
+2020-06-08,Putnam,Illinois,17155,1,0
+2020-06-08,Putnam,Indiana,18133,149,7
+2020-06-08,Putnam,Missouri,29171,1,0
+2020-06-08,Putnam,New York,36079,1279,60
+2020-06-08,Putnam,Ohio,39137,97,14
+2020-06-08,Putnam,Tennessee,47141,552,6
+2020-06-08,Putnam,West Virginia,54079,40,0
+2020-06-09,Putnam,Florida,12107,175,6
+2020-06-09,Putnam,Georgia,13237,103,10
+2020-06-09,Putnam,Illinois,17155,1,0
+2020-06-09,Putnam,Indiana,18133,152,7
+2020-06-09,Putnam,Missouri,29171,1,0
+2020-06-09,Putnam,New York,36079,1280,60
+2020-06-09,Putnam,Ohio,39137,98,14
+2020-06-09,Putnam,Tennessee,47141,569,6
+2020-06-09,Putnam,West Virginia,54079,40,0
+2020-06-10,Putnam,Florida,12107,176,6
+2020-06-10,Putnam,Georgia,13237,103,10
+2020-06-10,Putnam,Illinois,17155,1,0
+2020-06-10,Putnam,Indiana,18133,153,8
+2020-06-10,Putnam,Missouri,29171,1,0
+2020-06-10,Putnam,New York,36079,1282,60
+2020-06-10,Putnam,Ohio,39137,99,14
+2020-06-10,Putnam,Tennessee,47141,571,6
+2020-06-10,Putnam,West Virginia,54079,41,0
+2020-06-11,Putnam,Florida,12107,181,6
+2020-06-11,Putnam,Georgia,13237,104,10
+2020-06-11,Putnam,Illinois,17155,1,0
+2020-06-11,Putnam,Indiana,18133,154,8
+2020-06-11,Putnam,Missouri,29171,1,0
+2020-06-11,Putnam,New York,36079,1282,60
+2020-06-11,Putnam,Ohio,39137,100,15
+2020-06-11,Putnam,Tennessee,47141,572,6
+2020-06-11,Putnam,West Virginia,54079,41,0
+2020-06-12,Putnam,Florida,12107,183,6
+2020-06-12,Putnam,Georgia,13237,104,10
+2020-06-12,Putnam,Illinois,17155,1,0
+2020-06-12,Putnam,Indiana,18133,157,8
+2020-06-12,Putnam,Missouri,29171,1,0
+2020-06-12,Putnam,New York,36079,1282,60
+2020-06-12,Putnam,Ohio,39137,100,15
+2020-06-12,Putnam,Tennessee,47141,588,6
+2020-06-12,Putnam,West Virginia,54079,42,0
+2020-06-13,Putnam,Florida,12107,185,6
+2020-06-13,Putnam,Georgia,13237,109,11
+2020-06-13,Putnam,Illinois,17155,1,0
+2020-06-13,Putnam,Indiana,18133,159,8
+2020-06-13,Putnam,Missouri,29171,1,0
+2020-06-13,Putnam,New York,36079,1285,60
+2020-06-13,Putnam,Ohio,39137,101,15
+2020-06-13,Putnam,Tennessee,47141,588,6
+2020-06-13,Putnam,West Virginia,54079,42,0
+2020-06-14,Putnam,Florida,12107,190,6
+2020-06-14,Putnam,Georgia,13237,109,11
+2020-06-14,Putnam,Illinois,17155,1,0
+2020-06-14,Putnam,Indiana,18133,160,8
+2020-06-14,Putnam,Missouri,29171,1,0
+2020-06-14,Putnam,New York,36079,1288,60
+2020-06-14,Putnam,Ohio,39137,101,15
+2020-06-14,Putnam,Tennessee,47141,601,6
+2020-06-14,Putnam,West Virginia,54079,42,0
+2020-06-15,Putnam,Florida,12107,191,6
+2020-06-15,Putnam,Georgia,13237,112,12
+2020-06-15,Putnam,Illinois,17155,1,0
+2020-06-15,Putnam,Indiana,18133,161,8
+2020-06-15,Putnam,Missouri,29171,1,0
+2020-06-15,Putnam,New York,36079,1291,60
+2020-06-15,Putnam,Ohio,39137,101,15
+2020-06-15,Putnam,Tennessee,47141,610,6
+2020-06-15,Putnam,West Virginia,54079,42,0
+2020-06-16,Putnam,Florida,12107,198,6
+2020-06-16,Putnam,Georgia,13237,111,11
+2020-06-16,Putnam,Illinois,17155,1,0
+2020-06-16,Putnam,Indiana,18133,164,8
+2020-06-16,Putnam,Missouri,29171,2,0
+2020-06-16,Putnam,New York,36079,1292,60
+2020-06-16,Putnam,Ohio,39137,101,15
+2020-06-16,Putnam,Tennessee,47141,613,6
+2020-06-16,Putnam,West Virginia,54079,42,0
+2020-06-17,Putnam,Florida,12107,205,6
+2020-06-17,Putnam,Georgia,13237,112,11
+2020-06-17,Putnam,Illinois,17155,1,0
+2020-06-17,Putnam,Indiana,18133,163,8
+2020-06-17,Putnam,Missouri,29171,2,0
+2020-06-17,Putnam,New York,36079,1294,60
+2020-06-17,Putnam,Ohio,39137,101,15
+2020-06-17,Putnam,Tennessee,47141,612,6
+2020-06-17,Putnam,West Virginia,54079,40,0
+2020-06-18,Putnam,Florida,12107,209,6
+2020-06-18,Putnam,Georgia,13237,112,11
+2020-06-18,Putnam,Illinois,17155,1,0
+2020-06-18,Putnam,Indiana,18133,164,8
+2020-06-18,Putnam,Missouri,29171,2,0
+2020-06-18,Putnam,New York,36079,1295,60
+2020-06-18,Putnam,Ohio,39137,102,15
+2020-06-18,Putnam,Tennessee,47141,630,6
+2020-06-18,Putnam,West Virginia,54079,40,0
+2020-06-19,Putnam,Florida,12107,213,6
+2020-06-19,Putnam,Georgia,13237,113,11
+2020-06-19,Putnam,Illinois,17155,1,0
+2020-06-19,Putnam,Indiana,18133,163,8
+2020-06-19,Putnam,Missouri,29171,2,0
+2020-06-19,Putnam,New York,36079,1299,60
+2020-06-19,Putnam,Ohio,39137,103,15
+2020-06-19,Putnam,Tennessee,47141,643,7
+2020-06-19,Putnam,West Virginia,54079,41,0
+2020-06-20,Putnam,Florida,12107,221,6
+2020-06-20,Putnam,Georgia,13237,115,11
+2020-06-20,Putnam,Illinois,17155,1,0
+2020-06-20,Putnam,Indiana,18133,163,8
+2020-06-20,Putnam,Missouri,29171,2,0
+2020-06-20,Putnam,New York,36079,1301,60
+2020-06-20,Putnam,Ohio,39137,103,15
+2020-06-20,Putnam,Tennessee,47141,655,7
+2020-06-20,Putnam,West Virginia,54079,44,0
+2020-06-21,Putnam,Florida,12107,237,6
+2020-06-21,Putnam,Georgia,13237,120,11
+2020-06-21,Putnam,Illinois,17155,1,0
+2020-06-21,Putnam,Indiana,18133,163,8
+2020-06-21,Putnam,Missouri,29171,2,0
+2020-06-21,Putnam,New York,36079,1301,60
+2020-06-21,Putnam,Ohio,39137,105,15
+2020-06-21,Putnam,Tennessee,47141,663,7
+2020-06-21,Putnam,West Virginia,54079,44,0
+2020-06-22,Putnam,Florida,12107,238,6
+2020-06-22,Putnam,Georgia,13237,120,11
+2020-06-22,Putnam,Illinois,17155,1,0
+2020-06-22,Putnam,Indiana,18133,164,8
+2020-06-22,Putnam,Missouri,29171,2,0
+2020-06-22,Putnam,New York,36079,1305,60
+2020-06-22,Putnam,Ohio,39137,105,15
+2020-06-22,Putnam,Tennessee,47141,673,7
+2020-06-22,Putnam,West Virginia,54079,45,0
+2020-06-23,Putnam,Florida,12107,242,6
+2020-06-23,Putnam,Georgia,13237,123,11
+2020-06-23,Putnam,Illinois,17155,1,0
+2020-06-23,Putnam,Indiana,18133,164,8
+2020-06-23,Putnam,Missouri,29171,2,0
+2020-06-23,Putnam,New York,36079,1305,60
+2020-06-23,Putnam,Ohio,39137,105,15
+2020-06-23,Putnam,Tennessee,47141,676,7
+2020-06-23,Putnam,West Virginia,54079,44,0
+2020-06-24,Putnam,Florida,12107,261,6
+2020-06-24,Putnam,Georgia,13237,127,11
+2020-06-24,Putnam,Illinois,17155,1,0
+2020-06-24,Putnam,Indiana,18133,164,8
+2020-06-24,Putnam,Missouri,29171,2,0
+2020-06-24,Putnam,New York,36079,1306,60
+2020-06-24,Putnam,Ohio,39137,106,15
+2020-06-24,Putnam,Tennessee,47141,675,7
+2020-06-24,Putnam,West Virginia,54079,45,0
+2020-06-25,Putnam,Florida,12107,271,6
+2020-06-25,Putnam,Georgia,13237,128,12
+2020-06-25,Putnam,Illinois,17155,1,0
+2020-06-25,Putnam,Indiana,18133,164,8
+2020-06-25,Putnam,Missouri,29171,2,0
+2020-06-25,Putnam,New York,36079,1311,60
+2020-06-25,Putnam,Ohio,39137,107,15
+2020-06-25,Putnam,Tennessee,47141,706,7
+2020-06-25,Putnam,West Virginia,54079,50,0
+2020-06-26,Putnam,Florida,12107,285,6
+2020-06-26,Putnam,Georgia,13237,131,12
+2020-06-26,Putnam,Illinois,17155,1,0
+2020-06-26,Putnam,Indiana,18133,167,8
+2020-06-26,Putnam,Missouri,29171,2,0
+2020-06-26,Putnam,New York,36079,1317,60
+2020-06-26,Putnam,Ohio,39137,109,15
+2020-06-26,Putnam,Tennessee,47141,726,7
+2020-06-26,Putnam,West Virginia,54079,51,0
+2020-06-27,Putnam,Florida,12107,297,6
+2020-06-27,Putnam,Georgia,13237,136,12
+2020-06-27,Putnam,Illinois,17155,1,0
+2020-06-27,Putnam,Indiana,18133,167,8
+2020-06-27,Putnam,Missouri,29171,2,0
+2020-06-27,Putnam,New York,36079,1319,61
+2020-06-27,Putnam,Ohio,39137,110,15
+2020-06-27,Putnam,Tennessee,47141,735,7
+2020-06-27,Putnam,West Virginia,54079,51,0
+2020-06-28,Putnam,Florida,12107,318,6
+2020-06-28,Putnam,Georgia,13237,137,12
+2020-06-28,Putnam,Illinois,17155,1,0
+2020-06-28,Putnam,Indiana,18133,167,8
+2020-06-28,Putnam,Missouri,29171,2,0
+2020-06-28,Putnam,New York,36079,1323,61
+2020-06-28,Putnam,Ohio,39137,112,15
+2020-06-28,Putnam,Tennessee,47141,735,7
+2020-06-28,Putnam,West Virginia,54079,52,0
+2020-06-29,Putnam,Florida,12107,327,6
+2020-06-29,Putnam,Georgia,13237,142,12
+2020-06-29,Putnam,Illinois,17155,1,0
+2020-06-29,Putnam,Indiana,18133,169,8
+2020-06-29,Putnam,Missouri,29171,2,0
+2020-06-29,Putnam,New York,36079,1325,61
+2020-06-29,Putnam,Ohio,39137,113,15
+2020-06-29,Putnam,Tennessee,47141,773,7
+2020-06-29,Putnam,West Virginia,54079,53,0
+2020-06-30,Putnam,Florida,12107,339,6
+2020-06-30,Putnam,Georgia,13237,148,12
+2020-06-30,Putnam,Illinois,17155,1,0
+2020-06-30,Putnam,Indiana,18133,170,8
+2020-06-30,Putnam,Missouri,29171,3,0
+2020-06-30,Putnam,New York,36079,1326,61
+2020-06-30,Putnam,Ohio,39137,113,16
+2020-06-30,Putnam,Tennessee,47141,783,7
+2020-06-30,Putnam,West Virginia,54079,55,0
+2020-07-01,Putnam,Florida,12107,381,6
+2020-07-01,Putnam,Georgia,13237,157,12
+2020-07-01,Putnam,Illinois,17155,1,0
+2020-07-01,Putnam,Indiana,18133,170,8
+2020-07-01,Putnam,Missouri,29171,3,0
+2020-07-01,Putnam,New York,36079,1329,61
+2020-07-01,Putnam,Ohio,39137,115,16
+2020-07-01,Putnam,Tennessee,47141,805,7
+2020-07-01,Putnam,West Virginia,54079,58,0
+2020-07-02,Putnam,Florida,12107,433,6
+2020-07-02,Putnam,Georgia,13237,160,12
+2020-07-02,Putnam,Illinois,17155,1,0
+2020-07-02,Putnam,Indiana,18133,170,8
+2020-07-02,Putnam,Missouri,29171,3,0
+2020-07-02,Putnam,New York,36079,1332,61
+2020-07-02,Putnam,Ohio,39137,115,16
+2020-07-02,Putnam,Tennessee,47141,814,7
+2020-07-02,Putnam,West Virginia,54079,60,0
+2020-07-03,Putnam,Florida,12107,489,6
+2020-07-03,Putnam,Georgia,13237,165,12
+2020-07-03,Putnam,Illinois,17155,1,0
+2020-07-03,Putnam,Indiana,18133,173,8
+2020-07-03,Putnam,Missouri,29171,3,0
+2020-07-03,Putnam,New York,36079,1333,61
+2020-07-03,Putnam,Ohio,39137,126,15
+2020-07-03,Putnam,Tennessee,47141,853,7
+2020-07-03,Putnam,West Virginia,54079,61,0
+2020-07-04,Putnam,Florida,12107,516,6
+2020-07-04,Putnam,Georgia,13237,170,12
+2020-07-04,Putnam,Illinois,17155,1,0
+2020-07-04,Putnam,Indiana,18133,173,8
+2020-07-04,Putnam,Missouri,29171,3,0
+2020-07-04,Putnam,New York,36079,1335,61
+2020-07-04,Putnam,Ohio,39137,127,15
+2020-07-04,Putnam,Tennessee,47141,882,7
+2020-07-04,Putnam,West Virginia,54079,64,0
+2020-07-05,Putnam,Florida,12107,540,6
+2020-07-05,Putnam,Georgia,13237,181,12
+2020-07-05,Putnam,Illinois,17155,1,0
+2020-07-05,Putnam,Indiana,18133,174,8
+2020-07-05,Putnam,Missouri,29171,3,0
+2020-07-05,Putnam,New York,36079,1336,61
+2020-07-05,Putnam,Ohio,39137,128,15
+2020-07-05,Putnam,Tennessee,47141,883,7
+2020-07-05,Putnam,West Virginia,54079,66,0
+2020-07-06,Putnam,Florida,12107,550,6
+2020-07-06,Putnam,Georgia,13237,194,12
+2020-07-06,Putnam,Illinois,17155,1,0
+2020-07-06,Putnam,Indiana,18133,174,8
+2020-07-06,Putnam,Missouri,29171,3,0
+2020-07-06,Putnam,New York,36079,1337,61
+2020-07-06,Putnam,Ohio,39137,128,15
+2020-07-06,Putnam,Tennessee,47141,906,7
+2020-07-06,Putnam,West Virginia,54079,69,0
+2020-07-07,Putnam,Florida,12107,566,6
+2020-07-07,Putnam,Georgia,13237,199,12
+2020-07-07,Putnam,Illinois,17155,1,0
+2020-07-07,Putnam,Indiana,18133,175,8
+2020-07-07,Putnam,Missouri,29171,4,0
+2020-07-07,Putnam,New York,36079,1340,61
+2020-07-07,Putnam,Ohio,39137,129,15
+2020-07-07,Putnam,Tennessee,47141,919,7
+2020-07-07,Putnam,West Virginia,54079,70,0
+2020-07-08,Putnam,Florida,12107,593,6
+2020-07-08,Putnam,Georgia,13237,201,12
+2020-07-08,Putnam,Illinois,17155,1,0
+2020-07-08,Putnam,Indiana,18133,175,8
+2020-07-08,Putnam,Missouri,29171,4,0
+2020-07-08,Putnam,New York,36079,1344,61
+2020-07-08,Putnam,Ohio,39137,132,15
+2020-07-08,Putnam,Tennessee,47141,926,7
+2020-07-08,Putnam,West Virginia,54079,75,0
+2020-07-09,Putnam,Florida,12107,619,7
+2020-07-09,Putnam,Georgia,13237,197,12
+2020-07-09,Putnam,Illinois,17155,1,0
+2020-07-09,Putnam,Indiana,18133,175,8
+2020-07-09,Putnam,Missouri,29171,3,0
+2020-07-09,Putnam,New York,36079,1348,61
+2020-07-09,Putnam,Ohio,39137,133,15
+2020-07-09,Putnam,Tennessee,47141,989,7
+2020-07-09,Putnam,West Virginia,54079,78,0
+2020-07-10,Putnam,Florida,12107,653,7
+2020-07-10,Putnam,Georgia,13237,204,12
+2020-07-10,Putnam,Illinois,17155,1,0
+2020-07-10,Putnam,Indiana,18133,177,8
+2020-07-10,Putnam,Missouri,29171,3,0
+2020-07-10,Putnam,New York,36079,1355,61
+2020-07-10,Putnam,Ohio,39137,134,15
+2020-07-10,Putnam,Tennessee,47141,1002,7
+2020-07-10,Putnam,West Virginia,54079,79,0
+2020-07-11,Putnam,Florida,12107,695,7
+2020-07-11,Putnam,Georgia,13237,212,12
+2020-07-11,Putnam,Illinois,17155,1,0
+2020-07-11,Putnam,Indiana,18133,178,8
+2020-07-11,Putnam,Missouri,29171,3,0
+2020-07-11,Putnam,New York,36079,1361,61
+2020-07-11,Putnam,Ohio,39137,137,15
+2020-07-11,Putnam,Tennessee,47141,1011,7
+2020-07-11,Putnam,West Virginia,54079,86,0
+2020-07-12,Putnam,Florida,12107,738,7
+2020-07-12,Putnam,Georgia,13237,221,12
+2020-07-12,Putnam,Illinois,17155,1,0
+2020-07-12,Putnam,Indiana,18133,178,8
+2020-07-12,Putnam,Missouri,29171,3,0
+2020-07-12,Putnam,New York,36079,1361,61
+2020-07-12,Putnam,Ohio,39137,142,15
+2020-07-12,Putnam,Tennessee,47141,1019,7
+2020-07-12,Putnam,West Virginia,54079,89,0
+2020-07-13,Putnam,Florida,12107,775,7
+2020-07-13,Putnam,Georgia,13237,222,12
+2020-07-13,Putnam,Illinois,17155,1,0
+2020-07-13,Putnam,Indiana,18133,179,8
+2020-07-13,Putnam,Missouri,29171,3,0
+2020-07-13,Putnam,New York,36079,1365,61
+2020-07-13,Putnam,Ohio,39137,145,15
+2020-07-13,Putnam,Tennessee,47141,1081,7
+2020-07-13,Putnam,West Virginia,54079,91,0

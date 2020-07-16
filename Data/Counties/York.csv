@@ -1,0 +1,582 @@
+2020-03-16,York,Virginia,51199,1,0
+2020-03-17,York,Maine,23031,1,0
+2020-03-17,York,South Carolina,45091,1,0
+2020-03-17,York,Virginia,51199,1,0
+2020-03-18,York,Maine,23031,1,0
+2020-03-18,York,Pennsylvania,42133,2,0
+2020-03-18,York,South Carolina,45091,1,0
+2020-03-18,York,Virginia,51199,1,0
+2020-03-19,York,Maine,23031,3,0
+2020-03-19,York,Pennsylvania,42133,2,0
+2020-03-19,York,South Carolina,45091,1,0
+2020-03-19,York,Virginia,51199,1,0
+2020-03-20,York,Maine,23031,5,0
+2020-03-20,York,Pennsylvania,42133,6,0
+2020-03-20,York,South Carolina,45091,1,0
+2020-03-20,York,Virginia,51199,3,0
+2020-03-21,York,Maine,23031,8,0
+2020-03-21,York,Pennsylvania,42133,9,0
+2020-03-21,York,South Carolina,45091,2,0
+2020-03-21,York,Virginia,51199,3,0
+2020-03-22,York,Maine,23031,8,0
+2020-03-22,York,Pennsylvania,42133,10,0
+2020-03-22,York,South Carolina,45091,4,0
+2020-03-22,York,Virginia,51199,5,0
+2020-03-23,York,Maine,23031,12,0
+2020-03-23,York,Pennsylvania,42133,10,0
+2020-03-23,York,South Carolina,45091,7,0
+2020-03-23,York,Virginia,51199,5,0
+2020-03-24,York,Maine,23031,16,0
+2020-03-24,York,Pennsylvania,42133,18,0
+2020-03-24,York,South Carolina,45091,11,0
+2020-03-24,York,Virginia,51199,6,0
+2020-03-25,York,Maine,23031,23,0
+2020-03-25,York,Pennsylvania,42133,20,0
+2020-03-25,York,South Carolina,45091,18,0
+2020-03-25,York,Virginia,51199,8,0
+2020-03-26,York,Maine,23031,27,0
+2020-03-26,York,Pennsylvania,42133,21,0
+2020-03-26,York,South Carolina,45091,19,0
+2020-03-26,York,Virginia,51199,9,0
+2020-03-27,York,Maine,23031,33,0
+2020-03-27,York,Pennsylvania,42133,29,0
+2020-03-27,York,South Carolina,45091,19,0
+2020-03-27,York,Virginia,51199,9,0
+2020-03-28,York,Maine,23031,38,0
+2020-03-28,York,Pennsylvania,42133,37,0
+2020-03-28,York,South Carolina,45091,31,0
+2020-03-28,York,Virginia,51199,9,0
+2020-03-29,York,Maine,23031,47,0
+2020-03-29,York,Pennsylvania,42133,43,0
+2020-03-29,York,South Carolina,45091,36,0
+2020-03-29,York,Virginia,51199,9,0
+2020-03-30,York,Maine,23031,53,0
+2020-03-30,York,Nebraska,31185,1,0
+2020-03-30,York,Pennsylvania,42133,54,0
+2020-03-30,York,South Carolina,45091,43,0
+2020-03-30,York,Virginia,51199,11,0
+2020-03-31,York,Maine,23031,59,1
+2020-03-31,York,Nebraska,31185,1,0
+2020-03-31,York,Pennsylvania,42133,66,0
+2020-03-31,York,South Carolina,45091,56,1
+2020-03-31,York,Virginia,51199,14,0
+2020-04-01,York,Maine,23031,65,1
+2020-04-01,York,Nebraska,31185,1,0
+2020-04-01,York,Pennsylvania,42133,66,0
+2020-04-01,York,South Carolina,45091,66,1
+2020-04-01,York,Virginia,51199,16,0
+2020-04-02,York,Maine,23031,74,1
+2020-04-02,York,Nebraska,31185,1,0
+2020-04-02,York,Pennsylvania,42133,102,1
+2020-04-02,York,South Carolina,45091,66,1
+2020-04-02,York,Virginia,51199,17,0
+2020-04-03,York,Maine,23031,89,1
+2020-04-03,York,Nebraska,31185,1,0
+2020-04-03,York,Pennsylvania,42133,102,1
+2020-04-03,York,South Carolina,45091,73,1
+2020-04-03,York,Virginia,51199,17,0
+2020-04-04,York,Maine,23031,95,2
+2020-04-04,York,Nebraska,31185,1,0
+2020-04-04,York,Pennsylvania,42133,144,1
+2020-04-04,York,South Carolina,45091,81,2
+2020-04-04,York,Virginia,51199,19,0
+2020-04-05,York,Maine,23031,101,2
+2020-04-05,York,Nebraska,31185,1,0
+2020-04-05,York,Pennsylvania,42133,171,1
+2020-04-05,York,South Carolina,45091,85,2
+2020-04-05,York,Virginia,51199,20,0
+2020-04-06,York,Maine,23031,108,2
+2020-04-06,York,Nebraska,31185,1,0
+2020-04-06,York,Pennsylvania,42133,189,1
+2020-04-06,York,South Carolina,45091,95,2
+2020-04-06,York,Virginia,51199,21,0
+2020-04-07,York,Maine,23031,115,2
+2020-04-07,York,Nebraska,31185,2,0
+2020-04-07,York,Pennsylvania,42133,218,2
+2020-04-07,York,South Carolina,45091,108,2
+2020-04-07,York,Virginia,51199,25,1
+2020-04-08,York,Maine,23031,121,2
+2020-04-08,York,Nebraska,31185,2,0
+2020-04-08,York,Pennsylvania,42133,233,2
+2020-04-08,York,South Carolina,45091,115,2
+2020-04-08,York,Virginia,51199,25,1
+2020-04-09,York,Maine,23031,132,2
+2020-04-09,York,Nebraska,31185,2,0
+2020-04-09,York,Pennsylvania,42133,250,3
+2020-04-09,York,South Carolina,45091,120,2
+2020-04-09,York,Virginia,51199,25,1
+2020-04-10,York,Maine,23031,137,2
+2020-04-10,York,Nebraska,31185,3,0
+2020-04-10,York,Pennsylvania,42133,283,3
+2020-04-10,York,South Carolina,45091,125,2
+2020-04-10,York,Virginia,51199,25,1
+2020-04-11,York,Maine,23031,143,3
+2020-04-11,York,Nebraska,31185,3,0
+2020-04-11,York,Pennsylvania,42133,293,3
+2020-04-11,York,South Carolina,45091,127,3
+2020-04-11,York,Virginia,51199,27,1
+2020-04-12,York,Maine,23031,144,3
+2020-04-12,York,Nebraska,31185,4,0
+2020-04-12,York,Pennsylvania,42133,307,3
+2020-04-12,York,South Carolina,45091,134,3
+2020-04-12,York,Virginia,51199,29,1
+2020-04-13,York,Maine,23031,151,3
+2020-04-13,York,Nebraska,31185,4,0
+2020-04-13,York,Pennsylvania,42133,331,3
+2020-04-13,York,South Carolina,45091,136,3
+2020-04-13,York,Virginia,51199,33,1
+2020-04-14,York,Maine,23031,152,4
+2020-04-14,York,Nebraska,31185,5,0
+2020-04-14,York,Pennsylvania,42133,371,3
+2020-04-14,York,South Carolina,45091,138,3
+2020-04-14,York,Virginia,51199,35,1
+2020-04-15,York,Maine,23031,156,4
+2020-04-15,York,Nebraska,31185,5,0
+2020-04-15,York,Pennsylvania,42133,381,4
+2020-04-15,York,South Carolina,45091,138,3
+2020-04-15,York,Virginia,51199,35,1
+2020-04-16,York,Maine,23031,164,6
+2020-04-16,York,Nebraska,31185,6,0
+2020-04-16,York,Pennsylvania,42133,393,4
+2020-04-16,York,South Carolina,45091,149,3
+2020-04-16,York,Virginia,51199,37,1
+2020-04-17,York,Maine,23031,170,6
+2020-04-17,York,Nebraska,31185,6,0
+2020-04-17,York,Pennsylvania,42133,443,4
+2020-04-17,York,South Carolina,45091,151,3
+2020-04-17,York,Virginia,51199,38,1
+2020-04-18,York,Maine,23031,175,6
+2020-04-18,York,Nebraska,31185,7,0
+2020-04-18,York,Pennsylvania,42133,463,4
+2020-04-18,York,South Carolina,45091,156,3
+2020-04-18,York,Virginia,51199,38,1
+2020-04-19,York,Maine,23031,177,6
+2020-04-19,York,Nebraska,31185,7,0
+2020-04-19,York,Pennsylvania,42133,481,6
+2020-04-19,York,South Carolina,45091,156,3
+2020-04-19,York,Virginia,51199,44,1
+2020-04-20,York,Maine,23031,181,6
+2020-04-20,York,Nebraska,31185,7,0
+2020-04-20,York,Pennsylvania,42133,493,6
+2020-04-20,York,South Carolina,45091,159,3
+2020-04-20,York,Virginia,51199,44,1
+2020-04-21,York,Maine,23031,183,6
+2020-04-21,York,Nebraska,31185,7,0
+2020-04-21,York,Pennsylvania,42133,517,13
+2020-04-21,York,South Carolina,45091,162,3
+2020-04-21,York,Virginia,51199,43,1
+2020-04-22,York,Maine,23031,185,6
+2020-04-22,York,Nebraska,31185,7,0
+2020-04-22,York,Pennsylvania,42133,531,14
+2020-04-22,York,South Carolina,45091,166,3
+2020-04-22,York,Virginia,51199,43,1
+2020-04-23,York,Maine,23031,190,6
+2020-04-23,York,Nebraska,31185,8,0
+2020-04-23,York,Pennsylvania,42133,546,13
+2020-04-23,York,South Carolina,45091,171,3
+2020-04-23,York,Virginia,51199,43,1
+2020-04-24,York,Maine,23031,191,7
+2020-04-24,York,Nebraska,31185,9,0
+2020-04-24,York,Pennsylvania,42133,563,13
+2020-04-24,York,South Carolina,45091,172,3
+2020-04-24,York,Virginia,51199,43,1
+2020-04-25,York,Maine,23031,194,7
+2020-04-25,York,Nebraska,31185,9,0
+2020-04-25,York,Pennsylvania,42133,578,13
+2020-04-25,York,South Carolina,45091,177,3
+2020-04-25,York,Virginia,51199,44,1
+2020-04-26,York,Maine,23031,196,7
+2020-04-26,York,Nebraska,31185,11,0
+2020-04-26,York,Pennsylvania,42133,593,13
+2020-04-26,York,South Carolina,45091,181,3
+2020-04-26,York,Virginia,51199,44,1
+2020-04-27,York,Maine,23031,196,7
+2020-04-27,York,Nebraska,31185,11,0
+2020-04-27,York,Pennsylvania,42133,606,13
+2020-04-27,York,South Carolina,45091,186,3
+2020-04-27,York,Virginia,51199,44,1
+2020-04-28,York,Maine,23031,200,7
+2020-04-28,York,Nebraska,31185,11,0
+2020-04-28,York,Pennsylvania,42133,614,13
+2020-04-28,York,South Carolina,45091,188,3
+2020-04-28,York,Virginia,51199,45,1
+2020-04-29,York,Maine,23031,203,7
+2020-04-29,York,Nebraska,31185,11,0
+2020-04-29,York,Pennsylvania,42133,624,13
+2020-04-29,York,South Carolina,45091,197,3
+2020-04-29,York,Virginia,51199,45,1
+2020-04-30,York,Maine,23031,205,7
+2020-04-30,York,Nebraska,31185,12,0
+2020-04-30,York,Pennsylvania,42133,641,13
+2020-04-30,York,South Carolina,45091,210,3
+2020-04-30,York,Virginia,51199,46,1
+2020-05-01,York,Maine,23031,208,7
+2020-05-01,York,Nebraska,31185,12,0
+2020-05-01,York,Pennsylvania,42133,651,13
+2020-05-01,York,South Carolina,45091,215,3
+2020-05-01,York,Virginia,51199,46,1
+2020-05-02,York,Maine,23031,210,7
+2020-05-02,York,Nebraska,31185,12,0
+2020-05-02,York,Pennsylvania,42133,664,13
+2020-05-02,York,South Carolina,45091,219,3
+2020-05-02,York,Virginia,51199,46,1
+2020-05-03,York,Maine,23031,215,7
+2020-05-03,York,Nebraska,31185,12,0
+2020-05-03,York,Pennsylvania,42133,679,13
+2020-05-03,York,South Carolina,45091,221,3
+2020-05-03,York,Virginia,51199,47,1
+2020-05-04,York,Maine,23031,219,7
+2020-05-04,York,Nebraska,31185,13,0
+2020-05-04,York,Pennsylvania,42133,702,13
+2020-05-04,York,South Carolina,45091,222,3
+2020-05-04,York,Virginia,51199,47,1
+2020-05-05,York,Maine,23031,226,7
+2020-05-05,York,Nebraska,31185,15,0
+2020-05-05,York,Pennsylvania,42133,716,13
+2020-05-05,York,South Carolina,45091,219,4
+2020-05-05,York,Virginia,51199,48,1
+2020-05-06,York,Maine,23031,230,8
+2020-05-06,York,Nebraska,31185,15,0
+2020-05-06,York,Pennsylvania,42133,722,13
+2020-05-06,York,South Carolina,45091,222,5
+2020-05-06,York,Virginia,51199,48,1
+2020-05-07,York,Maine,23031,243,8
+2020-05-07,York,Nebraska,31185,15,0
+2020-05-07,York,Pennsylvania,42133,740,13
+2020-05-07,York,South Carolina,45091,225,5
+2020-05-07,York,Virginia,51199,51,1
+2020-05-08,York,Maine,23031,249,8
+2020-05-08,York,Nebraska,31185,15,0
+2020-05-08,York,Pennsylvania,42133,753,13
+2020-05-08,York,South Carolina,45091,233,5
+2020-05-08,York,Virginia,51199,55,2
+2020-05-09,York,Maine,23031,256,8
+2020-05-09,York,Nebraska,31185,17,0
+2020-05-09,York,Pennsylvania,42133,767,13
+2020-05-09,York,South Carolina,45091,237,5
+2020-05-09,York,Virginia,51199,55,2
+2020-05-10,York,Maine,23031,261,8
+2020-05-10,York,Nebraska,31185,17,0
+2020-05-10,York,Pennsylvania,42133,773,13
+2020-05-10,York,South Carolina,45091,238,5
+2020-05-10,York,Virginia,51199,56,2
+2020-05-11,York,Maine,23031,262,8
+2020-05-11,York,Nebraska,31185,25,0
+2020-05-11,York,Pennsylvania,42133,784,13
+2020-05-11,York,South Carolina,45091,242,5
+2020-05-11,York,Virginia,51199,57,2
+2020-05-12,York,Maine,23031,264,8
+2020-05-12,York,Nebraska,31185,25,0
+2020-05-12,York,Pennsylvania,42133,793,14
+2020-05-12,York,South Carolina,45091,258,5
+2020-05-12,York,Virginia,51199,59,2
+2020-05-13,York,Maine,23031,269,8
+2020-05-13,York,Nebraska,31185,25,0
+2020-05-13,York,Pennsylvania,42133,803,14
+2020-05-13,York,South Carolina,45091,265,5
+2020-05-13,York,Virginia,51199,60,2
+2020-05-14,York,Maine,23031,277,8
+2020-05-14,York,Nebraska,31185,27,0
+2020-05-14,York,Pennsylvania,42133,817,15
+2020-05-14,York,South Carolina,45091,272,5
+2020-05-14,York,Virginia,51199,61,2
+2020-05-15,York,Maine,23031,281,8
+2020-05-15,York,Nebraska,31185,28,0
+2020-05-15,York,Pennsylvania,42133,828,16
+2020-05-15,York,South Carolina,45091,280,5
+2020-05-15,York,Virginia,51199,62,3
+2020-05-16,York,Maine,23031,288,8
+2020-05-16,York,Nebraska,31185,29,0
+2020-05-16,York,Pennsylvania,42133,835,15
+2020-05-16,York,South Carolina,45091,290,5
+2020-05-16,York,Virginia,51199,62,3
+2020-05-17,York,Maine,23031,295,8
+2020-05-17,York,Nebraska,31185,30,0
+2020-05-17,York,Pennsylvania,42133,851,16
+2020-05-17,York,South Carolina,45091,293,5
+2020-05-17,York,Virginia,51199,62,3
+2020-05-18,York,Maine,23031,302,8
+2020-05-18,York,Nebraska,31185,30,0
+2020-05-18,York,Pennsylvania,42133,857,18
+2020-05-18,York,South Carolina,45091,304,5
+2020-05-18,York,Virginia,51199,63,3
+2020-05-19,York,Maine,23031,307,8
+2020-05-19,York,Nebraska,31185,30,0
+2020-05-19,York,Pennsylvania,42133,866,18
+2020-05-19,York,South Carolina,45091,308,5
+2020-05-19,York,Virginia,51199,63,3
+2020-05-20,York,Maine,23031,316,8
+2020-05-20,York,Nebraska,31185,30,0
+2020-05-20,York,Pennsylvania,42133,872,19
+2020-05-20,York,South Carolina,45091,317,5
+2020-05-20,York,Virginia,51199,63,3
+2020-05-21,York,Maine,23031,320,8
+2020-05-21,York,Nebraska,31185,30,0
+2020-05-21,York,Pennsylvania,42133,883,21
+2020-05-21,York,South Carolina,45091,324,5
+2020-05-21,York,Virginia,51199,65,3
+2020-05-22,York,Maine,23031,331,8
+2020-05-22,York,Nebraska,31185,35,0
+2020-05-22,York,Pennsylvania,42133,895,22
+2020-05-22,York,South Carolina,45091,329,5
+2020-05-22,York,Virginia,51199,67,3
+2020-05-23,York,Maine,23031,337,8
+2020-05-23,York,Nebraska,31185,35,0
+2020-05-23,York,Pennsylvania,42133,904,22
+2020-05-23,York,South Carolina,45091,339,6
+2020-05-23,York,Virginia,51199,67,3
+2020-05-24,York,Maine,23031,344,9
+2020-05-24,York,Nebraska,31185,35,0
+2020-05-24,York,Pennsylvania,42133,924,22
+2020-05-24,York,South Carolina,45091,340,6
+2020-05-24,York,Virginia,51199,68,3
+2020-05-25,York,Maine,23031,350,9
+2020-05-25,York,Nebraska,31185,35,0
+2020-05-25,York,Pennsylvania,42133,930,22
+2020-05-25,York,South Carolina,45091,346,6
+2020-05-25,York,Virginia,51199,69,3
+2020-05-26,York,Maine,23031,359,9
+2020-05-26,York,Nebraska,31185,35,0
+2020-05-26,York,Pennsylvania,42133,943,22
+2020-05-26,York,South Carolina,45091,352,6
+2020-05-26,York,Virginia,51199,71,3
+2020-05-27,York,Maine,23031,365,9
+2020-05-27,York,Nebraska,31185,35,0
+2020-05-27,York,Pennsylvania,42133,956,22
+2020-05-27,York,South Carolina,45091,363,6
+2020-05-27,York,Virginia,51199,71,3
+2020-05-28,York,Maine,23031,370,9
+2020-05-28,York,Nebraska,31185,35,0
+2020-05-28,York,Pennsylvania,42133,970,25
+2020-05-28,York,South Carolina,45091,371,7
+2020-05-28,York,Virginia,51199,72,3
+2020-05-29,York,Maine,23031,373,9
+2020-05-29,York,Nebraska,31185,36,0
+2020-05-29,York,Pennsylvania,42133,991,26
+2020-05-29,York,South Carolina,45091,385,7
+2020-05-29,York,Virginia,51199,72,3
+2020-05-30,York,Maine,23031,381,10
+2020-05-30,York,Nebraska,31185,36,0
+2020-05-30,York,Pennsylvania,42133,1000,26
+2020-05-30,York,South Carolina,45091,398,7
+2020-05-30,York,Virginia,51199,72,3
+2020-05-31,York,Maine,23031,385,10
+2020-05-31,York,Nebraska,31185,36,0
+2020-05-31,York,Pennsylvania,42133,1007,26
+2020-05-31,York,South Carolina,45091,407,8
+2020-05-31,York,Virginia,51199,74,3
+2020-06-01,York,Maine,23031,391,10
+2020-06-01,York,Nebraska,31185,36,0
+2020-06-01,York,Pennsylvania,42133,1013,26
+2020-06-01,York,South Carolina,45091,417,8
+2020-06-01,York,Virginia,51199,77,3
+2020-06-02,York,Maine,23031,396,10
+2020-06-02,York,Nebraska,31185,36,0
+2020-06-02,York,Pennsylvania,42133,1028,26
+2020-06-02,York,South Carolina,45091,421,8
+2020-06-02,York,Virginia,51199,77,3
+2020-06-03,York,Maine,23031,398,10
+2020-06-03,York,Nebraska,31185,36,0
+2020-06-03,York,Pennsylvania,42133,1037,27
+2020-06-03,York,South Carolina,45091,426,10
+2020-06-03,York,Virginia,51199,77,3
+2020-06-04,York,Maine,23031,401,10
+2020-06-04,York,Nebraska,31185,36,0
+2020-06-04,York,Pennsylvania,42133,1038,28
+2020-06-04,York,South Carolina,45091,433,10
+2020-06-04,York,Virginia,51199,77,3
+2020-06-05,York,Maine,23031,408,11
+2020-06-05,York,Nebraska,31185,37,0
+2020-06-05,York,Pennsylvania,42133,1040,28
+2020-06-05,York,South Carolina,45091,446,10
+2020-06-05,York,Virginia,51199,79,3
+2020-06-06,York,Maine,23031,420,11
+2020-06-06,York,Nebraska,31185,36,0
+2020-06-06,York,Pennsylvania,42133,1049,29
+2020-06-06,York,South Carolina,45091,458,10
+2020-06-06,York,Virginia,51199,82,3
+2020-06-07,York,Maine,23031,427,11
+2020-06-07,York,Nebraska,31185,37,0
+2020-06-07,York,Pennsylvania,42133,1082,29
+2020-06-07,York,South Carolina,45091,465,10
+2020-06-07,York,Virginia,51199,86,3
+2020-06-08,York,Maine,23031,428,11
+2020-06-08,York,Nebraska,31185,37,0
+2020-06-08,York,Pennsylvania,42133,1086,29
+2020-06-08,York,South Carolina,45091,486,10
+2020-06-08,York,Virginia,51199,86,3
+2020-06-09,York,Maine,23031,428,11
+2020-06-09,York,Nebraska,31185,37,0
+2020-06-09,York,Pennsylvania,42133,1094,30
+2020-06-09,York,South Carolina,45091,510,10
+2020-06-09,York,Virginia,51199,86,3
+2020-06-10,York,Maine,23031,432,11
+2020-06-10,York,Nebraska,31185,37,0
+2020-06-10,York,Pennsylvania,42133,1102,30
+2020-06-10,York,South Carolina,45091,536,10
+2020-06-10,York,Virginia,51199,86,3
+2020-06-11,York,Maine,23031,431,11
+2020-06-11,York,Nebraska,31185,37,0
+2020-06-11,York,Pennsylvania,42133,1117,31
+2020-06-11,York,South Carolina,45091,557,10
+2020-06-11,York,Virginia,51199,89,3
+2020-06-12,York,Maine,23031,433,11
+2020-06-12,York,Nebraska,31185,36,0
+2020-06-12,York,Pennsylvania,42133,1141,31
+2020-06-12,York,South Carolina,45091,580,10
+2020-06-12,York,Virginia,51199,90,3
+2020-06-13,York,Maine,23031,438,11
+2020-06-13,York,Nebraska,31185,36,0
+2020-06-13,York,Pennsylvania,42133,1157,31
+2020-06-13,York,South Carolina,45091,613,10
+2020-06-13,York,Virginia,51199,91,3
+2020-06-14,York,Maine,23031,446,11
+2020-06-14,York,Nebraska,31185,37,0
+2020-06-14,York,Pennsylvania,42133,1162,31
+2020-06-14,York,South Carolina,45091,636,10
+2020-06-14,York,Virginia,51199,93,3
+2020-06-15,York,Maine,23031,446,11
+2020-06-15,York,Nebraska,31185,37,0
+2020-06-15,York,Pennsylvania,42133,1169,32
+2020-06-15,York,South Carolina,45091,652,10
+2020-06-15,York,Virginia,51199,93,3
+2020-06-16,York,Maine,23031,450,11
+2020-06-16,York,Nebraska,31185,37,0
+2020-06-16,York,Pennsylvania,42133,1183,32
+2020-06-16,York,South Carolina,45091,686,10
+2020-06-16,York,Virginia,51199,94,3
+2020-06-17,York,Maine,23031,450,11
+2020-06-17,York,Nebraska,31185,37,0
+2020-06-17,York,Pennsylvania,42133,1195,34
+2020-06-17,York,South Carolina,45091,700,11
+2020-06-17,York,Virginia,51199,94,3
+2020-06-18,York,Maine,23031,451,11
+2020-06-18,York,Nebraska,31185,37,0
+2020-06-18,York,Pennsylvania,42133,1209,35
+2020-06-18,York,South Carolina,45091,729,11
+2020-06-18,York,Virginia,51199,94,3
+2020-06-19,York,Maine,23031,457,11
+2020-06-19,York,Nebraska,31185,39,0
+2020-06-19,York,Pennsylvania,42133,1229,35
+2020-06-19,York,South Carolina,45091,741,11
+2020-06-19,York,Virginia,51199,97,3
+2020-06-20,York,Maine,23031,458,11
+2020-06-20,York,Nebraska,31185,40,0
+2020-06-20,York,Pennsylvania,42133,1255,36
+2020-06-20,York,South Carolina,45091,783,11
+2020-06-20,York,Virginia,51199,98,3
+2020-06-21,York,Maine,23031,461,11
+2020-06-21,York,Nebraska,31185,40,0
+2020-06-21,York,Pennsylvania,42133,1296,36
+2020-06-21,York,South Carolina,45091,814,11
+2020-06-21,York,Virginia,51199,99,3
+2020-06-22,York,Maine,23031,466,11
+2020-06-22,York,Nebraska,31185,40,0
+2020-06-22,York,Pennsylvania,42133,1351,36
+2020-06-22,York,South Carolina,45091,860,11
+2020-06-22,York,Virginia,51199,101,3
+2020-06-23,York,Maine,23031,472,11
+2020-06-23,York,Nebraska,31185,41,0
+2020-06-23,York,Pennsylvania,42133,1381,39
+2020-06-23,York,South Carolina,45091,886,11
+2020-06-23,York,Virginia,51199,106,3
+2020-06-24,York,Maine,23031,479,11
+2020-06-24,York,Nebraska,31185,41,0
+2020-06-24,York,Pennsylvania,42133,1400,40
+2020-06-24,York,South Carolina,45091,914,11
+2020-06-24,York,Virginia,51199,106,3
+2020-06-25,York,Maine,23031,482,11
+2020-06-25,York,Nebraska,31185,41,0
+2020-06-25,York,Pennsylvania,42133,1418,41
+2020-06-25,York,South Carolina,45091,947,12
+2020-06-25,York,Virginia,51199,106,3
+2020-06-26,York,Maine,23031,484,11
+2020-06-26,York,Nebraska,31185,41,0
+2020-06-26,York,Pennsylvania,42133,1428,43
+2020-06-26,York,South Carolina,45091,989,12
+2020-06-26,York,Virginia,51199,108,3
+2020-06-27,York,Maine,23031,497,11
+2020-06-27,York,Nebraska,31185,41,0
+2020-06-27,York,Pennsylvania,42133,1443,44
+2020-06-27,York,South Carolina,45091,1047,12
+2020-06-27,York,Virginia,51199,110,3
+2020-06-28,York,Maine,23031,499,11
+2020-06-28,York,Nebraska,31185,41,0
+2020-06-28,York,Pennsylvania,42133,1456,44
+2020-06-28,York,South Carolina,45091,1095,12
+2020-06-28,York,Virginia,51199,114,3
+2020-06-29,York,Maine,23031,504,11
+2020-06-29,York,Nebraska,31185,41,0
+2020-06-29,York,Pennsylvania,42133,1477,45
+2020-06-29,York,South Carolina,45091,1156,12
+2020-06-29,York,Virginia,51199,115,3
+2020-06-30,York,Maine,23031,515,11
+2020-06-30,York,Nebraska,31185,41,0
+2020-06-30,York,Pennsylvania,42133,1515,48
+2020-06-30,York,South Carolina,45091,1204,12
+2020-06-30,York,Virginia,51199,115,3
+2020-07-01,York,Maine,23031,529,11
+2020-07-01,York,Nebraska,31185,42,0
+2020-07-01,York,Pennsylvania,42133,1531,48
+2020-07-01,York,South Carolina,45091,1257,12
+2020-07-01,York,Virginia,51199,115,3
+2020-07-02,York,Maine,23031,533,11
+2020-07-02,York,Nebraska,31185,44,0
+2020-07-02,York,Pennsylvania,42133,1555,52
+2020-07-02,York,South Carolina,45091,1301,12
+2020-07-02,York,Virginia,51199,116,3
+2020-07-03,York,Maine,23031,545,11
+2020-07-03,York,Nebraska,31185,45,0
+2020-07-03,York,Pennsylvania,42133,1577,54
+2020-07-03,York,South Carolina,45091,1406,12
+2020-07-03,York,Virginia,51199,120,3
+2020-07-04,York,Maine,23031,549,11
+2020-07-04,York,Nebraska,31185,45,0
+2020-07-04,York,Pennsylvania,42133,1595,54
+2020-07-04,York,South Carolina,45091,1456,12
+2020-07-04,York,Virginia,51199,124,3
+2020-07-05,York,Maine,23031,550,11
+2020-07-05,York,Nebraska,31185,45,0
+2020-07-05,York,Pennsylvania,42133,1609,54
+2020-07-05,York,South Carolina,45091,1483,12
+2020-07-05,York,Virginia,51199,129,3
+2020-07-06,York,Maine,23031,549,11
+2020-07-06,York,Nebraska,31185,45,0
+2020-07-06,York,Pennsylvania,42133,1613,54
+2020-07-06,York,South Carolina,45091,1544,12
+2020-07-06,York,Virginia,51199,131,3
+2020-07-07,York,Maine,23031,555,11
+2020-07-07,York,Nebraska,31185,47,0
+2020-07-07,York,Pennsylvania,42133,1654,55
+2020-07-07,York,South Carolina,45091,1573,12
+2020-07-07,York,Virginia,51199,131,3
+2020-07-08,York,Maine,23031,558,11
+2020-07-08,York,Nebraska,31185,49,0
+2020-07-08,York,Pennsylvania,42133,1692,57
+2020-07-08,York,South Carolina,45091,1618,12
+2020-07-08,York,Virginia,51199,135,3
+2020-07-09,York,Maine,23031,557,11
+2020-07-09,York,Nebraska,31185,50,0
+2020-07-09,York,Pennsylvania,42133,1714,57
+2020-07-09,York,South Carolina,45091,1685,12
+2020-07-09,York,Virginia,51199,140,3
+2020-07-10,York,Maine,23031,563,11
+2020-07-10,York,Nebraska,31185,49,0
+2020-07-10,York,Pennsylvania,42133,1791,61
+2020-07-10,York,South Carolina,45091,1760,12
+2020-07-10,York,Virginia,51199,144,3
+2020-07-11,York,Maine,23031,570,11
+2020-07-11,York,Nebraska,31185,51,0
+2020-07-11,York,Pennsylvania,42133,1830,62
+2020-07-11,York,South Carolina,45091,1839,12
+2020-07-11,York,Virginia,51199,149,3
+2020-07-12,York,Maine,23031,572,11
+2020-07-12,York,Nebraska,31185,52,0
+2020-07-12,York,Pennsylvania,42133,1850,63
+2020-07-12,York,South Carolina,45091,1885,12
+2020-07-12,York,Virginia,51199,160,3
+2020-07-13,York,Maine,23031,578,11
+2020-07-13,York,Nebraska,31185,52,0
+2020-07-13,York,Pennsylvania,42133,1858,63
+2020-07-13,York,South Carolina,45091,1949,13
+2020-07-13,York,Virginia,51199,168,3

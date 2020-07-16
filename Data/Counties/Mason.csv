@@ -1,0 +1,639 @@
+2020-03-17,Mason,Washington,53045,1,0
+2020-03-18,Mason,Washington,53045,1,0
+2020-03-19,Mason,Washington,53045,1,0
+2020-03-20,Mason,Washington,53045,1,0
+2020-03-21,Mason,Washington,53045,1,0
+2020-03-22,Mason,Washington,53045,1,0
+2020-03-23,Mason,Washington,53045,1,0
+2020-03-24,Mason,Washington,53045,2,0
+2020-03-25,Mason,Washington,53045,2,0
+2020-03-26,Mason,Kentucky,21161,1,0
+2020-03-26,Mason,Washington,53045,2,0
+2020-03-26,Mason,West Virginia,54053,1,0
+2020-03-27,Mason,Kentucky,21161,1,0
+2020-03-27,Mason,Washington,53045,2,0
+2020-03-27,Mason,West Virginia,54053,3,0
+2020-03-28,Mason,Kentucky,21161,1,0
+2020-03-28,Mason,Washington,53045,2,0
+2020-03-28,Mason,West Virginia,54053,3,0
+2020-03-29,Mason,Kentucky,21161,1,0
+2020-03-29,Mason,Washington,53045,2,0
+2020-03-29,Mason,West Virginia,54053,3,0
+2020-03-30,Mason,Kentucky,21161,1,0
+2020-03-30,Mason,Washington,53045,2,0
+2020-03-30,Mason,West Virginia,54053,3,0
+2020-03-31,Mason,Kentucky,21161,1,0
+2020-03-31,Mason,Washington,53045,2,0
+2020-03-31,Mason,West Virginia,54053,3,0
+2020-04-01,Mason,Kentucky,21161,1,0
+2020-04-01,Mason,Washington,53045,6,0
+2020-04-01,Mason,West Virginia,54053,3,0
+2020-04-02,Mason,Kentucky,21161,1,0
+2020-04-02,Mason,Washington,53045,13,0
+2020-04-02,Mason,West Virginia,54053,3,0
+2020-04-03,Mason,Kentucky,21161,1,0
+2020-04-03,Mason,Washington,53045,13,0
+2020-04-03,Mason,West Virginia,54053,3,0
+2020-04-04,Mason,Illinois,17125,1,0
+2020-04-04,Mason,Kentucky,21161,1,0
+2020-04-04,Mason,Texas,48319,1,0
+2020-04-04,Mason,Washington,53045,13,0
+2020-04-04,Mason,West Virginia,54053,4,0
+2020-04-05,Mason,Illinois,17125,1,0
+2020-04-05,Mason,Kentucky,21161,2,0
+2020-04-05,Mason,Texas,48319,1,0
+2020-04-05,Mason,Washington,53045,14,0
+2020-04-05,Mason,West Virginia,54053,4,0
+2020-04-06,Mason,Illinois,17125,1,0
+2020-04-06,Mason,Kentucky,21161,2,0
+2020-04-06,Mason,Texas,48319,1,0
+2020-04-06,Mason,Washington,53045,15,0
+2020-04-06,Mason,West Virginia,54053,4,0
+2020-04-07,Mason,Illinois,17125,3,0
+2020-04-07,Mason,Kentucky,21161,2,0
+2020-04-07,Mason,Michigan,26105,1,0
+2020-04-07,Mason,Texas,48319,1,0
+2020-04-07,Mason,Washington,53045,17,0
+2020-04-07,Mason,West Virginia,54053,6,0
+2020-04-08,Mason,Illinois,17125,3,0
+2020-04-08,Mason,Kentucky,21161,3,0
+2020-04-08,Mason,Michigan,26105,1,0
+2020-04-08,Mason,Texas,48319,1,0
+2020-04-08,Mason,Washington,53045,17,0
+2020-04-08,Mason,West Virginia,54053,6,0
+2020-04-09,Mason,Illinois,17125,3,0
+2020-04-09,Mason,Kentucky,21161,3,0
+2020-04-09,Mason,Michigan,26105,1,0
+2020-04-09,Mason,Texas,48319,1,0
+2020-04-09,Mason,Washington,53045,18,0
+2020-04-09,Mason,West Virginia,54053,7,0
+2020-04-10,Mason,Illinois,17125,3,0
+2020-04-10,Mason,Kentucky,21161,4,0
+2020-04-10,Mason,Michigan,26105,1,0
+2020-04-10,Mason,Texas,48319,1,0
+2020-04-10,Mason,Washington,53045,18,0
+2020-04-10,Mason,West Virginia,54053,6,0
+2020-04-11,Mason,Illinois,17125,3,0
+2020-04-11,Mason,Kentucky,21161,5,0
+2020-04-11,Mason,Michigan,26105,2,0
+2020-04-11,Mason,Texas,48319,1,0
+2020-04-11,Mason,Washington,53045,19,0
+2020-04-11,Mason,West Virginia,54053,8,0
+2020-04-12,Mason,Illinois,17125,3,0
+2020-04-12,Mason,Kentucky,21161,5,0
+2020-04-12,Mason,Michigan,26105,2,0
+2020-04-12,Mason,Texas,48319,1,0
+2020-04-12,Mason,Washington,53045,19,0
+2020-04-12,Mason,West Virginia,54053,8,0
+2020-04-13,Mason,Illinois,17125,3,0
+2020-04-13,Mason,Kentucky,21161,5,0
+2020-04-13,Mason,Michigan,26105,2,0
+2020-04-13,Mason,Texas,48319,1,0
+2020-04-13,Mason,Washington,53045,19,0
+2020-04-13,Mason,West Virginia,54053,10,0
+2020-04-14,Mason,Illinois,17125,3,0
+2020-04-14,Mason,Kentucky,21161,6,0
+2020-04-14,Mason,Michigan,26105,3,0
+2020-04-14,Mason,Texas,48319,1,0
+2020-04-14,Mason,Washington,53045,19,0
+2020-04-14,Mason,West Virginia,54053,10,0
+2020-04-15,Mason,Illinois,17125,3,0
+2020-04-15,Mason,Kentucky,21161,6,0
+2020-04-15,Mason,Michigan,26105,3,0
+2020-04-15,Mason,Texas,48319,1,0
+2020-04-15,Mason,Washington,53045,20,0
+2020-04-15,Mason,West Virginia,54053,10,0
+2020-04-16,Mason,Illinois,17125,4,0
+2020-04-16,Mason,Kentucky,21161,6,0
+2020-04-16,Mason,Michigan,26105,4,0
+2020-04-16,Mason,Texas,48319,1,0
+2020-04-16,Mason,Washington,53045,21,0
+2020-04-16,Mason,West Virginia,54053,10,0
+2020-04-17,Mason,Illinois,17125,4,0
+2020-04-17,Mason,Kentucky,21161,6,0
+2020-04-17,Mason,Michigan,26105,4,0
+2020-04-17,Mason,Texas,48319,1,0
+2020-04-17,Mason,Washington,53045,22,0
+2020-04-17,Mason,West Virginia,54053,10,0
+2020-04-18,Mason,Illinois,17125,4,0
+2020-04-18,Mason,Kentucky,21161,6,0
+2020-04-18,Mason,Michigan,26105,4,0
+2020-04-18,Mason,Texas,48319,1,0
+2020-04-18,Mason,Washington,53045,22,0
+2020-04-18,Mason,West Virginia,54053,11,0
+2020-04-19,Mason,Illinois,17125,4,0
+2020-04-19,Mason,Kentucky,21161,6,0
+2020-04-19,Mason,Michigan,26105,4,0
+2020-04-19,Mason,Texas,48319,1,0
+2020-04-19,Mason,Washington,53045,22,0
+2020-04-19,Mason,West Virginia,54053,11,0
+2020-04-20,Mason,Illinois,17125,5,0
+2020-04-20,Mason,Kentucky,21161,6,0
+2020-04-20,Mason,Michigan,26105,4,0
+2020-04-20,Mason,Texas,48319,1,0
+2020-04-20,Mason,Washington,53045,22,0
+2020-04-20,Mason,West Virginia,54053,10,0
+2020-04-21,Mason,Illinois,17125,5,0
+2020-04-21,Mason,Kentucky,21161,6,0
+2020-04-21,Mason,Michigan,26105,4,0
+2020-04-21,Mason,Texas,48319,1,0
+2020-04-21,Mason,Washington,53045,22,0
+2020-04-21,Mason,West Virginia,54053,10,0
+2020-04-22,Mason,Illinois,17125,6,0
+2020-04-22,Mason,Kentucky,21161,6,0
+2020-04-22,Mason,Michigan,26105,5,0
+2020-04-22,Mason,Texas,48319,1,0
+2020-04-22,Mason,Washington,53045,22,0
+2020-04-22,Mason,West Virginia,54053,10,0
+2020-04-23,Mason,Illinois,17125,6,0
+2020-04-23,Mason,Kentucky,21161,6,0
+2020-04-23,Mason,Michigan,26105,5,0
+2020-04-23,Mason,Texas,48319,1,0
+2020-04-23,Mason,Washington,53045,22,0
+2020-04-23,Mason,West Virginia,54053,11,0
+2020-04-24,Mason,Illinois,17125,6,0
+2020-04-24,Mason,Kentucky,21161,6,0
+2020-04-24,Mason,Michigan,26105,5,0
+2020-04-24,Mason,Texas,48319,1,0
+2020-04-24,Mason,Washington,53045,22,0
+2020-04-24,Mason,West Virginia,54053,11,0
+2020-04-25,Mason,Illinois,17125,6,0
+2020-04-25,Mason,Kentucky,21161,6,0
+2020-04-25,Mason,Michigan,26105,5,0
+2020-04-25,Mason,Texas,48319,1,0
+2020-04-25,Mason,Washington,53045,22,0
+2020-04-25,Mason,West Virginia,54053,11,0
+2020-04-26,Mason,Illinois,17125,6,0
+2020-04-26,Mason,Kentucky,21161,6,0
+2020-04-26,Mason,Michigan,26105,5,0
+2020-04-26,Mason,Texas,48319,1,0
+2020-04-26,Mason,Washington,53045,22,1
+2020-04-26,Mason,West Virginia,54053,11,0
+2020-04-27,Mason,Illinois,17125,7,0
+2020-04-27,Mason,Kentucky,21161,6,0
+2020-04-27,Mason,Michigan,26105,5,0
+2020-04-27,Mason,Texas,48319,5,0
+2020-04-27,Mason,Washington,53045,23,1
+2020-04-27,Mason,West Virginia,54053,12,0
+2020-04-28,Mason,Illinois,17125,10,0
+2020-04-28,Mason,Kentucky,21161,6,0
+2020-04-28,Mason,Michigan,26105,7,0
+2020-04-28,Mason,Texas,48319,5,0
+2020-04-28,Mason,Washington,53045,23,1
+2020-04-28,Mason,West Virginia,54053,12,0
+2020-04-29,Mason,Illinois,17125,11,0
+2020-04-29,Mason,Kentucky,21161,6,0
+2020-04-29,Mason,Michigan,26105,8,0
+2020-04-29,Mason,Texas,48319,15,0
+2020-04-29,Mason,Washington,53045,23,1
+2020-04-29,Mason,West Virginia,54053,12,0
+2020-04-30,Mason,Illinois,17125,12,0
+2020-04-30,Mason,Kentucky,21161,6,0
+2020-04-30,Mason,Michigan,26105,11,0
+2020-04-30,Mason,Texas,48319,15,0
+2020-04-30,Mason,Washington,53045,23,1
+2020-04-30,Mason,West Virginia,54053,12,0
+2020-05-01,Mason,Illinois,17125,12,0
+2020-05-01,Mason,Kentucky,21161,6,0
+2020-05-01,Mason,Michigan,26105,10,0
+2020-05-01,Mason,Texas,48319,21,0
+2020-05-01,Mason,Washington,53045,25,1
+2020-05-01,Mason,West Virginia,54053,12,0
+2020-05-02,Mason,Illinois,17125,12,0
+2020-05-02,Mason,Kentucky,21161,6,0
+2020-05-02,Mason,Michigan,26105,12,0
+2020-05-02,Mason,Texas,48319,24,0
+2020-05-02,Mason,Washington,53045,25,1
+2020-05-02,Mason,West Virginia,54053,12,0
+2020-05-03,Mason,Illinois,17125,13,0
+2020-05-03,Mason,Kentucky,21161,6,0
+2020-05-03,Mason,Michigan,26105,12,0
+2020-05-03,Mason,Texas,48319,24,0
+2020-05-03,Mason,Washington,53045,26,1
+2020-05-03,Mason,West Virginia,54053,12,0
+2020-05-04,Mason,Illinois,17125,14,0
+2020-05-04,Mason,Kentucky,21161,6,0
+2020-05-04,Mason,Michigan,26105,12,0
+2020-05-04,Mason,Texas,48319,24,0
+2020-05-04,Mason,Washington,53045,26,1
+2020-05-04,Mason,West Virginia,54053,12,0
+2020-05-05,Mason,Illinois,17125,14,0
+2020-05-05,Mason,Kentucky,21161,6,0
+2020-05-05,Mason,Michigan,26105,13,0
+2020-05-05,Mason,Texas,48319,26,0
+2020-05-05,Mason,Washington,53045,26,1
+2020-05-05,Mason,West Virginia,54053,12,0
+2020-05-06,Mason,Illinois,17125,15,0
+2020-05-06,Mason,Kentucky,21161,6,0
+2020-05-06,Mason,Michigan,26105,14,0
+2020-05-06,Mason,Texas,48319,27,0
+2020-05-06,Mason,Washington,53045,26,1
+2020-05-06,Mason,West Virginia,54053,12,0
+2020-05-07,Mason,Illinois,17125,15,0
+2020-05-07,Mason,Kentucky,21161,6,0
+2020-05-07,Mason,Michigan,26105,15,0
+2020-05-07,Mason,Texas,48319,28,0
+2020-05-07,Mason,Washington,53045,28,1
+2020-05-07,Mason,West Virginia,54053,13,0
+2020-05-08,Mason,Illinois,17125,15,0
+2020-05-08,Mason,Kentucky,21161,6,0
+2020-05-08,Mason,Michigan,26105,18,0
+2020-05-08,Mason,Texas,48319,28,0
+2020-05-08,Mason,Washington,53045,28,1
+2020-05-08,Mason,West Virginia,54053,13,0
+2020-05-09,Mason,Illinois,17125,15,0
+2020-05-09,Mason,Kentucky,21161,7,0
+2020-05-09,Mason,Michigan,26105,19,0
+2020-05-09,Mason,Texas,48319,28,0
+2020-05-09,Mason,Washington,53045,28,1
+2020-05-09,Mason,West Virginia,54053,13,0
+2020-05-10,Mason,Illinois,17125,15,0
+2020-05-10,Mason,Kentucky,21161,7,0
+2020-05-10,Mason,Michigan,26105,21,0
+2020-05-10,Mason,Texas,48319,28,0
+2020-05-10,Mason,Washington,53045,28,1
+2020-05-10,Mason,West Virginia,54053,13,0
+2020-05-11,Mason,Illinois,17125,15,0
+2020-05-11,Mason,Kentucky,21161,7,0
+2020-05-11,Mason,Michigan,26105,21,0
+2020-05-11,Mason,Texas,48319,28,0
+2020-05-11,Mason,Washington,53045,28,1
+2020-05-11,Mason,West Virginia,54053,13,0
+2020-05-12,Mason,Illinois,17125,15,0
+2020-05-12,Mason,Kentucky,21161,7,0
+2020-05-12,Mason,Michigan,26105,23,0
+2020-05-12,Mason,Texas,48319,28,0
+2020-05-12,Mason,Washington,53045,29,1
+2020-05-12,Mason,West Virginia,54053,14,0
+2020-05-13,Mason,Illinois,17125,15,0
+2020-05-13,Mason,Kentucky,21161,7,0
+2020-05-13,Mason,Michigan,26105,22,0
+2020-05-13,Mason,Texas,48319,28,0
+2020-05-13,Mason,Washington,53045,30,1
+2020-05-13,Mason,West Virginia,54053,14,0
+2020-05-14,Mason,Illinois,17125,16,0
+2020-05-14,Mason,Kentucky,21161,8,0
+2020-05-14,Mason,Michigan,26105,23,0
+2020-05-14,Mason,Texas,48319,28,0
+2020-05-14,Mason,Washington,53045,30,1
+2020-05-14,Mason,West Virginia,54053,14,0
+2020-05-15,Mason,Illinois,17125,16,0
+2020-05-15,Mason,Kentucky,21161,8,0
+2020-05-15,Mason,Michigan,26105,25,0
+2020-05-15,Mason,Texas,48319,28,0
+2020-05-15,Mason,Washington,53045,30,1
+2020-05-15,Mason,West Virginia,54053,15,0
+2020-05-16,Mason,Illinois,17125,16,0
+2020-05-16,Mason,Kentucky,21161,8,0
+2020-05-16,Mason,Michigan,26105,25,0
+2020-05-16,Mason,Texas,48319,31,0
+2020-05-16,Mason,Washington,53045,30,1
+2020-05-16,Mason,West Virginia,54053,15,0
+2020-05-17,Mason,Illinois,17125,16,0
+2020-05-17,Mason,Kentucky,21161,8,0
+2020-05-17,Mason,Michigan,26105,26,0
+2020-05-17,Mason,Texas,48319,31,0
+2020-05-17,Mason,Washington,53045,30,1
+2020-05-17,Mason,West Virginia,54053,15,0
+2020-05-18,Mason,Illinois,17125,16,0
+2020-05-18,Mason,Kentucky,21161,8,0
+2020-05-18,Mason,Michigan,26105,27,0
+2020-05-18,Mason,Texas,48319,31,0
+2020-05-18,Mason,Washington,53045,33,1
+2020-05-18,Mason,West Virginia,54053,15,0
+2020-05-19,Mason,Illinois,17125,16,0
+2020-05-19,Mason,Kentucky,21161,8,0
+2020-05-19,Mason,Michigan,26105,27,0
+2020-05-19,Mason,Texas,48319,31,0
+2020-05-19,Mason,Washington,53045,33,1
+2020-05-19,Mason,West Virginia,54053,15,0
+2020-05-20,Mason,Illinois,17125,16,0
+2020-05-20,Mason,Kentucky,21161,8,0
+2020-05-20,Mason,Michigan,26105,28,0
+2020-05-20,Mason,Texas,48319,31,0
+2020-05-20,Mason,Washington,53045,33,1
+2020-05-20,Mason,West Virginia,54053,15,0
+2020-05-21,Mason,Illinois,17125,16,0
+2020-05-21,Mason,Kentucky,21161,8,0
+2020-05-21,Mason,Michigan,26105,29,0
+2020-05-21,Mason,Texas,48319,31,0
+2020-05-21,Mason,Washington,53045,33,1
+2020-05-21,Mason,West Virginia,54053,15,0
+2020-05-22,Mason,Illinois,17125,16,0
+2020-05-22,Mason,Kentucky,21161,8,0
+2020-05-22,Mason,Michigan,26105,31,0
+2020-05-22,Mason,Texas,48319,31,0
+2020-05-22,Mason,Washington,53045,34,1
+2020-05-22,Mason,West Virginia,54053,15,0
+2020-05-23,Mason,Illinois,17125,17,0
+2020-05-23,Mason,Kentucky,21161,8,0
+2020-05-23,Mason,Michigan,26105,31,0
+2020-05-23,Mason,Texas,48319,31,0
+2020-05-23,Mason,Washington,53045,34,1
+2020-05-23,Mason,West Virginia,54053,16,0
+2020-05-24,Mason,Illinois,17125,17,0
+2020-05-24,Mason,Kentucky,21161,8,0
+2020-05-24,Mason,Michigan,26105,31,0
+2020-05-24,Mason,Texas,48319,31,0
+2020-05-24,Mason,Washington,53045,34,1
+2020-05-24,Mason,West Virginia,54053,16,0
+2020-05-25,Mason,Illinois,17125,17,0
+2020-05-25,Mason,Kentucky,21161,8,0
+2020-05-25,Mason,Michigan,26105,31,0
+2020-05-25,Mason,Texas,48319,31,0
+2020-05-25,Mason,Washington,53045,34,1
+2020-05-25,Mason,West Virginia,54053,16,0
+2020-05-26,Mason,Illinois,17125,17,0
+2020-05-26,Mason,Kentucky,21161,8,0
+2020-05-26,Mason,Michigan,26105,31,0
+2020-05-26,Mason,Texas,48319,31,0
+2020-05-26,Mason,Washington,53045,34,1
+2020-05-26,Mason,West Virginia,54053,15,0
+2020-05-27,Mason,Illinois,17125,17,0
+2020-05-27,Mason,Kentucky,21161,8,0
+2020-05-27,Mason,Michigan,26105,31,0
+2020-05-27,Mason,Texas,48319,31,0
+2020-05-27,Mason,Washington,53045,34,1
+2020-05-27,Mason,West Virginia,54053,15,0
+2020-05-28,Mason,Illinois,17125,18,0
+2020-05-28,Mason,Kentucky,21161,9,0
+2020-05-28,Mason,Michigan,26105,31,0
+2020-05-28,Mason,Texas,48319,31,0
+2020-05-28,Mason,Washington,53045,34,1
+2020-05-28,Mason,West Virginia,54053,15,0
+2020-05-29,Mason,Illinois,17125,18,0
+2020-05-29,Mason,Kentucky,21161,9,0
+2020-05-29,Mason,Michigan,26105,32,0
+2020-05-29,Mason,Texas,48319,31,0
+2020-05-29,Mason,Washington,53045,35,1
+2020-05-29,Mason,West Virginia,54053,15,0
+2020-05-30,Mason,Illinois,17125,18,0
+2020-05-30,Mason,Kentucky,21161,9,0
+2020-05-30,Mason,Michigan,26105,32,0
+2020-05-30,Mason,Texas,48319,32,0
+2020-05-30,Mason,Washington,53045,35,1
+2020-05-30,Mason,West Virginia,54053,15,0
+2020-05-31,Mason,Illinois,17125,18,0
+2020-05-31,Mason,Kentucky,21161,9,0
+2020-05-31,Mason,Michigan,26105,32,0
+2020-05-31,Mason,Texas,48319,32,0
+2020-05-31,Mason,Washington,53045,36,1
+2020-05-31,Mason,West Virginia,54053,15,0
+2020-06-01,Mason,Illinois,17125,18,0
+2020-06-01,Mason,Kentucky,21161,9,0
+2020-06-01,Mason,Michigan,26105,38,0
+2020-06-01,Mason,Texas,48319,32,0
+2020-06-01,Mason,Washington,53045,36,1
+2020-06-01,Mason,West Virginia,54053,15,0
+2020-06-02,Mason,Illinois,17125,18,0
+2020-06-02,Mason,Kentucky,21161,9,0
+2020-06-02,Mason,Michigan,26105,38,0
+2020-06-02,Mason,Texas,48319,32,0
+2020-06-02,Mason,Washington,53045,36,1
+2020-06-02,Mason,West Virginia,54053,15,0
+2020-06-03,Mason,Illinois,17125,18,0
+2020-06-03,Mason,Kentucky,21161,10,0
+2020-06-03,Mason,Michigan,26105,38,0
+2020-06-03,Mason,Texas,48319,32,0
+2020-06-03,Mason,Washington,53045,36,1
+2020-06-03,Mason,West Virginia,54053,15,0
+2020-06-04,Mason,Illinois,17125,18,0
+2020-06-04,Mason,Kentucky,21161,10,0
+2020-06-04,Mason,Michigan,26105,38,0
+2020-06-04,Mason,Texas,48319,32,0
+2020-06-04,Mason,Washington,53045,36,1
+2020-06-04,Mason,West Virginia,54053,15,0
+2020-06-05,Mason,Illinois,17125,18,0
+2020-06-05,Mason,Kentucky,21161,12,0
+2020-06-05,Mason,Michigan,26105,38,0
+2020-06-05,Mason,Texas,48319,32,0
+2020-06-05,Mason,Washington,53045,37,1
+2020-06-05,Mason,West Virginia,54053,15,0
+2020-06-06,Mason,Illinois,17125,18,0
+2020-06-06,Mason,Kentucky,21161,12,0
+2020-06-06,Mason,Michigan,26105,38,0
+2020-06-06,Mason,Texas,48319,32,0
+2020-06-06,Mason,Washington,53045,37,1
+2020-06-06,Mason,West Virginia,54053,15,0
+2020-06-07,Mason,Illinois,17125,18,0
+2020-06-07,Mason,Kentucky,21161,12,0
+2020-06-07,Mason,Michigan,26105,38,0
+2020-06-07,Mason,Texas,48319,32,0
+2020-06-07,Mason,Washington,53045,38,1
+2020-06-07,Mason,West Virginia,54053,15,0
+2020-06-08,Mason,Illinois,17125,18,0
+2020-06-08,Mason,Kentucky,21161,13,0
+2020-06-08,Mason,Michigan,26105,38,0
+2020-06-08,Mason,Texas,48319,32,0
+2020-06-08,Mason,Washington,53045,38,1
+2020-06-08,Mason,West Virginia,54053,15,0
+2020-06-09,Mason,Illinois,17125,18,0
+2020-06-09,Mason,Kentucky,21161,13,0
+2020-06-09,Mason,Michigan,26105,38,0
+2020-06-09,Mason,Texas,48319,32,0
+2020-06-09,Mason,Washington,53045,39,1
+2020-06-09,Mason,West Virginia,54053,15,0
+2020-06-10,Mason,Illinois,17125,18,0
+2020-06-10,Mason,Kentucky,21161,15,0
+2020-06-10,Mason,Michigan,26105,38,0
+2020-06-10,Mason,Texas,48319,32,0
+2020-06-10,Mason,Washington,53045,39,1
+2020-06-10,Mason,West Virginia,54053,15,0
+2020-06-11,Mason,Illinois,17125,18,0
+2020-06-11,Mason,Kentucky,21161,15,0
+2020-06-11,Mason,Michigan,26105,38,0
+2020-06-11,Mason,Texas,48319,33,0
+2020-06-11,Mason,Washington,53045,39,1
+2020-06-11,Mason,West Virginia,54053,15,0
+2020-06-12,Mason,Illinois,17125,18,0
+2020-06-12,Mason,Kentucky,21161,16,0
+2020-06-12,Mason,Michigan,26105,38,0
+2020-06-12,Mason,Texas,48319,33,0
+2020-06-12,Mason,Washington,53045,39,1
+2020-06-12,Mason,West Virginia,54053,15,0
+2020-06-13,Mason,Illinois,17125,18,0
+2020-06-13,Mason,Kentucky,21161,16,0
+2020-06-13,Mason,Michigan,26105,38,0
+2020-06-13,Mason,Texas,48319,33,0
+2020-06-13,Mason,Washington,53045,39,1
+2020-06-13,Mason,West Virginia,54053,15,0
+2020-06-14,Mason,Illinois,17125,18,0
+2020-06-14,Mason,Kentucky,21161,16,0
+2020-06-14,Mason,Michigan,26105,38,0
+2020-06-14,Mason,Texas,48319,33,0
+2020-06-14,Mason,Washington,53045,40,1
+2020-06-14,Mason,West Virginia,54053,15,0
+2020-06-15,Mason,Illinois,17125,18,0
+2020-06-15,Mason,Kentucky,21161,16,0
+2020-06-15,Mason,Michigan,26105,39,0
+2020-06-15,Mason,Texas,48319,33,0
+2020-06-15,Mason,Washington,53045,40,1
+2020-06-15,Mason,West Virginia,54053,15,0
+2020-06-16,Mason,Illinois,17125,18,0
+2020-06-16,Mason,Kentucky,21161,16,0
+2020-06-16,Mason,Michigan,26105,38,0
+2020-06-16,Mason,Texas,48319,33,0
+2020-06-16,Mason,Washington,53045,40,1
+2020-06-16,Mason,West Virginia,54053,15,0
+2020-06-17,Mason,Illinois,17125,18,0
+2020-06-17,Mason,Kentucky,21161,17,0
+2020-06-17,Mason,Michigan,26105,38,0
+2020-06-17,Mason,Texas,48319,33,0
+2020-06-17,Mason,Washington,53045,41,1
+2020-06-17,Mason,West Virginia,54053,15,0
+2020-06-18,Mason,Illinois,17125,18,0
+2020-06-18,Mason,Kentucky,21161,18,0
+2020-06-18,Mason,Michigan,26105,40,0
+2020-06-18,Mason,Texas,48319,33,0
+2020-06-18,Mason,Washington,53045,41,1
+2020-06-18,Mason,West Virginia,54053,15,0
+2020-06-19,Mason,Illinois,17125,19,0
+2020-06-19,Mason,Kentucky,21161,18,0
+2020-06-19,Mason,Michigan,26105,40,0
+2020-06-19,Mason,Texas,48319,33,0
+2020-06-19,Mason,Washington,53045,41,1
+2020-06-19,Mason,West Virginia,54053,15,0
+2020-06-20,Mason,Illinois,17125,19,0
+2020-06-20,Mason,Kentucky,21161,24,0
+2020-06-20,Mason,Michigan,26105,41,0
+2020-06-20,Mason,Texas,48319,33,0
+2020-06-20,Mason,Washington,53045,42,1
+2020-06-20,Mason,West Virginia,54053,15,0
+2020-06-21,Mason,Illinois,17125,19,0
+2020-06-21,Mason,Kentucky,21161,24,0
+2020-06-21,Mason,Michigan,26105,41,0
+2020-06-21,Mason,Texas,48319,33,0
+2020-06-21,Mason,Washington,53045,42,1
+2020-06-21,Mason,West Virginia,54053,15,0
+2020-06-22,Mason,Illinois,17125,19,0
+2020-06-22,Mason,Kentucky,21161,24,0
+2020-06-22,Mason,Michigan,26105,41,0
+2020-06-22,Mason,Texas,48319,33,0
+2020-06-22,Mason,Washington,53045,43,1
+2020-06-22,Mason,West Virginia,54053,16,0
+2020-06-23,Mason,Illinois,17125,19,0
+2020-06-23,Mason,Kentucky,21161,25,0
+2020-06-23,Mason,Michigan,26105,42,0
+2020-06-23,Mason,Texas,48319,33,0
+2020-06-23,Mason,Washington,53045,43,1
+2020-06-23,Mason,West Virginia,54053,16,0
+2020-06-24,Mason,Illinois,17125,21,0
+2020-06-24,Mason,Kentucky,21161,28,0
+2020-06-24,Mason,Michigan,26105,43,0
+2020-06-24,Mason,Texas,48319,33,0
+2020-06-24,Mason,Washington,53045,43,1
+2020-06-24,Mason,West Virginia,54053,16,0
+2020-06-25,Mason,Illinois,17125,21,0
+2020-06-25,Mason,Kentucky,21161,28,0
+2020-06-25,Mason,Michigan,26105,43,0
+2020-06-25,Mason,Texas,48319,33,0
+2020-06-25,Mason,Washington,53045,46,1
+2020-06-25,Mason,West Virginia,54053,16,0
+2020-06-26,Mason,Illinois,17125,22,0
+2020-06-26,Mason,Kentucky,21161,28,0
+2020-06-26,Mason,Michigan,26105,43,0
+2020-06-26,Mason,Texas,48319,33,0
+2020-06-26,Mason,Washington,53045,45,1
+2020-06-26,Mason,West Virginia,54053,16,0
+2020-06-27,Mason,Illinois,17125,22,0
+2020-06-27,Mason,Kentucky,21161,29,0
+2020-06-27,Mason,Michigan,26105,45,0
+2020-06-27,Mason,Texas,48319,33,0
+2020-06-27,Mason,Washington,53045,46,1
+2020-06-27,Mason,West Virginia,54053,16,0
+2020-06-28,Mason,Illinois,17125,22,0
+2020-06-28,Mason,Kentucky,21161,29,0
+2020-06-28,Mason,Michigan,26105,45,0
+2020-06-28,Mason,Texas,48319,33,0
+2020-06-28,Mason,Washington,53045,47,1
+2020-06-28,Mason,West Virginia,54053,16,0
+2020-06-29,Mason,Illinois,17125,22,0
+2020-06-29,Mason,Kentucky,21161,30,0
+2020-06-29,Mason,Michigan,26105,46,0
+2020-06-29,Mason,Texas,48319,33,0
+2020-06-29,Mason,Washington,53045,47,1
+2020-06-29,Mason,West Virginia,54053,17,0
+2020-06-30,Mason,Illinois,17125,22,0
+2020-06-30,Mason,Kentucky,21161,31,0
+2020-06-30,Mason,Michigan,26105,51,0
+2020-06-30,Mason,Texas,48319,33,0
+2020-06-30,Mason,Washington,53045,50,1
+2020-06-30,Mason,West Virginia,54053,18,0
+2020-07-01,Mason,Illinois,17125,22,0
+2020-07-01,Mason,Kentucky,21161,31,0
+2020-07-01,Mason,Michigan,26105,53,0
+2020-07-01,Mason,Texas,48319,34,0
+2020-07-01,Mason,Washington,53045,51,1
+2020-07-01,Mason,West Virginia,54053,19,0
+2020-07-02,Mason,Illinois,17125,22,0
+2020-07-02,Mason,Kentucky,21161,31,0
+2020-07-02,Mason,Michigan,26105,57,0
+2020-07-02,Mason,Texas,48319,34,0
+2020-07-02,Mason,Washington,53045,52,1
+2020-07-02,Mason,West Virginia,54053,19,0
+2020-07-03,Mason,Illinois,17125,22,0
+2020-07-03,Mason,Kentucky,21161,33,0
+2020-07-03,Mason,Michigan,26105,58,0
+2020-07-03,Mason,Texas,48319,34,0
+2020-07-03,Mason,Washington,53045,53,1
+2020-07-03,Mason,West Virginia,54053,19,0
+2020-07-04,Mason,Illinois,17125,22,0
+2020-07-04,Mason,Kentucky,21161,33,0
+2020-07-04,Mason,Michigan,26105,61,0
+2020-07-04,Mason,Texas,48319,34,0
+2020-07-04,Mason,Washington,53045,53,1
+2020-07-04,Mason,West Virginia,54053,20,0
+2020-07-05,Mason,Illinois,17125,22,0
+2020-07-05,Mason,Kentucky,21161,33,0
+2020-07-05,Mason,Michigan,26105,61,0
+2020-07-05,Mason,Texas,48319,34,0
+2020-07-05,Mason,Washington,53045,53,1
+2020-07-05,Mason,West Virginia,54053,22,0
+2020-07-06,Mason,Illinois,17125,23,0
+2020-07-06,Mason,Kentucky,21161,36,0
+2020-07-06,Mason,Michigan,26105,65,0
+2020-07-06,Mason,Texas,48319,34,0
+2020-07-06,Mason,Washington,53045,54,1
+2020-07-06,Mason,West Virginia,54053,21,0
+2020-07-07,Mason,Illinois,17125,23,0
+2020-07-07,Mason,Kentucky,21161,39,1
+2020-07-07,Mason,Michigan,26105,66,0
+2020-07-07,Mason,Texas,48319,35,0
+2020-07-07,Mason,Washington,53045,55,1
+2020-07-07,Mason,West Virginia,54053,21,0
+2020-07-08,Mason,Illinois,17125,23,0
+2020-07-08,Mason,Kentucky,21161,39,1
+2020-07-08,Mason,Michigan,26105,70,0
+2020-07-08,Mason,Texas,48319,35,0
+2020-07-08,Mason,Washington,53045,55,1
+2020-07-08,Mason,West Virginia,54053,21,0
+2020-07-09,Mason,Illinois,17125,23,0
+2020-07-09,Mason,Kentucky,21161,39,1
+2020-07-09,Mason,Michigan,26105,72,0
+2020-07-09,Mason,Texas,48319,35,0
+2020-07-09,Mason,Washington,53045,55,1
+2020-07-09,Mason,West Virginia,54053,23,0
+2020-07-10,Mason,Illinois,17125,24,0
+2020-07-10,Mason,Kentucky,21161,39,1
+2020-07-10,Mason,Michigan,26105,73,0
+2020-07-10,Mason,Texas,48319,35,0
+2020-07-10,Mason,Washington,53045,55,1
+2020-07-10,Mason,West Virginia,54053,23,0
+2020-07-11,Mason,Illinois,17125,24,0
+2020-07-11,Mason,Kentucky,21161,39,1
+2020-07-11,Mason,Michigan,26105,74,0
+2020-07-11,Mason,Texas,48319,35,0
+2020-07-11,Mason,Washington,53045,55,1
+2020-07-11,Mason,West Virginia,54053,24,0
+2020-07-12,Mason,Illinois,17125,24,0
+2020-07-12,Mason,Kentucky,21161,39,1
+2020-07-12,Mason,Michigan,26105,76,0
+2020-07-12,Mason,Texas,48319,35,0
+2020-07-12,Mason,Washington,53045,60,1
+2020-07-12,Mason,West Virginia,54053,24,0
+2020-07-13,Mason,Illinois,17125,25,0
+2020-07-13,Mason,Kentucky,21161,39,1
+2020-07-13,Mason,Michigan,26105,77,0
+2020-07-13,Mason,Texas,48319,35,0
+2020-07-13,Mason,Washington,53045,62,1
+2020-07-13,Mason,West Virginia,54053,25,0

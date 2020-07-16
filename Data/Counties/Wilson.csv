@@ -1,0 +1,437 @@
+2020-03-15,Wilson,North Carolina,37195,1,0
+2020-03-16,Wilson,North Carolina,37195,1,0
+2020-03-17,Wilson,North Carolina,37195,1,0
+2020-03-18,Wilson,North Carolina,37195,1,0
+2020-03-19,Wilson,North Carolina,37195,2,0
+2020-03-19,Wilson,Tennessee,47189,2,0
+2020-03-20,Wilson,North Carolina,37195,2,0
+2020-03-20,Wilson,Tennessee,47189,3,0
+2020-03-21,Wilson,North Carolina,37195,2,0
+2020-03-21,Wilson,Tennessee,47189,3,0
+2020-03-22,Wilson,North Carolina,37195,2,0
+2020-03-22,Wilson,Tennessee,47189,3,0
+2020-03-23,Wilson,North Carolina,37195,3,0
+2020-03-23,Wilson,Tennessee,47189,3,0
+2020-03-24,Wilson,North Carolina,37195,3,0
+2020-03-24,Wilson,Tennessee,47189,7,0
+2020-03-25,Wilson,North Carolina,37195,5,0
+2020-03-25,Wilson,Tennessee,47189,10,0
+2020-03-25,Wilson,Texas,48493,1,0
+2020-03-26,Wilson,North Carolina,37195,7,0
+2020-03-26,Wilson,Tennessee,47189,13,0
+2020-03-26,Wilson,Texas,48493,1,0
+2020-03-27,Wilson,North Carolina,37195,7,0
+2020-03-27,Wilson,Tennessee,47189,20,0
+2020-03-27,Wilson,Texas,48493,1,0
+2020-03-28,Wilson,North Carolina,37195,9,0
+2020-03-28,Wilson,Tennessee,47189,20,0
+2020-03-28,Wilson,Texas,48493,2,0
+2020-03-29,Wilson,North Carolina,37195,10,0
+2020-03-29,Wilson,Tennessee,47189,27,0
+2020-03-29,Wilson,Texas,48493,2,0
+2020-03-30,Wilson,North Carolina,37195,11,0
+2020-03-30,Wilson,Tennessee,47189,32,0
+2020-03-30,Wilson,Texas,48493,2,0
+2020-03-31,Wilson,North Carolina,37195,15,0
+2020-03-31,Wilson,Tennessee,47189,32,0
+2020-03-31,Wilson,Texas,48493,3,0
+2020-04-01,Wilson,North Carolina,37195,15,0
+2020-04-01,Wilson,Tennessee,47189,45,0
+2020-04-01,Wilson,Texas,48493,5,0
+2020-04-02,Wilson,North Carolina,37195,17,0
+2020-04-02,Wilson,Tennessee,47189,62,0
+2020-04-02,Wilson,Texas,48493,5,0
+2020-04-03,Wilson,North Carolina,37195,20,0
+2020-04-03,Wilson,Tennessee,47189,71,0
+2020-04-03,Wilson,Texas,48493,6,0
+2020-04-04,Wilson,North Carolina,37195,23,1
+2020-04-04,Wilson,Tennessee,47189,82,0
+2020-04-04,Wilson,Texas,48493,6,0
+2020-04-05,Wilson,North Carolina,37195,28,1
+2020-04-05,Wilson,Tennessee,47189,93,0
+2020-04-05,Wilson,Texas,48493,6,0
+2020-04-06,Wilson,North Carolina,37195,29,2
+2020-04-06,Wilson,Tennessee,47189,97,0
+2020-04-06,Wilson,Texas,48493,6,0
+2020-04-07,Wilson,North Carolina,37195,36,2
+2020-04-07,Wilson,Tennessee,47189,113,0
+2020-04-07,Wilson,Texas,48493,7,0
+2020-04-08,Wilson,North Carolina,37195,38,2
+2020-04-08,Wilson,Tennessee,47189,117,0
+2020-04-08,Wilson,Texas,48493,7,0
+2020-04-09,Wilson,North Carolina,37195,42,3
+2020-04-09,Wilson,Tennessee,47189,123,0
+2020-04-09,Wilson,Texas,48493,9,0
+2020-04-10,Wilson,North Carolina,37195,44,3
+2020-04-10,Wilson,Tennessee,47189,129,1
+2020-04-10,Wilson,Texas,48493,10,0
+2020-04-11,Wilson,North Carolina,37195,58,3
+2020-04-11,Wilson,Tennessee,47189,135,1
+2020-04-11,Wilson,Texas,48493,10,0
+2020-04-12,Wilson,North Carolina,37195,64,3
+2020-04-12,Wilson,Tennessee,47189,135,1
+2020-04-12,Wilson,Texas,48493,11,0
+2020-04-13,Wilson,North Carolina,37195,70,3
+2020-04-13,Wilson,Tennessee,47189,143,1
+2020-04-13,Wilson,Texas,48493,11,0
+2020-04-14,Wilson,North Carolina,37195,74,3
+2020-04-14,Wilson,Tennessee,47189,145,1
+2020-04-14,Wilson,Texas,48493,11,1
+2020-04-15,Wilson,North Carolina,37195,75,3
+2020-04-15,Wilson,Tennessee,47189,155,1
+2020-04-15,Wilson,Texas,48493,12,1
+2020-04-16,Wilson,North Carolina,37195,83,3
+2020-04-16,Wilson,Tennessee,47189,161,1
+2020-04-16,Wilson,Texas,48493,13,1
+2020-04-17,Wilson,Kansas,20205,1,0
+2020-04-17,Wilson,North Carolina,37195,96,3
+2020-04-17,Wilson,Tennessee,47189,171,1
+2020-04-17,Wilson,Texas,48493,19,1
+2020-04-18,Wilson,Kansas,20205,1,0
+2020-04-18,Wilson,North Carolina,37195,103,4
+2020-04-18,Wilson,Tennessee,47189,173,1
+2020-04-18,Wilson,Texas,48493,19,1
+2020-04-19,Wilson,Kansas,20205,1,0
+2020-04-19,Wilson,North Carolina,37195,112,4
+2020-04-19,Wilson,Tennessee,47189,181,1
+2020-04-19,Wilson,Texas,48493,21,1
+2020-04-20,Wilson,Kansas,20205,1,0
+2020-04-20,Wilson,North Carolina,37195,116,4
+2020-04-20,Wilson,Tennessee,47189,185,1
+2020-04-20,Wilson,Texas,48493,21,1
+2020-04-21,Wilson,Kansas,20205,1,0
+2020-04-21,Wilson,North Carolina,37195,118,4
+2020-04-21,Wilson,Tennessee,47189,187,1
+2020-04-21,Wilson,Texas,48493,22,1
+2020-04-22,Wilson,Kansas,20205,1,0
+2020-04-22,Wilson,North Carolina,37195,121,5
+2020-04-22,Wilson,Tennessee,47189,194,1
+2020-04-22,Wilson,Texas,48493,23,2
+2020-04-23,Wilson,Kansas,20205,1,0
+2020-04-23,Wilson,North Carolina,37195,130,5
+2020-04-23,Wilson,Tennessee,47189,196,1
+2020-04-23,Wilson,Texas,48493,25,2
+2020-04-24,Wilson,Kansas,20205,1,0
+2020-04-24,Wilson,North Carolina,37195,136,6
+2020-04-24,Wilson,Tennessee,47189,197,1
+2020-04-24,Wilson,Texas,48493,25,2
+2020-04-25,Wilson,Kansas,20205,1,0
+2020-04-25,Wilson,North Carolina,37195,148,6
+2020-04-25,Wilson,Tennessee,47189,199,3
+2020-04-25,Wilson,Texas,48493,26,2
+2020-04-26,Wilson,Kansas,20205,1,0
+2020-04-26,Wilson,North Carolina,37195,148,6
+2020-04-26,Wilson,Tennessee,47189,233,3
+2020-04-26,Wilson,Texas,48493,29,2
+2020-04-27,Wilson,Kansas,20205,1,0
+2020-04-27,Wilson,North Carolina,37195,150,6
+2020-04-27,Wilson,Tennessee,47189,246,3
+2020-04-27,Wilson,Texas,48493,29,2
+2020-04-28,Wilson,Kansas,20205,1,0
+2020-04-28,Wilson,North Carolina,37195,152,6
+2020-04-28,Wilson,Tennessee,47189,249,3
+2020-04-28,Wilson,Texas,48493,29,2
+2020-04-29,Wilson,Kansas,20205,1,0
+2020-04-29,Wilson,North Carolina,37195,152,6
+2020-04-29,Wilson,Tennessee,47189,250,4
+2020-04-29,Wilson,Texas,48493,31,2
+2020-04-30,Wilson,Kansas,20205,1,0
+2020-04-30,Wilson,North Carolina,37195,157,6
+2020-04-30,Wilson,Tennessee,47189,253,4
+2020-04-30,Wilson,Texas,48493,32,3
+2020-05-01,Wilson,Kansas,20205,1,0
+2020-05-01,Wilson,North Carolina,37195,162,7
+2020-05-01,Wilson,Tennessee,47189,259,5
+2020-05-01,Wilson,Texas,48493,32,3
+2020-05-02,Wilson,Kansas,20205,1,0
+2020-05-02,Wilson,North Carolina,37195,173,7
+2020-05-02,Wilson,Tennessee,47189,268,5
+2020-05-02,Wilson,Texas,48493,33,3
+2020-05-03,Wilson,Kansas,20205,1,0
+2020-05-03,Wilson,North Carolina,37195,175,7
+2020-05-03,Wilson,Tennessee,47189,273,5
+2020-05-03,Wilson,Texas,48493,33,3
+2020-05-04,Wilson,Kansas,20205,1,0
+2020-05-04,Wilson,North Carolina,37195,180,7
+2020-05-04,Wilson,Tennessee,47189,276,5
+2020-05-04,Wilson,Texas,48493,33,3
+2020-05-05,Wilson,Kansas,20205,1,0
+2020-05-05,Wilson,North Carolina,37195,182,7
+2020-05-05,Wilson,Tennessee,47189,281,5
+2020-05-05,Wilson,Texas,48493,34,3
+2020-05-06,Wilson,Kansas,20205,1,0
+2020-05-06,Wilson,North Carolina,37195,184,7
+2020-05-06,Wilson,Tennessee,47189,287,7
+2020-05-06,Wilson,Texas,48493,34,4
+2020-05-07,Wilson,Kansas,20205,1,0
+2020-05-07,Wilson,North Carolina,37195,192,8
+2020-05-07,Wilson,Tennessee,47189,288,6
+2020-05-07,Wilson,Texas,48493,34,4
+2020-05-08,Wilson,Kansas,20205,1,0
+2020-05-08,Wilson,North Carolina,37195,199,8
+2020-05-08,Wilson,Tennessee,47189,290,6
+2020-05-08,Wilson,Texas,48493,34,4
+2020-05-09,Wilson,Kansas,20205,1,0
+2020-05-09,Wilson,North Carolina,37195,203,8
+2020-05-09,Wilson,Tennessee,47189,297,6
+2020-05-09,Wilson,Texas,48493,34,4
+2020-05-10,Wilson,Kansas,20205,1,0
+2020-05-10,Wilson,North Carolina,37195,212,8
+2020-05-10,Wilson,Tennessee,47189,300,6
+2020-05-10,Wilson,Texas,48493,35,4
+2020-05-11,Wilson,Kansas,20205,1,0
+2020-05-11,Wilson,North Carolina,37195,214,8
+2020-05-11,Wilson,Tennessee,47189,302,7
+2020-05-11,Wilson,Texas,48493,36,4
+2020-05-12,Wilson,Kansas,20205,1,0
+2020-05-12,Wilson,North Carolina,37195,216,9
+2020-05-12,Wilson,Tennessee,47189,306,8
+2020-05-12,Wilson,Texas,48493,36,4
+2020-05-13,Wilson,Kansas,20205,1,0
+2020-05-13,Wilson,North Carolina,37195,216,9
+2020-05-13,Wilson,Tennessee,47189,309,8
+2020-05-13,Wilson,Texas,48493,36,4
+2020-05-14,Wilson,Kansas,20205,1,0
+2020-05-14,Wilson,North Carolina,37195,218,9
+2020-05-14,Wilson,Tennessee,47189,312,8
+2020-05-14,Wilson,Texas,48493,36,4
+2020-05-15,Wilson,Kansas,20205,1,0
+2020-05-15,Wilson,North Carolina,37195,222,9
+2020-05-15,Wilson,Tennessee,47189,316,8
+2020-05-15,Wilson,Texas,48493,36,4
+2020-05-16,Wilson,Kansas,20205,1,0
+2020-05-16,Wilson,North Carolina,37195,229,9
+2020-05-16,Wilson,Tennessee,47189,318,8
+2020-05-16,Wilson,Texas,48493,36,4
+2020-05-17,Wilson,Kansas,20205,1,0
+2020-05-17,Wilson,North Carolina,37195,238,9
+2020-05-17,Wilson,Tennessee,47189,318,8
+2020-05-17,Wilson,Texas,48493,36,5
+2020-05-18,Wilson,Kansas,20205,1,0
+2020-05-18,Wilson,North Carolina,37195,246,9
+2020-05-18,Wilson,Tennessee,47189,327,8
+2020-05-18,Wilson,Texas,48493,36,5
+2020-05-19,Wilson,Kansas,20205,1,0
+2020-05-19,Wilson,North Carolina,37195,251,9
+2020-05-19,Wilson,Tennessee,47189,338,8
+2020-05-19,Wilson,Texas,48493,37,5
+2020-05-20,Wilson,Kansas,20205,1,0
+2020-05-20,Wilson,North Carolina,37195,256,9
+2020-05-20,Wilson,Tennessee,47189,338,8
+2020-05-20,Wilson,Texas,48493,37,5
+2020-05-21,Wilson,Kansas,20205,1,0
+2020-05-21,Wilson,North Carolina,37195,264,9
+2020-05-21,Wilson,Tennessee,47189,344,8
+2020-05-21,Wilson,Texas,48493,38,5
+2020-05-22,Wilson,Kansas,20205,1,0
+2020-05-22,Wilson,North Carolina,37195,275,9
+2020-05-22,Wilson,Tennessee,47189,343,8
+2020-05-22,Wilson,Texas,48493,38,5
+2020-05-23,Wilson,Kansas,20205,1,0
+2020-05-23,Wilson,North Carolina,37195,309,9
+2020-05-23,Wilson,Tennessee,47189,343,8
+2020-05-23,Wilson,Texas,48493,38,5
+2020-05-24,Wilson,Kansas,20205,1,0
+2020-05-24,Wilson,North Carolina,37195,314,9
+2020-05-24,Wilson,Tennessee,47189,355,8
+2020-05-24,Wilson,Texas,48493,38,5
+2020-05-25,Wilson,Kansas,20205,1,0
+2020-05-25,Wilson,North Carolina,37195,319,9
+2020-05-25,Wilson,Tennessee,47189,363,8
+2020-05-25,Wilson,Texas,48493,38,5
+2020-05-26,Wilson,Kansas,20205,1,0
+2020-05-26,Wilson,North Carolina,37195,321,9
+2020-05-26,Wilson,Tennessee,47189,371,8
+2020-05-26,Wilson,Texas,48493,38,5
+2020-05-27,Wilson,Kansas,20205,1,0
+2020-05-27,Wilson,North Carolina,37195,325,9
+2020-05-27,Wilson,Tennessee,47189,382,8
+2020-05-27,Wilson,Texas,48493,38,5
+2020-05-28,Wilson,Kansas,20205,1,0
+2020-05-28,Wilson,North Carolina,37195,331,10
+2020-05-28,Wilson,Tennessee,47189,387,8
+2020-05-28,Wilson,Texas,48493,38,5
+2020-05-29,Wilson,Kansas,20205,1,0
+2020-05-29,Wilson,North Carolina,37195,338,10
+2020-05-29,Wilson,Tennessee,47189,389,8
+2020-05-29,Wilson,Texas,48493,38,5
+2020-05-30,Wilson,Kansas,20205,1,0
+2020-05-30,Wilson,North Carolina,37195,347,10
+2020-05-30,Wilson,Tennessee,47189,407,8
+2020-05-30,Wilson,Texas,48493,38,5
+2020-05-31,Wilson,Kansas,20205,1,0
+2020-05-31,Wilson,North Carolina,37195,356,10
+2020-05-31,Wilson,Tennessee,47189,407,8
+2020-05-31,Wilson,Texas,48493,38,5
+2020-06-01,Wilson,Kansas,20205,1,0
+2020-06-01,Wilson,North Carolina,37195,359,10
+2020-06-01,Wilson,Tennessee,47189,407,8
+2020-06-01,Wilson,Texas,48493,38,5
+2020-06-02,Wilson,Kansas,20205,1,0
+2020-06-02,Wilson,North Carolina,37195,363,10
+2020-06-02,Wilson,Tennessee,47189,430,8
+2020-06-02,Wilson,Texas,48493,40,5
+2020-06-03,Wilson,Kansas,20205,1,0
+2020-06-03,Wilson,North Carolina,37195,370,10
+2020-06-03,Wilson,Tennessee,47189,442,8
+2020-06-03,Wilson,Texas,48493,41,5
+2020-06-04,Wilson,Kansas,20205,1,0
+2020-06-04,Wilson,North Carolina,37195,403,10
+2020-06-04,Wilson,Tennessee,47189,449,8
+2020-06-04,Wilson,Texas,48493,41,5
+2020-06-05,Wilson,Kansas,20205,1,0
+2020-06-05,Wilson,North Carolina,37195,413,10
+2020-06-05,Wilson,Tennessee,47189,459,8
+2020-06-05,Wilson,Texas,48493,44,5
+2020-06-06,Wilson,Kansas,20205,1,0
+2020-06-06,Wilson,North Carolina,37195,426,12
+2020-06-06,Wilson,Tennessee,47189,469,9
+2020-06-06,Wilson,Texas,48493,44,5
+2020-06-07,Wilson,Kansas,20205,1,0
+2020-06-07,Wilson,North Carolina,37195,443,12
+2020-06-07,Wilson,Tennessee,47189,475,9
+2020-06-07,Wilson,Texas,48493,45,5
+2020-06-08,Wilson,Kansas,20205,1,0
+2020-06-08,Wilson,North Carolina,37195,445,12
+2020-06-08,Wilson,Tennessee,47189,477,9
+2020-06-08,Wilson,Texas,48493,45,5
+2020-06-09,Wilson,Kansas,20205,1,0
+2020-06-09,Wilson,North Carolina,37195,452,13
+2020-06-09,Wilson,Tennessee,47189,488,10
+2020-06-09,Wilson,Texas,48493,45,5
+2020-06-10,Wilson,Kansas,20205,1,0
+2020-06-10,Wilson,North Carolina,37195,456,13
+2020-06-10,Wilson,Tennessee,47189,499,10
+2020-06-10,Wilson,Texas,48493,46,5
+2020-06-11,Wilson,Kansas,20205,1,0
+2020-06-11,Wilson,North Carolina,37195,464,13
+2020-06-11,Wilson,Tennessee,47189,501,11
+2020-06-11,Wilson,Texas,48493,46,5
+2020-06-12,Wilson,Kansas,20205,1,0
+2020-06-12,Wilson,North Carolina,37195,473,13
+2020-06-12,Wilson,Tennessee,47189,511,11
+2020-06-12,Wilson,Texas,48493,50,5
+2020-06-13,Wilson,Kansas,20205,1,0
+2020-06-13,Wilson,North Carolina,37195,496,13
+2020-06-13,Wilson,Tennessee,47189,512,12
+2020-06-13,Wilson,Texas,48493,52,5
+2020-06-14,Wilson,Kansas,20205,1,0
+2020-06-14,Wilson,North Carolina,37195,507,13
+2020-06-14,Wilson,Tennessee,47189,515,12
+2020-06-14,Wilson,Texas,48493,52,5
+2020-06-15,Wilson,Kansas,20205,1,0
+2020-06-15,Wilson,North Carolina,37195,518,13
+2020-06-15,Wilson,Tennessee,47189,518,13
+2020-06-15,Wilson,Texas,48493,52,5
+2020-06-16,Wilson,Kansas,20205,1,0
+2020-06-16,Wilson,North Carolina,37195,524,15
+2020-06-16,Wilson,Tennessee,47189,537,14
+2020-06-16,Wilson,Texas,48493,53,5
+2020-06-17,Wilson,Kansas,20205,1,0
+2020-06-17,Wilson,North Carolina,37195,527,15
+2020-06-17,Wilson,Tennessee,47189,544,14
+2020-06-17,Wilson,Texas,48493,53,5
+2020-06-18,Wilson,Kansas,20205,1,0
+2020-06-18,Wilson,North Carolina,37195,545,15
+2020-06-18,Wilson,Tennessee,47189,565,14
+2020-06-18,Wilson,Texas,48493,55,5
+2020-06-19,Wilson,Kansas,20205,1,0
+2020-06-19,Wilson,North Carolina,37195,556,15
+2020-06-19,Wilson,Tennessee,47189,580,14
+2020-06-19,Wilson,Texas,48493,65,5
+2020-06-20,Wilson,Kansas,20205,1,0
+2020-06-20,Wilson,North Carolina,37195,594,16
+2020-06-20,Wilson,Tennessee,47189,595,15
+2020-06-20,Wilson,Texas,48493,69,5
+2020-06-21,Wilson,Kansas,20205,1,0
+2020-06-21,Wilson,North Carolina,37195,603,16
+2020-06-21,Wilson,Tennessee,47189,616,15
+2020-06-21,Wilson,Texas,48493,72,5
+2020-06-22,Wilson,Kansas,20205,1,0
+2020-06-22,Wilson,North Carolina,37195,610,16
+2020-06-22,Wilson,Tennessee,47189,625,15
+2020-06-22,Wilson,Texas,48493,72,5
+2020-06-23,Wilson,Kansas,20205,1,0
+2020-06-23,Wilson,North Carolina,37195,615,18
+2020-06-23,Wilson,Tennessee,47189,649,15
+2020-06-23,Wilson,Texas,48493,76,5
+2020-06-24,Wilson,Kansas,20205,1,0
+2020-06-24,Wilson,North Carolina,37195,633,18
+2020-06-24,Wilson,Tennessee,47189,658,15
+2020-06-24,Wilson,Texas,48493,80,5
+2020-06-25,Wilson,Kansas,20205,1,0
+2020-06-25,Wilson,North Carolina,37195,644,18
+2020-06-25,Wilson,Tennessee,47189,683,15
+2020-06-25,Wilson,Texas,48493,83,5
+2020-06-26,Wilson,Kansas,20205,1,0
+2020-06-26,Wilson,North Carolina,37195,661,18
+2020-06-26,Wilson,Tennessee,47189,708,15
+2020-06-26,Wilson,Texas,48493,83,5
+2020-06-27,Wilson,Kansas,20205,1,0
+2020-06-27,Wilson,North Carolina,37195,674,18
+2020-06-27,Wilson,Tennessee,47189,725,16
+2020-06-27,Wilson,Texas,48493,88,5
+2020-06-28,Wilson,Kansas,20205,1,0
+2020-06-28,Wilson,North Carolina,37195,682,18
+2020-06-28,Wilson,Tennessee,47189,725,16
+2020-06-28,Wilson,Texas,48493,86,5
+2020-06-29,Wilson,Kansas,20205,1,0
+2020-06-29,Wilson,North Carolina,37195,696,18
+2020-06-29,Wilson,Tennessee,47189,762,17
+2020-06-29,Wilson,Texas,48493,86,5
+2020-06-30,Wilson,Kansas,20205,1,0
+2020-06-30,Wilson,North Carolina,37195,714,18
+2020-06-30,Wilson,Tennessee,47189,779,17
+2020-06-30,Wilson,Texas,48493,98,5
+2020-07-01,Wilson,Kansas,20205,2,0
+2020-07-01,Wilson,North Carolina,37195,726,19
+2020-07-01,Wilson,Tennessee,47189,829,17
+2020-07-01,Wilson,Texas,48493,101,5
+2020-07-02,Wilson,Kansas,20205,2,0
+2020-07-02,Wilson,North Carolina,37195,745,20
+2020-07-02,Wilson,Tennessee,47189,859,17
+2020-07-02,Wilson,Texas,48493,111,5
+2020-07-03,Wilson,Kansas,20205,3,0
+2020-07-03,Wilson,North Carolina,37195,767,20
+2020-07-03,Wilson,Tennessee,47189,891,17
+2020-07-03,Wilson,Texas,48493,113,5
+2020-07-04,Wilson,Kansas,20205,3,0
+2020-07-04,Wilson,North Carolina,37195,757,19
+2020-07-04,Wilson,Tennessee,47189,910,17
+2020-07-04,Wilson,Texas,48493,132,5
+2020-07-05,Wilson,Kansas,20205,3,0
+2020-07-05,Wilson,North Carolina,37195,764,19
+2020-07-05,Wilson,Tennessee,47189,941,17
+2020-07-05,Wilson,Texas,48493,132,5
+2020-07-06,Wilson,Kansas,20205,4,0
+2020-07-06,Wilson,North Carolina,37195,786,19
+2020-07-06,Wilson,Tennessee,47189,963,17
+2020-07-06,Wilson,Texas,48493,132,5
+2020-07-07,Wilson,Kansas,20205,4,0
+2020-07-07,Wilson,North Carolina,37195,800,23
+2020-07-07,Wilson,Tennessee,47189,999,17
+2020-07-07,Wilson,Texas,48493,144,5
+2020-07-08,Wilson,Kansas,20205,4,0
+2020-07-08,Wilson,North Carolina,37195,837,23
+2020-07-08,Wilson,Tennessee,47189,1060,17
+2020-07-08,Wilson,Texas,48493,146,5
+2020-07-09,Wilson,Kansas,20205,4,0
+2020-07-09,Wilson,North Carolina,37195,854,23
+2020-07-09,Wilson,Tennessee,47189,1099,17
+2020-07-09,Wilson,Texas,48493,166,5
+2020-07-10,Wilson,Kansas,20205,4,0
+2020-07-10,Wilson,North Carolina,37195,870,23
+2020-07-10,Wilson,Tennessee,47189,1130,17
+2020-07-10,Wilson,Texas,48493,173,5
+2020-07-11,Wilson,Kansas,20205,4,0
+2020-07-11,Wilson,North Carolina,37195,907,24
+2020-07-11,Wilson,Tennessee,47189,1148,17
+2020-07-11,Wilson,Texas,48493,190,5
+2020-07-12,Wilson,Kansas,20205,4,0
+2020-07-12,Wilson,North Carolina,37195,920,24
+2020-07-12,Wilson,Tennessee,47189,1187,17
+2020-07-12,Wilson,Texas,48493,201,5
+2020-07-13,Wilson,Kansas,20205,4,0
+2020-07-13,Wilson,North Carolina,37195,942,24
+2020-07-13,Wilson,Tennessee,47189,1261,17
+2020-07-13,Wilson,Texas,48493,201,5

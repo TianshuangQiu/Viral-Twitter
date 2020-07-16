@@ -7,14 +7,14 @@ def write(s, data):
     """
     # console output so i don't get scared
     print("PRINTING", s)
-    with open('Data/States/' + s + ".csv", 'w', newline='') as csvfile:
+    with open('Data/Counties/' + s + ".csv", 'w', newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
         for row in data:
             writer.writerow(row)
 
 
-with open("Data/us-states.csv", newline='') as csvfile:
+with open("Data/us-counties.csv", newline='') as csvfile:
     """
     searches for the data until it reaches the end of the file
     """

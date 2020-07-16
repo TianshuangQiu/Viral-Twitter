@@ -1,0 +1,983 @@
+2020-03-12,Cass,Nebraska,31025,1,0
+2020-03-13,Cass,Nebraska,31025,1,0
+2020-03-14,Cass,Nebraska,31025,1,0
+2020-03-15,Cass,Nebraska,31025,1,0
+2020-03-16,Cass,Missouri,29037,1,0
+2020-03-16,Cass,Nebraska,31025,1,0
+2020-03-17,Cass,Missouri,29037,2,0
+2020-03-17,Cass,Nebraska,31025,1,0
+2020-03-17,Cass,North Dakota,38017,1,0
+2020-03-18,Cass,Missouri,29037,2,0
+2020-03-18,Cass,Nebraska,31025,1,0
+2020-03-18,Cass,North Dakota,38017,1,0
+2020-03-19,Cass,Missouri,29037,4,0
+2020-03-19,Cass,Nebraska,31025,1,0
+2020-03-19,Cass,North Dakota,38017,1,0
+2020-03-20,Cass,Missouri,29037,6,0
+2020-03-20,Cass,Nebraska,31025,1,0
+2020-03-20,Cass,North Dakota,38017,1,0
+2020-03-20,Cass,Texas,48067,1,0
+2020-03-21,Cass,Missouri,29037,6,0
+2020-03-21,Cass,Nebraska,31025,1,0
+2020-03-21,Cass,North Dakota,38017,1,0
+2020-03-21,Cass,Texas,48067,1,0
+2020-03-22,Cass,Missouri,29037,6,0
+2020-03-22,Cass,Nebraska,31025,1,0
+2020-03-22,Cass,North Dakota,38017,1,0
+2020-03-22,Cass,Texas,48067,1,0
+2020-03-23,Cass,Minnesota,27021,1,0
+2020-03-23,Cass,Missouri,29037,6,0
+2020-03-23,Cass,Nebraska,31025,2,0
+2020-03-23,Cass,North Dakota,38017,1,0
+2020-03-23,Cass,Texas,48067,1,0
+2020-03-24,Cass,Minnesota,27021,1,0
+2020-03-24,Cass,Missouri,29037,6,0
+2020-03-24,Cass,Nebraska,31025,2,0
+2020-03-24,Cass,North Dakota,38017,3,0
+2020-03-24,Cass,Texas,48067,1,0
+2020-03-25,Cass,Minnesota,27021,1,0
+2020-03-25,Cass,Missouri,29037,8,0
+2020-03-25,Cass,Nebraska,31025,2,0
+2020-03-25,Cass,North Dakota,38017,6,0
+2020-03-25,Cass,Texas,48067,1,0
+2020-03-26,Cass,Minnesota,27021,1,0
+2020-03-26,Cass,Missouri,29037,8,0
+2020-03-26,Cass,Nebraska,31025,2,0
+2020-03-26,Cass,North Dakota,38017,8,0
+2020-03-26,Cass,Texas,48067,1,0
+2020-03-27,Cass,Michigan,26027,1,0
+2020-03-27,Cass,Minnesota,27021,1,0
+2020-03-27,Cass,Missouri,29037,8,0
+2020-03-27,Cass,Nebraska,31025,2,0
+2020-03-27,Cass,North Dakota,38017,11,1
+2020-03-27,Cass,Texas,48067,1,0
+2020-03-28,Cass,Michigan,26027,2,0
+2020-03-28,Cass,Minnesota,27021,1,0
+2020-03-28,Cass,Missouri,29037,8,0
+2020-03-28,Cass,Nebraska,31025,2,0
+2020-03-28,Cass,North Dakota,38017,18,1
+2020-03-28,Cass,Texas,48067,2,0
+2020-03-29,Cass,Michigan,26027,4,0
+2020-03-29,Cass,Minnesota,27021,1,0
+2020-03-29,Cass,Missouri,29037,8,0
+2020-03-29,Cass,Nebraska,31025,2,0
+2020-03-29,Cass,North Dakota,38017,20,1
+2020-03-29,Cass,Texas,48067,2,0
+2020-03-30,Cass,Michigan,26027,4,0
+2020-03-30,Cass,Minnesota,27021,1,0
+2020-03-30,Cass,Missouri,29037,9,0
+2020-03-30,Cass,Nebraska,31025,2,0
+2020-03-30,Cass,North Dakota,38017,23,1
+2020-03-30,Cass,Texas,48067,2,0
+2020-03-31,Cass,Indiana,18017,1,0
+2020-03-31,Cass,Michigan,26027,4,1
+2020-03-31,Cass,Minnesota,27021,1,0
+2020-03-31,Cass,Missouri,29037,14,0
+2020-03-31,Cass,Nebraska,31025,2,0
+2020-03-31,Cass,North Dakota,38017,31,1
+2020-03-31,Cass,Texas,48067,2,0
+2020-04-01,Cass,Indiana,18017,1,0
+2020-04-01,Cass,Michigan,26027,6,1
+2020-04-01,Cass,Minnesota,27021,1,0
+2020-04-01,Cass,Missouri,29037,17,1
+2020-04-01,Cass,Nebraska,31025,2,0
+2020-04-01,Cass,North Dakota,38017,37,1
+2020-04-01,Cass,Texas,48067,3,0
+2020-04-02,Cass,Indiana,18017,2,0
+2020-04-02,Cass,Michigan,26027,6,1
+2020-04-02,Cass,Minnesota,27021,1,0
+2020-04-02,Cass,Missouri,29037,21,1
+2020-04-02,Cass,Nebraska,31025,2,0
+2020-04-02,Cass,North Dakota,38017,43,1
+2020-04-02,Cass,Texas,48067,4,0
+2020-04-03,Cass,Indiana,18017,2,0
+2020-04-03,Cass,Michigan,26027,6,1
+2020-04-03,Cass,Minnesota,27021,1,0
+2020-04-03,Cass,Missouri,29037,21,1
+2020-04-03,Cass,Nebraska,31025,2,0
+2020-04-03,Cass,North Dakota,38017,46,1
+2020-04-03,Cass,Texas,48067,4,0
+2020-04-04,Cass,Indiana,18017,4,0
+2020-04-04,Cass,Michigan,26027,6,1
+2020-04-04,Cass,Minnesota,27021,1,0
+2020-04-04,Cass,Missouri,29037,22,1
+2020-04-04,Cass,Nebraska,31025,2,0
+2020-04-04,Cass,North Dakota,38017,48,1
+2020-04-04,Cass,Texas,48067,4,0
+2020-04-05,Cass,Indiana,18017,4,0
+2020-04-05,Cass,Michigan,26027,7,1
+2020-04-05,Cass,Minnesota,27021,1,0
+2020-04-05,Cass,Missouri,29037,23,1
+2020-04-05,Cass,Nebraska,31025,2,0
+2020-04-05,Cass,North Dakota,38017,54,1
+2020-04-05,Cass,Texas,48067,4,0
+2020-04-06,Cass,Indiana,18017,4,0
+2020-04-06,Cass,Michigan,26027,7,1
+2020-04-06,Cass,Minnesota,27021,1,0
+2020-04-06,Cass,Missouri,29037,26,1
+2020-04-06,Cass,Nebraska,31025,2,0
+2020-04-06,Cass,North Dakota,38017,65,1
+2020-04-06,Cass,Texas,48067,5,2
+2020-04-07,Cass,Indiana,18017,13,1
+2020-04-07,Cass,Michigan,26027,9,1
+2020-04-07,Cass,Minnesota,27021,3,0
+2020-04-07,Cass,Missouri,29037,25,1
+2020-04-07,Cass,Nebraska,31025,2,0
+2020-04-07,Cass,North Dakota,38017,70,1
+2020-04-07,Cass,Texas,48067,5,2
+2020-04-08,Cass,Indiana,18017,16,1
+2020-04-08,Cass,Michigan,26027,9,1
+2020-04-08,Cass,Minnesota,27021,3,0
+2020-04-08,Cass,Missouri,29037,26,1
+2020-04-08,Cass,Nebraska,31025,3,0
+2020-04-08,Cass,North Dakota,38017,77,1
+2020-04-08,Cass,Texas,48067,5,2
+2020-04-09,Cass,Indiana,18017,17,2
+2020-04-09,Cass,Michigan,26027,10,1
+2020-04-09,Cass,Minnesota,27021,3,0
+2020-04-09,Cass,Missouri,29037,27,1
+2020-04-09,Cass,Nebraska,31025,3,0
+2020-04-09,Cass,North Dakota,38017,83,1
+2020-04-09,Cass,Texas,48067,5,2
+2020-04-10,Cass,Indiana,18017,19,2
+2020-04-10,Cass,Michigan,26027,12,1
+2020-04-10,Cass,Minnesota,27021,3,0
+2020-04-10,Cass,Missouri,29037,27,2
+2020-04-10,Cass,Nebraska,31025,3,0
+2020-04-10,Cass,North Dakota,38017,88,1
+2020-04-10,Cass,Texas,48067,5,2
+2020-04-11,Cass,Indiana,18017,24,2
+2020-04-11,Cass,Michigan,26027,12,1
+2020-04-11,Cass,Minnesota,27021,3,0
+2020-04-11,Cass,Missouri,29037,32,2
+2020-04-11,Cass,Nebraska,31025,3,0
+2020-04-11,Cass,North Dakota,38017,95,2
+2020-04-11,Cass,Texas,48067,5,2
+2020-04-12,Cass,Indiana,18017,23,2
+2020-04-12,Cass,Michigan,26027,12,1
+2020-04-12,Cass,Minnesota,27021,4,0
+2020-04-12,Cass,Missouri,29037,32,2
+2020-04-12,Cass,Nebraska,31025,3,0
+2020-04-12,Cass,North Dakota,38017,107,2
+2020-04-12,Cass,Texas,48067,5,2
+2020-04-13,Cass,Indiana,18017,29,2
+2020-04-13,Cass,Iowa,19029,1,0
+2020-04-13,Cass,Michigan,26027,12,1
+2020-04-13,Cass,Minnesota,27021,4,0
+2020-04-13,Cass,Missouri,29037,36,2
+2020-04-13,Cass,Nebraska,31025,3,0
+2020-04-13,Cass,North Dakota,38017,116,2
+2020-04-13,Cass,Texas,48067,5,2
+2020-04-14,Cass,Indiana,18017,29,2
+2020-04-14,Cass,Iowa,19029,1,0
+2020-04-14,Cass,Michigan,26027,13,1
+2020-04-14,Cass,Minnesota,27021,4,0
+2020-04-14,Cass,Missouri,29037,44,4
+2020-04-14,Cass,Nebraska,31025,3,0
+2020-04-14,Cass,North Dakota,38017,123,2
+2020-04-14,Cass,Texas,48067,5,2
+2020-04-15,Cass,Indiana,18017,34,2
+2020-04-15,Cass,Iowa,19029,1,0
+2020-04-15,Cass,Michigan,26027,17,1
+2020-04-15,Cass,Minnesota,27021,4,0
+2020-04-15,Cass,Missouri,29037,44,4
+2020-04-15,Cass,Nebraska,31025,3,0
+2020-04-15,Cass,North Dakota,38017,135,2
+2020-04-15,Cass,Texas,48067,8,2
+2020-04-16,Cass,Indiana,18017,38,2
+2020-04-16,Cass,Iowa,19029,1,0
+2020-04-16,Cass,Michigan,26027,19,1
+2020-04-16,Cass,Minnesota,27021,4,0
+2020-04-16,Cass,Missouri,29037,47,5
+2020-04-16,Cass,Nebraska,31025,3,0
+2020-04-16,Cass,North Dakota,38017,152,2
+2020-04-16,Cass,Texas,48067,8,2
+2020-04-17,Cass,Indiana,18017,51,2
+2020-04-17,Cass,Iowa,19029,1,0
+2020-04-17,Cass,Michigan,26027,22,1
+2020-04-17,Cass,Minnesota,27021,4,0
+2020-04-17,Cass,Missouri,29037,50,5
+2020-04-17,Cass,Nebraska,31025,3,0
+2020-04-17,Cass,North Dakota,38017,181,2
+2020-04-17,Cass,Texas,48067,8,2
+2020-04-18,Cass,Indiana,18017,53,2
+2020-04-18,Cass,Iowa,19029,1,0
+2020-04-18,Cass,Michigan,26027,22,1
+2020-04-18,Cass,Minnesota,27021,4,0
+2020-04-18,Cass,Missouri,29037,52,6
+2020-04-18,Cass,Nebraska,31025,3,0
+2020-04-18,Cass,North Dakota,38017,197,2
+2020-04-18,Cass,Texas,48067,10,2
+2020-04-19,Cass,Indiana,18017,72,2
+2020-04-19,Cass,Iowa,19029,1,0
+2020-04-19,Cass,Michigan,26027,22,1
+2020-04-19,Cass,Minnesota,27021,4,0
+2020-04-19,Cass,Missouri,29037,53,6
+2020-04-19,Cass,Nebraska,31025,5,0
+2020-04-19,Cass,North Dakota,38017,212,3
+2020-04-19,Cass,Texas,48067,13,2
+2020-04-20,Cass,Illinois,17017,2,0
+2020-04-20,Cass,Indiana,18017,88,2
+2020-04-20,Cass,Iowa,19029,1,0
+2020-04-20,Cass,Michigan,26027,22,1
+2020-04-20,Cass,Minnesota,27021,4,0
+2020-04-20,Cass,Missouri,29037,53,6
+2020-04-20,Cass,Nebraska,31025,5,0
+2020-04-20,Cass,North Dakota,38017,246,6
+2020-04-20,Cass,Texas,48067,13,2
+2020-04-21,Cass,Illinois,17017,6,0
+2020-04-21,Cass,Indiana,18017,108,2
+2020-04-21,Cass,Iowa,19029,1,0
+2020-04-21,Cass,Michigan,26027,22,1
+2020-04-21,Cass,Minnesota,27021,4,0
+2020-04-21,Cass,Missouri,29037,54,6
+2020-04-21,Cass,Nebraska,31025,4,0
+2020-04-21,Cass,North Dakota,38017,255,6
+2020-04-21,Cass,Texas,48067,13,2
+2020-04-22,Cass,Illinois,17017,7,0
+2020-04-22,Cass,Indiana,18017,139,2
+2020-04-22,Cass,Iowa,19029,1,0
+2020-04-22,Cass,Michigan,26027,23,1
+2020-04-22,Cass,Minnesota,27021,4,0
+2020-04-22,Cass,Missouri,29037,55,6
+2020-04-22,Cass,Nebraska,31025,4,0
+2020-04-22,Cass,North Dakota,38017,274,7
+2020-04-22,Cass,Texas,48067,13,2
+2020-04-23,Cass,Illinois,17017,8,0
+2020-04-23,Cass,Indiana,18017,200,2
+2020-04-23,Cass,Iowa,19029,1,0
+2020-04-23,Cass,Michigan,26027,23,2
+2020-04-23,Cass,Minnesota,27021,5,0
+2020-04-23,Cass,Missouri,29037,55,6
+2020-04-23,Cass,Nebraska,31025,4,0
+2020-04-23,Cass,North Dakota,38017,290,8
+2020-04-23,Cass,Texas,48067,13,2
+2020-04-24,Cass,Illinois,17017,17,0
+2020-04-24,Cass,Indiana,18017,256,2
+2020-04-24,Cass,Iowa,19029,1,0
+2020-04-24,Cass,Michigan,26027,25,2
+2020-04-24,Cass,Minnesota,27021,5,0
+2020-04-24,Cass,Missouri,29037,55,6
+2020-04-24,Cass,Nebraska,31025,4,0
+2020-04-24,Cass,North Dakota,38017,318,8
+2020-04-24,Cass,Texas,48067,16,2
+2020-04-25,Cass,Illinois,17017,21,0
+2020-04-25,Cass,Indiana,18017,316,2
+2020-04-25,Cass,Iowa,19029,1,0
+2020-04-25,Cass,Michigan,26027,26,2
+2020-04-25,Cass,Minnesota,27021,5,0
+2020-04-25,Cass,Missouri,29037,58,6
+2020-04-25,Cass,Nebraska,31025,4,0
+2020-04-25,Cass,North Dakota,38017,357,9
+2020-04-25,Cass,Texas,48067,16,2
+2020-04-26,Cass,Illinois,17017,27,0
+2020-04-26,Cass,Indiana,18017,587,2
+2020-04-26,Cass,Iowa,19029,1,0
+2020-04-26,Cass,Michigan,26027,26,2
+2020-04-26,Cass,Minnesota,27021,5,0
+2020-04-26,Cass,Missouri,29037,58,6
+2020-04-26,Cass,Nebraska,31025,4,0
+2020-04-26,Cass,North Dakota,38017,397,10
+2020-04-26,Cass,Texas,48067,16,2
+2020-04-27,Cass,Illinois,17017,25,0
+2020-04-27,Cass,Indiana,18017,1026,2
+2020-04-27,Cass,Iowa,19029,1,0
+2020-04-27,Cass,Michigan,26027,27,2
+2020-04-27,Cass,Minnesota,27021,5,0
+2020-04-27,Cass,Missouri,29037,58,6
+2020-04-27,Cass,Nebraska,31025,4,0
+2020-04-27,Cass,North Dakota,38017,431,12
+2020-04-27,Cass,Texas,48067,16,2
+2020-04-28,Cass,Illinois,17017,27,0
+2020-04-28,Cass,Indiana,18017,1103,2
+2020-04-28,Cass,Iowa,19029,1,0
+2020-04-28,Cass,Michigan,26027,27,2
+2020-04-28,Cass,Minnesota,27021,5,0
+2020-04-28,Cass,Missouri,29037,61,6
+2020-04-28,Cass,Nebraska,31025,4,0
+2020-04-28,Cass,North Dakota,38017,472,12
+2020-04-28,Cass,Texas,48067,16,2
+2020-04-29,Cass,Illinois,17017,29,0
+2020-04-29,Cass,Indiana,18017,1127,4
+2020-04-29,Cass,Iowa,19029,1,0
+2020-04-29,Cass,Michigan,26027,29,2
+2020-04-29,Cass,Minnesota,27021,5,0
+2020-04-29,Cass,Missouri,29037,62,6
+2020-04-29,Cass,Nebraska,31025,5,0
+2020-04-29,Cass,North Dakota,38017,492,12
+2020-04-29,Cass,Texas,48067,16,2
+2020-04-30,Cass,Illinois,17017,33,0
+2020-04-30,Cass,Indiana,18017,1166,3
+2020-04-30,Cass,Iowa,19029,1,0
+2020-04-30,Cass,Michigan,26027,31,2
+2020-04-30,Cass,Minnesota,27021,5,0
+2020-04-30,Cass,Missouri,29037,62,6
+2020-04-30,Cass,Nebraska,31025,5,0
+2020-04-30,Cass,North Dakota,38017,513,12
+2020-04-30,Cass,Texas,48067,16,2
+2020-05-01,Cass,Illinois,17017,34,0
+2020-05-01,Cass,Indiana,18017,1216,3
+2020-05-01,Cass,Iowa,19029,1,0
+2020-05-01,Cass,Michigan,26027,30,2
+2020-05-01,Cass,Minnesota,27021,5,0
+2020-05-01,Cass,Missouri,29037,63,6
+2020-05-01,Cass,Nebraska,31025,5,0
+2020-05-01,Cass,North Dakota,38017,542,16
+2020-05-01,Cass,Texas,48067,16,2
+2020-05-02,Cass,Illinois,17017,40,0
+2020-05-02,Cass,Indiana,18017,1226,3
+2020-05-02,Cass,Iowa,19029,1,0
+2020-05-02,Cass,Michigan,26027,33,2
+2020-05-02,Cass,Minnesota,27021,7,0
+2020-05-02,Cass,Missouri,29037,64,6
+2020-05-02,Cass,Nebraska,31025,6,0
+2020-05-02,Cass,North Dakota,38017,572,17
+2020-05-02,Cass,Texas,48067,16,2
+2020-05-03,Cass,Illinois,17017,40,0
+2020-05-03,Cass,Indiana,18017,1295,3
+2020-05-03,Cass,Iowa,19029,1,0
+2020-05-03,Cass,Michigan,26027,32,2
+2020-05-03,Cass,Minnesota,27021,7,0
+2020-05-03,Cass,Missouri,29037,64,6
+2020-05-03,Cass,Nebraska,31025,6,0
+2020-05-03,Cass,North Dakota,38017,605,18
+2020-05-03,Cass,Texas,48067,16,2
+2020-05-04,Cass,Illinois,17017,40,0
+2020-05-04,Cass,Indiana,18017,1373,3
+2020-05-04,Cass,Iowa,19029,1,0
+2020-05-04,Cass,Michigan,26027,33,2
+2020-05-04,Cass,Minnesota,27021,7,0
+2020-05-04,Cass,Missouri,29037,64,6
+2020-05-04,Cass,Nebraska,31025,6,0
+2020-05-04,Cass,North Dakota,38017,630,18
+2020-05-04,Cass,Texas,48067,16,2
+2020-05-05,Cass,Illinois,17017,42,0
+2020-05-05,Cass,Indiana,18017,1408,3
+2020-05-05,Cass,Iowa,19029,1,0
+2020-05-05,Cass,Michigan,26027,34,2
+2020-05-05,Cass,Minnesota,27021,7,0
+2020-05-05,Cass,Missouri,29037,65,6
+2020-05-05,Cass,Nebraska,31025,6,0
+2020-05-05,Cass,North Dakota,38017,643,18
+2020-05-05,Cass,Texas,48067,16,2
+2020-05-06,Cass,Illinois,17017,48,0
+2020-05-06,Cass,Indiana,18017,1444,3
+2020-05-06,Cass,Iowa,19029,1,0
+2020-05-06,Cass,Michigan,26027,35,2
+2020-05-06,Cass,Minnesota,27021,7,0
+2020-05-06,Cass,Missouri,29037,66,6
+2020-05-06,Cass,Nebraska,31025,7,0
+2020-05-06,Cass,North Dakota,38017,686,23
+2020-05-06,Cass,Texas,48067,17,2
+2020-05-07,Cass,Illinois,17017,50,0
+2020-05-07,Cass,Indiana,18017,1471,3
+2020-05-07,Cass,Iowa,19029,1,0
+2020-05-07,Cass,Michigan,26027,36,2
+2020-05-07,Cass,Minnesota,27021,7,0
+2020-05-07,Cass,Missouri,29037,67,7
+2020-05-07,Cass,Nebraska,31025,9,0
+2020-05-07,Cass,North Dakota,38017,709,23
+2020-05-07,Cass,Texas,48067,17,2
+2020-05-08,Cass,Illinois,17017,52,0
+2020-05-08,Cass,Indiana,18017,1499,3
+2020-05-08,Cass,Iowa,19029,1,0
+2020-05-08,Cass,Michigan,26027,39,2
+2020-05-08,Cass,Minnesota,27021,7,0
+2020-05-08,Cass,Missouri,29037,69,8
+2020-05-08,Cass,Nebraska,31025,9,0
+2020-05-08,Cass,North Dakota,38017,752,24
+2020-05-08,Cass,Texas,48067,17,2
+2020-05-09,Cass,Illinois,17017,56,0
+2020-05-09,Cass,Indiana,18017,1509,3
+2020-05-09,Cass,Iowa,19029,1,0
+2020-05-09,Cass,Michigan,26027,41,2
+2020-05-09,Cass,Minnesota,27021,8,0
+2020-05-09,Cass,Missouri,29037,69,8
+2020-05-09,Cass,Nebraska,31025,11,0
+2020-05-09,Cass,North Dakota,38017,781,26
+2020-05-09,Cass,Texas,48067,17,0
+2020-05-10,Cass,Illinois,17017,56,0
+2020-05-10,Cass,Indiana,18017,1522,4
+2020-05-10,Cass,Iowa,19029,1,0
+2020-05-10,Cass,Michigan,26027,41,2
+2020-05-10,Cass,Minnesota,27021,8,1
+2020-05-10,Cass,Missouri,29037,70,8
+2020-05-10,Cass,Nebraska,31025,11,0
+2020-05-10,Cass,North Dakota,38017,805,26
+2020-05-10,Cass,Texas,48067,20,0
+2020-05-11,Cass,Illinois,17017,56,0
+2020-05-11,Cass,Indiana,18017,1526,4
+2020-05-11,Cass,Iowa,19029,1,0
+2020-05-11,Cass,Michigan,26027,42,2
+2020-05-11,Cass,Minnesota,27021,8,1
+2020-05-11,Cass,Missouri,29037,70,8
+2020-05-11,Cass,Nebraska,31025,11,0
+2020-05-11,Cass,North Dakota,38017,821,27
+2020-05-11,Cass,Texas,48067,20,0
+2020-05-12,Cass,Illinois,17017,64,0
+2020-05-12,Cass,Indiana,18017,1544,5
+2020-05-12,Cass,Iowa,19029,1,0
+2020-05-12,Cass,Michigan,26027,43,2
+2020-05-12,Cass,Minnesota,27021,8,2
+2020-05-12,Cass,Missouri,29037,70,8
+2020-05-12,Cass,Nebraska,31025,13,0
+2020-05-12,Cass,North Dakota,38017,866,29
+2020-05-12,Cass,Texas,48067,20,0
+2020-05-13,Cass,Illinois,17017,62,0
+2020-05-13,Cass,Indiana,18017,1546,5
+2020-05-13,Cass,Iowa,19029,1,0
+2020-05-13,Cass,Michigan,26027,44,2
+2020-05-13,Cass,Minnesota,27021,8,2
+2020-05-13,Cass,Missouri,29037,70,8
+2020-05-13,Cass,Nebraska,31025,15,0
+2020-05-13,Cass,North Dakota,38017,935,31
+2020-05-13,Cass,Texas,48067,20,0
+2020-05-14,Cass,Illinois,17017,66,0
+2020-05-14,Cass,Indiana,18017,1548,5
+2020-05-14,Cass,Iowa,19029,1,0
+2020-05-14,Cass,Michigan,26027,46,2
+2020-05-14,Cass,Minnesota,27021,9,2
+2020-05-14,Cass,Missouri,29037,73,8
+2020-05-14,Cass,Nebraska,31025,15,0
+2020-05-14,Cass,North Dakota,38017,991,31
+2020-05-14,Cass,Texas,48067,20,0
+2020-05-15,Cass,Illinois,17017,67,0
+2020-05-15,Cass,Indiana,18017,1553,6
+2020-05-15,Cass,Iowa,19029,1,0
+2020-05-15,Cass,Michigan,26027,50,2
+2020-05-15,Cass,Minnesota,27021,8,2
+2020-05-15,Cass,Missouri,29037,73,8
+2020-05-15,Cass,Nebraska,31025,15,0
+2020-05-15,Cass,North Dakota,38017,1032,32
+2020-05-15,Cass,Texas,48067,20,0
+2020-05-16,Cass,Illinois,17017,63,0
+2020-05-16,Cass,Indiana,18017,1555,6
+2020-05-16,Cass,Iowa,19029,1,0
+2020-05-16,Cass,Michigan,26027,53,2
+2020-05-16,Cass,Minnesota,27021,9,2
+2020-05-16,Cass,Missouri,29037,74,8
+2020-05-16,Cass,Nebraska,31025,18,0
+2020-05-16,Cass,North Dakota,38017,1106,32
+2020-05-16,Cass,Texas,48067,20,0
+2020-05-17,Cass,Illinois,17017,64,0
+2020-05-17,Cass,Indiana,18017,1555,6
+2020-05-17,Cass,Iowa,19029,2,0
+2020-05-17,Cass,Michigan,26027,59,2
+2020-05-17,Cass,Minnesota,27021,9,2
+2020-05-17,Cass,Missouri,29037,74,8
+2020-05-17,Cass,Nebraska,31025,18,0
+2020-05-17,Cass,North Dakota,38017,1147,33
+2020-05-17,Cass,Texas,48067,20,0
+2020-05-18,Cass,Illinois,17017,64,0
+2020-05-18,Cass,Indiana,18017,1554,6
+2020-05-18,Cass,Iowa,19029,2,0
+2020-05-18,Cass,Michigan,26027,60,2
+2020-05-18,Cass,Minnesota,27021,10,2
+2020-05-18,Cass,Missouri,29037,75,8
+2020-05-18,Cass,Nebraska,31025,21,0
+2020-05-18,Cass,North Dakota,38017,1173,33
+2020-05-18,Cass,Texas,48067,20,0
+2020-05-19,Cass,Illinois,17017,66,0
+2020-05-19,Cass,Indiana,18017,1562,7
+2020-05-19,Cass,Iowa,19029,2,0
+2020-05-19,Cass,Michigan,26027,61,2
+2020-05-19,Cass,Minnesota,27021,11,2
+2020-05-19,Cass,Missouri,29037,75,8
+2020-05-19,Cass,Nebraska,31025,23,0
+2020-05-19,Cass,North Dakota,38017,1229,34
+2020-05-19,Cass,Texas,48067,21,0
+2020-05-20,Cass,Illinois,17017,67,0
+2020-05-20,Cass,Indiana,18017,1566,7
+2020-05-20,Cass,Iowa,19029,4,0
+2020-05-20,Cass,Michigan,26027,66,2
+2020-05-20,Cass,Minnesota,27021,11,2
+2020-05-20,Cass,Missouri,29037,77,8
+2020-05-20,Cass,Nebraska,31025,26,0
+2020-05-20,Cass,North Dakota,38017,1277,38
+2020-05-20,Cass,Texas,48067,21,0
+2020-05-21,Cass,Illinois,17017,68,0
+2020-05-21,Cass,Indiana,18017,1574,7
+2020-05-21,Cass,Iowa,19029,6,0
+2020-05-21,Cass,Michigan,26027,68,2
+2020-05-21,Cass,Minnesota,27021,10,2
+2020-05-21,Cass,Missouri,29037,77,8
+2020-05-21,Cass,Nebraska,31025,27,0
+2020-05-21,Cass,North Dakota,38017,1370,40
+2020-05-21,Cass,Texas,48067,21,0
+2020-05-22,Cass,Illinois,17017,67,0
+2020-05-22,Cass,Indiana,18017,1580,7
+2020-05-22,Cass,Iowa,19029,6,0
+2020-05-22,Cass,Michigan,26027,73,2
+2020-05-22,Cass,Minnesota,27021,10,2
+2020-05-22,Cass,Missouri,29037,77,8
+2020-05-22,Cass,Nebraska,31025,28,0
+2020-05-22,Cass,North Dakota,38017,1442,41
+2020-05-22,Cass,Texas,48067,21,0
+2020-05-23,Cass,Illinois,17017,67,0
+2020-05-23,Cass,Indiana,18017,1581,7
+2020-05-23,Cass,Iowa,19029,6,0
+2020-05-23,Cass,Michigan,26027,76,2
+2020-05-23,Cass,Minnesota,27021,11,3
+2020-05-23,Cass,Missouri,29037,77,8
+2020-05-23,Cass,Nebraska,31025,34,0
+2020-05-23,Cass,North Dakota,38017,1487,41
+2020-05-23,Cass,Texas,48067,21,0
+2020-05-24,Cass,Illinois,17017,67,0
+2020-05-24,Cass,Indiana,18017,1583,7
+2020-05-24,Cass,Iowa,19029,11,0
+2020-05-24,Cass,Michigan,26027,77,2
+2020-05-24,Cass,Minnesota,27021,11,3
+2020-05-24,Cass,Missouri,29037,79,8
+2020-05-24,Cass,Nebraska,31025,37,0
+2020-05-24,Cass,North Dakota,38017,1528,42
+2020-05-24,Cass,Texas,48067,21,0
+2020-05-25,Cass,Illinois,17017,67,0
+2020-05-25,Cass,Indiana,18017,1584,7
+2020-05-25,Cass,Iowa,19029,11,0
+2020-05-25,Cass,Michigan,26027,77,2
+2020-05-25,Cass,Minnesota,27021,11,2
+2020-05-25,Cass,Missouri,29037,80,8
+2020-05-25,Cass,Nebraska,31025,38,0
+2020-05-25,Cass,North Dakota,38017,1564,43
+2020-05-25,Cass,Texas,48067,21,0
+2020-05-26,Cass,Illinois,17017,67,0
+2020-05-26,Cass,Indiana,18017,1584,7
+2020-05-26,Cass,Iowa,19029,11,0
+2020-05-26,Cass,Michigan,26027,78,2
+2020-05-26,Cass,Minnesota,27021,11,2
+2020-05-26,Cass,Missouri,29037,82,8
+2020-05-26,Cass,Nebraska,31025,39,0
+2020-05-26,Cass,North Dakota,38017,1580,43
+2020-05-26,Cass,Texas,48067,23,0
+2020-05-27,Cass,Illinois,17017,68,0
+2020-05-27,Cass,Indiana,18017,1588,8
+2020-05-27,Cass,Iowa,19029,11,0
+2020-05-27,Cass,Michigan,26027,79,2
+2020-05-27,Cass,Minnesota,27021,12,2
+2020-05-27,Cass,Missouri,29037,83,8
+2020-05-27,Cass,Nebraska,31025,40,0
+2020-05-27,Cass,North Dakota,38017,1596,45
+2020-05-27,Cass,Texas,48067,25,0
+2020-05-28,Cass,Illinois,17017,69,0
+2020-05-28,Cass,Indiana,18017,1591,8
+2020-05-28,Cass,Iowa,19029,11,0
+2020-05-28,Cass,Michigan,26027,80,2
+2020-05-28,Cass,Minnesota,27021,13,2
+2020-05-28,Cass,Missouri,29037,85,8
+2020-05-28,Cass,Nebraska,31025,42,0
+2020-05-28,Cass,North Dakota,38017,1632,46
+2020-05-28,Cass,Texas,48067,29,0
+2020-05-29,Cass,Illinois,17017,71,0
+2020-05-29,Cass,Indiana,18017,1591,8
+2020-05-29,Cass,Iowa,19029,12,0
+2020-05-29,Cass,Michigan,26027,80,3
+2020-05-29,Cass,Minnesota,27021,13,2
+2020-05-29,Cass,Missouri,29037,86,8
+2020-05-29,Cass,Nebraska,31025,46,0
+2020-05-29,Cass,North Dakota,38017,1661,48
+2020-05-29,Cass,Texas,48067,29,0
+2020-05-30,Cass,Illinois,17017,73,0
+2020-05-30,Cass,Indiana,18017,1589,8
+2020-05-30,Cass,Iowa,19029,12,0
+2020-05-30,Cass,Michigan,26027,82,3
+2020-05-30,Cass,Minnesota,27021,13,2
+2020-05-30,Cass,Missouri,29037,89,8
+2020-05-30,Cass,Nebraska,31025,47,0
+2020-05-30,Cass,North Dakota,38017,1685,49
+2020-05-30,Cass,Texas,48067,29,0
+2020-05-31,Cass,Illinois,17017,73,0
+2020-05-31,Cass,Indiana,18017,1589,8
+2020-05-31,Cass,Iowa,19029,12,0
+2020-05-31,Cass,Michigan,26027,83,3
+2020-05-31,Cass,Minnesota,27021,14,2
+2020-05-31,Cass,Missouri,29037,90,8
+2020-05-31,Cass,Nebraska,31025,50,0
+2020-05-31,Cass,North Dakota,38017,1705,50
+2020-05-31,Cass,Texas,48067,29,0
+2020-06-01,Cass,Illinois,17017,73,0
+2020-06-01,Cass,Indiana,18017,1589,8
+2020-06-01,Cass,Iowa,19029,12,0
+2020-06-01,Cass,Michigan,26027,82,3
+2020-06-01,Cass,Minnesota,27021,14,2
+2020-06-01,Cass,Missouri,29037,93,8
+2020-06-01,Cass,Nebraska,31025,51,0
+2020-06-01,Cass,North Dakota,38017,1744,50
+2020-06-01,Cass,Texas,48067,29,0
+2020-06-02,Cass,Illinois,17017,74,0
+2020-06-02,Cass,Indiana,18017,1594,8
+2020-06-02,Cass,Iowa,19029,12,0
+2020-06-02,Cass,Michigan,26027,83,3
+2020-06-02,Cass,Minnesota,27021,13,2
+2020-06-02,Cass,Missouri,29037,96,8
+2020-06-02,Cass,Nebraska,31025,53,0
+2020-06-02,Cass,North Dakota,38017,1762,54
+2020-06-02,Cass,Texas,48067,30,0
+2020-06-03,Cass,Illinois,17017,74,0
+2020-06-03,Cass,Indiana,18017,1594,8
+2020-06-03,Cass,Iowa,19029,12,0
+2020-06-03,Cass,Michigan,26027,84,3
+2020-06-03,Cass,Minnesota,27021,12,2
+2020-06-03,Cass,Missouri,29037,97,8
+2020-06-03,Cass,Nebraska,31025,53,0
+2020-06-03,Cass,North Dakota,38017,1783,55
+2020-06-03,Cass,Texas,48067,30,1
+2020-06-04,Cass,Illinois,17017,74,0
+2020-06-04,Cass,Indiana,18017,1594,8
+2020-06-04,Cass,Iowa,19029,12,0
+2020-06-04,Cass,Michigan,26027,85,3
+2020-06-04,Cass,Minnesota,27021,11,2
+2020-06-04,Cass,Missouri,29037,100,8
+2020-06-04,Cass,Nebraska,31025,53,0
+2020-06-04,Cass,North Dakota,38017,1803,55
+2020-06-04,Cass,Texas,48067,30,1
+2020-06-05,Cass,Illinois,17017,76,0
+2020-06-05,Cass,Indiana,18017,1594,10
+2020-06-05,Cass,Iowa,19029,13,0
+2020-06-05,Cass,Michigan,26027,101,3
+2020-06-05,Cass,Minnesota,27021,11,2
+2020-06-05,Cass,Missouri,29037,99,8
+2020-06-05,Cass,Nebraska,31025,54,0
+2020-06-05,Cass,North Dakota,38017,1834,59
+2020-06-05,Cass,Texas,48067,30,1
+2020-06-06,Cass,Illinois,17017,73,0
+2020-06-06,Cass,Indiana,18017,1595,10
+2020-06-06,Cass,Iowa,19029,13,0
+2020-06-06,Cass,Michigan,26027,104,3
+2020-06-06,Cass,Minnesota,27021,11,2
+2020-06-06,Cass,Missouri,29037,102,8
+2020-06-06,Cass,Nebraska,31025,54,0
+2020-06-06,Cass,North Dakota,38017,1880,60
+2020-06-06,Cass,Texas,48067,31,1
+2020-06-07,Cass,Illinois,17017,73,0
+2020-06-07,Cass,Indiana,18017,1596,10
+2020-06-07,Cass,Iowa,19029,13,0
+2020-06-07,Cass,Michigan,26027,106,3
+2020-06-07,Cass,Minnesota,27021,11,2
+2020-06-07,Cass,Missouri,29037,102,8
+2020-06-07,Cass,Nebraska,31025,55,0
+2020-06-07,Cass,North Dakota,38017,1911,60
+2020-06-07,Cass,Texas,48067,31,1
+2020-06-08,Cass,Illinois,17017,74,0
+2020-06-08,Cass,Indiana,18017,1596,10
+2020-06-08,Cass,Iowa,19029,13,0
+2020-06-08,Cass,Michigan,26027,108,4
+2020-06-08,Cass,Minnesota,27021,12,2
+2020-06-08,Cass,Missouri,29037,104,8
+2020-06-08,Cass,Nebraska,31025,55,0
+2020-06-08,Cass,North Dakota,38017,1917,60
+2020-06-08,Cass,Texas,48067,31,1
+2020-06-09,Cass,Illinois,17017,74,0
+2020-06-09,Cass,Indiana,18017,1596,10
+2020-06-09,Cass,Iowa,19029,13,0
+2020-06-09,Cass,Michigan,26027,108,4
+2020-06-09,Cass,Minnesota,27021,12,2
+2020-06-09,Cass,Missouri,29037,105,8
+2020-06-09,Cass,Nebraska,31025,57,0
+2020-06-09,Cass,North Dakota,38017,1930,60
+2020-06-09,Cass,Texas,48067,32,1
+2020-06-10,Cass,Illinois,17017,74,0
+2020-06-10,Cass,Indiana,18017,1595,10
+2020-06-10,Cass,Iowa,19029,13,0
+2020-06-10,Cass,Michigan,26027,110,4
+2020-06-10,Cass,Minnesota,27021,11,2
+2020-06-10,Cass,Missouri,29037,108,8
+2020-06-10,Cass,Nebraska,31025,58,0
+2020-06-10,Cass,North Dakota,38017,1958,61
+2020-06-10,Cass,Texas,48067,32,1
+2020-06-11,Cass,Illinois,17017,75,0
+2020-06-11,Cass,Indiana,18017,1595,10
+2020-06-11,Cass,Iowa,19029,13,0
+2020-06-11,Cass,Michigan,26027,112,4
+2020-06-11,Cass,Minnesota,27021,11,2
+2020-06-11,Cass,Missouri,29037,110,8
+2020-06-11,Cass,Nebraska,31025,59,0
+2020-06-11,Cass,North Dakota,38017,1984,62
+2020-06-11,Cass,Texas,48067,33,1
+2020-06-12,Cass,Illinois,17017,77,0
+2020-06-12,Cass,Indiana,18017,1599,10
+2020-06-12,Cass,Iowa,19029,13,0
+2020-06-12,Cass,Michigan,26027,114,4
+2020-06-12,Cass,Minnesota,27021,11,2
+2020-06-12,Cass,Missouri,29037,111,8
+2020-06-12,Cass,Nebraska,31025,59,0
+2020-06-12,Cass,North Dakota,38017,2006,62
+2020-06-12,Cass,Texas,48067,34,1
+2020-06-13,Cass,Illinois,17017,75,0
+2020-06-13,Cass,Indiana,18017,1600,10
+2020-06-13,Cass,Iowa,19029,14,0
+2020-06-13,Cass,Michigan,26027,114,4
+2020-06-13,Cass,Minnesota,27021,11,2
+2020-06-13,Cass,Missouri,29037,111,8
+2020-06-13,Cass,Nebraska,31025,60,0
+2020-06-13,Cass,North Dakota,38017,2037,62
+2020-06-13,Cass,Texas,48067,34,1
+2020-06-14,Cass,Illinois,17017,76,0
+2020-06-14,Cass,Indiana,18017,1604,10
+2020-06-14,Cass,Iowa,19029,14,0
+2020-06-14,Cass,Michigan,26027,115,4
+2020-06-14,Cass,Minnesota,27021,11,2
+2020-06-14,Cass,Missouri,29037,111,8
+2020-06-14,Cass,Nebraska,31025,60,0
+2020-06-14,Cass,North Dakota,38017,2044,62
+2020-06-14,Cass,Texas,48067,34,2
+2020-06-15,Cass,Illinois,17017,76,0
+2020-06-15,Cass,Indiana,18017,1609,10
+2020-06-15,Cass,Iowa,19029,14,0
+2020-06-15,Cass,Michigan,26027,115,4
+2020-06-15,Cass,Minnesota,27021,11,2
+2020-06-15,Cass,Missouri,29037,114,8
+2020-06-15,Cass,Nebraska,31025,60,0
+2020-06-15,Cass,North Dakota,38017,2058,62
+2020-06-15,Cass,Texas,48067,34,2
+2020-06-16,Cass,Illinois,17017,76,0
+2020-06-16,Cass,Indiana,18017,1611,10
+2020-06-16,Cass,Iowa,19029,14,0
+2020-06-16,Cass,Michigan,26027,116,4
+2020-06-16,Cass,Minnesota,27021,11,2
+2020-06-16,Cass,Missouri,29037,115,8
+2020-06-16,Cass,Nebraska,31025,59,0
+2020-06-16,Cass,North Dakota,38017,2067,62
+2020-06-16,Cass,Texas,48067,34,2
+2020-06-17,Cass,Illinois,17017,78,0
+2020-06-17,Cass,Indiana,18017,1611,10
+2020-06-17,Cass,Iowa,19029,14,0
+2020-06-17,Cass,Michigan,26027,118,4
+2020-06-17,Cass,Minnesota,27021,11,2
+2020-06-17,Cass,Missouri,29037,111,8
+2020-06-17,Cass,Nebraska,31025,59,0
+2020-06-17,Cass,North Dakota,38017,2084,62
+2020-06-17,Cass,Texas,48067,35,2
+2020-06-18,Cass,Illinois,17017,79,0
+2020-06-18,Cass,Indiana,18017,1612,10
+2020-06-18,Cass,Iowa,19029,16,0
+2020-06-18,Cass,Michigan,26027,119,4
+2020-06-18,Cass,Minnesota,27021,12,2
+2020-06-18,Cass,Missouri,29037,114,8
+2020-06-18,Cass,Nebraska,31025,60,0
+2020-06-18,Cass,North Dakota,38017,2091,63
+2020-06-18,Cass,Texas,48067,36,2
+2020-06-19,Cass,Illinois,17017,100,0
+2020-06-19,Cass,Indiana,18017,1616,10
+2020-06-19,Cass,Iowa,19029,16,0
+2020-06-19,Cass,Michigan,26027,119,4
+2020-06-19,Cass,Minnesota,27021,12,2
+2020-06-19,Cass,Missouri,29037,115,8
+2020-06-19,Cass,Nebraska,31025,60,0
+2020-06-19,Cass,North Dakota,38017,2104,64
+2020-06-19,Cass,Texas,48067,36,2
+2020-06-20,Cass,Illinois,17017,99,0
+2020-06-20,Cass,Indiana,18017,1627,10
+2020-06-20,Cass,Iowa,19029,16,0
+2020-06-20,Cass,Michigan,26027,121,4
+2020-06-20,Cass,Minnesota,27021,12,2
+2020-06-20,Cass,Missouri,29037,116,8
+2020-06-20,Cass,Nebraska,31025,61,0
+2020-06-20,Cass,North Dakota,38017,2118,64
+2020-06-20,Cass,Texas,48067,36,2
+2020-06-21,Cass,Illinois,17017,100,0
+2020-06-21,Cass,Indiana,18017,1628,10
+2020-06-21,Cass,Iowa,19029,16,0
+2020-06-21,Cass,Michigan,26027,122,4
+2020-06-21,Cass,Minnesota,27021,12,2
+2020-06-21,Cass,Missouri,29037,116,8
+2020-06-21,Cass,Nebraska,31025,61,0
+2020-06-21,Cass,North Dakota,38017,2138,64
+2020-06-21,Cass,Texas,48067,36,2
+2020-06-22,Cass,Illinois,17017,100,0
+2020-06-22,Cass,Indiana,18017,1628,10
+2020-06-22,Cass,Iowa,19029,16,0
+2020-06-22,Cass,Michigan,26027,124,4
+2020-06-22,Cass,Minnesota,27021,12,2
+2020-06-22,Cass,Missouri,29037,116,8
+2020-06-22,Cass,Nebraska,31025,61,0
+2020-06-22,Cass,North Dakota,38017,2143,64
+2020-06-22,Cass,Texas,48067,36,2
+2020-06-23,Cass,Illinois,17017,100,0
+2020-06-23,Cass,Indiana,18017,1628,10
+2020-06-23,Cass,Iowa,19029,16,0
+2020-06-23,Cass,Michigan,26027,126,4
+2020-06-23,Cass,Minnesota,27021,11,2
+2020-06-23,Cass,Missouri,29037,117,8
+2020-06-23,Cass,Nebraska,31025,61,0
+2020-06-23,Cass,North Dakota,38017,2146,65
+2020-06-23,Cass,Texas,48067,36,2
+2020-06-24,Cass,Illinois,17017,117,0
+2020-06-24,Cass,Indiana,18017,1628,10
+2020-06-24,Cass,Iowa,19029,16,0
+2020-06-24,Cass,Michigan,26027,126,4
+2020-06-24,Cass,Minnesota,27021,11,2
+2020-06-24,Cass,Missouri,29037,119,8
+2020-06-24,Cass,Nebraska,31025,62,0
+2020-06-24,Cass,North Dakota,38017,2165,65
+2020-06-24,Cass,Texas,48067,36,2
+2020-06-25,Cass,Illinois,17017,119,0
+2020-06-25,Cass,Indiana,18017,1632,10
+2020-06-25,Cass,Iowa,19029,16,0
+2020-06-25,Cass,Michigan,26027,131,4
+2020-06-25,Cass,Minnesota,27021,11,2
+2020-06-25,Cass,Missouri,29037,123,8
+2020-06-25,Cass,Nebraska,31025,63,0
+2020-06-25,Cass,North Dakota,38017,2171,65
+2020-06-25,Cass,Texas,48067,37,2
+2020-06-26,Cass,Illinois,17017,121,1
+2020-06-26,Cass,Indiana,18017,1641,10
+2020-06-26,Cass,Iowa,19029,16,0
+2020-06-26,Cass,Michigan,26027,134,4
+2020-06-26,Cass,Minnesota,27021,11,2
+2020-06-26,Cass,Missouri,29037,127,9
+2020-06-26,Cass,Nebraska,31025,64,0
+2020-06-26,Cass,North Dakota,38017,2181,65
+2020-06-26,Cass,Texas,48067,37,2
+2020-06-27,Cass,Illinois,17017,127,1
+2020-06-27,Cass,Indiana,18017,1636,10
+2020-06-27,Cass,Iowa,19029,17,0
+2020-06-27,Cass,Michigan,26027,134,4
+2020-06-27,Cass,Minnesota,27021,11,2
+2020-06-27,Cass,Missouri,29037,134,9
+2020-06-27,Cass,Nebraska,31025,65,1
+2020-06-27,Cass,North Dakota,38017,2193,65
+2020-06-27,Cass,Texas,48067,37,2
+2020-06-28,Cass,Illinois,17017,127,1
+2020-06-28,Cass,Indiana,18017,1638,10
+2020-06-28,Cass,Iowa,19029,17,0
+2020-06-28,Cass,Michigan,26027,136,4
+2020-06-28,Cass,Minnesota,27021,12,2
+2020-06-28,Cass,Missouri,29037,134,9
+2020-06-28,Cass,Nebraska,31025,65,1
+2020-06-28,Cass,North Dakota,38017,2208,66
+2020-06-28,Cass,Texas,48067,37,2
+2020-06-29,Cass,Illinois,17017,129,1
+2020-06-29,Cass,Indiana,18017,1639,10
+2020-06-29,Cass,Iowa,19029,17,0
+2020-06-29,Cass,Michigan,26027,139,5
+2020-06-29,Cass,Minnesota,27021,12,2
+2020-06-29,Cass,Missouri,29037,137,9
+2020-06-29,Cass,Nebraska,31025,66,1
+2020-06-29,Cass,North Dakota,38017,2233,66
+2020-06-29,Cass,Texas,48067,38,2
+2020-06-30,Cass,Illinois,17017,129,2
+2020-06-30,Cass,Indiana,18017,1639,10
+2020-06-30,Cass,Iowa,19029,17,0
+2020-06-30,Cass,Michigan,26027,145,5
+2020-06-30,Cass,Minnesota,27021,13,2
+2020-06-30,Cass,Missouri,29037,143,9
+2020-06-30,Cass,Nebraska,31025,66,1
+2020-06-30,Cass,North Dakota,38017,2245,66
+2020-06-30,Cass,Texas,48067,38,2
+2020-07-01,Cass,Illinois,17017,130,2
+2020-07-01,Cass,Indiana,18017,1639,10
+2020-07-01,Cass,Iowa,19029,17,0
+2020-07-01,Cass,Michigan,26027,149,5
+2020-07-01,Cass,Minnesota,27021,12,2
+2020-07-01,Cass,Missouri,29037,147,9
+2020-07-01,Cass,Nebraska,31025,67,1
+2020-07-01,Cass,North Dakota,38017,2260,66
+2020-07-01,Cass,Texas,48067,41,2
+2020-07-02,Cass,Illinois,17017,133,2
+2020-07-02,Cass,Indiana,18017,1639,10
+2020-07-02,Cass,Iowa,19029,21,0
+2020-07-02,Cass,Michigan,26027,152,5
+2020-07-02,Cass,Minnesota,27021,14,2
+2020-07-02,Cass,Missouri,29037,156,9
+2020-07-02,Cass,Nebraska,31025,68,1
+2020-07-02,Cass,North Dakota,38017,2277,66
+2020-07-02,Cass,Texas,48067,44,2
+2020-07-03,Cass,Illinois,17017,134,6
+2020-07-03,Cass,Indiana,18017,1639,10
+2020-07-03,Cass,Iowa,19029,21,0
+2020-07-03,Cass,Michigan,26027,156,5
+2020-07-03,Cass,Minnesota,27021,15,2
+2020-07-03,Cass,Missouri,29037,162,9
+2020-07-03,Cass,Nebraska,31025,70,1
+2020-07-03,Cass,North Dakota,38017,2295,66
+2020-07-03,Cass,Texas,48067,44,2
+2020-07-04,Cass,Illinois,17017,136,7
+2020-07-04,Cass,Indiana,18017,1641,10
+2020-07-04,Cass,Iowa,19029,22,0
+2020-07-04,Cass,Michigan,26027,160,6
+2020-07-04,Cass,Minnesota,27021,15,2
+2020-07-04,Cass,Missouri,29037,166,9
+2020-07-04,Cass,Nebraska,31025,71,1
+2020-07-04,Cass,North Dakota,38017,2323,66
+2020-07-04,Cass,Texas,48067,51,2
+2020-07-05,Cass,Illinois,17017,136,7
+2020-07-05,Cass,Indiana,18017,1641,10
+2020-07-05,Cass,Iowa,19029,22,0
+2020-07-05,Cass,Michigan,26027,164,6
+2020-07-05,Cass,Minnesota,27021,15,2
+2020-07-05,Cass,Missouri,29037,171,9
+2020-07-05,Cass,Nebraska,31025,71,1
+2020-07-05,Cass,North Dakota,38017,2334,66
+2020-07-05,Cass,Texas,48067,51,2
+2020-07-06,Cass,Illinois,17017,136,7
+2020-07-06,Cass,Indiana,18017,1641,10
+2020-07-06,Cass,Iowa,19029,23,0
+2020-07-06,Cass,Michigan,26027,164,6
+2020-07-06,Cass,Minnesota,27021,16,2
+2020-07-06,Cass,Missouri,29037,185,9
+2020-07-06,Cass,Nebraska,31025,71,1
+2020-07-06,Cass,North Dakota,38017,2351,66
+2020-07-06,Cass,Texas,48067,51,2
+2020-07-07,Cass,Illinois,17017,136,7
+2020-07-07,Cass,Indiana,18017,1642,10
+2020-07-07,Cass,Iowa,19029,24,0
+2020-07-07,Cass,Michigan,26027,172,6
+2020-07-07,Cass,Minnesota,27021,16,2
+2020-07-07,Cass,Missouri,29037,191,9
+2020-07-07,Cass,Nebraska,31025,74,1
+2020-07-07,Cass,North Dakota,38017,2358,69
+2020-07-07,Cass,Texas,48067,51,2
+2020-07-08,Cass,Illinois,17017,136,7
+2020-07-08,Cass,Indiana,18017,1645,10
+2020-07-08,Cass,Iowa,19029,24,0
+2020-07-08,Cass,Michigan,26027,177,6
+2020-07-08,Cass,Minnesota,27021,19,2
+2020-07-08,Cass,Missouri,29037,203,9
+2020-07-08,Cass,Nebraska,31025,76,1
+2020-07-08,Cass,North Dakota,38017,2373,70
+2020-07-08,Cass,Texas,48067,57,3
+2020-07-09,Cass,Illinois,17017,136,7
+2020-07-09,Cass,Indiana,18017,1646,10
+2020-07-09,Cass,Iowa,19029,27,0
+2020-07-09,Cass,Michigan,26027,179,6
+2020-07-09,Cass,Minnesota,27021,19,2
+2020-07-09,Cass,Missouri,29037,214,9
+2020-07-09,Cass,Nebraska,31025,80,1
+2020-07-09,Cass,North Dakota,38017,2402,70
+2020-07-09,Cass,Texas,48067,57,3
+2020-07-10,Cass,Illinois,17017,137,8
+2020-07-10,Cass,Indiana,18017,1647,10
+2020-07-10,Cass,Iowa,19029,27,0
+2020-07-10,Cass,Michigan,26027,182,6
+2020-07-10,Cass,Minnesota,27021,19,2
+2020-07-10,Cass,Missouri,29037,227,9
+2020-07-10,Cass,Nebraska,31025,80,1
+2020-07-10,Cass,North Dakota,38017,2421,70
+2020-07-10,Cass,Texas,48067,57,3
+2020-07-11,Cass,Illinois,17017,138,8
+2020-07-11,Cass,Indiana,18017,1647,10
+2020-07-11,Cass,Iowa,19029,28,0
+2020-07-11,Cass,Michigan,26027,186,6
+2020-07-11,Cass,Minnesota,27021,19,2
+2020-07-11,Cass,Missouri,29037,239,9
+2020-07-11,Cass,Nebraska,31025,84,1
+2020-07-11,Cass,North Dakota,38017,2442,72
+2020-07-11,Cass,Texas,48067,57,3
+2020-07-12,Cass,Illinois,17017,140,9
+2020-07-12,Cass,Indiana,18017,1648,10
+2020-07-12,Cass,Iowa,19029,30,0
+2020-07-12,Cass,Michigan,26027,187,6
+2020-07-12,Cass,Minnesota,27021,19,2
+2020-07-12,Cass,Missouri,29037,250,9
+2020-07-12,Cass,Nebraska,31025,86,1
+2020-07-12,Cass,North Dakota,38017,2464,72
+2020-07-12,Cass,Texas,48067,58,3
+2020-07-13,Cass,Illinois,17017,140,9
+2020-07-13,Cass,Indiana,18017,1651,10
+2020-07-13,Cass,Iowa,19029,30,0
+2020-07-13,Cass,Michigan,26027,193,6
+2020-07-13,Cass,Minnesota,27021,20,2
+2020-07-13,Cass,Missouri,29037,267,9
+2020-07-13,Cass,Nebraska,31025,88,1
+2020-07-13,Cass,North Dakota,38017,2492,72
+2020-07-13,Cass,Texas,48067,62,3

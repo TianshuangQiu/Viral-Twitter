@@ -1,0 +1,663 @@
+2020-03-18,Livingston,New York,36051,1,0
+2020-03-19,Livingston,Louisiana,22063,1,0
+2020-03-19,Livingston,Michigan,26093,3,0
+2020-03-19,Livingston,New York,36051,1,0
+2020-03-20,Livingston,Louisiana,22063,1,0
+2020-03-20,Livingston,Michigan,26093,3,0
+2020-03-20,Livingston,New York,36051,1,0
+2020-03-21,Livingston,Louisiana,22063,2,0
+2020-03-21,Livingston,Michigan,26093,6,0
+2020-03-21,Livingston,New York,36051,2,0
+2020-03-22,Livingston,Illinois,17105,1,0
+2020-03-22,Livingston,Louisiana,22063,2,0
+2020-03-22,Livingston,Michigan,26093,8,0
+2020-03-22,Livingston,New York,36051,2,0
+2020-03-23,Livingston,Illinois,17105,1,0
+2020-03-23,Livingston,Louisiana,22063,5,0
+2020-03-23,Livingston,Michigan,26093,9,0
+2020-03-23,Livingston,New York,36051,3,0
+2020-03-24,Livingston,Illinois,17105,1,0
+2020-03-24,Livingston,Louisiana,22063,6,0
+2020-03-24,Livingston,Michigan,26093,13,0
+2020-03-24,Livingston,New York,36051,3,0
+2020-03-25,Livingston,Illinois,17105,1,0
+2020-03-25,Livingston,Louisiana,22063,6,0
+2020-03-25,Livingston,Michigan,26093,16,1
+2020-03-25,Livingston,New York,36051,3,0
+2020-03-26,Livingston,Illinois,17105,1,0
+2020-03-26,Livingston,Louisiana,22063,11,0
+2020-03-26,Livingston,Michigan,26093,21,1
+2020-03-26,Livingston,New York,36051,3,0
+2020-03-27,Livingston,Illinois,17105,2,0
+2020-03-27,Livingston,Louisiana,22063,11,0
+2020-03-27,Livingston,Michigan,26093,31,1
+2020-03-27,Livingston,New York,36051,3,0
+2020-03-28,Livingston,Illinois,17105,2,0
+2020-03-28,Livingston,Louisiana,22063,12,0
+2020-03-28,Livingston,Michigan,26093,41,2
+2020-03-28,Livingston,New York,36051,5,0
+2020-03-29,Livingston,Illinois,17105,2,0
+2020-03-29,Livingston,Louisiana,22063,15,0
+2020-03-29,Livingston,Michigan,26093,59,2
+2020-03-29,Livingston,New York,36051,10,0
+2020-03-30,Livingston,Illinois,17105,2,0
+2020-03-30,Livingston,Louisiana,22063,16,0
+2020-03-30,Livingston,Michigan,26093,64,2
+2020-03-30,Livingston,Missouri,29117,1,0
+2020-03-30,Livingston,New York,36051,12,0
+2020-03-31,Livingston,Illinois,17105,3,0
+2020-03-31,Livingston,Louisiana,22063,23,0
+2020-03-31,Livingston,Michigan,26093,80,2
+2020-03-31,Livingston,Missouri,29117,1,0
+2020-03-31,Livingston,New York,36051,13,0
+2020-04-01,Livingston,Illinois,17105,5,0
+2020-04-01,Livingston,Louisiana,22063,25,0
+2020-04-01,Livingston,Michigan,26093,101,2
+2020-04-01,Livingston,Missouri,29117,1,0
+2020-04-01,Livingston,New York,36051,14,0
+2020-04-02,Livingston,Illinois,17105,5,0
+2020-04-02,Livingston,Louisiana,22063,33,0
+2020-04-02,Livingston,Michigan,26093,113,2
+2020-04-02,Livingston,Missouri,29117,1,0
+2020-04-02,Livingston,New York,36051,18,1
+2020-04-03,Livingston,Illinois,17105,6,0
+2020-04-03,Livingston,Louisiana,22063,40,1
+2020-04-03,Livingston,Michigan,26093,121,2
+2020-04-03,Livingston,Missouri,29117,1,0
+2020-04-03,Livingston,New York,36051,18,1
+2020-04-04,Livingston,Illinois,17105,6,0
+2020-04-04,Livingston,Louisiana,22063,64,1
+2020-04-04,Livingston,Michigan,26093,129,2
+2020-04-04,Livingston,Missouri,29117,1,0
+2020-04-04,Livingston,New York,36051,18,1
+2020-04-05,Livingston,Illinois,17105,7,0
+2020-04-05,Livingston,Louisiana,22063,67,1
+2020-04-05,Livingston,Michigan,26093,135,2
+2020-04-05,Livingston,Missouri,29117,1,0
+2020-04-05,Livingston,New York,36051,19,1
+2020-04-06,Livingston,Illinois,17105,9,0
+2020-04-06,Livingston,Louisiana,22063,79,1
+2020-04-06,Livingston,Michigan,26093,143,2
+2020-04-06,Livingston,Missouri,29117,1,0
+2020-04-06,Livingston,New York,36051,26,1
+2020-04-07,Livingston,Illinois,17105,10,0
+2020-04-07,Livingston,Louisiana,22063,94,1
+2020-04-07,Livingston,Michigan,26093,155,2
+2020-04-07,Livingston,Missouri,29117,1,0
+2020-04-07,Livingston,New York,36051,28,1
+2020-04-08,Livingston,Illinois,17105,10,0
+2020-04-08,Livingston,Louisiana,22063,99,1
+2020-04-08,Livingston,Michigan,26093,174,2
+2020-04-08,Livingston,Missouri,29117,1,0
+2020-04-08,Livingston,New York,36051,28,0
+2020-04-09,Livingston,Illinois,17105,14,0
+2020-04-09,Livingston,Louisiana,22063,103,1
+2020-04-09,Livingston,Michigan,26093,181,2
+2020-04-09,Livingston,Missouri,29117,1,0
+2020-04-09,Livingston,New York,36051,26,1
+2020-04-10,Livingston,Illinois,17105,14,0
+2020-04-10,Livingston,Louisiana,22063,107,1
+2020-04-10,Livingston,Michigan,26093,196,3
+2020-04-10,Livingston,Missouri,29117,1,0
+2020-04-10,Livingston,New York,36051,29,1
+2020-04-11,Livingston,Illinois,17105,15,0
+2020-04-11,Livingston,Louisiana,22063,109,1
+2020-04-11,Livingston,Michigan,26093,206,3
+2020-04-11,Livingston,Missouri,29117,1,0
+2020-04-11,Livingston,New York,36051,30,1
+2020-04-12,Livingston,Illinois,17105,16,0
+2020-04-12,Livingston,Louisiana,22063,120,1
+2020-04-12,Livingston,Michigan,26093,209,4
+2020-04-12,Livingston,Missouri,29117,1,0
+2020-04-12,Livingston,New York,36051,30,1
+2020-04-13,Livingston,Illinois,17105,17,0
+2020-04-13,Livingston,Louisiana,22063,122,3
+2020-04-13,Livingston,Michigan,26093,225,5
+2020-04-13,Livingston,Missouri,29117,1,0
+2020-04-13,Livingston,New York,36051,30,1
+2020-04-14,Livingston,Illinois,17105,17,0
+2020-04-14,Livingston,Kentucky,21139,1,0
+2020-04-14,Livingston,Louisiana,22063,129,4
+2020-04-14,Livingston,Michigan,26093,238,6
+2020-04-14,Livingston,Missouri,29117,2,0
+2020-04-14,Livingston,New York,36051,31,1
+2020-04-15,Livingston,Illinois,17105,17,0
+2020-04-15,Livingston,Kentucky,21139,1,0
+2020-04-15,Livingston,Louisiana,22063,133,5
+2020-04-15,Livingston,Michigan,26093,260,7
+2020-04-15,Livingston,Missouri,29117,2,0
+2020-04-15,Livingston,New York,36051,31,1
+2020-04-16,Livingston,Illinois,17105,17,0
+2020-04-16,Livingston,Kentucky,21139,1,0
+2020-04-16,Livingston,Louisiana,22063,136,5
+2020-04-16,Livingston,Michigan,26093,269,9
+2020-04-16,Livingston,Missouri,29117,2,0
+2020-04-16,Livingston,New York,36051,32,1
+2020-04-17,Livingston,Illinois,17105,18,0
+2020-04-17,Livingston,Kentucky,21139,1,0
+2020-04-17,Livingston,Louisiana,22063,142,7
+2020-04-17,Livingston,Michigan,26093,275,9
+2020-04-17,Livingston,Missouri,29117,2,0
+2020-04-17,Livingston,New York,36051,34,1
+2020-04-18,Livingston,Illinois,17105,17,0
+2020-04-18,Livingston,Kentucky,21139,1,0
+2020-04-18,Livingston,Louisiana,22063,144,8
+2020-04-18,Livingston,Michigan,26093,282,10
+2020-04-18,Livingston,Missouri,29117,2,0
+2020-04-18,Livingston,New York,36051,37,1
+2020-04-19,Livingston,Illinois,17105,17,0
+2020-04-19,Livingston,Kentucky,21139,1,0
+2020-04-19,Livingston,Louisiana,22063,148,8
+2020-04-19,Livingston,Michigan,26093,285,11
+2020-04-19,Livingston,Missouri,29117,2,0
+2020-04-19,Livingston,New York,36051,39,2
+2020-04-20,Livingston,Illinois,17105,17,1
+2020-04-20,Livingston,Kentucky,21139,1,0
+2020-04-20,Livingston,Louisiana,22063,149,8
+2020-04-20,Livingston,Michigan,26093,294,11
+2020-04-20,Livingston,Missouri,29117,2,0
+2020-04-20,Livingston,New York,36051,39,2
+2020-04-21,Livingston,Illinois,17105,18,1
+2020-04-21,Livingston,Kentucky,21139,1,0
+2020-04-21,Livingston,Louisiana,22063,158,9
+2020-04-21,Livingston,Michigan,26093,307,11
+2020-04-21,Livingston,Missouri,29117,2,0
+2020-04-21,Livingston,New York,36051,39,2
+2020-04-22,Livingston,Illinois,17105,18,1
+2020-04-22,Livingston,Kentucky,21139,1,0
+2020-04-22,Livingston,Louisiana,22063,161,10
+2020-04-22,Livingston,Michigan,26093,314,11
+2020-04-22,Livingston,Missouri,29117,2,0
+2020-04-22,Livingston,New York,36051,39,2
+2020-04-23,Livingston,Illinois,17105,18,1
+2020-04-23,Livingston,Kentucky,21139,1,0
+2020-04-23,Livingston,Louisiana,22063,165,11
+2020-04-23,Livingston,Michigan,26093,318,11
+2020-04-23,Livingston,Missouri,29117,2,0
+2020-04-23,Livingston,New York,36051,41,2
+2020-04-24,Livingston,Illinois,17105,18,1
+2020-04-24,Livingston,Kentucky,21139,1,0
+2020-04-24,Livingston,Louisiana,22063,172,11
+2020-04-24,Livingston,Michigan,26093,319,12
+2020-04-24,Livingston,Missouri,29117,2,0
+2020-04-24,Livingston,New York,36051,44,2
+2020-04-25,Livingston,Illinois,17105,20,1
+2020-04-25,Livingston,Kentucky,21139,1,0
+2020-04-25,Livingston,Louisiana,22063,177,11
+2020-04-25,Livingston,Michigan,26093,322,15
+2020-04-25,Livingston,Missouri,29117,2,0
+2020-04-25,Livingston,New York,36051,58,2
+2020-04-26,Livingston,Illinois,17105,20,1
+2020-04-26,Livingston,Kentucky,21139,1,0
+2020-04-26,Livingston,Louisiana,22063,182,11
+2020-04-26,Livingston,Michigan,26093,322,15
+2020-04-26,Livingston,Missouri,29117,2,0
+2020-04-26,Livingston,New York,36051,60,2
+2020-04-27,Livingston,Illinois,17105,20,1
+2020-04-27,Livingston,Kentucky,21139,4,0
+2020-04-27,Livingston,Louisiana,22063,183,11
+2020-04-27,Livingston,Michigan,26093,327,15
+2020-04-27,Livingston,Missouri,29117,2,0
+2020-04-27,Livingston,New York,36051,62,2
+2020-04-28,Livingston,Illinois,17105,20,1
+2020-04-28,Livingston,Kentucky,21139,4,0
+2020-04-28,Livingston,Louisiana,22063,185,13
+2020-04-28,Livingston,Michigan,26093,334,19
+2020-04-28,Livingston,Missouri,29117,2,0
+2020-04-28,Livingston,New York,36051,65,2
+2020-04-29,Livingston,Illinois,17105,20,1
+2020-04-29,Livingston,Kentucky,21139,4,0
+2020-04-29,Livingston,Louisiana,22063,190,14
+2020-04-29,Livingston,Michigan,26093,343,19
+2020-04-29,Livingston,Missouri,29117,2,0
+2020-04-29,Livingston,New York,36051,67,2
+2020-04-30,Livingston,Illinois,17105,20,1
+2020-04-30,Livingston,Kentucky,21139,4,0
+2020-04-30,Livingston,Louisiana,22063,197,15
+2020-04-30,Livingston,Michigan,26093,345,20
+2020-04-30,Livingston,Missouri,29117,2,0
+2020-04-30,Livingston,New York,36051,69,2
+2020-05-01,Livingston,Illinois,17105,20,1
+2020-05-01,Livingston,Kentucky,21139,5,0
+2020-05-01,Livingston,Louisiana,22063,229,15
+2020-05-01,Livingston,Michigan,26093,351,20
+2020-05-01,Livingston,Missouri,29117,2,0
+2020-05-01,Livingston,New York,36051,73,2
+2020-05-02,Livingston,Illinois,17105,21,1
+2020-05-02,Livingston,Kentucky,21139,5,0
+2020-05-02,Livingston,Louisiana,22063,235,16
+2020-05-02,Livingston,Michigan,26093,360,20
+2020-05-02,Livingston,Missouri,29117,2,0
+2020-05-02,Livingston,New York,36051,76,2
+2020-05-03,Livingston,Illinois,17105,24,1
+2020-05-03,Livingston,Kentucky,21139,6,0
+2020-05-03,Livingston,Louisiana,22063,238,16
+2020-05-03,Livingston,Michigan,26093,369,20
+2020-05-03,Livingston,Missouri,29117,2,0
+2020-05-03,Livingston,New York,36051,83,2
+2020-05-04,Livingston,Illinois,17105,23,1
+2020-05-04,Livingston,Kentucky,21139,6,0
+2020-05-04,Livingston,Louisiana,22063,243,16
+2020-05-04,Livingston,Michigan,26093,364,21
+2020-05-04,Livingston,Missouri,29117,2,0
+2020-05-04,Livingston,New York,36051,85,2
+2020-05-05,Livingston,Illinois,17105,23,1
+2020-05-05,Livingston,Kentucky,21139,6,0
+2020-05-05,Livingston,Louisiana,22063,247,18
+2020-05-05,Livingston,Michigan,26093,370,21
+2020-05-05,Livingston,Missouri,29117,3,0
+2020-05-05,Livingston,New York,36051,86,2
+2020-05-06,Livingston,Illinois,17105,23,1
+2020-05-06,Livingston,Kentucky,21139,6,0
+2020-05-06,Livingston,Louisiana,22063,266,18
+2020-05-06,Livingston,Michigan,26093,374,21
+2020-05-06,Livingston,Missouri,29117,4,0
+2020-05-06,Livingston,New York,36051,89,2
+2020-05-07,Livingston,Illinois,17105,24,1
+2020-05-07,Livingston,Kentucky,21139,6,0
+2020-05-07,Livingston,Louisiana,22063,268,19
+2020-05-07,Livingston,Michigan,26093,376,21
+2020-05-07,Livingston,Missouri,29117,3,0
+2020-05-07,Livingston,New York,36051,95,2
+2020-05-08,Livingston,Illinois,17105,24,1
+2020-05-08,Livingston,Kentucky,21139,6,0
+2020-05-08,Livingston,Louisiana,22063,268,21
+2020-05-08,Livingston,Michigan,26093,382,21
+2020-05-08,Livingston,Missouri,29117,3,0
+2020-05-08,Livingston,New York,36051,100,3
+2020-05-09,Livingston,Illinois,17105,24,1
+2020-05-09,Livingston,Kentucky,21139,6,0
+2020-05-09,Livingston,Louisiana,22063,277,22
+2020-05-09,Livingston,Michigan,26093,383,23
+2020-05-09,Livingston,Missouri,29117,3,0
+2020-05-09,Livingston,New York,36051,101,3
+2020-05-10,Livingston,Illinois,17105,24,1
+2020-05-10,Livingston,Kentucky,21139,6,0
+2020-05-10,Livingston,Louisiana,22063,278,24
+2020-05-10,Livingston,Michigan,26093,384,23
+2020-05-10,Livingston,Missouri,29117,3,0
+2020-05-10,Livingston,New York,36051,102,3
+2020-05-11,Livingston,Illinois,17105,24,1
+2020-05-11,Livingston,Kentucky,21139,6,0
+2020-05-11,Livingston,Louisiana,22063,281,24
+2020-05-11,Livingston,Michigan,26093,384,23
+2020-05-11,Livingston,Missouri,29117,3,0
+2020-05-11,Livingston,New York,36051,102,3
+2020-05-12,Livingston,Illinois,17105,25,1
+2020-05-12,Livingston,Kentucky,21139,7,0
+2020-05-12,Livingston,Louisiana,22063,283,24
+2020-05-12,Livingston,Michigan,26093,385,23
+2020-05-12,Livingston,Missouri,29117,3,0
+2020-05-12,Livingston,New York,36051,102,3
+2020-05-13,Livingston,Illinois,17105,25,1
+2020-05-13,Livingston,Kentucky,21139,7,0
+2020-05-13,Livingston,Louisiana,22063,293,23
+2020-05-13,Livingston,Michigan,26093,386,24
+2020-05-13,Livingston,Missouri,29117,3,0
+2020-05-13,Livingston,New York,36051,103,4
+2020-05-14,Livingston,Illinois,17105,25,1
+2020-05-14,Livingston,Kentucky,21139,7,0
+2020-05-14,Livingston,Louisiana,22063,343,23
+2020-05-14,Livingston,Michigan,26093,388,24
+2020-05-14,Livingston,Missouri,29117,3,0
+2020-05-14,Livingston,New York,36051,106,4
+2020-05-15,Livingston,Illinois,17105,25,1
+2020-05-15,Livingston,Kentucky,21139,7,0
+2020-05-15,Livingston,Louisiana,22063,347,23
+2020-05-15,Livingston,Michigan,26093,389,26
+2020-05-15,Livingston,Missouri,29117,3,0
+2020-05-15,Livingston,New York,36051,106,4
+2020-05-16,Livingston,Illinois,17105,25,1
+2020-05-16,Livingston,Kentucky,21139,7,0
+2020-05-16,Livingston,Louisiana,22063,344,24
+2020-05-16,Livingston,Michigan,26093,391,26
+2020-05-16,Livingston,Missouri,29117,3,0
+2020-05-16,Livingston,New York,36051,107,4
+2020-05-17,Livingston,Illinois,17105,26,1
+2020-05-17,Livingston,Kentucky,21139,7,0
+2020-05-17,Livingston,Louisiana,22063,348,25
+2020-05-17,Livingston,Michigan,26093,393,26
+2020-05-17,Livingston,Missouri,29117,3,0
+2020-05-17,Livingston,New York,36051,110,4
+2020-05-18,Livingston,Illinois,17105,27,1
+2020-05-18,Livingston,Kentucky,21139,7,0
+2020-05-18,Livingston,Louisiana,22063,350,25
+2020-05-18,Livingston,Michigan,26093,394,26
+2020-05-18,Livingston,Missouri,29117,3,0
+2020-05-18,Livingston,New York,36051,110,4
+2020-05-19,Livingston,Illinois,17105,27,1
+2020-05-19,Livingston,Kentucky,21139,7,0
+2020-05-19,Livingston,Louisiana,22063,356,26
+2020-05-19,Livingston,Michigan,26093,393,27
+2020-05-19,Livingston,Missouri,29117,3,0
+2020-05-19,Livingston,New York,36051,111,4
+2020-05-20,Livingston,Illinois,17105,28,1
+2020-05-20,Livingston,Kentucky,21139,7,0
+2020-05-20,Livingston,Louisiana,22063,358,26
+2020-05-20,Livingston,Michigan,26093,395,27
+2020-05-20,Livingston,Missouri,29117,3,0
+2020-05-20,Livingston,New York,36051,111,4
+2020-05-21,Livingston,Illinois,17105,29,2
+2020-05-21,Livingston,Kentucky,21139,8,0
+2020-05-21,Livingston,Louisiana,22063,363,26
+2020-05-21,Livingston,Michigan,26093,397,27
+2020-05-21,Livingston,Missouri,29117,3,0
+2020-05-21,Livingston,New York,36051,114,4
+2020-05-22,Livingston,Illinois,17105,30,2
+2020-05-22,Livingston,Kentucky,21139,8,0
+2020-05-22,Livingston,Louisiana,22063,366,26
+2020-05-22,Livingston,Michigan,26093,398,27
+2020-05-22,Livingston,Missouri,29117,3,0
+2020-05-22,Livingston,New York,36051,114,4
+2020-05-23,Livingston,Illinois,17105,31,2
+2020-05-23,Livingston,Kentucky,21139,8,0
+2020-05-23,Livingston,Louisiana,22063,373,26
+2020-05-23,Livingston,Michigan,26093,398,27
+2020-05-23,Livingston,Missouri,29117,3,0
+2020-05-23,Livingston,New York,36051,114,4
+2020-05-24,Livingston,Illinois,17105,31,2
+2020-05-24,Livingston,Kentucky,21139,8,0
+2020-05-24,Livingston,Louisiana,22063,375,26
+2020-05-24,Livingston,Michigan,26093,399,27
+2020-05-24,Livingston,Missouri,29117,3,0
+2020-05-24,Livingston,New York,36051,114,4
+2020-05-25,Livingston,Illinois,17105,31,2
+2020-05-25,Livingston,Kentucky,21139,8,0
+2020-05-25,Livingston,Louisiana,22063,391,26
+2020-05-25,Livingston,Michigan,26093,399,27
+2020-05-25,Livingston,Missouri,29117,3,0
+2020-05-25,Livingston,New York,36051,115,4
+2020-05-26,Livingston,Illinois,17105,31,2
+2020-05-26,Livingston,Kentucky,21139,8,0
+2020-05-26,Livingston,Louisiana,22063,399,27
+2020-05-26,Livingston,Michigan,26093,400,27
+2020-05-26,Livingston,Missouri,29117,3,0
+2020-05-26,Livingston,New York,36051,118,4
+2020-05-27,Livingston,Illinois,17105,31,2
+2020-05-27,Livingston,Kentucky,21139,9,0
+2020-05-27,Livingston,Louisiana,22063,403,27
+2020-05-27,Livingston,Michigan,26093,399,27
+2020-05-27,Livingston,Missouri,29117,3,0
+2020-05-27,Livingston,New York,36051,118,4
+2020-05-28,Livingston,Illinois,17105,32,2
+2020-05-28,Livingston,Kentucky,21139,9,0
+2020-05-28,Livingston,Louisiana,22063,408,27
+2020-05-28,Livingston,Michigan,26093,399,27
+2020-05-28,Livingston,Missouri,29117,3,0
+2020-05-28,Livingston,New York,36051,118,4
+2020-05-29,Livingston,Illinois,17105,32,2
+2020-05-29,Livingston,Kentucky,21139,9,0
+2020-05-29,Livingston,Louisiana,22063,408,27
+2020-05-29,Livingston,Michigan,26093,403,27
+2020-05-29,Livingston,Missouri,29117,3,0
+2020-05-29,Livingston,New York,36051,118,4
+2020-05-30,Livingston,Illinois,17105,34,2
+2020-05-30,Livingston,Kentucky,21139,9,0
+2020-05-30,Livingston,Louisiana,22063,417,28
+2020-05-30,Livingston,Michigan,26093,403,27
+2020-05-30,Livingston,Missouri,29117,3,0
+2020-05-30,Livingston,New York,36051,118,4
+2020-05-31,Livingston,Illinois,17105,34,2
+2020-05-31,Livingston,Kentucky,21139,9,0
+2020-05-31,Livingston,Louisiana,22063,422,29
+2020-05-31,Livingston,Michigan,26093,403,27
+2020-05-31,Livingston,Missouri,29117,3,0
+2020-05-31,Livingston,New York,36051,119,4
+2020-06-01,Livingston,Illinois,17105,34,2
+2020-06-01,Livingston,Kentucky,21139,9,0
+2020-06-01,Livingston,Louisiana,22063,428,29
+2020-06-01,Livingston,Michigan,26093,514,27
+2020-06-01,Livingston,Missouri,29117,3,0
+2020-06-01,Livingston,New York,36051,119,4
+2020-06-02,Livingston,Illinois,17105,34,2
+2020-06-02,Livingston,Kentucky,21139,9,0
+2020-06-02,Livingston,Louisiana,22063,440,30
+2020-06-02,Livingston,Michigan,26093,531,27
+2020-06-02,Livingston,Missouri,29117,3,0
+2020-06-02,Livingston,New York,36051,119,4
+2020-06-03,Livingston,Illinois,17105,36,2
+2020-06-03,Livingston,Kentucky,21139,9,0
+2020-06-03,Livingston,Louisiana,22063,446,31
+2020-06-03,Livingston,Michigan,26093,540,27
+2020-06-03,Livingston,Missouri,29117,3,0
+2020-06-03,Livingston,New York,36051,120,4
+2020-06-04,Livingston,Illinois,17105,36,2
+2020-06-04,Livingston,Kentucky,21139,9,0
+2020-06-04,Livingston,Louisiana,22063,453,31
+2020-06-04,Livingston,Michigan,26093,547,27
+2020-06-04,Livingston,Missouri,29117,3,0
+2020-06-04,Livingston,New York,36051,120,4
+2020-06-05,Livingston,Illinois,17105,36,2
+2020-06-05,Livingston,Kentucky,21139,9,0
+2020-06-05,Livingston,Louisiana,22063,458,31
+2020-06-05,Livingston,Michigan,26093,555,28
+2020-06-05,Livingston,Missouri,29117,4,0
+2020-06-05,Livingston,New York,36051,121,4
+2020-06-06,Livingston,Illinois,17105,36,2
+2020-06-06,Livingston,Kentucky,21139,9,0
+2020-06-06,Livingston,Louisiana,22063,460,31
+2020-06-06,Livingston,Michigan,26093,555,29
+2020-06-06,Livingston,Missouri,29117,5,0
+2020-06-06,Livingston,New York,36051,121,4
+2020-06-07,Livingston,Illinois,17105,36,2
+2020-06-07,Livingston,Kentucky,21139,9,0
+2020-06-07,Livingston,Louisiana,22063,464,31
+2020-06-07,Livingston,Michigan,26093,555,29
+2020-06-07,Livingston,Missouri,29117,5,0
+2020-06-07,Livingston,New York,36051,121,4
+2020-06-08,Livingston,Illinois,17105,36,2
+2020-06-08,Livingston,Kentucky,21139,9,0
+2020-06-08,Livingston,Louisiana,22063,468,31
+2020-06-08,Livingston,Michigan,26093,563,29
+2020-06-08,Livingston,Missouri,29117,4,0
+2020-06-08,Livingston,New York,36051,121,4
+2020-06-09,Livingston,Illinois,17105,36,2
+2020-06-09,Livingston,Kentucky,21139,9,0
+2020-06-09,Livingston,Louisiana,22063,481,31
+2020-06-09,Livingston,Michigan,26093,566,29
+2020-06-09,Livingston,Missouri,29117,4,0
+2020-06-09,Livingston,New York,36051,121,4
+2020-06-10,Livingston,Illinois,17105,36,2
+2020-06-10,Livingston,Kentucky,21139,9,0
+2020-06-10,Livingston,Louisiana,22063,484,31
+2020-06-10,Livingston,Michigan,26093,567,29
+2020-06-10,Livingston,Missouri,29117,4,0
+2020-06-10,Livingston,New York,36051,121,4
+2020-06-11,Livingston,Illinois,17105,36,2
+2020-06-11,Livingston,Kentucky,21139,9,0
+2020-06-11,Livingston,Louisiana,22063,495,31
+2020-06-11,Livingston,Michigan,26093,567,29
+2020-06-11,Livingston,Missouri,29117,4,0
+2020-06-11,Livingston,New York,36051,121,4
+2020-06-12,Livingston,Illinois,17105,36,2
+2020-06-12,Livingston,Kentucky,21139,9,0
+2020-06-12,Livingston,Louisiana,22063,514,31
+2020-06-12,Livingston,Michigan,26093,568,29
+2020-06-12,Livingston,Missouri,29117,4,0
+2020-06-12,Livingston,New York,36051,121,4
+2020-06-13,Livingston,Illinois,17105,37,2
+2020-06-13,Livingston,Kentucky,21139,9,0
+2020-06-13,Livingston,Louisiana,22063,525,31
+2020-06-13,Livingston,Michigan,26093,568,29
+2020-06-13,Livingston,Missouri,29117,7,0
+2020-06-13,Livingston,New York,36051,122,4
+2020-06-14,Livingston,Illinois,17105,39,2
+2020-06-14,Livingston,Kentucky,21139,9,0
+2020-06-14,Livingston,Louisiana,22063,526,32
+2020-06-14,Livingston,Michigan,26093,568,29
+2020-06-14,Livingston,Missouri,29117,7,0
+2020-06-14,Livingston,New York,36051,123,4
+2020-06-15,Livingston,Illinois,17105,37,2
+2020-06-15,Livingston,Kentucky,21139,9,0
+2020-06-15,Livingston,Louisiana,22063,546,32
+2020-06-15,Livingston,Michigan,26093,570,29
+2020-06-15,Livingston,Missouri,29117,6,0
+2020-06-15,Livingston,New York,36051,123,4
+2020-06-16,Livingston,Illinois,17105,35,2
+2020-06-16,Livingston,Kentucky,21139,9,0
+2020-06-16,Livingston,Louisiana,22063,561,33
+2020-06-16,Livingston,Michigan,26093,572,29
+2020-06-16,Livingston,Missouri,29117,6,0
+2020-06-16,Livingston,New York,36051,123,4
+2020-06-17,Livingston,Illinois,17105,35,2
+2020-06-17,Livingston,Kentucky,21139,9,0
+2020-06-17,Livingston,Louisiana,22063,573,33
+2020-06-17,Livingston,Michigan,26093,574,29
+2020-06-17,Livingston,Missouri,29117,6,0
+2020-06-17,Livingston,New York,36051,123,4
+2020-06-18,Livingston,Illinois,17105,35,2
+2020-06-18,Livingston,Kentucky,21139,8,0
+2020-06-18,Livingston,Louisiana,22063,573,33
+2020-06-18,Livingston,Michigan,26093,576,29
+2020-06-18,Livingston,Missouri,29117,6,0
+2020-06-18,Livingston,New York,36051,123,4
+2020-06-19,Livingston,Illinois,17105,36,2
+2020-06-19,Livingston,Kentucky,21139,8,0
+2020-06-19,Livingston,Louisiana,22063,638,34
+2020-06-19,Livingston,Michigan,26093,582,29
+2020-06-19,Livingston,Missouri,29117,6,0
+2020-06-19,Livingston,New York,36051,123,4
+2020-06-20,Livingston,Illinois,17105,37,2
+2020-06-20,Livingston,Kentucky,21139,8,0
+2020-06-20,Livingston,Louisiana,22063,669,35
+2020-06-20,Livingston,Michigan,26093,582,29
+2020-06-20,Livingston,Missouri,29117,6,0
+2020-06-20,Livingston,New York,36051,123,4
+2020-06-21,Livingston,Illinois,17105,37,2
+2020-06-21,Livingston,Kentucky,21139,8,0
+2020-06-21,Livingston,Louisiana,22063,683,35
+2020-06-21,Livingston,Michigan,26093,582,29
+2020-06-21,Livingston,Missouri,29117,7,0
+2020-06-21,Livingston,New York,36051,123,4
+2020-06-22,Livingston,Illinois,17105,37,2
+2020-06-22,Livingston,Kentucky,21139,8,0
+2020-06-22,Livingston,Louisiana,22063,690,36
+2020-06-22,Livingston,Michigan,26093,591,29
+2020-06-22,Livingston,Missouri,29117,7,0
+2020-06-22,Livingston,New York,36051,124,4
+2020-06-23,Livingston,Illinois,17105,38,2
+2020-06-23,Livingston,Kentucky,21139,8,0
+2020-06-23,Livingston,Louisiana,22063,751,36
+2020-06-23,Livingston,Michigan,26093,594,29
+2020-06-23,Livingston,Missouri,29117,7,0
+2020-06-23,Livingston,New York,36051,125,4
+2020-06-24,Livingston,Illinois,17105,40,2
+2020-06-24,Livingston,Kentucky,21139,8,0
+2020-06-24,Livingston,Louisiana,22063,768,36
+2020-06-24,Livingston,Michigan,26093,596,29
+2020-06-24,Livingston,Missouri,29117,10,0
+2020-06-24,Livingston,New York,36051,125,4
+2020-06-25,Livingston,Illinois,17105,40,2
+2020-06-25,Livingston,Kentucky,21139,8,0
+2020-06-25,Livingston,Louisiana,22063,794,36
+2020-06-25,Livingston,Michigan,26093,599,29
+2020-06-25,Livingston,Missouri,29117,10,0
+2020-06-25,Livingston,New York,36051,126,4
+2020-06-26,Livingston,Illinois,17105,42,2
+2020-06-26,Livingston,Kentucky,21139,9,0
+2020-06-26,Livingston,Louisiana,22063,814,37
+2020-06-26,Livingston,Michigan,26093,602,29
+2020-06-26,Livingston,Missouri,29117,11,0
+2020-06-26,Livingston,New York,36051,126,4
+2020-06-27,Livingston,Illinois,17105,42,2
+2020-06-27,Livingston,Kentucky,21139,9,0
+2020-06-27,Livingston,Louisiana,22063,814,37
+2020-06-27,Livingston,Michigan,26093,602,29
+2020-06-27,Livingston,Missouri,29117,11,0
+2020-06-27,Livingston,New York,36051,126,4
+2020-06-28,Livingston,Illinois,17105,43,2
+2020-06-28,Livingston,Kentucky,21139,10,0
+2020-06-28,Livingston,Louisiana,22063,846,37
+2020-06-28,Livingston,Michigan,26093,602,29
+2020-06-28,Livingston,Missouri,29117,11,0
+2020-06-28,Livingston,New York,36051,128,4
+2020-06-29,Livingston,Illinois,17105,43,2
+2020-06-29,Livingston,Kentucky,21139,10,0
+2020-06-29,Livingston,Louisiana,22063,860,37
+2020-06-29,Livingston,Michigan,26093,617,29
+2020-06-29,Livingston,Missouri,29117,12,0
+2020-06-29,Livingston,New York,36051,128,4
+2020-06-30,Livingston,Illinois,17105,43,2
+2020-06-30,Livingston,Kentucky,21139,10,0
+2020-06-30,Livingston,Louisiana,22063,903,37
+2020-06-30,Livingston,Michigan,26093,620,29
+2020-06-30,Livingston,Missouri,29117,12,0
+2020-06-30,Livingston,New York,36051,129,4
+2020-07-01,Livingston,Illinois,17105,45,2
+2020-07-01,Livingston,Kentucky,21139,10,0
+2020-07-01,Livingston,Louisiana,22063,983,38
+2020-07-01,Livingston,Michigan,26093,628,29
+2020-07-01,Livingston,Missouri,29117,13,0
+2020-07-01,Livingston,New York,36051,130,4
+2020-07-02,Livingston,Illinois,17105,47,2
+2020-07-02,Livingston,Kentucky,21139,10,0
+2020-07-02,Livingston,Louisiana,22063,1025,38
+2020-07-02,Livingston,Michigan,26093,633,29
+2020-07-02,Livingston,Missouri,29117,13,0
+2020-07-02,Livingston,New York,36051,130,4
+2020-07-03,Livingston,Illinois,17105,50,2
+2020-07-03,Livingston,Kentucky,21139,10,0
+2020-07-03,Livingston,Louisiana,22063,1102,38
+2020-07-03,Livingston,Michigan,26093,632,29
+2020-07-03,Livingston,Missouri,29117,15,0
+2020-07-03,Livingston,New York,36051,130,4
+2020-07-04,Livingston,Illinois,17105,52,2
+2020-07-04,Livingston,Kentucky,21139,10,0
+2020-07-04,Livingston,Louisiana,22063,1102,38
+2020-07-04,Livingston,Michigan,26093,633,29
+2020-07-04,Livingston,Missouri,29117,16,0
+2020-07-04,Livingston,New York,36051,131,4
+2020-07-05,Livingston,Illinois,17105,52,2
+2020-07-05,Livingston,Kentucky,21139,10,0
+2020-07-05,Livingston,Louisiana,22063,1156,38
+2020-07-05,Livingston,Michigan,26093,633,29
+2020-07-05,Livingston,Missouri,29117,16,0
+2020-07-05,Livingston,New York,36051,132,4
+2020-07-06,Livingston,Illinois,17105,52,2
+2020-07-06,Livingston,Kentucky,21139,10,0
+2020-07-06,Livingston,Louisiana,22063,1181,39
+2020-07-06,Livingston,Michigan,26093,644,29
+2020-07-06,Livingston,Missouri,29117,20,0
+2020-07-06,Livingston,New York,36051,133,4
+2020-07-07,Livingston,Illinois,17105,53,2
+2020-07-07,Livingston,Kentucky,21139,11,0
+2020-07-07,Livingston,Louisiana,22063,1267,39
+2020-07-07,Livingston,Michigan,26093,649,29
+2020-07-07,Livingston,Missouri,29117,21,0
+2020-07-07,Livingston,New York,36051,134,4
+2020-07-08,Livingston,Illinois,17105,53,2
+2020-07-08,Livingston,Kentucky,21139,13,0
+2020-07-08,Livingston,Louisiana,22063,1305,40
+2020-07-08,Livingston,Michigan,26093,652,29
+2020-07-08,Livingston,Missouri,29117,21,0
+2020-07-08,Livingston,New York,36051,137,4
+2020-07-09,Livingston,Illinois,17105,54,2
+2020-07-09,Livingston,Kentucky,21139,14,0
+2020-07-09,Livingston,Louisiana,22063,1344,40
+2020-07-09,Livingston,Michigan,26093,656,29
+2020-07-09,Livingston,Missouri,29117,24,0
+2020-07-09,Livingston,New York,36051,140,4
+2020-07-10,Livingston,Illinois,17105,54,2
+2020-07-10,Livingston,Kentucky,21139,14,0
+2020-07-10,Livingston,Louisiana,22063,1424,40
+2020-07-10,Livingston,Michigan,26093,657,29
+2020-07-10,Livingston,Missouri,29117,24,0
+2020-07-10,Livingston,New York,36051,144,4
+2020-07-11,Livingston,Illinois,17105,54,2
+2020-07-11,Livingston,Kentucky,21139,16,0
+2020-07-11,Livingston,Louisiana,22063,1484,40
+2020-07-11,Livingston,Michigan,26093,660,29
+2020-07-11,Livingston,Missouri,29117,25,0
+2020-07-11,Livingston,New York,36051,145,4
+2020-07-12,Livingston,Illinois,17105,55,2
+2020-07-12,Livingston,Kentucky,21139,17,0
+2020-07-12,Livingston,Louisiana,22063,1528,40
+2020-07-12,Livingston,Michigan,26093,663,29
+2020-07-12,Livingston,Missouri,29117,25,0
+2020-07-12,Livingston,New York,36051,147,4
+2020-07-13,Livingston,Illinois,17105,55,2
+2020-07-13,Livingston,Kentucky,21139,19,0
+2020-07-13,Livingston,Louisiana,22063,1565,40
+2020-07-13,Livingston,Michigan,26093,666,29
+2020-07-13,Livingston,Missouri,29117,26,0
+2020-07-13,Livingston,New York,36051,147,4

@@ -1,0 +1,831 @@
+2020-03-02,Fulton,Georgia,13121,2,0
+2020-03-03,Fulton,Georgia,13121,2,0
+2020-03-04,Fulton,Georgia,13121,2,0
+2020-03-05,Fulton,Georgia,13121,2,0
+2020-03-06,Fulton,Georgia,13121,2,0
+2020-03-07,Fulton,Georgia,13121,4,0
+2020-03-08,Fulton,Georgia,13121,5,0
+2020-03-09,Fulton,Georgia,13121,5,0
+2020-03-10,Fulton,Georgia,13121,6,0
+2020-03-11,Fulton,Georgia,13121,6,0
+2020-03-12,Fulton,Georgia,13121,6,0
+2020-03-13,Fulton,Georgia,13121,6,0
+2020-03-14,Fulton,Georgia,13121,13,0
+2020-03-15,Fulton,Georgia,13121,20,0
+2020-03-16,Fulton,Georgia,13121,27,0
+2020-03-17,Fulton,Georgia,13121,33,0
+2020-03-18,Fulton,Georgia,13121,49,0
+2020-03-19,Fulton,Georgia,13121,68,2
+2020-03-20,Fulton,Georgia,13121,95,2
+2020-03-20,Fulton,New York,36035,1,0
+2020-03-21,Fulton,Georgia,13121,100,3
+2020-03-21,Fulton,New York,36035,1,0
+2020-03-22,Fulton,Georgia,13121,111,3
+2020-03-22,Fulton,New York,36035,1,0
+2020-03-23,Fulton,Georgia,13121,152,3
+2020-03-23,Fulton,New York,36035,1,0
+2020-03-24,Fulton,Georgia,13121,191,4
+2020-03-24,Fulton,New York,36035,1,0
+2020-03-25,Fulton,Georgia,13121,204,4
+2020-03-25,Fulton,New York,36035,1,0
+2020-03-26,Fulton,Georgia,13121,231,4
+2020-03-26,Fulton,New York,36035,1,0
+2020-03-27,Fulton,Georgia,13121,347,12
+2020-03-27,Fulton,Indiana,18049,1,0
+2020-03-27,Fulton,New York,36035,1,0
+2020-03-27,Fulton,Ohio,39051,2,0
+2020-03-28,Fulton,Georgia,13121,378,13
+2020-03-28,Fulton,Indiana,18049,1,0
+2020-03-28,Fulton,New York,36035,1,0
+2020-03-28,Fulton,Ohio,39051,2,0
+2020-03-29,Fulton,Georgia,13121,425,12
+2020-03-29,Fulton,Indiana,18049,1,0
+2020-03-29,Fulton,New York,36035,1,0
+2020-03-29,Fulton,Ohio,39051,2,0
+2020-03-30,Fulton,Georgia,13121,503,16
+2020-03-30,Fulton,Indiana,18049,1,0
+2020-03-30,Fulton,New York,36035,1,0
+2020-03-30,Fulton,Ohio,39051,2,0
+2020-03-31,Fulton,Georgia,13121,599,18
+2020-03-31,Fulton,Indiana,18049,1,0
+2020-03-31,Fulton,New York,36035,1,0
+2020-03-31,Fulton,Ohio,39051,2,0
+2020-04-01,Fulton,Georgia,13121,638,20
+2020-04-01,Fulton,Indiana,18049,1,0
+2020-04-01,Fulton,New York,36035,2,0
+2020-04-01,Fulton,Ohio,39051,2,0
+2020-04-02,Fulton,Georgia,13121,747,23
+2020-04-02,Fulton,Indiana,18049,1,0
+2020-04-02,Fulton,New York,36035,6,0
+2020-04-02,Fulton,Ohio,39051,3,0
+2020-04-03,Fulton,Georgia,13121,910,26
+2020-04-03,Fulton,Indiana,18049,1,0
+2020-04-03,Fulton,New York,36035,6,0
+2020-04-03,Fulton,Ohio,39051,3,0
+2020-04-04,Fulton,Georgia,13121,959,26
+2020-04-04,Fulton,Indiana,18049,2,0
+2020-04-04,Fulton,New York,36035,9,0
+2020-04-04,Fulton,Ohio,39051,5,0
+2020-04-05,Fulton,Georgia,13121,970,28
+2020-04-05,Fulton,Indiana,18049,2,0
+2020-04-05,Fulton,New York,36035,9,0
+2020-04-05,Fulton,Ohio,39051,5,0
+2020-04-05,Fulton,Pennsylvania,42057,1,0
+2020-04-06,Fulton,Georgia,13121,1053,32
+2020-04-06,Fulton,Indiana,18049,3,0
+2020-04-06,Fulton,New York,36035,9,0
+2020-04-06,Fulton,Ohio,39051,5,0
+2020-04-06,Fulton,Pennsylvania,42057,1,0
+2020-04-07,Fulton,Georgia,13121,1185,39
+2020-04-07,Fulton,Indiana,18049,3,0
+2020-04-07,Fulton,New York,36035,13,0
+2020-04-07,Fulton,Ohio,39051,5,0
+2020-04-07,Fulton,Pennsylvania,42057,1,0
+2020-04-08,Fulton,Georgia,13121,1261,42
+2020-04-08,Fulton,Indiana,18049,3,0
+2020-04-08,Fulton,New York,36035,14,0
+2020-04-08,Fulton,Ohio,39051,5,0
+2020-04-08,Fulton,Pennsylvania,42057,1,0
+2020-04-09,Fulton,Georgia,13121,1336,48
+2020-04-09,Fulton,Indiana,18049,3,0
+2020-04-09,Fulton,New York,36035,15,0
+2020-04-09,Fulton,Ohio,39051,5,0
+2020-04-09,Fulton,Pennsylvania,42057,1,0
+2020-04-10,Fulton,Georgia,13121,1417,50
+2020-04-10,Fulton,Illinois,17057,2,0
+2020-04-10,Fulton,Indiana,18049,3,0
+2020-04-10,Fulton,New York,36035,18,0
+2020-04-10,Fulton,Ohio,39051,5,0
+2020-04-10,Fulton,Pennsylvania,42057,1,0
+2020-04-11,Fulton,Georgia,13121,1446,50
+2020-04-11,Fulton,Illinois,17057,1,0
+2020-04-11,Fulton,Indiana,18049,3,0
+2020-04-11,Fulton,New York,36035,21,0
+2020-04-11,Fulton,Ohio,39051,6,0
+2020-04-11,Fulton,Pennsylvania,42057,1,0
+2020-04-12,Fulton,Georgia,13121,1495,50
+2020-04-12,Fulton,Illinois,17057,1,0
+2020-04-12,Fulton,Indiana,18049,3,0
+2020-04-12,Fulton,New York,36035,21,0
+2020-04-12,Fulton,Ohio,39051,7,0
+2020-04-12,Fulton,Pennsylvania,42057,1,0
+2020-04-13,Fulton,Georgia,13121,1635,52
+2020-04-13,Fulton,Illinois,17057,1,0
+2020-04-13,Fulton,Indiana,18049,3,0
+2020-04-13,Fulton,New York,36035,21,0
+2020-04-13,Fulton,Ohio,39051,7,0
+2020-04-13,Fulton,Pennsylvania,42057,1,0
+2020-04-14,Fulton,Georgia,13121,1812,60
+2020-04-14,Fulton,Illinois,17057,1,0
+2020-04-14,Fulton,Indiana,18049,3,0
+2020-04-14,Fulton,New York,36035,22,0
+2020-04-14,Fulton,Ohio,39051,7,0
+2020-04-14,Fulton,Pennsylvania,42057,2,0
+2020-04-15,Fulton,Georgia,13121,1902,63
+2020-04-15,Fulton,Illinois,17057,1,0
+2020-04-15,Fulton,Indiana,18049,3,0
+2020-04-15,Fulton,New York,36035,24,0
+2020-04-15,Fulton,Ohio,39051,8,0
+2020-04-15,Fulton,Pennsylvania,42057,2,0
+2020-04-16,Fulton,Georgia,13121,1945,66
+2020-04-16,Fulton,Illinois,17057,1,0
+2020-04-16,Fulton,Indiana,18049,3,0
+2020-04-16,Fulton,New York,36035,25,0
+2020-04-16,Fulton,Ohio,39051,10,0
+2020-04-16,Fulton,Pennsylvania,42057,2,0
+2020-04-17,Fulton,Georgia,13121,2037,74
+2020-04-17,Fulton,Illinois,17057,1,0
+2020-04-17,Fulton,Indiana,18049,4,0
+2020-04-17,Fulton,New York,36035,27,0
+2020-04-17,Fulton,Ohio,39051,13,0
+2020-04-17,Fulton,Pennsylvania,42057,2,0
+2020-04-18,Fulton,Georgia,13121,2065,74
+2020-04-18,Fulton,Illinois,17057,1,0
+2020-04-18,Fulton,Indiana,18049,5,0
+2020-04-18,Fulton,New York,36035,27,0
+2020-04-18,Fulton,Ohio,39051,14,0
+2020-04-18,Fulton,Pennsylvania,42057,2,0
+2020-04-19,Fulton,Georgia,13121,2131,75
+2020-04-19,Fulton,Illinois,17057,1,0
+2020-04-19,Fulton,Indiana,18049,6,0
+2020-04-19,Fulton,Kentucky,21075,1,0
+2020-04-19,Fulton,New York,36035,27,0
+2020-04-19,Fulton,Ohio,39051,17,0
+2020-04-19,Fulton,Pennsylvania,42057,2,0
+2020-04-20,Fulton,Georgia,13121,2198,80
+2020-04-20,Fulton,Illinois,17057,1,0
+2020-04-20,Fulton,Indiana,18049,6,0
+2020-04-20,Fulton,Kentucky,21075,1,0
+2020-04-20,Fulton,New York,36035,27,0
+2020-04-20,Fulton,Ohio,39051,16,0
+2020-04-20,Fulton,Pennsylvania,42057,2,0
+2020-04-21,Fulton,Georgia,13121,2206,83
+2020-04-21,Fulton,Illinois,17057,1,0
+2020-04-21,Fulton,Indiana,18049,6,0
+2020-04-21,Fulton,Kentucky,21075,1,0
+2020-04-21,Fulton,New York,36035,27,0
+2020-04-21,Fulton,Ohio,39051,16,0
+2020-04-21,Fulton,Pennsylvania,42057,2,0
+2020-04-22,Fulton,Georgia,13121,2255,85
+2020-04-22,Fulton,Illinois,17057,1,0
+2020-04-22,Fulton,Indiana,18049,6,0
+2020-04-22,Fulton,Kentucky,21075,1,0
+2020-04-22,Fulton,New York,36035,28,0
+2020-04-22,Fulton,Ohio,39051,18,0
+2020-04-22,Fulton,Pennsylvania,42057,2,0
+2020-04-23,Fulton,Arkansas,05049,1,0
+2020-04-23,Fulton,Georgia,13121,2436,88
+2020-04-23,Fulton,Illinois,17057,1,0
+2020-04-23,Fulton,Indiana,18049,7,0
+2020-04-23,Fulton,Kentucky,21075,1,0
+2020-04-23,Fulton,New York,36035,28,0
+2020-04-23,Fulton,Ohio,39051,18,0
+2020-04-23,Fulton,Pennsylvania,42057,2,0
+2020-04-24,Fulton,Arkansas,05049,1,0
+2020-04-24,Fulton,Georgia,13121,2500,91
+2020-04-24,Fulton,Illinois,17057,3,0
+2020-04-24,Fulton,Indiana,18049,7,0
+2020-04-24,Fulton,Kentucky,21075,1,0
+2020-04-24,Fulton,New York,36035,29,1
+2020-04-24,Fulton,Ohio,39051,18,0
+2020-04-24,Fulton,Pennsylvania,42057,2,0
+2020-04-25,Fulton,Arkansas,05049,1,0
+2020-04-25,Fulton,Georgia,13121,2543,91
+2020-04-25,Fulton,Illinois,17057,2,0
+2020-04-25,Fulton,Indiana,18049,10,0
+2020-04-25,Fulton,Kentucky,21075,1,0
+2020-04-25,Fulton,New York,36035,61,1
+2020-04-25,Fulton,Ohio,39051,19,0
+2020-04-25,Fulton,Pennsylvania,42057,3,0
+2020-04-26,Fulton,Arkansas,05049,1,0
+2020-04-26,Fulton,Georgia,13121,2545,94
+2020-04-26,Fulton,Illinois,17057,3,0
+2020-04-26,Fulton,Indiana,18049,13,0
+2020-04-26,Fulton,Kentucky,21075,1,0
+2020-04-26,Fulton,New York,36035,62,1
+2020-04-26,Fulton,Ohio,39051,19,0
+2020-04-26,Fulton,Pennsylvania,42057,3,0
+2020-04-27,Fulton,Arkansas,05049,1,0
+2020-04-27,Fulton,Georgia,13121,2680,103
+2020-04-27,Fulton,Illinois,17057,3,0
+2020-04-27,Fulton,Indiana,18049,23,0
+2020-04-27,Fulton,Kentucky,21075,1,0
+2020-04-27,Fulton,New York,36035,62,1
+2020-04-27,Fulton,Ohio,39051,19,0
+2020-04-27,Fulton,Pennsylvania,42057,3,0
+2020-04-28,Fulton,Arkansas,05049,1,0
+2020-04-28,Fulton,Georgia,13121,2753,108
+2020-04-28,Fulton,Illinois,17057,3,0
+2020-04-28,Fulton,Indiana,18049,26,0
+2020-04-28,Fulton,Kentucky,21075,1,0
+2020-04-28,Fulton,New York,36035,66,1
+2020-04-28,Fulton,Ohio,39051,20,0
+2020-04-28,Fulton,Pennsylvania,42057,3,0
+2020-04-29,Fulton,Arkansas,05049,1,0
+2020-04-29,Fulton,Georgia,13121,2785,116
+2020-04-29,Fulton,Illinois,17057,3,0
+2020-04-29,Fulton,Indiana,18049,26,0
+2020-04-29,Fulton,Kentucky,21075,1,0
+2020-04-29,Fulton,New York,36035,67,1
+2020-04-29,Fulton,Ohio,39051,21,0
+2020-04-29,Fulton,Pennsylvania,42057,5,0
+2020-04-30,Fulton,Arkansas,05049,1,0
+2020-04-30,Fulton,Georgia,13121,2821,118
+2020-04-30,Fulton,Illinois,17057,3,0
+2020-04-30,Fulton,Indiana,18049,27,1
+2020-04-30,Fulton,Kentucky,21075,2,0
+2020-04-30,Fulton,New York,36035,71,1
+2020-04-30,Fulton,Ohio,39051,22,0
+2020-04-30,Fulton,Pennsylvania,42057,5,0
+2020-05-01,Fulton,Arkansas,05049,1,0
+2020-05-01,Fulton,Georgia,13121,2880,122
+2020-05-01,Fulton,Illinois,17057,3,0
+2020-05-01,Fulton,Indiana,18049,30,1
+2020-05-01,Fulton,Kentucky,21075,2,0
+2020-05-01,Fulton,New York,36035,75,1
+2020-05-01,Fulton,Ohio,39051,24,0
+2020-05-01,Fulton,Pennsylvania,42057,5,0
+2020-05-02,Fulton,Arkansas,05049,1,0
+2020-05-02,Fulton,Georgia,13121,2928,122
+2020-05-02,Fulton,Illinois,17057,3,0
+2020-05-02,Fulton,Indiana,18049,31,1
+2020-05-02,Fulton,Kentucky,21075,2,0
+2020-05-02,Fulton,New York,36035,79,1
+2020-05-02,Fulton,Ohio,39051,24,0
+2020-05-02,Fulton,Pennsylvania,42057,6,0
+2020-05-03,Fulton,Arkansas,05049,1,0
+2020-05-03,Fulton,Georgia,13121,2981,124
+2020-05-03,Fulton,Illinois,17057,3,0
+2020-05-03,Fulton,Indiana,18049,33,1
+2020-05-03,Fulton,Kentucky,21075,2,0
+2020-05-03,Fulton,New York,36035,82,2
+2020-05-03,Fulton,Ohio,39051,24,0
+2020-05-03,Fulton,Pennsylvania,42057,6,0
+2020-05-04,Fulton,Arkansas,05049,1,0
+2020-05-04,Fulton,Georgia,13121,3057,129
+2020-05-04,Fulton,Illinois,17057,4,1
+2020-05-04,Fulton,Indiana,18049,33,1
+2020-05-04,Fulton,Kentucky,21075,1,0
+2020-05-04,Fulton,New York,36035,84,2
+2020-05-04,Fulton,Ohio,39051,26,0
+2020-05-04,Fulton,Pennsylvania,42057,6,0
+2020-05-05,Fulton,Arkansas,05049,3,0
+2020-05-05,Fulton,Georgia,13121,3165,130
+2020-05-05,Fulton,Illinois,17057,3,1
+2020-05-05,Fulton,Indiana,18049,34,1
+2020-05-05,Fulton,Kentucky,21075,1,0
+2020-05-05,Fulton,New York,36035,97,3
+2020-05-05,Fulton,Ohio,39051,29,0
+2020-05-05,Fulton,Pennsylvania,42057,7,0
+2020-05-06,Fulton,Arkansas,05049,3,0
+2020-05-06,Fulton,Georgia,13121,3250,135
+2020-05-06,Fulton,Illinois,17057,3,0
+2020-05-06,Fulton,Indiana,18049,34,1
+2020-05-06,Fulton,Kentucky,21075,1,0
+2020-05-06,Fulton,New York,36035,100,4
+2020-05-06,Fulton,Ohio,39051,30,0
+2020-05-06,Fulton,Pennsylvania,42057,7,0
+2020-05-07,Fulton,Arkansas,05049,3,0
+2020-05-07,Fulton,Georgia,13121,3260,137
+2020-05-07,Fulton,Illinois,17057,3,0
+2020-05-07,Fulton,Indiana,18049,34,1
+2020-05-07,Fulton,Kentucky,21075,1,0
+2020-05-07,Fulton,New York,36035,101,4
+2020-05-07,Fulton,Ohio,39051,30,0
+2020-05-07,Fulton,Pennsylvania,42057,7,0
+2020-05-08,Fulton,Arkansas,05049,3,0
+2020-05-08,Fulton,Georgia,13121,3317,144
+2020-05-08,Fulton,Illinois,17057,3,0
+2020-05-08,Fulton,Indiana,18049,34,1
+2020-05-08,Fulton,Kentucky,21075,1,0
+2020-05-08,Fulton,New York,36035,103,5
+2020-05-08,Fulton,Ohio,39051,30,0
+2020-05-08,Fulton,Pennsylvania,42057,7,1
+2020-05-09,Fulton,Arkansas,05049,3,0
+2020-05-09,Fulton,Georgia,13121,3385,144
+2020-05-09,Fulton,Illinois,17057,3,0
+2020-05-09,Fulton,Indiana,18049,36,1
+2020-05-09,Fulton,Kentucky,21075,1,0
+2020-05-09,Fulton,New York,36035,104,6
+2020-05-09,Fulton,Ohio,39051,30,0
+2020-05-09,Fulton,Pennsylvania,42057,8,0
+2020-05-10,Fulton,Arkansas,05049,3,0
+2020-05-10,Fulton,Georgia,13121,3509,144
+2020-05-10,Fulton,Illinois,17057,3,0
+2020-05-10,Fulton,Indiana,18049,36,1
+2020-05-10,Fulton,Kentucky,21075,1,0
+2020-05-10,Fulton,New York,36035,107,6
+2020-05-10,Fulton,Ohio,39051,31,0
+2020-05-10,Fulton,Pennsylvania,42057,8,0
+2020-05-11,Fulton,Arkansas,05049,3,0
+2020-05-11,Fulton,Georgia,13121,3516,145
+2020-05-11,Fulton,Illinois,17057,3,0
+2020-05-11,Fulton,Indiana,18049,36,1
+2020-05-11,Fulton,Kentucky,21075,1,0
+2020-05-11,Fulton,New York,36035,109,7
+2020-05-11,Fulton,Ohio,39051,31,0
+2020-05-11,Fulton,Pennsylvania,42057,8,0
+2020-05-12,Fulton,Arkansas,05049,3,0
+2020-05-12,Fulton,Georgia,13121,3595,149
+2020-05-12,Fulton,Illinois,17057,3,0
+2020-05-12,Fulton,Indiana,18049,37,1
+2020-05-12,Fulton,Kentucky,21075,1,0
+2020-05-12,Fulton,New York,36035,135,8
+2020-05-12,Fulton,Ohio,39051,32,0
+2020-05-12,Fulton,Pennsylvania,42057,8,0
+2020-05-13,Fulton,Arkansas,05049,3,0
+2020-05-13,Fulton,Georgia,13121,3614,152
+2020-05-13,Fulton,Illinois,17057,4,0
+2020-05-13,Fulton,Indiana,18049,37,1
+2020-05-13,Fulton,Kentucky,21075,1,0
+2020-05-13,Fulton,New York,36035,140,9
+2020-05-13,Fulton,Ohio,39051,32,0
+2020-05-13,Fulton,Pennsylvania,42057,8,0
+2020-05-14,Fulton,Arkansas,05049,3,0
+2020-05-14,Fulton,Georgia,13121,3625,159
+2020-05-14,Fulton,Illinois,17057,6,0
+2020-05-14,Fulton,Indiana,18049,39,1
+2020-05-14,Fulton,Kentucky,21075,1,0
+2020-05-14,Fulton,New York,36035,144,9
+2020-05-14,Fulton,Ohio,39051,32,0
+2020-05-14,Fulton,Pennsylvania,42057,11,0
+2020-05-15,Fulton,Arkansas,05049,3,0
+2020-05-15,Fulton,Georgia,13121,3703,164
+2020-05-15,Fulton,Illinois,17057,6,0
+2020-05-15,Fulton,Indiana,18049,39,1
+2020-05-15,Fulton,Kentucky,21075,1,0
+2020-05-15,Fulton,New York,36035,145,10
+2020-05-15,Fulton,Ohio,39051,34,0
+2020-05-15,Fulton,Pennsylvania,42057,11,0
+2020-05-16,Fulton,Arkansas,05049,3,0
+2020-05-16,Fulton,Georgia,13121,3749,165
+2020-05-16,Fulton,Illinois,17057,7,0
+2020-05-16,Fulton,Indiana,18049,42,1
+2020-05-16,Fulton,Kentucky,21075,1,0
+2020-05-16,Fulton,New York,36035,148,11
+2020-05-16,Fulton,Ohio,39051,34,0
+2020-05-16,Fulton,Pennsylvania,42057,11,0
+2020-05-17,Fulton,Arkansas,05049,4,0
+2020-05-17,Fulton,Georgia,13121,3759,165
+2020-05-17,Fulton,Illinois,17057,8,0
+2020-05-17,Fulton,Indiana,18049,43,1
+2020-05-17,Fulton,Kentucky,21075,1,0
+2020-05-17,Fulton,New York,36035,171,11
+2020-05-17,Fulton,Ohio,39051,34,0
+2020-05-17,Fulton,Pennsylvania,42057,11,0
+2020-05-18,Fulton,Arkansas,05049,4,0
+2020-05-18,Fulton,Georgia,13121,3751,171
+2020-05-18,Fulton,Illinois,17057,8,0
+2020-05-18,Fulton,Indiana,18049,44,1
+2020-05-18,Fulton,Kentucky,21075,2,0
+2020-05-18,Fulton,New York,36035,182,11
+2020-05-18,Fulton,Ohio,39051,35,0
+2020-05-18,Fulton,Pennsylvania,42057,11,1
+2020-05-19,Fulton,Arkansas,05049,4,0
+2020-05-19,Fulton,Georgia,13121,3795,174
+2020-05-19,Fulton,Illinois,17057,10,0
+2020-05-19,Fulton,Indiana,18049,45,1
+2020-05-19,Fulton,Kentucky,21075,2,0
+2020-05-19,Fulton,New York,36035,182,11
+2020-05-19,Fulton,Ohio,39051,35,0
+2020-05-19,Fulton,Pennsylvania,42057,12,1
+2020-05-20,Fulton,Arkansas,05049,4,0
+2020-05-20,Fulton,Georgia,13121,3793,174
+2020-05-20,Fulton,Illinois,17057,10,0
+2020-05-20,Fulton,Indiana,18049,47,1
+2020-05-20,Fulton,Kentucky,21075,2,0
+2020-05-20,Fulton,New York,36035,184,11
+2020-05-20,Fulton,Ohio,39051,35,0
+2020-05-20,Fulton,Pennsylvania,42057,13,1
+2020-05-21,Fulton,Arkansas,05049,4,0
+2020-05-21,Fulton,Georgia,13121,3872,190
+2020-05-21,Fulton,Illinois,17057,10,0
+2020-05-21,Fulton,Indiana,18049,46,1
+2020-05-21,Fulton,Kentucky,21075,3,0
+2020-05-21,Fulton,New York,36035,186,11
+2020-05-21,Fulton,Ohio,39051,35,0
+2020-05-21,Fulton,Pennsylvania,42057,14,1
+2020-05-22,Fulton,Arkansas,05049,6,0
+2020-05-22,Fulton,Georgia,13121,3931,196
+2020-05-22,Fulton,Illinois,17057,10,0
+2020-05-22,Fulton,Indiana,18049,46,1
+2020-05-22,Fulton,Kentucky,21075,3,0
+2020-05-22,Fulton,New York,36035,189,11
+2020-05-22,Fulton,Ohio,39051,35,0
+2020-05-22,Fulton,Pennsylvania,42057,14,1
+2020-05-23,Fulton,Arkansas,05049,6,0
+2020-05-23,Fulton,Georgia,13121,3977,197
+2020-05-23,Fulton,Illinois,17057,10,0
+2020-05-23,Fulton,Indiana,18049,46,1
+2020-05-23,Fulton,Kentucky,21075,3,0
+2020-05-23,Fulton,New York,36035,193,11
+2020-05-23,Fulton,Ohio,39051,35,0
+2020-05-23,Fulton,Pennsylvania,42057,14,1
+2020-05-24,Fulton,Arkansas,05049,6,0
+2020-05-24,Fulton,Georgia,13121,4054,196
+2020-05-24,Fulton,Illinois,17057,11,0
+2020-05-24,Fulton,Indiana,18049,46,1
+2020-05-24,Fulton,Kentucky,21075,3,0
+2020-05-24,Fulton,New York,36035,194,11
+2020-05-24,Fulton,Ohio,39051,36,0
+2020-05-24,Fulton,Pennsylvania,42057,14,1
+2020-05-25,Fulton,Arkansas,05049,6,0
+2020-05-25,Fulton,Georgia,13121,4080,199
+2020-05-25,Fulton,Illinois,17057,11,0
+2020-05-25,Fulton,Indiana,18049,47,1
+2020-05-25,Fulton,Kentucky,21075,3,0
+2020-05-25,Fulton,New York,36035,196,11
+2020-05-25,Fulton,Ohio,39051,36,0
+2020-05-25,Fulton,Pennsylvania,42057,14,1
+2020-05-26,Fulton,Arkansas,05049,6,0
+2020-05-26,Fulton,Georgia,13121,4230,209
+2020-05-26,Fulton,Illinois,17057,11,0
+2020-05-26,Fulton,Indiana,18049,47,1
+2020-05-26,Fulton,Kentucky,21075,3,0
+2020-05-26,Fulton,New York,36035,196,12
+2020-05-26,Fulton,Ohio,39051,35,0
+2020-05-26,Fulton,Pennsylvania,42057,15,1
+2020-05-27,Fulton,Arkansas,05049,6,0
+2020-05-27,Fulton,Georgia,13121,4309,214
+2020-05-27,Fulton,Illinois,17057,11,0
+2020-05-27,Fulton,Indiana,18049,47,1
+2020-05-27,Fulton,Kentucky,21075,4,0
+2020-05-27,Fulton,New York,36035,198,12
+2020-05-27,Fulton,Ohio,39051,36,0
+2020-05-27,Fulton,Pennsylvania,42057,15,1
+2020-05-28,Fulton,Arkansas,05049,7,0
+2020-05-28,Fulton,Georgia,13121,4367,224
+2020-05-28,Fulton,Illinois,17057,11,0
+2020-05-28,Fulton,Indiana,18049,47,1
+2020-05-28,Fulton,Kentucky,21075,5,0
+2020-05-28,Fulton,New York,36035,200,12
+2020-05-28,Fulton,Ohio,39051,37,0
+2020-05-28,Fulton,Pennsylvania,42057,15,1
+2020-05-29,Fulton,Arkansas,05049,7,0
+2020-05-29,Fulton,Georgia,13121,4490,229
+2020-05-29,Fulton,Illinois,17057,11,0
+2020-05-29,Fulton,Indiana,18049,48,1
+2020-05-29,Fulton,Kentucky,21075,6,0
+2020-05-29,Fulton,New York,36035,206,12
+2020-05-29,Fulton,Ohio,39051,39,0
+2020-05-29,Fulton,Pennsylvania,42057,15,1
+2020-05-30,Fulton,Arkansas,05049,7,0
+2020-05-30,Fulton,Georgia,13121,4507,230
+2020-05-30,Fulton,Illinois,17057,11,0
+2020-05-30,Fulton,Indiana,18049,49,1
+2020-05-30,Fulton,Kentucky,21075,7,0
+2020-05-30,Fulton,New York,36035,207,12
+2020-05-30,Fulton,Ohio,39051,40,0
+2020-05-30,Fulton,Pennsylvania,42057,15,1
+2020-05-31,Fulton,Arkansas,05049,7,0
+2020-05-31,Fulton,Georgia,13121,4524,235
+2020-05-31,Fulton,Illinois,17057,11,0
+2020-05-31,Fulton,Indiana,18049,49,1
+2020-05-31,Fulton,Kentucky,21075,7,0
+2020-05-31,Fulton,New York,36035,208,13
+2020-05-31,Fulton,Ohio,39051,41,0
+2020-05-31,Fulton,Pennsylvania,42057,15,1
+2020-06-01,Fulton,Arkansas,05049,7,0
+2020-06-01,Fulton,Georgia,13121,4621,241
+2020-06-01,Fulton,Illinois,17057,11,0
+2020-06-01,Fulton,Indiana,18049,49,1
+2020-06-01,Fulton,Kentucky,21075,7,0
+2020-06-01,Fulton,New York,36035,210,13
+2020-06-01,Fulton,Ohio,39051,44,0
+2020-06-01,Fulton,Pennsylvania,42057,15,1
+2020-06-02,Fulton,Arkansas,05049,7,0
+2020-06-02,Fulton,Georgia,13121,4638,242
+2020-06-02,Fulton,Illinois,17057,12,0
+2020-06-02,Fulton,Indiana,18049,49,1
+2020-06-02,Fulton,Kentucky,21075,7,0
+2020-06-02,Fulton,New York,36035,212,14
+2020-06-02,Fulton,Ohio,39051,44,0
+2020-06-02,Fulton,Pennsylvania,42057,15,1
+2020-06-03,Fulton,Arkansas,05049,7,0
+2020-06-03,Fulton,Georgia,13121,4688,244
+2020-06-03,Fulton,Illinois,17057,12,0
+2020-06-03,Fulton,Indiana,18049,50,1
+2020-06-03,Fulton,Kentucky,21075,8,0
+2020-06-03,Fulton,New York,36035,213,14
+2020-06-03,Fulton,Ohio,39051,45,0
+2020-06-03,Fulton,Pennsylvania,42057,15,1
+2020-06-04,Fulton,Arkansas,05049,7,0
+2020-06-04,Fulton,Georgia,13121,4724,250
+2020-06-04,Fulton,Illinois,17057,12,0
+2020-06-04,Fulton,Indiana,18049,50,1
+2020-06-04,Fulton,Kentucky,21075,8,0
+2020-06-04,Fulton,New York,36035,215,14
+2020-06-04,Fulton,Ohio,39051,45,0
+2020-06-04,Fulton,Pennsylvania,42057,16,1
+2020-06-05,Fulton,Arkansas,05049,7,0
+2020-06-05,Fulton,Georgia,13121,4790,250
+2020-06-05,Fulton,Illinois,17057,12,0
+2020-06-05,Fulton,Indiana,18049,51,1
+2020-06-05,Fulton,Kentucky,21075,10,0
+2020-06-05,Fulton,New York,36035,219,16
+2020-06-05,Fulton,Ohio,39051,45,0
+2020-06-05,Fulton,Pennsylvania,42057,16,1
+2020-06-06,Fulton,Arkansas,05049,7,0
+2020-06-06,Fulton,Georgia,13121,4822,252
+2020-06-06,Fulton,Illinois,17057,12,0
+2020-06-06,Fulton,Indiana,18049,51,1
+2020-06-06,Fulton,Kentucky,21075,11,0
+2020-06-06,Fulton,New York,36035,222,16
+2020-06-06,Fulton,Ohio,39051,45,0
+2020-06-06,Fulton,Pennsylvania,42057,16,1
+2020-06-07,Fulton,Arkansas,05049,7,0
+2020-06-07,Fulton,Georgia,13121,4823,252
+2020-06-07,Fulton,Illinois,17057,12,0
+2020-06-07,Fulton,Indiana,18049,51,1
+2020-06-07,Fulton,Kentucky,21075,11,0
+2020-06-07,Fulton,New York,36035,224,16
+2020-06-07,Fulton,Ohio,39051,46,0
+2020-06-07,Fulton,Pennsylvania,42057,16,1
+2020-06-08,Fulton,Arkansas,05049,8,0
+2020-06-08,Fulton,Georgia,13121,4887,256
+2020-06-08,Fulton,Illinois,17057,12,0
+2020-06-08,Fulton,Indiana,18049,51,1
+2020-06-08,Fulton,Kentucky,21075,12,0
+2020-06-08,Fulton,New York,36035,227,17
+2020-06-08,Fulton,Ohio,39051,50,0
+2020-06-08,Fulton,Pennsylvania,42057,16,1
+2020-06-09,Fulton,Arkansas,05049,7,0
+2020-06-09,Fulton,Georgia,13121,4925,272
+2020-06-09,Fulton,Illinois,17057,12,0
+2020-06-09,Fulton,Indiana,18049,51,1
+2020-06-09,Fulton,Kentucky,21075,12,0
+2020-06-09,Fulton,New York,36035,228,17
+2020-06-09,Fulton,Ohio,39051,51,0
+2020-06-09,Fulton,Pennsylvania,42057,16,1
+2020-06-10,Fulton,Arkansas,05049,8,0
+2020-06-10,Fulton,Georgia,13121,4989,273
+2020-06-10,Fulton,Illinois,17057,12,0
+2020-06-10,Fulton,Indiana,18049,51,1
+2020-06-10,Fulton,Kentucky,21075,12,0
+2020-06-10,Fulton,New York,36035,228,17
+2020-06-10,Fulton,Ohio,39051,52,0
+2020-06-10,Fulton,Pennsylvania,42057,16,1
+2020-06-11,Fulton,Arkansas,05049,8,0
+2020-06-11,Fulton,Georgia,13121,5031,273
+2020-06-11,Fulton,Illinois,17057,12,0
+2020-06-11,Fulton,Indiana,18049,52,1
+2020-06-11,Fulton,Kentucky,21075,12,0
+2020-06-11,Fulton,New York,36035,230,17
+2020-06-11,Fulton,Ohio,39051,52,0
+2020-06-11,Fulton,Pennsylvania,42057,16,1
+2020-06-12,Fulton,Arkansas,05049,9,0
+2020-06-12,Fulton,Georgia,13121,5069,280
+2020-06-12,Fulton,Illinois,17057,12,0
+2020-06-12,Fulton,Indiana,18049,53,1
+2020-06-12,Fulton,Kentucky,21075,12,0
+2020-06-12,Fulton,New York,36035,231,17
+2020-06-12,Fulton,Ohio,39051,52,0
+2020-06-12,Fulton,Pennsylvania,42057,16,1
+2020-06-13,Fulton,Arkansas,05049,9,0
+2020-06-13,Fulton,Georgia,13121,5100,284
+2020-06-13,Fulton,Illinois,17057,12,0
+2020-06-13,Fulton,Indiana,18049,53,1
+2020-06-13,Fulton,Kentucky,21075,12,0
+2020-06-13,Fulton,New York,36035,232,18
+2020-06-13,Fulton,Ohio,39051,52,0
+2020-06-13,Fulton,Pennsylvania,42057,16,1
+2020-06-14,Fulton,Arkansas,05049,9,0
+2020-06-14,Fulton,Georgia,13121,5106,285
+2020-06-14,Fulton,Illinois,17057,12,0
+2020-06-14,Fulton,Indiana,18049,55,1
+2020-06-14,Fulton,Kentucky,21075,12,0
+2020-06-14,Fulton,New York,36035,234,18
+2020-06-14,Fulton,Ohio,39051,53,0
+2020-06-14,Fulton,Pennsylvania,42057,16,1
+2020-06-15,Fulton,Arkansas,05049,9,0
+2020-06-15,Fulton,Georgia,13121,5157,290
+2020-06-15,Fulton,Illinois,17057,12,0
+2020-06-15,Fulton,Indiana,18049,55,1
+2020-06-15,Fulton,Kentucky,21075,12,0
+2020-06-15,Fulton,New York,36035,235,18
+2020-06-15,Fulton,Ohio,39051,53,0
+2020-06-15,Fulton,Pennsylvania,42057,16,1
+2020-06-16,Fulton,Arkansas,05049,9,0
+2020-06-16,Fulton,Georgia,13121,5148,295
+2020-06-16,Fulton,Illinois,17057,12,0
+2020-06-16,Fulton,Indiana,18049,56,1
+2020-06-16,Fulton,Kentucky,21075,12,0
+2020-06-16,Fulton,New York,36035,236,18
+2020-06-16,Fulton,Ohio,39051,53,0
+2020-06-16,Fulton,Pennsylvania,42057,17,1
+2020-06-17,Fulton,Arkansas,05049,9,0
+2020-06-17,Fulton,Georgia,13121,5292,299
+2020-06-17,Fulton,Illinois,17057,11,0
+2020-06-17,Fulton,Indiana,18049,56,1
+2020-06-17,Fulton,Kentucky,21075,12,0
+2020-06-17,Fulton,New York,36035,236,18
+2020-06-17,Fulton,Ohio,39051,53,0
+2020-06-17,Fulton,Pennsylvania,42057,17,1
+2020-06-18,Fulton,Arkansas,05049,9,0
+2020-06-18,Fulton,Georgia,13121,5325,301
+2020-06-18,Fulton,Illinois,17057,12,0
+2020-06-18,Fulton,Indiana,18049,58,1
+2020-06-18,Fulton,Kentucky,21075,14,0
+2020-06-18,Fulton,New York,36035,236,18
+2020-06-18,Fulton,Ohio,39051,53,0
+2020-06-18,Fulton,Pennsylvania,42057,17,1
+2020-06-19,Fulton,Arkansas,05049,9,0
+2020-06-19,Fulton,Georgia,13121,5400,304
+2020-06-19,Fulton,Illinois,17057,12,0
+2020-06-19,Fulton,Indiana,18049,60,1
+2020-06-19,Fulton,Kentucky,21075,15,0
+2020-06-19,Fulton,New York,36035,237,18
+2020-06-19,Fulton,Ohio,39051,53,0
+2020-06-19,Fulton,Pennsylvania,42057,17,1
+2020-06-20,Fulton,Arkansas,05049,9,0
+2020-06-20,Fulton,Georgia,13121,5444,304
+2020-06-20,Fulton,Illinois,17057,12,0
+2020-06-20,Fulton,Indiana,18049,61,1
+2020-06-20,Fulton,Kentucky,21075,15,0
+2020-06-20,Fulton,New York,36035,243,18
+2020-06-20,Fulton,Ohio,39051,53,0
+2020-06-20,Fulton,Pennsylvania,42057,18,1
+2020-06-21,Fulton,Arkansas,05049,9,0
+2020-06-21,Fulton,Georgia,13121,5496,304
+2020-06-21,Fulton,Illinois,17057,12,0
+2020-06-21,Fulton,Indiana,18049,62,1
+2020-06-21,Fulton,Kentucky,21075,15,0
+2020-06-21,Fulton,New York,36035,243,18
+2020-06-21,Fulton,Ohio,39051,53,0
+2020-06-21,Fulton,Pennsylvania,42057,18,1
+2020-06-22,Fulton,Arkansas,05049,10,0
+2020-06-22,Fulton,Georgia,13121,5705,304
+2020-06-22,Fulton,Illinois,17057,12,0
+2020-06-22,Fulton,Indiana,18049,62,1
+2020-06-22,Fulton,Kentucky,21075,16,0
+2020-06-22,Fulton,New York,36035,244,18
+2020-06-22,Fulton,Ohio,39051,53,0
+2020-06-22,Fulton,Pennsylvania,42057,18,1
+2020-06-23,Fulton,Arkansas,05049,10,0
+2020-06-23,Fulton,Georgia,13121,5885,302
+2020-06-23,Fulton,Illinois,17057,13,0
+2020-06-23,Fulton,Indiana,18049,63,1
+2020-06-23,Fulton,Kentucky,21075,16,0
+2020-06-23,Fulton,New York,36035,244,18
+2020-06-23,Fulton,Ohio,39051,54,0
+2020-06-23,Fulton,Pennsylvania,42057,18,1
+2020-06-24,Fulton,Arkansas,05049,10,0
+2020-06-24,Fulton,Georgia,13121,6052,302
+2020-06-24,Fulton,Illinois,17057,15,0
+2020-06-24,Fulton,Indiana,18049,64,1
+2020-06-24,Fulton,Kentucky,21075,16,0
+2020-06-24,Fulton,New York,36035,244,18
+2020-06-24,Fulton,Ohio,39051,54,0
+2020-06-24,Fulton,Pennsylvania,42057,18,1
+2020-06-25,Fulton,Arkansas,05049,9,0
+2020-06-25,Fulton,Georgia,13121,6163,309
+2020-06-25,Fulton,Illinois,17057,15,0
+2020-06-25,Fulton,Indiana,18049,64,1
+2020-06-25,Fulton,Kentucky,21075,18,0
+2020-06-25,Fulton,New York,36035,244,18
+2020-06-25,Fulton,Ohio,39051,54,0
+2020-06-25,Fulton,Pennsylvania,42057,18,1
+2020-06-26,Fulton,Arkansas,05049,10,0
+2020-06-26,Fulton,Georgia,13121,6350,311
+2020-06-26,Fulton,Illinois,17057,15,0
+2020-06-26,Fulton,Indiana,18049,64,1
+2020-06-26,Fulton,Kentucky,21075,19,0
+2020-06-26,Fulton,New York,36035,248,18
+2020-06-26,Fulton,Ohio,39051,56,0
+2020-06-26,Fulton,Pennsylvania,42057,18,1
+2020-06-27,Fulton,Arkansas,05049,12,0
+2020-06-27,Fulton,Georgia,13121,6506,311
+2020-06-27,Fulton,Illinois,17057,15,0
+2020-06-27,Fulton,Indiana,18049,65,1
+2020-06-27,Fulton,Kentucky,21075,21,0
+2020-06-27,Fulton,New York,36035,249,18
+2020-06-27,Fulton,Ohio,39051,56,0
+2020-06-27,Fulton,Pennsylvania,42057,18,1
+2020-06-28,Fulton,Arkansas,05049,12,0
+2020-06-28,Fulton,Georgia,13121,6610,311
+2020-06-28,Fulton,Illinois,17057,15,0
+2020-06-28,Fulton,Indiana,18049,65,1
+2020-06-28,Fulton,Kentucky,21075,21,0
+2020-06-28,Fulton,New York,36035,255,18
+2020-06-28,Fulton,Ohio,39051,57,0
+2020-06-28,Fulton,Pennsylvania,42057,18,1
+2020-06-29,Fulton,Arkansas,05049,12,0
+2020-06-29,Fulton,Georgia,13121,6648,312
+2020-06-29,Fulton,Illinois,17057,15,0
+2020-06-29,Fulton,Indiana,18049,65,1
+2020-06-29,Fulton,Kentucky,21075,23,0
+2020-06-29,Fulton,New York,36035,256,18
+2020-06-29,Fulton,Ohio,39051,57,0
+2020-06-29,Fulton,Pennsylvania,42057,18,1
+2020-06-30,Fulton,Arkansas,05049,12,0
+2020-06-30,Fulton,Georgia,13121,6965,312
+2020-06-30,Fulton,Illinois,17057,15,0
+2020-06-30,Fulton,Indiana,18049,66,1
+2020-06-30,Fulton,Kentucky,21075,23,0
+2020-06-30,Fulton,New York,36035,256,18
+2020-06-30,Fulton,Ohio,39051,57,0
+2020-06-30,Fulton,Pennsylvania,42057,18,1
+2020-07-01,Fulton,Arkansas,05049,15,0
+2020-07-01,Fulton,Georgia,13121,7277,314
+2020-07-01,Fulton,Illinois,17057,15,0
+2020-07-01,Fulton,Indiana,18049,66,1
+2020-07-01,Fulton,Kentucky,21075,23,0
+2020-07-01,Fulton,New York,36035,257,18
+2020-07-01,Fulton,Ohio,39051,57,0
+2020-07-01,Fulton,Pennsylvania,42057,18,1
+2020-07-02,Fulton,Arkansas,05049,15,0
+2020-07-02,Fulton,Georgia,13121,7527,314
+2020-07-02,Fulton,Illinois,17057,15,0
+2020-07-02,Fulton,Indiana,18049,66,1
+2020-07-02,Fulton,Kentucky,21075,23,0
+2020-07-02,Fulton,New York,36035,260,18
+2020-07-02,Fulton,Ohio,39051,57,0
+2020-07-02,Fulton,Pennsylvania,42057,18,1
+2020-07-03,Fulton,Arkansas,05049,15,0
+2020-07-03,Fulton,Georgia,13121,7913,314
+2020-07-03,Fulton,Illinois,17057,15,0
+2020-07-03,Fulton,Indiana,18049,68,1
+2020-07-03,Fulton,Kentucky,21075,24,0
+2020-07-03,Fulton,New York,36035,261,18
+2020-07-03,Fulton,Ohio,39051,61,0
+2020-07-03,Fulton,Pennsylvania,42057,18,1
+2020-07-04,Fulton,Arkansas,05049,15,0
+2020-07-04,Fulton,Georgia,13121,8433,314
+2020-07-04,Fulton,Illinois,17057,15,0
+2020-07-04,Fulton,Indiana,18049,69,1
+2020-07-04,Fulton,Kentucky,21075,24,0
+2020-07-04,Fulton,New York,36035,261,18
+2020-07-04,Fulton,Ohio,39051,61,0
+2020-07-04,Fulton,Pennsylvania,42057,18,1
+2020-07-05,Fulton,Arkansas,05049,15,0
+2020-07-05,Fulton,Georgia,13121,8652,314
+2020-07-05,Fulton,Illinois,17057,16,0
+2020-07-05,Fulton,Indiana,18049,70,1
+2020-07-05,Fulton,Kentucky,21075,24,0
+2020-07-05,Fulton,New York,36035,261,18
+2020-07-05,Fulton,Ohio,39051,61,0
+2020-07-05,Fulton,Pennsylvania,42057,18,1
+2020-07-06,Fulton,Arkansas,05049,15,0
+2020-07-06,Fulton,Georgia,13121,8883,316
+2020-07-06,Fulton,Illinois,17057,15,0
+2020-07-06,Fulton,Indiana,18049,72,1
+2020-07-06,Fulton,Kentucky,21075,24,0
+2020-07-06,Fulton,New York,36035,262,18
+2020-07-06,Fulton,Ohio,39051,61,0
+2020-07-06,Fulton,Pennsylvania,42057,18,1
+2020-07-07,Fulton,Arkansas,05049,16,0
+2020-07-07,Fulton,Georgia,13121,9066,316
+2020-07-07,Fulton,Illinois,17057,15,0
+2020-07-07,Fulton,Indiana,18049,71,1
+2020-07-07,Fulton,Kentucky,21075,24,0
+2020-07-07,Fulton,New York,36035,262,18
+2020-07-07,Fulton,Ohio,39051,62,0
+2020-07-07,Fulton,Pennsylvania,42057,18,1
+2020-07-08,Fulton,Arkansas,05049,16,0
+2020-07-08,Fulton,Georgia,13121,9358,319
+2020-07-08,Fulton,Illinois,17057,16,0
+2020-07-08,Fulton,Indiana,18049,72,1
+2020-07-08,Fulton,Kentucky,21075,24,1
+2020-07-08,Fulton,New York,36035,262,18
+2020-07-08,Fulton,Ohio,39051,63,0
+2020-07-08,Fulton,Pennsylvania,42057,18,1
+2020-07-09,Fulton,Arkansas,05049,17,0
+2020-07-09,Fulton,Georgia,13121,9586,319
+2020-07-09,Fulton,Illinois,17057,16,0
+2020-07-09,Fulton,Indiana,18049,73,1
+2020-07-09,Fulton,Kentucky,21075,25,1
+2020-07-09,Fulton,New York,36035,263,18
+2020-07-09,Fulton,Ohio,39051,65,0
+2020-07-09,Fulton,Pennsylvania,42057,19,1
+2020-07-10,Fulton,Arkansas,05049,17,0
+2020-07-10,Fulton,Georgia,13121,10021,321
+2020-07-10,Fulton,Illinois,17057,16,0
+2020-07-10,Fulton,Indiana,18049,73,1
+2020-07-10,Fulton,Kentucky,21075,26,1
+2020-07-10,Fulton,New York,36035,264,18
+2020-07-10,Fulton,Ohio,39051,66,0
+2020-07-10,Fulton,Pennsylvania,42057,19,1
+2020-07-11,Fulton,Arkansas,05049,17,0
+2020-07-11,Fulton,Georgia,13121,10354,324
+2020-07-11,Fulton,Illinois,17057,16,0
+2020-07-11,Fulton,Indiana,18049,73,1
+2020-07-11,Fulton,Kentucky,21075,27,1
+2020-07-11,Fulton,New York,36035,265,18
+2020-07-11,Fulton,Ohio,39051,67,0
+2020-07-11,Fulton,Pennsylvania,42057,19,1
+2020-07-12,Fulton,Arkansas,05049,18,0
+2020-07-12,Fulton,Georgia,13121,10595,324
+2020-07-12,Fulton,Illinois,17057,16,0
+2020-07-12,Fulton,Indiana,18049,73,1
+2020-07-12,Fulton,Kentucky,21075,28,1
+2020-07-12,Fulton,New York,36035,265,18
+2020-07-12,Fulton,Ohio,39051,67,0
+2020-07-12,Fulton,Pennsylvania,42057,19,1
+2020-07-13,Fulton,Arkansas,05049,18,0
+2020-07-13,Fulton,Georgia,13121,11080,326
+2020-07-13,Fulton,Illinois,17057,16,0
+2020-07-13,Fulton,Indiana,18049,76,1
+2020-07-13,Fulton,Kentucky,21075,28,1
+2020-07-13,Fulton,New York,36035,265,18
+2020-07-13,Fulton,Ohio,39051,68,0
+2020-07-13,Fulton,Pennsylvania,42057,19,1

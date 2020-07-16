@@ -18,7 +18,7 @@ def search_twitter(arg, place, input_date):
     # configuring location
     geolocator = Nominatim(user_agent="COVID_Tracker")
     location = geolocator.geocode(place)
-    print(location)
+
     # configuring date
     date = datetime.datetime.strptime(input_date, '%Y-%m-%d')
     # configuring twint
@@ -27,9 +27,10 @@ def search_twitter(arg, place, input_date):
     c.Search = arg
     c.Since = str(date - datetime.timedelta(days=1))
     c.Until = str(date)
-    #c.Geo = str(location.latitude) + "," + str(location.longitude) + ",100mi"
+    #c.Geo = str(location.latitude) + "," + str(location.longitude) + ",50mi"
     c.Near = location
     c.Count = True
+    c.Hide_output = True
     c.Store_csv = True
     c.Output = "Output"
 
@@ -90,32 +91,36 @@ def process(file_name):
     trigger_list = ["#NoMasks", "#BurnYourMask", "#IWillNotComply",
                     "#OpenAmerica", "#OpenSchools", "#WearAMask", "#WearADamnMask"]
     # reading csv
-    with open(os.path.join("Data/States", file_name), newline='') as csvfile:
+    with open(os.path.join("Data/Counties", file_name), newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         for row in reader:
             line_buffer = row
             # iterating for each word
             for word in trigger_list:
-                search_twitter(arg=word, input_date=row[0], place=row[1])
+                search_twitter(arg=word, input_date=row[0], place=row[1]+","+row[2])
+                # so twitter doesn't block this
+                time.sleep(10)
                 # storing the occurances at the end of the line
                 line_buffer.append(count_csv)
+                # clearing storage
+                if os.listdir("Output").__contains__("tweets.csv"):
+                    os.remove("Output/tweets.csv")
             # stacking the line into the final file
             line_stack.append(line_buffer)
-            # so twitter doesn't block this
-            time.sleep(10)
 
     # writing output
-    with open(os.path.join("Data/States", "00PROCESSED" + file_name), newline='') as csvfile:
+    with open(os.path.join("Data/Counties/", "00PROCESSED" + file_name), newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
         for row in line_stack:
             writer.writerow(row)
 
     # clearing storage
+
     line_buffer.clear()
     line_stack.clear()
 
 
-list = os.listdir("Data/States")
+list = os.listdir("Data/Counties")
 for file in list:
     process(file)

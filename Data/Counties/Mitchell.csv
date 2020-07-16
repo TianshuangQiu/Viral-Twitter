@@ -1,0 +1,531 @@
+2020-03-22,Mitchell,Kansas,20123,1,0
+2020-03-23,Mitchell,Kansas,20123,3,0
+2020-03-24,Mitchell,Georgia,13205,4,0
+2020-03-24,Mitchell,Kansas,20123,3,0
+2020-03-25,Mitchell,Georgia,13205,4,0
+2020-03-25,Mitchell,Kansas,20123,3,0
+2020-03-26,Mitchell,Georgia,13205,10,0
+2020-03-26,Mitchell,Kansas,20123,3,0
+2020-03-27,Mitchell,Georgia,13205,14,0
+2020-03-27,Mitchell,Kansas,20123,3,0
+2020-03-28,Mitchell,Georgia,13205,15,0
+2020-03-28,Mitchell,Kansas,20123,3,0
+2020-03-29,Mitchell,Georgia,13205,15,0
+2020-03-29,Mitchell,Kansas,20123,3,0
+2020-03-30,Mitchell,Georgia,13205,16,1
+2020-03-30,Mitchell,Kansas,20123,3,0
+2020-03-31,Mitchell,Georgia,13205,34,1
+2020-03-31,Mitchell,Kansas,20123,3,0
+2020-04-01,Mitchell,Georgia,13205,39,1
+2020-04-01,Mitchell,Iowa,19131,2,0
+2020-04-01,Mitchell,Kansas,20123,3,0
+2020-04-02,Mitchell,Georgia,13205,40,1
+2020-04-02,Mitchell,Iowa,19131,2,0
+2020-04-02,Mitchell,Kansas,20123,2,0
+2020-04-02,Mitchell,North Carolina,37121,1,0
+2020-04-03,Mitchell,Georgia,13205,46,1
+2020-04-03,Mitchell,Iowa,19131,2,0
+2020-04-03,Mitchell,Kansas,20123,2,0
+2020-04-03,Mitchell,North Carolina,37121,1,0
+2020-04-04,Mitchell,Georgia,13205,53,1
+2020-04-04,Mitchell,Iowa,19131,2,0
+2020-04-04,Mitchell,Kansas,20123,2,0
+2020-04-04,Mitchell,North Carolina,37121,1,0
+2020-04-05,Mitchell,Georgia,13205,56,1
+2020-04-05,Mitchell,Iowa,19131,2,0
+2020-04-05,Mitchell,Kansas,20123,2,0
+2020-04-05,Mitchell,North Carolina,37121,1,0
+2020-04-06,Mitchell,Georgia,13205,59,10
+2020-04-06,Mitchell,Iowa,19131,2,0
+2020-04-06,Mitchell,Kansas,20123,2,0
+2020-04-06,Mitchell,North Carolina,37121,1,0
+2020-04-07,Mitchell,Georgia,13205,100,11
+2020-04-07,Mitchell,Iowa,19131,2,0
+2020-04-07,Mitchell,Kansas,20123,2,0
+2020-04-07,Mitchell,North Carolina,37121,2,0
+2020-04-07,Mitchell,Texas,48335,1,0
+2020-04-08,Mitchell,Georgia,13205,113,12
+2020-04-08,Mitchell,Iowa,19131,2,0
+2020-04-08,Mitchell,Kansas,20123,2,0
+2020-04-08,Mitchell,North Carolina,37121,3,0
+2020-04-08,Mitchell,Texas,48335,1,0
+2020-04-09,Mitchell,Georgia,13205,118,13
+2020-04-09,Mitchell,Iowa,19131,2,0
+2020-04-09,Mitchell,Kansas,20123,2,0
+2020-04-09,Mitchell,North Carolina,37121,3,0
+2020-04-09,Mitchell,Texas,48335,1,0
+2020-04-10,Mitchell,Georgia,13205,135,13
+2020-04-10,Mitchell,Iowa,19131,2,0
+2020-04-10,Mitchell,Kansas,20123,2,0
+2020-04-10,Mitchell,North Carolina,37121,3,0
+2020-04-10,Mitchell,Texas,48335,1,0
+2020-04-11,Mitchell,Georgia,13205,136,13
+2020-04-11,Mitchell,Iowa,19131,2,0
+2020-04-11,Mitchell,Kansas,20123,2,0
+2020-04-11,Mitchell,North Carolina,37121,4,0
+2020-04-11,Mitchell,Texas,48335,1,0
+2020-04-12,Mitchell,Georgia,13205,138,14
+2020-04-12,Mitchell,Iowa,19131,2,0
+2020-04-12,Mitchell,Kansas,20123,2,0
+2020-04-12,Mitchell,North Carolina,37121,4,0
+2020-04-12,Mitchell,Texas,48335,1,0
+2020-04-13,Mitchell,Georgia,13205,150,16
+2020-04-13,Mitchell,Iowa,19131,2,0
+2020-04-13,Mitchell,Kansas,20123,2,0
+2020-04-13,Mitchell,North Carolina,37121,4,0
+2020-04-13,Mitchell,Texas,48335,1,0
+2020-04-14,Mitchell,Georgia,13205,164,19
+2020-04-14,Mitchell,Iowa,19131,2,0
+2020-04-14,Mitchell,Kansas,20123,2,0
+2020-04-14,Mitchell,North Carolina,37121,4,0
+2020-04-14,Mitchell,Texas,48335,1,0
+2020-04-15,Mitchell,Georgia,13205,176,20
+2020-04-15,Mitchell,Iowa,19131,2,0
+2020-04-15,Mitchell,Kansas,20123,2,0
+2020-04-15,Mitchell,North Carolina,37121,4,0
+2020-04-15,Mitchell,Texas,48335,1,0
+2020-04-16,Mitchell,Georgia,13205,193,22
+2020-04-16,Mitchell,Iowa,19131,2,0
+2020-04-16,Mitchell,Kansas,20123,2,0
+2020-04-16,Mitchell,North Carolina,37121,4,0
+2020-04-16,Mitchell,Texas,48335,1,0
+2020-04-17,Mitchell,Georgia,13205,209,23
+2020-04-17,Mitchell,Iowa,19131,2,0
+2020-04-17,Mitchell,Kansas,20123,2,0
+2020-04-17,Mitchell,North Carolina,37121,5,0
+2020-04-17,Mitchell,Texas,48335,1,0
+2020-04-18,Mitchell,Georgia,13205,212,23
+2020-04-18,Mitchell,Iowa,19131,2,0
+2020-04-18,Mitchell,Kansas,20123,2,0
+2020-04-18,Mitchell,North Carolina,37121,5,0
+2020-04-18,Mitchell,Texas,48335,1,0
+2020-04-19,Mitchell,Georgia,13205,203,23
+2020-04-19,Mitchell,Iowa,19131,2,0
+2020-04-19,Mitchell,Kansas,20123,2,0
+2020-04-19,Mitchell,North Carolina,37121,5,0
+2020-04-19,Mitchell,Texas,48335,1,0
+2020-04-20,Mitchell,Georgia,13205,210,23
+2020-04-20,Mitchell,Iowa,19131,2,0
+2020-04-20,Mitchell,Kansas,20123,2,0
+2020-04-20,Mitchell,North Carolina,37121,5,0
+2020-04-20,Mitchell,Texas,48335,1,0
+2020-04-21,Mitchell,Georgia,13205,254,23
+2020-04-21,Mitchell,Iowa,19131,2,0
+2020-04-21,Mitchell,Kansas,20123,2,0
+2020-04-21,Mitchell,North Carolina,37121,5,0
+2020-04-21,Mitchell,Texas,48335,1,0
+2020-04-22,Mitchell,Georgia,13205,280,23
+2020-04-22,Mitchell,Iowa,19131,2,0
+2020-04-22,Mitchell,Kansas,20123,2,0
+2020-04-22,Mitchell,North Carolina,37121,5,0
+2020-04-22,Mitchell,Texas,48335,1,0
+2020-04-23,Mitchell,Georgia,13205,290,24
+2020-04-23,Mitchell,Iowa,19131,2,0
+2020-04-23,Mitchell,Kansas,20123,2,0
+2020-04-23,Mitchell,North Carolina,37121,5,0
+2020-04-23,Mitchell,Texas,48335,1,0
+2020-04-24,Mitchell,Georgia,13205,288,24
+2020-04-24,Mitchell,Iowa,19131,2,0
+2020-04-24,Mitchell,Kansas,20123,2,0
+2020-04-24,Mitchell,North Carolina,37121,5,0
+2020-04-24,Mitchell,Texas,48335,1,0
+2020-04-25,Mitchell,Georgia,13205,287,25
+2020-04-25,Mitchell,Iowa,19131,2,0
+2020-04-25,Mitchell,Kansas,20123,2,0
+2020-04-25,Mitchell,North Carolina,37121,5,0
+2020-04-25,Mitchell,Texas,48335,1,0
+2020-04-26,Mitchell,Georgia,13205,290,26
+2020-04-26,Mitchell,Iowa,19131,2,0
+2020-04-26,Mitchell,Kansas,20123,2,0
+2020-04-26,Mitchell,North Carolina,37121,5,0
+2020-04-26,Mitchell,Texas,48335,1,0
+2020-04-27,Mitchell,Georgia,13205,290,28
+2020-04-27,Mitchell,Iowa,19131,2,0
+2020-04-27,Mitchell,Kansas,20123,2,0
+2020-04-27,Mitchell,North Carolina,37121,5,0
+2020-04-27,Mitchell,Texas,48335,1,0
+2020-04-28,Mitchell,Georgia,13205,293,29
+2020-04-28,Mitchell,Iowa,19131,2,0
+2020-04-28,Mitchell,Kansas,20123,2,0
+2020-04-28,Mitchell,North Carolina,37121,5,0
+2020-04-28,Mitchell,Texas,48335,1,0
+2020-04-29,Mitchell,Georgia,13205,304,30
+2020-04-29,Mitchell,Iowa,19131,2,0
+2020-04-29,Mitchell,Kansas,20123,3,0
+2020-04-29,Mitchell,North Carolina,37121,5,0
+2020-04-29,Mitchell,Texas,48335,1,0
+2020-04-30,Mitchell,Georgia,13205,310,30
+2020-04-30,Mitchell,Iowa,19131,2,0
+2020-04-30,Mitchell,Kansas,20123,3,0
+2020-04-30,Mitchell,North Carolina,37121,5,0
+2020-04-30,Mitchell,Texas,48335,1,0
+2020-05-01,Mitchell,Georgia,13205,318,31
+2020-05-01,Mitchell,Iowa,19131,3,0
+2020-05-01,Mitchell,Kansas,20123,3,0
+2020-05-01,Mitchell,North Carolina,37121,5,0
+2020-05-01,Mitchell,Texas,48335,1,0
+2020-05-02,Mitchell,Georgia,13205,319,31
+2020-05-02,Mitchell,Iowa,19131,3,0
+2020-05-02,Mitchell,Kansas,20123,3,0
+2020-05-02,Mitchell,North Carolina,37121,5,0
+2020-05-02,Mitchell,Texas,48335,1,0
+2020-05-03,Mitchell,Georgia,13205,319,31
+2020-05-03,Mitchell,Iowa,19131,3,0
+2020-05-03,Mitchell,Kansas,20123,3,0
+2020-05-03,Mitchell,North Carolina,37121,5,0
+2020-05-03,Mitchell,Texas,48335,1,0
+2020-05-04,Mitchell,Georgia,13205,326,33
+2020-05-04,Mitchell,Iowa,19131,3,0
+2020-05-04,Mitchell,Kansas,20123,3,0
+2020-05-04,Mitchell,North Carolina,37121,5,0
+2020-05-04,Mitchell,Texas,48335,1,0
+2020-05-05,Mitchell,Georgia,13205,331,33
+2020-05-05,Mitchell,Iowa,19131,3,0
+2020-05-05,Mitchell,Kansas,20123,3,0
+2020-05-05,Mitchell,North Carolina,37121,5,0
+2020-05-05,Mitchell,Texas,48335,1,0
+2020-05-06,Mitchell,Georgia,13205,336,31
+2020-05-06,Mitchell,Iowa,19131,3,0
+2020-05-06,Mitchell,Kansas,20123,3,0
+2020-05-06,Mitchell,North Carolina,37121,5,0
+2020-05-06,Mitchell,Texas,48335,1,0
+2020-05-07,Mitchell,Georgia,13205,340,31
+2020-05-07,Mitchell,Iowa,19131,3,0
+2020-05-07,Mitchell,Kansas,20123,3,0
+2020-05-07,Mitchell,North Carolina,37121,5,0
+2020-05-07,Mitchell,Texas,48335,1,0
+2020-05-08,Mitchell,Georgia,13205,341,31
+2020-05-08,Mitchell,Iowa,19131,3,0
+2020-05-08,Mitchell,Kansas,20123,3,0
+2020-05-08,Mitchell,North Carolina,37121,5,0
+2020-05-08,Mitchell,Texas,48335,1,0
+2020-05-09,Mitchell,Georgia,13205,350,31
+2020-05-09,Mitchell,Iowa,19131,3,0
+2020-05-09,Mitchell,Kansas,20123,3,0
+2020-05-09,Mitchell,North Carolina,37121,5,0
+2020-05-09,Mitchell,Texas,48335,1,0
+2020-05-10,Mitchell,Georgia,13205,352,31
+2020-05-10,Mitchell,Iowa,19131,3,0
+2020-05-10,Mitchell,Kansas,20123,3,0
+2020-05-10,Mitchell,North Carolina,37121,5,0
+2020-05-10,Mitchell,Texas,48335,1,0
+2020-05-11,Mitchell,Georgia,13205,352,32
+2020-05-11,Mitchell,Iowa,19131,3,0
+2020-05-11,Mitchell,Kansas,20123,3,0
+2020-05-11,Mitchell,North Carolina,37121,5,0
+2020-05-11,Mitchell,Texas,48335,1,0
+2020-05-12,Mitchell,Georgia,13205,357,32
+2020-05-12,Mitchell,Iowa,19131,3,0
+2020-05-12,Mitchell,Kansas,20123,3,0
+2020-05-12,Mitchell,North Carolina,37121,5,0
+2020-05-12,Mitchell,Texas,48335,1,0
+2020-05-13,Mitchell,Georgia,13205,381,32
+2020-05-13,Mitchell,Iowa,19131,3,0
+2020-05-13,Mitchell,Kansas,20123,3,0
+2020-05-13,Mitchell,North Carolina,37121,5,0
+2020-05-13,Mitchell,Texas,48335,1,0
+2020-05-14,Mitchell,Georgia,13205,387,32
+2020-05-14,Mitchell,Iowa,19131,3,0
+2020-05-14,Mitchell,Kansas,20123,3,0
+2020-05-14,Mitchell,North Carolina,37121,5,0
+2020-05-14,Mitchell,Texas,48335,1,0
+2020-05-15,Mitchell,Georgia,13205,388,32
+2020-05-15,Mitchell,Iowa,19131,4,0
+2020-05-15,Mitchell,Kansas,20123,3,0
+2020-05-15,Mitchell,North Carolina,37121,5,0
+2020-05-15,Mitchell,Texas,48335,1,0
+2020-05-16,Mitchell,Georgia,13205,388,32
+2020-05-16,Mitchell,Iowa,19131,4,0
+2020-05-16,Mitchell,Kansas,20123,3,0
+2020-05-16,Mitchell,North Carolina,37121,8,0
+2020-05-16,Mitchell,Texas,48335,1,0
+2020-05-17,Mitchell,Georgia,13205,388,32
+2020-05-17,Mitchell,Iowa,19131,4,0
+2020-05-17,Mitchell,Kansas,20123,3,0
+2020-05-17,Mitchell,North Carolina,37121,8,0
+2020-05-17,Mitchell,Texas,48335,1,0
+2020-05-18,Mitchell,Georgia,13205,389,32
+2020-05-18,Mitchell,Iowa,19131,4,0
+2020-05-18,Mitchell,Kansas,20123,3,0
+2020-05-18,Mitchell,North Carolina,37121,8,0
+2020-05-18,Mitchell,Texas,48335,1,0
+2020-05-19,Mitchell,Georgia,13205,394,32
+2020-05-19,Mitchell,Iowa,19131,4,0
+2020-05-19,Mitchell,Kansas,20123,3,0
+2020-05-19,Mitchell,North Carolina,37121,8,0
+2020-05-19,Mitchell,Texas,48335,1,0
+2020-05-20,Mitchell,Georgia,13205,396,32
+2020-05-20,Mitchell,Iowa,19131,4,0
+2020-05-20,Mitchell,Kansas,20123,3,0
+2020-05-20,Mitchell,North Carolina,37121,8,0
+2020-05-20,Mitchell,Texas,48335,1,0
+2020-05-21,Mitchell,Georgia,13205,399,32
+2020-05-21,Mitchell,Iowa,19131,5,0
+2020-05-21,Mitchell,Kansas,20123,3,0
+2020-05-21,Mitchell,North Carolina,37121,7,0
+2020-05-21,Mitchell,Texas,48335,1,0
+2020-05-22,Mitchell,Georgia,13205,397,32
+2020-05-22,Mitchell,Iowa,19131,5,0
+2020-05-22,Mitchell,Kansas,20123,3,0
+2020-05-22,Mitchell,North Carolina,37121,9,0
+2020-05-22,Mitchell,Texas,48335,1,0
+2020-05-23,Mitchell,Georgia,13205,399,32
+2020-05-23,Mitchell,Iowa,19131,5,0
+2020-05-23,Mitchell,Kansas,20123,3,0
+2020-05-23,Mitchell,North Carolina,37121,8,0
+2020-05-23,Mitchell,Texas,48335,1,0
+2020-05-24,Mitchell,Georgia,13205,399,32
+2020-05-24,Mitchell,Iowa,19131,4,0
+2020-05-24,Mitchell,Kansas,20123,3,0
+2020-05-24,Mitchell,North Carolina,37121,8,0
+2020-05-24,Mitchell,Texas,48335,1,0
+2020-05-25,Mitchell,Georgia,13205,399,32
+2020-05-25,Mitchell,Iowa,19131,4,0
+2020-05-25,Mitchell,Kansas,20123,3,0
+2020-05-25,Mitchell,North Carolina,37121,9,0
+2020-05-25,Mitchell,Texas,48335,1,0
+2020-05-26,Mitchell,Georgia,13205,399,32
+2020-05-26,Mitchell,Iowa,19131,4,0
+2020-05-26,Mitchell,Kansas,20123,3,0
+2020-05-26,Mitchell,North Carolina,37121,9,0
+2020-05-26,Mitchell,Texas,48335,1,0
+2020-05-27,Mitchell,Georgia,13205,412,32
+2020-05-27,Mitchell,Iowa,19131,5,0
+2020-05-27,Mitchell,Kansas,20123,3,0
+2020-05-27,Mitchell,North Carolina,37121,9,0
+2020-05-27,Mitchell,Texas,48335,1,0
+2020-05-28,Mitchell,Georgia,13205,409,32
+2020-05-28,Mitchell,Iowa,19131,5,0
+2020-05-28,Mitchell,Kansas,20123,3,0
+2020-05-28,Mitchell,North Carolina,37121,9,0
+2020-05-28,Mitchell,Texas,48335,1,0
+2020-05-29,Mitchell,Georgia,13205,408,32
+2020-05-29,Mitchell,Iowa,19131,4,0
+2020-05-29,Mitchell,Kansas,20123,4,0
+2020-05-29,Mitchell,North Carolina,37121,12,0
+2020-05-29,Mitchell,Texas,48335,1,0
+2020-05-30,Mitchell,Georgia,13205,408,32
+2020-05-30,Mitchell,Iowa,19131,4,0
+2020-05-30,Mitchell,Kansas,20123,4,0
+2020-05-30,Mitchell,North Carolina,37121,12,0
+2020-05-30,Mitchell,Texas,48335,1,0
+2020-05-31,Mitchell,Georgia,13205,409,32
+2020-05-31,Mitchell,Iowa,19131,4,0
+2020-05-31,Mitchell,Kansas,20123,4,0
+2020-05-31,Mitchell,North Carolina,37121,14,0
+2020-05-31,Mitchell,Texas,48335,1,0
+2020-06-01,Mitchell,Georgia,13205,413,32
+2020-06-01,Mitchell,Iowa,19131,4,0
+2020-06-01,Mitchell,Kansas,20123,4,0
+2020-06-01,Mitchell,North Carolina,37121,14,0
+2020-06-01,Mitchell,Texas,48335,1,0
+2020-06-02,Mitchell,Georgia,13205,413,32
+2020-06-02,Mitchell,Iowa,19131,4,0
+2020-06-02,Mitchell,Kansas,20123,4,0
+2020-06-02,Mitchell,North Carolina,37121,15,0
+2020-06-02,Mitchell,Texas,48335,1,0
+2020-06-03,Mitchell,Georgia,13205,415,32
+2020-06-03,Mitchell,Iowa,19131,4,0
+2020-06-03,Mitchell,Kansas,20123,4,0
+2020-06-03,Mitchell,North Carolina,37121,14,0
+2020-06-03,Mitchell,Texas,48335,1,0
+2020-06-04,Mitchell,Georgia,13205,416,32
+2020-06-04,Mitchell,Iowa,19131,4,0
+2020-06-04,Mitchell,Kansas,20123,4,0
+2020-06-04,Mitchell,North Carolina,37121,16,0
+2020-06-04,Mitchell,Texas,48335,1,0
+2020-06-05,Mitchell,Georgia,13205,416,34
+2020-06-05,Mitchell,Iowa,19131,4,0
+2020-06-05,Mitchell,Kansas,20123,4,0
+2020-06-05,Mitchell,North Carolina,37121,17,0
+2020-06-05,Mitchell,Texas,48335,1,0
+2020-06-06,Mitchell,Georgia,13205,417,34
+2020-06-06,Mitchell,Iowa,19131,4,0
+2020-06-06,Mitchell,Kansas,20123,4,0
+2020-06-06,Mitchell,North Carolina,37121,14,0
+2020-06-06,Mitchell,Texas,48335,1,0
+2020-06-07,Mitchell,Georgia,13205,417,34
+2020-06-07,Mitchell,Iowa,19131,4,0
+2020-06-07,Mitchell,Kansas,20123,4,0
+2020-06-07,Mitchell,North Carolina,37121,14,0
+2020-06-07,Mitchell,Texas,48335,1,0
+2020-06-08,Mitchell,Georgia,13205,419,34
+2020-06-08,Mitchell,Iowa,19131,5,0
+2020-06-08,Mitchell,Kansas,20123,4,0
+2020-06-08,Mitchell,North Carolina,37121,14,0
+2020-06-08,Mitchell,Texas,48335,1,0
+2020-06-09,Mitchell,Georgia,13205,425,36
+2020-06-09,Mitchell,Iowa,19131,5,0
+2020-06-09,Mitchell,Kansas,20123,4,0
+2020-06-09,Mitchell,North Carolina,37121,13,0
+2020-06-09,Mitchell,Texas,48335,1,0
+2020-06-10,Mitchell,Georgia,13205,425,36
+2020-06-10,Mitchell,Iowa,19131,6,0
+2020-06-10,Mitchell,Kansas,20123,4,0
+2020-06-10,Mitchell,North Carolina,37121,13,0
+2020-06-10,Mitchell,Texas,48335,1,0
+2020-06-11,Mitchell,Georgia,13205,427,37
+2020-06-11,Mitchell,Iowa,19131,6,0
+2020-06-11,Mitchell,Kansas,20123,4,0
+2020-06-11,Mitchell,North Carolina,37121,15,0
+2020-06-11,Mitchell,Texas,48335,2,0
+2020-06-12,Mitchell,Georgia,13205,427,37
+2020-06-12,Mitchell,Iowa,19131,6,0
+2020-06-12,Mitchell,Kansas,20123,4,0
+2020-06-12,Mitchell,North Carolina,37121,15,0
+2020-06-12,Mitchell,Texas,48335,2,0
+2020-06-13,Mitchell,Georgia,13205,428,37
+2020-06-13,Mitchell,Iowa,19131,7,0
+2020-06-13,Mitchell,Kansas,20123,4,0
+2020-06-13,Mitchell,North Carolina,37121,16,0
+2020-06-13,Mitchell,Texas,48335,2,0
+2020-06-14,Mitchell,Georgia,13205,431,37
+2020-06-14,Mitchell,Iowa,19131,7,0
+2020-06-14,Mitchell,Kansas,20123,4,0
+2020-06-14,Mitchell,North Carolina,37121,16,0
+2020-06-14,Mitchell,Texas,48335,2,0
+2020-06-15,Mitchell,Georgia,13205,432,37
+2020-06-15,Mitchell,Iowa,19131,8,0
+2020-06-15,Mitchell,Kansas,20123,4,0
+2020-06-15,Mitchell,North Carolina,37121,16,0
+2020-06-15,Mitchell,Texas,48335,2,0
+2020-06-16,Mitchell,Georgia,13205,433,38
+2020-06-16,Mitchell,Iowa,19131,8,0
+2020-06-16,Mitchell,Kansas,20123,4,0
+2020-06-16,Mitchell,North Carolina,37121,18,0
+2020-06-16,Mitchell,Texas,48335,2,0
+2020-06-17,Mitchell,Georgia,13205,433,38
+2020-06-17,Mitchell,Iowa,19131,9,0
+2020-06-17,Mitchell,Kansas,20123,4,0
+2020-06-17,Mitchell,North Carolina,37121,19,0
+2020-06-17,Mitchell,Texas,48335,2,0
+2020-06-18,Mitchell,Georgia,13205,432,39
+2020-06-18,Mitchell,Iowa,19131,8,0
+2020-06-18,Mitchell,Kansas,20123,4,0
+2020-06-18,Mitchell,North Carolina,37121,23,0
+2020-06-18,Mitchell,Texas,48335,2,0
+2020-06-19,Mitchell,Georgia,13205,432,38
+2020-06-19,Mitchell,Iowa,19131,9,0
+2020-06-19,Mitchell,Kansas,20123,4,0
+2020-06-19,Mitchell,North Carolina,37121,24,0
+2020-06-19,Mitchell,Texas,48335,2,0
+2020-06-20,Mitchell,Georgia,13205,433,38
+2020-06-20,Mitchell,Iowa,19131,8,0
+2020-06-20,Mitchell,Kansas,20123,4,0
+2020-06-20,Mitchell,North Carolina,37121,25,0
+2020-06-20,Mitchell,Texas,48335,2,0
+2020-06-21,Mitchell,Georgia,13205,434,38
+2020-06-21,Mitchell,Iowa,19131,8,0
+2020-06-21,Mitchell,Kansas,20123,4,0
+2020-06-21,Mitchell,North Carolina,37121,25,0
+2020-06-21,Mitchell,Texas,48335,2,0
+2020-06-22,Mitchell,Georgia,13205,436,38
+2020-06-22,Mitchell,Iowa,19131,9,0
+2020-06-22,Mitchell,Kansas,20123,4,0
+2020-06-22,Mitchell,North Carolina,37121,26,0
+2020-06-22,Mitchell,Texas,48335,2,0
+2020-06-23,Mitchell,Georgia,13205,440,38
+2020-06-23,Mitchell,Iowa,19131,9,0
+2020-06-23,Mitchell,Kansas,20123,4,0
+2020-06-23,Mitchell,North Carolina,37121,26,0
+2020-06-23,Mitchell,Texas,48335,3,0
+2020-06-24,Mitchell,Georgia,13205,442,38
+2020-06-24,Mitchell,Iowa,19131,9,0
+2020-06-24,Mitchell,Kansas,20123,4,0
+2020-06-24,Mitchell,North Carolina,37121,26,0
+2020-06-24,Mitchell,Texas,48335,3,0
+2020-06-25,Mitchell,Georgia,13205,443,38
+2020-06-25,Mitchell,Iowa,19131,15,0
+2020-06-25,Mitchell,Kansas,20123,4,0
+2020-06-25,Mitchell,North Carolina,37121,26,0
+2020-06-25,Mitchell,Texas,48335,4,0
+2020-06-26,Mitchell,Georgia,13205,443,38
+2020-06-26,Mitchell,Iowa,19131,16,0
+2020-06-26,Mitchell,Kansas,20123,4,0
+2020-06-26,Mitchell,North Carolina,37121,25,0
+2020-06-26,Mitchell,Texas,48335,4,0
+2020-06-27,Mitchell,Georgia,13205,444,38
+2020-06-27,Mitchell,Iowa,19131,16,0
+2020-06-27,Mitchell,Kansas,20123,4,0
+2020-06-27,Mitchell,North Carolina,37121,27,0
+2020-06-27,Mitchell,Texas,48335,4,0
+2020-06-28,Mitchell,Georgia,13205,444,38
+2020-06-28,Mitchell,Iowa,19131,21,0
+2020-06-28,Mitchell,Kansas,20123,4,0
+2020-06-28,Mitchell,North Carolina,37121,29,0
+2020-06-28,Mitchell,Texas,48335,4,0
+2020-06-29,Mitchell,Georgia,13205,446,38
+2020-06-29,Mitchell,Iowa,19131,22,0
+2020-06-29,Mitchell,Kansas,20123,4,0
+2020-06-29,Mitchell,North Carolina,37121,30,0
+2020-06-29,Mitchell,Texas,48335,4,0
+2020-06-30,Mitchell,Georgia,13205,450,38
+2020-06-30,Mitchell,Iowa,19131,24,0
+2020-06-30,Mitchell,Kansas,20123,4,0
+2020-06-30,Mitchell,North Carolina,37121,32,0
+2020-06-30,Mitchell,Texas,48335,5,0
+2020-07-01,Mitchell,Georgia,13205,451,38
+2020-07-01,Mitchell,Iowa,19131,28,0
+2020-07-01,Mitchell,Kansas,20123,4,0
+2020-07-01,Mitchell,North Carolina,37121,33,0
+2020-07-01,Mitchell,Texas,48335,9,0
+2020-07-02,Mitchell,Georgia,13205,451,38
+2020-07-02,Mitchell,Iowa,19131,34,0
+2020-07-02,Mitchell,Kansas,20123,4,0
+2020-07-02,Mitchell,North Carolina,37121,34,0
+2020-07-02,Mitchell,Texas,48335,9,0
+2020-07-03,Mitchell,Georgia,13205,452,38
+2020-07-03,Mitchell,Iowa,19131,37,0
+2020-07-03,Mitchell,Kansas,20123,4,0
+2020-07-03,Mitchell,North Carolina,37121,40,0
+2020-07-03,Mitchell,Texas,48335,10,0
+2020-07-04,Mitchell,Georgia,13205,455,38
+2020-07-04,Mitchell,Iowa,19131,37,0
+2020-07-04,Mitchell,Kansas,20123,4,0
+2020-07-04,Mitchell,North Carolina,37121,43,0
+2020-07-04,Mitchell,Texas,48335,10,0
+2020-07-05,Mitchell,Georgia,13205,459,38
+2020-07-05,Mitchell,Iowa,19131,37,0
+2020-07-05,Mitchell,Kansas,20123,4,0
+2020-07-05,Mitchell,North Carolina,37121,44,0
+2020-07-05,Mitchell,Texas,48335,12,0
+2020-07-06,Mitchell,Georgia,13205,459,38
+2020-07-06,Mitchell,Iowa,19131,39,0
+2020-07-06,Mitchell,Kansas,20123,4,0
+2020-07-06,Mitchell,North Carolina,37121,49,0
+2020-07-06,Mitchell,Texas,48335,12,0
+2020-07-07,Mitchell,Georgia,13205,468,39
+2020-07-07,Mitchell,Iowa,19131,41,0
+2020-07-07,Mitchell,Kansas,20123,4,0
+2020-07-07,Mitchell,North Carolina,37121,51,0
+2020-07-07,Mitchell,Texas,48335,12,0
+2020-07-08,Mitchell,Georgia,13205,475,39
+2020-07-08,Mitchell,Iowa,19131,41,0
+2020-07-08,Mitchell,Kansas,20123,5,0
+2020-07-08,Mitchell,North Carolina,37121,52,0
+2020-07-08,Mitchell,Texas,48335,18,0
+2020-07-09,Mitchell,Georgia,13205,477,40
+2020-07-09,Mitchell,Iowa,19131,43,0
+2020-07-09,Mitchell,Kansas,20123,5,0
+2020-07-09,Mitchell,North Carolina,37121,56,0
+2020-07-09,Mitchell,Texas,48335,21,0
+2020-07-10,Mitchell,Georgia,13205,486,40
+2020-07-10,Mitchell,Iowa,19131,44,0
+2020-07-10,Mitchell,Kansas,20123,11,0
+2020-07-10,Mitchell,North Carolina,37121,55,0
+2020-07-10,Mitchell,Texas,48335,23,0
+2020-07-11,Mitchell,Georgia,13205,488,40
+2020-07-11,Mitchell,Iowa,19131,44,0
+2020-07-11,Mitchell,Kansas,20123,11,0
+2020-07-11,Mitchell,North Carolina,37121,55,0
+2020-07-11,Mitchell,Texas,48335,25,0
+2020-07-12,Mitchell,Georgia,13205,491,40
+2020-07-12,Mitchell,Iowa,19131,46,0
+2020-07-12,Mitchell,Kansas,20123,13,0
+2020-07-12,Mitchell,North Carolina,37121,55,0
+2020-07-12,Mitchell,Texas,48335,25,0
+2020-07-13,Mitchell,Georgia,13205,501,41
+2020-07-13,Mitchell,Iowa,19131,47,0
+2020-07-13,Mitchell,Kansas,20123,13,0
+2020-07-13,Mitchell,North Carolina,37121,56,0
+2020-07-13,Mitchell,Texas,48335,25,0

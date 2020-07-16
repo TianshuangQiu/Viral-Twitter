@@ -1,0 +1,580 @@
+2020-03-06,Pierce,Washington,53053,1,0
+2020-03-07,Pierce,Washington,53053,3,0
+2020-03-08,Pierce,Washington,53053,4,0
+2020-03-09,Pierce,Washington,53053,7,0
+2020-03-09,Pierce,Wisconsin,55093,1,0
+2020-03-10,Pierce,Washington,53053,14,0
+2020-03-10,Pierce,Wisconsin,55093,1,0
+2020-03-11,Pierce,Washington,53053,17,0
+2020-03-11,Pierce,Wisconsin,55093,1,0
+2020-03-12,Pierce,Washington,53053,17,0
+2020-03-12,Pierce,Wisconsin,55093,1,0
+2020-03-13,Pierce,Washington,53053,19,0
+2020-03-13,Pierce,Wisconsin,55093,1,0
+2020-03-14,Pierce,Washington,53053,26,0
+2020-03-14,Pierce,Wisconsin,55093,1,0
+2020-03-15,Pierce,Washington,53053,29,0
+2020-03-15,Pierce,Wisconsin,55093,1,0
+2020-03-16,Pierce,Washington,53053,44,0
+2020-03-16,Pierce,Wisconsin,55093,1,0
+2020-03-17,Pierce,Washington,53053,44,0
+2020-03-17,Pierce,Wisconsin,55093,1,0
+2020-03-18,Pierce,Washington,53053,56,1
+2020-03-18,Pierce,Wisconsin,55093,1,0
+2020-03-19,Pierce,Washington,53053,75,1
+2020-03-19,Pierce,Wisconsin,55093,1,0
+2020-03-20,Pierce,North Dakota,38069,1,0
+2020-03-20,Pierce,Washington,53053,83,1
+2020-03-20,Pierce,Wisconsin,55093,1,0
+2020-03-21,Pierce,North Dakota,38069,1,0
+2020-03-21,Pierce,Washington,53053,95,1
+2020-03-21,Pierce,Wisconsin,55093,1,0
+2020-03-22,Pierce,North Dakota,38069,2,0
+2020-03-22,Pierce,Washington,53053,107,1
+2020-03-22,Pierce,Wisconsin,55093,1,0
+2020-03-23,Pierce,Georgia,13229,1,0
+2020-03-23,Pierce,North Dakota,38069,2,0
+2020-03-23,Pierce,Washington,53053,126,1
+2020-03-23,Pierce,Wisconsin,55093,3,0
+2020-03-24,Pierce,Georgia,13229,1,0
+2020-03-24,Pierce,North Dakota,38069,2,0
+2020-03-24,Pierce,Washington,53053,138,1
+2020-03-24,Pierce,Wisconsin,55093,3,0
+2020-03-25,Pierce,Georgia,13229,1,0
+2020-03-25,Pierce,North Dakota,38069,2,0
+2020-03-25,Pierce,Washington,53053,155,2
+2020-03-25,Pierce,Wisconsin,55093,3,0
+2020-03-26,Pierce,Georgia,13229,1,0
+2020-03-26,Pierce,North Dakota,38069,2,0
+2020-03-26,Pierce,Washington,53053,186,4
+2020-03-26,Pierce,Wisconsin,55093,3,0
+2020-03-27,Pierce,Georgia,13229,1,0
+2020-03-27,Pierce,North Dakota,38069,2,0
+2020-03-27,Pierce,Washington,53053,231,5
+2020-03-27,Pierce,Wisconsin,55093,4,0
+2020-03-28,Pierce,Georgia,13229,2,0
+2020-03-28,Pierce,North Dakota,38069,2,0
+2020-03-28,Pierce,Washington,53053,282,5
+2020-03-28,Pierce,Wisconsin,55093,4,0
+2020-03-29,Pierce,Georgia,13229,2,0
+2020-03-29,Pierce,North Dakota,38069,2,0
+2020-03-29,Pierce,Washington,53053,318,6
+2020-03-29,Pierce,Wisconsin,55093,4,0
+2020-03-30,Pierce,Georgia,13229,2,0
+2020-03-30,Pierce,North Dakota,38069,2,0
+2020-03-30,Pierce,Washington,53053,353,6
+2020-03-30,Pierce,Wisconsin,55093,6,0
+2020-03-31,Pierce,Georgia,13229,3,0
+2020-03-31,Pierce,North Dakota,38069,2,0
+2020-03-31,Pierce,Washington,53053,353,6
+2020-03-31,Pierce,Wisconsin,55093,7,0
+2020-04-01,Pierce,Georgia,13229,7,0
+2020-04-01,Pierce,North Dakota,38069,2,0
+2020-04-01,Pierce,Washington,53053,424,7
+2020-04-01,Pierce,Wisconsin,55093,7,0
+2020-04-02,Pierce,Georgia,13229,10,0
+2020-04-02,Pierce,North Dakota,38069,2,0
+2020-04-02,Pierce,Washington,53053,499,7
+2020-04-02,Pierce,Wisconsin,55093,7,0
+2020-04-03,Pierce,Georgia,13229,16,0
+2020-04-03,Pierce,North Dakota,38069,2,0
+2020-04-03,Pierce,Washington,53053,578,7
+2020-04-03,Pierce,Wisconsin,55093,7,0
+2020-04-04,Pierce,Georgia,13229,16,0
+2020-04-04,Pierce,North Dakota,38069,2,0
+2020-04-04,Pierce,Washington,53053,627,8
+2020-04-04,Pierce,Wisconsin,55093,7,0
+2020-04-05,Pierce,Georgia,13229,16,0
+2020-04-05,Pierce,North Dakota,38069,2,0
+2020-04-05,Pierce,Washington,53053,695,10
+2020-04-05,Pierce,Wisconsin,55093,7,0
+2020-04-06,Pierce,Georgia,13229,23,0
+2020-04-06,Pierce,North Dakota,38069,2,0
+2020-04-06,Pierce,Washington,53053,724,12
+2020-04-06,Pierce,Wisconsin,55093,7,0
+2020-04-07,Pierce,Georgia,13229,32,1
+2020-04-07,Pierce,North Dakota,38069,2,0
+2020-04-07,Pierce,Washington,53053,767,14
+2020-04-07,Pierce,Wisconsin,55093,7,0
+2020-04-08,Pierce,Georgia,13229,39,1
+2020-04-08,Pierce,North Dakota,38069,2,0
+2020-04-08,Pierce,Washington,53053,802,16
+2020-04-08,Pierce,Wisconsin,55093,7,0
+2020-04-09,Pierce,Georgia,13229,40,1
+2020-04-09,Pierce,North Dakota,38069,2,0
+2020-04-09,Pierce,Washington,53053,845,17
+2020-04-09,Pierce,Wisconsin,55093,7,0
+2020-04-10,Pierce,Georgia,13229,43,2
+2020-04-10,Pierce,North Dakota,38069,2,0
+2020-04-10,Pierce,Washington,53053,882,19
+2020-04-10,Pierce,Wisconsin,55093,7,0
+2020-04-11,Pierce,Georgia,13229,45,2
+2020-04-11,Pierce,Nebraska,31139,1,0
+2020-04-11,Pierce,North Dakota,38069,2,0
+2020-04-11,Pierce,Washington,53053,931,19
+2020-04-11,Pierce,Wisconsin,55093,7,0
+2020-04-12,Pierce,Georgia,13229,45,2
+2020-04-12,Pierce,Nebraska,31139,1,0
+2020-04-12,Pierce,North Dakota,38069,2,0
+2020-04-12,Pierce,Washington,53053,940,20
+2020-04-12,Pierce,Wisconsin,55093,7,0
+2020-04-13,Pierce,Georgia,13229,45,2
+2020-04-13,Pierce,Nebraska,31139,1,0
+2020-04-13,Pierce,North Dakota,38069,2,0
+2020-04-13,Pierce,Washington,53053,984,20
+2020-04-13,Pierce,Wisconsin,55093,7,0
+2020-04-14,Pierce,Georgia,13229,47,2
+2020-04-14,Pierce,Nebraska,31139,1,0
+2020-04-14,Pierce,North Dakota,38069,2,0
+2020-04-14,Pierce,Washington,53053,1023,23
+2020-04-14,Pierce,Wisconsin,55093,7,0
+2020-04-15,Pierce,Georgia,13229,48,2
+2020-04-15,Pierce,Nebraska,31139,1,0
+2020-04-15,Pierce,North Dakota,38069,2,0
+2020-04-15,Pierce,Washington,53053,1051,28
+2020-04-15,Pierce,Wisconsin,55093,7,0
+2020-04-16,Pierce,Georgia,13229,49,2
+2020-04-16,Pierce,Nebraska,31139,1,0
+2020-04-16,Pierce,North Dakota,38069,2,0
+2020-04-16,Pierce,Washington,53053,1092,30
+2020-04-16,Pierce,Wisconsin,55093,7,0
+2020-04-17,Pierce,Georgia,13229,49,2
+2020-04-17,Pierce,Nebraska,31139,1,0
+2020-04-17,Pierce,North Dakota,38069,2,0
+2020-04-17,Pierce,Washington,53053,1126,30
+2020-04-17,Pierce,Wisconsin,55093,7,0
+2020-04-18,Pierce,Georgia,13229,51,2
+2020-04-18,Pierce,Nebraska,31139,1,0
+2020-04-18,Pierce,North Dakota,38069,2,0
+2020-04-18,Pierce,Washington,53053,1197,32
+2020-04-18,Pierce,Wisconsin,55093,7,0
+2020-04-19,Pierce,Georgia,13229,51,2
+2020-04-19,Pierce,Nebraska,31139,1,0
+2020-04-19,Pierce,North Dakota,38069,2,0
+2020-04-19,Pierce,Washington,53053,1229,32
+2020-04-19,Pierce,Wisconsin,55093,7,0
+2020-04-20,Pierce,Georgia,13229,51,2
+2020-04-20,Pierce,Nebraska,31139,1,0
+2020-04-20,Pierce,North Dakota,38069,2,0
+2020-04-20,Pierce,Washington,53053,1258,34
+2020-04-20,Pierce,Wisconsin,55093,7,0
+2020-04-21,Pierce,Georgia,13229,51,2
+2020-04-21,Pierce,Nebraska,31139,1,0
+2020-04-21,Pierce,North Dakota,38069,2,0
+2020-04-21,Pierce,Washington,53053,1290,36
+2020-04-21,Pierce,Wisconsin,55093,8,0
+2020-04-22,Pierce,Georgia,13229,51,2
+2020-04-22,Pierce,Nebraska,31139,1,0
+2020-04-22,Pierce,North Dakota,38069,2,0
+2020-04-22,Pierce,Washington,53053,1315,40
+2020-04-22,Pierce,Wisconsin,55093,8,0
+2020-04-23,Pierce,Georgia,13229,51,2
+2020-04-23,Pierce,Nebraska,31139,1,0
+2020-04-23,Pierce,North Dakota,38069,2,0
+2020-04-23,Pierce,Washington,53053,1343,44
+2020-04-23,Pierce,Wisconsin,55093,8,0
+2020-04-24,Pierce,Georgia,13229,52,2
+2020-04-24,Pierce,Nebraska,31139,1,0
+2020-04-24,Pierce,North Dakota,38069,2,0
+2020-04-24,Pierce,Washington,53053,1370,47
+2020-04-24,Pierce,Wisconsin,55093,8,0
+2020-04-25,Pierce,Georgia,13229,52,2
+2020-04-25,Pierce,Nebraska,31139,1,0
+2020-04-25,Pierce,North Dakota,38069,2,0
+2020-04-25,Pierce,Washington,53053,1394,47
+2020-04-25,Pierce,Wisconsin,55093,8,0
+2020-04-26,Pierce,Georgia,13229,52,2
+2020-04-26,Pierce,Nebraska,31139,1,0
+2020-04-26,Pierce,North Dakota,38069,2,0
+2020-04-26,Pierce,Washington,53053,1408,48
+2020-04-26,Pierce,Wisconsin,55093,9,0
+2020-04-27,Pierce,Georgia,13229,54,2
+2020-04-27,Pierce,Nebraska,31139,1,0
+2020-04-27,Pierce,North Dakota,38069,2,0
+2020-04-27,Pierce,Washington,53053,1449,49
+2020-04-27,Pierce,Wisconsin,55093,9,0
+2020-04-28,Pierce,Georgia,13229,54,3
+2020-04-28,Pierce,Nebraska,31139,1,0
+2020-04-28,Pierce,North Dakota,38069,2,0
+2020-04-28,Pierce,Washington,53053,1494,51
+2020-04-28,Pierce,Wisconsin,55093,9,0
+2020-04-29,Pierce,Georgia,13229,54,3
+2020-04-29,Pierce,Nebraska,31139,1,0
+2020-04-29,Pierce,North Dakota,38069,2,0
+2020-04-29,Pierce,Washington,53053,1519,51
+2020-04-29,Pierce,Wisconsin,55093,10,0
+2020-04-30,Pierce,Georgia,13229,55,3
+2020-04-30,Pierce,Nebraska,31139,1,0
+2020-04-30,Pierce,North Dakota,38069,2,0
+2020-04-30,Pierce,Washington,53053,1554,51
+2020-04-30,Pierce,Wisconsin,55093,10,0
+2020-05-01,Pierce,Georgia,13229,55,3
+2020-05-01,Pierce,Nebraska,31139,1,0
+2020-05-01,Pierce,North Dakota,38069,2,0
+2020-05-01,Pierce,Washington,53053,1587,51
+2020-05-01,Pierce,Wisconsin,55093,10,0
+2020-05-02,Pierce,Georgia,13229,52,3
+2020-05-02,Pierce,Nebraska,31139,1,0
+2020-05-02,Pierce,North Dakota,38069,2,0
+2020-05-02,Pierce,Washington,53053,1620,52
+2020-05-02,Pierce,Wisconsin,55093,10,0
+2020-05-03,Pierce,Georgia,13229,51,3
+2020-05-03,Pierce,Nebraska,31139,1,0
+2020-05-03,Pierce,North Dakota,38069,2,0
+2020-05-03,Pierce,Washington,53053,1640,52
+2020-05-03,Pierce,Wisconsin,55093,10,0
+2020-05-04,Pierce,Georgia,13229,53,3
+2020-05-04,Pierce,Nebraska,31139,2,0
+2020-05-04,Pierce,North Dakota,38069,2,0
+2020-05-04,Pierce,Washington,53053,1673,52
+2020-05-04,Pierce,Wisconsin,55093,10,0
+2020-05-05,Pierce,Georgia,13229,57,3
+2020-05-05,Pierce,Nebraska,31139,2,0
+2020-05-05,Pierce,North Dakota,38069,2,0
+2020-05-05,Pierce,Washington,53053,1711,54
+2020-05-05,Pierce,Wisconsin,55093,11,0
+2020-05-06,Pierce,Georgia,13229,58,3
+2020-05-06,Pierce,Nebraska,31139,1,0
+2020-05-06,Pierce,North Dakota,38069,2,0
+2020-05-06,Pierce,Washington,53053,1757,54
+2020-05-06,Pierce,Wisconsin,55093,11,0
+2020-05-07,Pierce,Georgia,13229,59,3
+2020-05-07,Pierce,Nebraska,31139,1,0
+2020-05-07,Pierce,North Dakota,38069,3,0
+2020-05-07,Pierce,Washington,53053,1801,57
+2020-05-07,Pierce,Wisconsin,55093,12,0
+2020-05-08,Pierce,Georgia,13229,59,3
+2020-05-08,Pierce,Nebraska,31139,1,0
+2020-05-08,Pierce,North Dakota,38069,3,0
+2020-05-08,Pierce,Washington,53053,1820,58
+2020-05-08,Pierce,Wisconsin,55093,12,0
+2020-05-09,Pierce,Georgia,13229,65,3
+2020-05-09,Pierce,Nebraska,31139,1,0
+2020-05-09,Pierce,North Dakota,38069,3,0
+2020-05-09,Pierce,Washington,53053,1857,60
+2020-05-09,Pierce,Wisconsin,55093,12,0
+2020-05-10,Pierce,Georgia,13229,67,3
+2020-05-10,Pierce,Nebraska,31139,1,0
+2020-05-10,Pierce,North Dakota,38069,3,0
+2020-05-10,Pierce,Washington,53053,1883,60
+2020-05-10,Pierce,Wisconsin,55093,12,0
+2020-05-11,Pierce,Georgia,13229,67,4
+2020-05-11,Pierce,Nebraska,31139,1,0
+2020-05-11,Pierce,North Dakota,38069,3,0
+2020-05-11,Pierce,Washington,53053,1907,62
+2020-05-11,Pierce,Wisconsin,55093,13,0
+2020-05-12,Pierce,Georgia,13229,68,4
+2020-05-12,Pierce,Nebraska,31139,1,0
+2020-05-12,Pierce,North Dakota,38069,3,0
+2020-05-12,Pierce,Washington,53053,1927,63
+2020-05-12,Pierce,Wisconsin,55093,14,0
+2020-05-13,Pierce,Georgia,13229,69,4
+2020-05-13,Pierce,Nebraska,31139,1,0
+2020-05-13,Pierce,North Dakota,38069,3,0
+2020-05-13,Pierce,Washington,53053,1941,63
+2020-05-13,Pierce,Wisconsin,55093,14,0
+2020-05-14,Pierce,Georgia,13229,69,4
+2020-05-14,Pierce,Nebraska,31139,1,0
+2020-05-14,Pierce,North Dakota,38069,3,0
+2020-05-14,Pierce,Washington,53053,1966,65
+2020-05-14,Pierce,Wisconsin,55093,15,0
+2020-05-15,Pierce,Georgia,13229,69,4
+2020-05-15,Pierce,Nebraska,31139,1,0
+2020-05-15,Pierce,North Dakota,38069,3,0
+2020-05-15,Pierce,Washington,53053,1990,66
+2020-05-15,Pierce,Wisconsin,55093,16,0
+2020-05-16,Pierce,Georgia,13229,70,4
+2020-05-16,Pierce,Nebraska,31139,1,0
+2020-05-16,Pierce,North Dakota,38069,3,0
+2020-05-16,Pierce,Washington,53053,2020,68
+2020-05-16,Pierce,Wisconsin,55093,17,0
+2020-05-17,Pierce,Georgia,13229,71,4
+2020-05-17,Pierce,Nebraska,31139,1,0
+2020-05-17,Pierce,North Dakota,38069,3,0
+2020-05-17,Pierce,Washington,53053,2034,68
+2020-05-17,Pierce,Wisconsin,55093,20,0
+2020-05-18,Pierce,Georgia,13229,75,4
+2020-05-18,Pierce,Nebraska,31139,1,0
+2020-05-18,Pierce,North Dakota,38069,3,0
+2020-05-18,Pierce,Washington,53053,2043,68
+2020-05-18,Pierce,Wisconsin,55093,21,0
+2020-05-19,Pierce,Georgia,13229,81,4
+2020-05-19,Pierce,Nebraska,31139,1,0
+2020-05-19,Pierce,North Dakota,38069,3,0
+2020-05-19,Pierce,Washington,53053,2069,70
+2020-05-19,Pierce,Wisconsin,55093,22,0
+2020-05-20,Pierce,Georgia,13229,84,4
+2020-05-20,Pierce,Nebraska,31139,1,0
+2020-05-20,Pierce,North Dakota,38069,3,0
+2020-05-20,Pierce,Washington,53053,2082,71
+2020-05-20,Pierce,Wisconsin,55093,26,0
+2020-05-21,Pierce,Georgia,13229,85,4
+2020-05-21,Pierce,Nebraska,31139,2,0
+2020-05-21,Pierce,North Dakota,38069,4,0
+2020-05-21,Pierce,Washington,53053,2086,72
+2020-05-21,Pierce,Wisconsin,55093,30,0
+2020-05-22,Pierce,Georgia,13229,88,3
+2020-05-22,Pierce,Nebraska,31139,2,0
+2020-05-22,Pierce,North Dakota,38069,4,0
+2020-05-22,Pierce,Washington,53053,2098,73
+2020-05-22,Pierce,Wisconsin,55093,34,0
+2020-05-23,Pierce,Georgia,13229,88,3
+2020-05-23,Pierce,Nebraska,31139,2,0
+2020-05-23,Pierce,North Dakota,38069,4,0
+2020-05-23,Pierce,Washington,53053,2110,73
+2020-05-23,Pierce,Wisconsin,55093,36,0
+2020-05-24,Pierce,Georgia,13229,89,3
+2020-05-24,Pierce,Nebraska,31139,2,0
+2020-05-24,Pierce,North Dakota,38069,4,0
+2020-05-24,Pierce,Washington,53053,2130,74
+2020-05-24,Pierce,Wisconsin,55093,42,0
+2020-05-25,Pierce,Georgia,13229,90,3
+2020-05-25,Pierce,Nebraska,31139,2,0
+2020-05-25,Pierce,North Dakota,38069,4,0
+2020-05-25,Pierce,Washington,53053,2140,74
+2020-05-25,Pierce,Wisconsin,55093,42,0
+2020-05-26,Pierce,Georgia,13229,91,3
+2020-05-26,Pierce,Nebraska,31139,3,0
+2020-05-26,Pierce,North Dakota,38069,3,0
+2020-05-26,Pierce,Washington,53053,2143,75
+2020-05-26,Pierce,Wisconsin,55093,43,0
+2020-05-27,Pierce,Georgia,13229,92,3
+2020-05-27,Pierce,Nebraska,31139,3,0
+2020-05-27,Pierce,North Dakota,38069,3,0
+2020-05-27,Pierce,Washington,53053,2159,76
+2020-05-27,Pierce,Wisconsin,55093,43,0
+2020-05-28,Pierce,Georgia,13229,97,3
+2020-05-28,Pierce,Nebraska,31139,5,0
+2020-05-28,Pierce,North Dakota,38069,3,0
+2020-05-28,Pierce,Washington,53053,2179,78
+2020-05-28,Pierce,Wisconsin,55093,44,0
+2020-05-29,Pierce,Georgia,13229,98,3
+2020-05-29,Pierce,Nebraska,31139,5,0
+2020-05-29,Pierce,North Dakota,38069,3,0
+2020-05-29,Pierce,Washington,53053,2191,78
+2020-05-29,Pierce,Wisconsin,55093,45,0
+2020-05-30,Pierce,Georgia,13229,99,3
+2020-05-30,Pierce,Nebraska,31139,6,0
+2020-05-30,Pierce,North Dakota,38069,3,0
+2020-05-30,Pierce,Washington,53053,2205,79
+2020-05-30,Pierce,Wisconsin,55093,45,0
+2020-05-31,Pierce,Georgia,13229,100,3
+2020-05-31,Pierce,Nebraska,31139,6,0
+2020-05-31,Pierce,North Dakota,38069,3,0
+2020-05-31,Pierce,Washington,53053,2224,79
+2020-05-31,Pierce,Wisconsin,55093,45,0
+2020-06-01,Pierce,Georgia,13229,99,3
+2020-06-01,Pierce,Nebraska,31139,6,0
+2020-06-01,Pierce,North Dakota,38069,3,0
+2020-06-01,Pierce,Washington,53053,2232,79
+2020-06-01,Pierce,Wisconsin,55093,45,0
+2020-06-02,Pierce,Georgia,13229,100,3
+2020-06-02,Pierce,Nebraska,31139,6,0
+2020-06-02,Pierce,North Dakota,38069,3,0
+2020-06-02,Pierce,Washington,53053,2245,81
+2020-06-02,Pierce,Wisconsin,55093,47,0
+2020-06-03,Pierce,Georgia,13229,105,3
+2020-06-03,Pierce,Nebraska,31139,6,0
+2020-06-03,Pierce,North Dakota,38069,3,0
+2020-06-03,Pierce,Washington,53053,2270,82
+2020-06-03,Pierce,Wisconsin,55093,47,0
+2020-06-04,Pierce,Georgia,13229,109,4
+2020-06-04,Pierce,Nebraska,31139,6,0
+2020-06-04,Pierce,North Dakota,38069,3,0
+2020-06-04,Pierce,Washington,53053,2286,83
+2020-06-04,Pierce,Wisconsin,55093,49,0
+2020-06-05,Pierce,Georgia,13229,114,4
+2020-06-05,Pierce,Nebraska,31139,6,0
+2020-06-05,Pierce,North Dakota,38069,3,0
+2020-06-05,Pierce,Washington,53053,2303,84
+2020-06-05,Pierce,Wisconsin,55093,50,0
+2020-06-06,Pierce,Georgia,13229,116,4
+2020-06-06,Pierce,Nebraska,31139,6,0
+2020-06-06,Pierce,North Dakota,38069,3,0
+2020-06-06,Pierce,Washington,53053,2323,85
+2020-06-06,Pierce,Wisconsin,55093,50,0
+2020-06-07,Pierce,Georgia,13229,117,4
+2020-06-07,Pierce,Nebraska,31139,6,0
+2020-06-07,Pierce,North Dakota,38069,3,0
+2020-06-07,Pierce,Washington,53053,2332,85
+2020-06-07,Pierce,Wisconsin,55093,50,0
+2020-06-08,Pierce,Georgia,13229,119,4
+2020-06-08,Pierce,Nebraska,31139,6,0
+2020-06-08,Pierce,North Dakota,38069,3,0
+2020-06-08,Pierce,Washington,53053,2345,85
+2020-06-08,Pierce,Wisconsin,55093,50,0
+2020-06-09,Pierce,Georgia,13229,121,4
+2020-06-09,Pierce,Nebraska,31139,6,0
+2020-06-09,Pierce,North Dakota,38069,3,0
+2020-06-09,Pierce,Washington,53053,2357,87
+2020-06-09,Pierce,Wisconsin,55093,51,0
+2020-06-10,Pierce,Georgia,13229,122,4
+2020-06-10,Pierce,Nebraska,31139,6,0
+2020-06-10,Pierce,North Dakota,38069,3,0
+2020-06-10,Pierce,Washington,53053,2364,87
+2020-06-10,Pierce,Wisconsin,55093,51,0
+2020-06-11,Pierce,Georgia,13229,125,4
+2020-06-11,Pierce,Nebraska,31139,6,0
+2020-06-11,Pierce,North Dakota,38069,3,0
+2020-06-11,Pierce,Washington,53053,2369,87
+2020-06-11,Pierce,Wisconsin,55093,51,0
+2020-06-12,Pierce,Georgia,13229,126,4
+2020-06-12,Pierce,Nebraska,31139,6,0
+2020-06-12,Pierce,North Dakota,38069,3,0
+2020-06-12,Pierce,Washington,53053,2383,88
+2020-06-12,Pierce,Wisconsin,55093,51,0
+2020-06-13,Pierce,Georgia,13229,128,4
+2020-06-13,Pierce,Nebraska,31139,6,0
+2020-06-13,Pierce,North Dakota,38069,3,0
+2020-06-13,Pierce,Washington,53053,2404,88
+2020-06-13,Pierce,Wisconsin,55093,52,0
+2020-06-14,Pierce,Georgia,13229,128,4
+2020-06-14,Pierce,Nebraska,31139,6,0
+2020-06-14,Pierce,North Dakota,38069,3,0
+2020-06-14,Pierce,Washington,53053,2423,89
+2020-06-14,Pierce,Wisconsin,55093,54,0
+2020-06-15,Pierce,Georgia,13229,131,4
+2020-06-15,Pierce,Nebraska,31139,6,0
+2020-06-15,Pierce,North Dakota,38069,3,0
+2020-06-15,Pierce,Washington,53053,2435,89
+2020-06-15,Pierce,Wisconsin,55093,57,0
+2020-06-16,Pierce,Georgia,13229,132,4
+2020-06-16,Pierce,Nebraska,31139,6,0
+2020-06-16,Pierce,North Dakota,38069,3,0
+2020-06-16,Pierce,Washington,53053,2458,89
+2020-06-16,Pierce,Wisconsin,55093,57,0
+2020-06-17,Pierce,Georgia,13229,132,4
+2020-06-17,Pierce,Nebraska,31139,6,0
+2020-06-17,Pierce,North Dakota,38069,3,0
+2020-06-17,Pierce,Washington,53053,2478,89
+2020-06-17,Pierce,Wisconsin,55093,57,0
+2020-06-18,Pierce,Georgia,13229,132,4
+2020-06-18,Pierce,Nebraska,31139,6,0
+2020-06-18,Pierce,North Dakota,38069,3,0
+2020-06-18,Pierce,Washington,53053,2504,89
+2020-06-18,Pierce,Wisconsin,55093,57,0
+2020-06-19,Pierce,Georgia,13229,134,4
+2020-06-19,Pierce,Nebraska,31139,6,0
+2020-06-19,Pierce,North Dakota,38069,4,0
+2020-06-19,Pierce,Washington,53053,2532,90
+2020-06-19,Pierce,Wisconsin,55093,57,0
+2020-06-20,Pierce,Georgia,13229,135,4
+2020-06-20,Pierce,Nebraska,31139,6,0
+2020-06-20,Pierce,North Dakota,38069,4,0
+2020-06-20,Pierce,Washington,53053,2532,92
+2020-06-20,Pierce,Wisconsin,55093,57,0
+2020-06-21,Pierce,Georgia,13229,137,4
+2020-06-21,Pierce,Nebraska,31139,6,0
+2020-06-21,Pierce,North Dakota,38069,4,0
+2020-06-21,Pierce,Washington,53053,2591,93
+2020-06-21,Pierce,Wisconsin,55093,57,0
+2020-06-22,Pierce,Georgia,13229,140,4
+2020-06-22,Pierce,Nebraska,31139,6,0
+2020-06-22,Pierce,North Dakota,38069,4,0
+2020-06-22,Pierce,Washington,53053,2600,92
+2020-06-22,Pierce,Wisconsin,55093,57,0
+2020-06-23,Pierce,Georgia,13229,143,4
+2020-06-23,Pierce,Nebraska,31139,6,0
+2020-06-23,Pierce,North Dakota,38069,4,0
+2020-06-23,Pierce,Washington,53053,2625,93
+2020-06-23,Pierce,Wisconsin,55093,57,0
+2020-06-24,Pierce,Georgia,13229,148,4
+2020-06-24,Pierce,Nebraska,31139,7,0
+2020-06-24,Pierce,North Dakota,38069,4,0
+2020-06-24,Pierce,Washington,53053,2672,96
+2020-06-24,Pierce,Wisconsin,55093,57,0
+2020-06-25,Pierce,Georgia,13229,155,4
+2020-06-25,Pierce,Nebraska,31139,7,0
+2020-06-25,Pierce,North Dakota,38069,4,0
+2020-06-25,Pierce,Washington,53053,2709,97
+2020-06-25,Pierce,Wisconsin,55093,60,0
+2020-06-26,Pierce,Georgia,13229,156,4
+2020-06-26,Pierce,Nebraska,31139,7,0
+2020-06-26,Pierce,North Dakota,38069,4,0
+2020-06-26,Pierce,Washington,53053,2739,97
+2020-06-26,Pierce,Wisconsin,55093,64,0
+2020-06-27,Pierce,Georgia,13229,158,4
+2020-06-27,Pierce,Nebraska,31139,8,0
+2020-06-27,Pierce,North Dakota,38069,4,0
+2020-06-27,Pierce,Washington,53053,2797,97
+2020-06-27,Pierce,Wisconsin,55093,65,0
+2020-06-28,Pierce,Georgia,13229,161,4
+2020-06-28,Pierce,Nebraska,31139,8,0
+2020-06-28,Pierce,North Dakota,38069,4,0
+2020-06-28,Pierce,Washington,53053,2820,97
+2020-06-28,Pierce,Wisconsin,55093,66,0
+2020-06-29,Pierce,Georgia,13229,162,4
+2020-06-29,Pierce,Nebraska,31139,8,0
+2020-06-29,Pierce,North Dakota,38069,4,0
+2020-06-29,Pierce,Washington,53053,2841,98
+2020-06-29,Pierce,Wisconsin,55093,68,0
+2020-06-30,Pierce,Georgia,13229,170,4
+2020-06-30,Pierce,Nebraska,31139,8,0
+2020-06-30,Pierce,North Dakota,38069,5,0
+2020-06-30,Pierce,Washington,53053,2887,101
+2020-06-30,Pierce,Wisconsin,55093,68,0
+2020-07-01,Pierce,Georgia,13229,174,5
+2020-07-01,Pierce,Nebraska,31139,8,0
+2020-07-01,Pierce,North Dakota,38069,5,0
+2020-07-01,Pierce,Washington,53053,2928,104
+2020-07-01,Pierce,Wisconsin,55093,68,0
+2020-07-02,Pierce,Georgia,13229,181,5
+2020-07-02,Pierce,Nebraska,31139,8,0
+2020-07-02,Pierce,North Dakota,38069,5,0
+2020-07-02,Pierce,Washington,53053,2984,104
+2020-07-02,Pierce,Wisconsin,55093,68,0
+2020-07-03,Pierce,Georgia,13229,187,5
+2020-07-03,Pierce,Nebraska,31139,9,0
+2020-07-03,Pierce,North Dakota,38069,5,0
+2020-07-03,Pierce,Washington,53053,3048,105
+2020-07-03,Pierce,Wisconsin,55093,72,0
+2020-07-04,Pierce,Georgia,13229,196,5
+2020-07-04,Pierce,Nebraska,31139,9,0
+2020-07-04,Pierce,North Dakota,38069,5,0
+2020-07-04,Pierce,Washington,53053,3097,105
+2020-07-04,Pierce,Wisconsin,55093,73,0
+2020-07-05,Pierce,Georgia,13229,199,5
+2020-07-05,Pierce,Nebraska,31139,9,0
+2020-07-05,Pierce,North Dakota,38069,5,0
+2020-07-05,Pierce,Washington,53053,3149,107
+2020-07-05,Pierce,Wisconsin,55093,75,0
+2020-07-06,Pierce,Georgia,13229,211,5
+2020-07-06,Pierce,Nebraska,31139,9,0
+2020-07-06,Pierce,North Dakota,38069,5,0
+2020-07-06,Pierce,Washington,53053,3212,108
+2020-07-06,Pierce,Wisconsin,55093,76,0
+2020-07-07,Pierce,Georgia,13229,217,5
+2020-07-07,Pierce,Nebraska,31139,9,0
+2020-07-07,Pierce,North Dakota,38069,5,0
+2020-07-07,Pierce,Washington,53053,3242,110
+2020-07-07,Pierce,Wisconsin,55093,77,0
+2020-07-08,Pierce,Georgia,13229,223,5
+2020-07-08,Pierce,Nebraska,31139,10,0
+2020-07-08,Pierce,North Dakota,38069,6,0
+2020-07-08,Pierce,Washington,53053,3304,111
+2020-07-08,Pierce,Wisconsin,55093,80,0
+2020-07-09,Pierce,Georgia,13229,230,5
+2020-07-09,Pierce,Nebraska,31139,10,0
+2020-07-09,Pierce,North Dakota,38069,6,0
+2020-07-09,Pierce,Washington,53053,3366,111
+2020-07-09,Pierce,Wisconsin,55093,83,0
+2020-07-10,Pierce,Georgia,13229,238,5
+2020-07-10,Pierce,Nebraska,31139,11,0
+2020-07-10,Pierce,North Dakota,38069,7,0
+2020-07-10,Pierce,Washington,53053,3423,112
+2020-07-10,Pierce,Wisconsin,55093,92,0
+2020-07-11,Pierce,Georgia,13229,250,5
+2020-07-11,Pierce,Nebraska,31139,11,0
+2020-07-11,Pierce,North Dakota,38069,8,0
+2020-07-11,Pierce,Washington,53053,3504,112
+2020-07-11,Pierce,Wisconsin,55093,99,0
+2020-07-12,Pierce,Georgia,13229,256,5
+2020-07-12,Pierce,Nebraska,31139,10,0
+2020-07-12,Pierce,North Dakota,38069,8,0
+2020-07-12,Pierce,Washington,53053,3574,113
+2020-07-12,Pierce,Wisconsin,55093,100,0
+2020-07-13,Pierce,Georgia,13229,264,5
+2020-07-13,Pierce,Nebraska,31139,11,0
+2020-07-13,Pierce,North Dakota,38069,8,0
+2020-07-13,Pierce,Washington,53053,3634,113
+2020-07-13,Pierce,Wisconsin,55093,103,0

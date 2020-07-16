@@ -1,0 +1,345 @@
+2020-03-12,Northampton,Pennsylvania,42095,1,0
+2020-03-13,Northampton,Pennsylvania,42095,1,0
+2020-03-14,Northampton,Pennsylvania,42095,1,0
+2020-03-15,Northampton,Pennsylvania,42095,1,0
+2020-03-16,Northampton,Pennsylvania,42095,1,0
+2020-03-17,Northampton,Pennsylvania,42095,1,0
+2020-03-18,Northampton,Pennsylvania,42095,1,1
+2020-03-19,Northampton,Pennsylvania,42095,5,1
+2020-03-20,Northampton,Pennsylvania,42095,10,1
+2020-03-21,Northampton,Pennsylvania,42095,17,1
+2020-03-22,Northampton,Pennsylvania,42095,21,1
+2020-03-23,Northampton,Pennsylvania,42095,23,1
+2020-03-24,Northampton,Pennsylvania,42095,33,2
+2020-03-25,Northampton,North Carolina,37131,1,0
+2020-03-25,Northampton,Pennsylvania,42095,44,3
+2020-03-26,Northampton,North Carolina,37131,3,0
+2020-03-26,Northampton,Pennsylvania,42095,56,3
+2020-03-26,Northampton,Virginia,51131,1,0
+2020-03-27,Northampton,North Carolina,37131,3,0
+2020-03-27,Northampton,Pennsylvania,42095,79,3
+2020-03-27,Northampton,Virginia,51131,1,0
+2020-03-28,Northampton,North Carolina,37131,4,0
+2020-03-28,Northampton,Pennsylvania,42095,94,4
+2020-03-28,Northampton,Virginia,51131,1,0
+2020-03-29,Northampton,North Carolina,37131,25,0
+2020-03-29,Northampton,Pennsylvania,42095,126,4
+2020-03-29,Northampton,Virginia,51131,1,0
+2020-03-30,Northampton,North Carolina,37131,26,0
+2020-03-30,Northampton,Pennsylvania,42095,184,5
+2020-03-30,Northampton,Virginia,51131,1,0
+2020-03-31,Northampton,North Carolina,37131,30,0
+2020-03-31,Northampton,Pennsylvania,42095,245,5
+2020-03-31,Northampton,Virginia,51131,1,0
+2020-04-01,Northampton,North Carolina,37131,30,0
+2020-04-01,Northampton,Pennsylvania,42095,312,5
+2020-04-01,Northampton,Virginia,51131,1,0
+2020-04-02,Northampton,North Carolina,37131,30,0
+2020-04-02,Northampton,Pennsylvania,42095,378,9
+2020-04-02,Northampton,Virginia,51131,1,0
+2020-04-03,Northampton,North Carolina,37131,33,0
+2020-04-03,Northampton,Pennsylvania,42095,466,10
+2020-04-03,Northampton,Virginia,51131,2,0
+2020-04-04,Northampton,North Carolina,37131,36,0
+2020-04-04,Northampton,Pennsylvania,42095,588,11
+2020-04-04,Northampton,Virginia,51131,2,0
+2020-04-05,Northampton,North Carolina,37131,42,0
+2020-04-05,Northampton,Pennsylvania,42095,636,11
+2020-04-05,Northampton,Virginia,51131,2,0
+2020-04-06,Northampton,North Carolina,37131,46,0
+2020-04-06,Northampton,Pennsylvania,42095,716,12
+2020-04-06,Northampton,Virginia,51131,2,0
+2020-04-07,Northampton,North Carolina,37131,51,0
+2020-04-07,Northampton,Pennsylvania,42095,774,14
+2020-04-07,Northampton,Virginia,51131,2,0
+2020-04-08,Northampton,North Carolina,37131,52,0
+2020-04-08,Northampton,Pennsylvania,42095,857,17
+2020-04-08,Northampton,Virginia,51131,2,0
+2020-04-09,Northampton,North Carolina,37131,54,0
+2020-04-09,Northampton,Pennsylvania,42095,949,20
+2020-04-09,Northampton,Virginia,51131,2,0
+2020-04-10,Northampton,North Carolina,37131,55,0
+2020-04-10,Northampton,Pennsylvania,42095,994,21
+2020-04-10,Northampton,Virginia,51131,4,0
+2020-04-11,Northampton,North Carolina,37131,60,0
+2020-04-11,Northampton,Pennsylvania,42095,1039,23
+2020-04-11,Northampton,Virginia,51131,4,0
+2020-04-12,Northampton,North Carolina,37131,61,0
+2020-04-12,Northampton,Pennsylvania,42095,1082,23
+2020-04-12,Northampton,Virginia,51131,4,0
+2020-04-13,Northampton,North Carolina,37131,61,0
+2020-04-13,Northampton,Pennsylvania,42095,1130,23
+2020-04-13,Northampton,Virginia,51131,4,0
+2020-04-14,Northampton,North Carolina,37131,63,0
+2020-04-14,Northampton,Pennsylvania,42095,1176,25
+2020-04-14,Northampton,Virginia,51131,4,0
+2020-04-15,Northampton,North Carolina,37131,65,0
+2020-04-15,Northampton,Pennsylvania,42095,1251,25
+2020-04-15,Northampton,Virginia,51131,4,0
+2020-04-16,Northampton,North Carolina,37131,69,1
+2020-04-16,Northampton,Pennsylvania,42095,1296,25
+2020-04-16,Northampton,Virginia,51131,4,0
+2020-04-17,Northampton,North Carolina,37131,69,1
+2020-04-17,Northampton,Pennsylvania,42095,1335,27
+2020-04-17,Northampton,Virginia,51131,5,0
+2020-04-18,Northampton,North Carolina,37131,69,2
+2020-04-18,Northampton,Pennsylvania,42095,1396,29
+2020-04-18,Northampton,Virginia,51131,5,0
+2020-04-19,Northampton,North Carolina,37131,72,2
+2020-04-19,Northampton,Pennsylvania,42095,1441,36
+2020-04-19,Northampton,Virginia,51131,7,0
+2020-04-20,Northampton,North Carolina,37131,72,2
+2020-04-20,Northampton,Pennsylvania,42095,1469,36
+2020-04-20,Northampton,Virginia,51131,7,0
+2020-04-21,Northampton,North Carolina,37131,73,2
+2020-04-21,Northampton,Pennsylvania,42095,1544,43
+2020-04-21,Northampton,Virginia,51131,7,0
+2020-04-22,Northampton,North Carolina,37131,73,2
+2020-04-22,Northampton,Pennsylvania,42095,1591,44
+2020-04-22,Northampton,Virginia,51131,8,0
+2020-04-23,Northampton,North Carolina,37131,74,2
+2020-04-23,Northampton,Pennsylvania,42095,1656,45
+2020-04-23,Northampton,Virginia,51131,12,0
+2020-04-24,Northampton,North Carolina,37131,79,3
+2020-04-24,Northampton,Pennsylvania,42095,1716,46
+2020-04-24,Northampton,Virginia,51131,15,0
+2020-04-25,Northampton,North Carolina,37131,80,3
+2020-04-25,Northampton,Pennsylvania,42095,1780,49
+2020-04-25,Northampton,Virginia,51131,20,0
+2020-04-26,Northampton,North Carolina,37131,80,3
+2020-04-26,Northampton,Pennsylvania,42095,1813,49
+2020-04-26,Northampton,Virginia,51131,24,0
+2020-04-27,Northampton,North Carolina,37131,81,4
+2020-04-27,Northampton,Pennsylvania,42095,1834,49
+2020-04-27,Northampton,Virginia,51131,28,0
+2020-04-28,Northampton,North Carolina,37131,81,4
+2020-04-28,Northampton,Pennsylvania,42095,1970,55
+2020-04-28,Northampton,Virginia,51131,35,0
+2020-04-29,Northampton,North Carolina,37131,81,4
+2020-04-29,Northampton,Pennsylvania,42095,2008,85
+2020-04-29,Northampton,Virginia,51131,36,0
+2020-04-30,Northampton,North Carolina,37131,82,4
+2020-04-30,Northampton,Pennsylvania,42095,2050,94
+2020-04-30,Northampton,Virginia,51131,64,0
+2020-05-01,Northampton,North Carolina,37131,87,4
+2020-05-01,Northampton,Pennsylvania,42095,2103,94
+2020-05-01,Northampton,Virginia,51131,82,0
+2020-05-02,Northampton,North Carolina,37131,89,4
+2020-05-02,Northampton,Pennsylvania,42095,2182,94
+2020-05-02,Northampton,Virginia,51131,94,0
+2020-05-03,Northampton,North Carolina,37131,89,4
+2020-05-03,Northampton,Pennsylvania,42095,2214,94
+2020-05-03,Northampton,Virginia,51131,134,1
+2020-05-04,Northampton,North Carolina,37131,92,4
+2020-05-04,Northampton,Pennsylvania,42095,2240,94
+2020-05-04,Northampton,Virginia,51131,139,1
+2020-05-05,Northampton,North Carolina,37131,91,4
+2020-05-05,Northampton,Pennsylvania,42095,2279,117
+2020-05-05,Northampton,Virginia,51131,140,1
+2020-05-06,Northampton,North Carolina,37131,93,5
+2020-05-06,Northampton,Pennsylvania,42095,2313,122
+2020-05-06,Northampton,Virginia,51131,140,1
+2020-05-07,Northampton,North Carolina,37131,102,5
+2020-05-07,Northampton,Pennsylvania,42095,2355,152
+2020-05-07,Northampton,Virginia,51131,149,3
+2020-05-08,Northampton,North Carolina,37131,102,7
+2020-05-08,Northampton,Pennsylvania,42095,2390,153
+2020-05-08,Northampton,Virginia,51131,149,5
+2020-05-09,Northampton,North Carolina,37131,102,7
+2020-05-09,Northampton,Pennsylvania,42095,2429,158
+2020-05-09,Northampton,Virginia,51131,159,5
+2020-05-10,Northampton,North Carolina,37131,104,7
+2020-05-10,Northampton,Pennsylvania,42095,2453,158
+2020-05-10,Northampton,Virginia,51131,163,5
+2020-05-11,Northampton,North Carolina,37131,106,7
+2020-05-11,Northampton,Pennsylvania,42095,2465,160
+2020-05-11,Northampton,Virginia,51131,170,5
+2020-05-12,Northampton,North Carolina,37131,108,9
+2020-05-12,Northampton,Pennsylvania,42095,2499,161
+2020-05-12,Northampton,Virginia,51131,171,5
+2020-05-13,Northampton,North Carolina,37131,122,9
+2020-05-13,Northampton,Pennsylvania,42095,2518,162
+2020-05-13,Northampton,Virginia,51131,174,5
+2020-05-14,Northampton,North Carolina,37131,126,9
+2020-05-14,Northampton,Pennsylvania,42095,2566,182
+2020-05-14,Northampton,Virginia,51131,184,6
+2020-05-15,Northampton,North Carolina,37131,129,9
+2020-05-15,Northampton,Pennsylvania,42095,2600,196
+2020-05-15,Northampton,Virginia,51131,193,7
+2020-05-16,Northampton,North Carolina,37131,129,10
+2020-05-16,Northampton,Pennsylvania,42095,2659,196
+2020-05-16,Northampton,Virginia,51131,196,8
+2020-05-17,Northampton,North Carolina,37131,129,10
+2020-05-17,Northampton,Pennsylvania,42095,2703,199
+2020-05-17,Northampton,Virginia,51131,198,9
+2020-05-18,Northampton,North Carolina,37131,130,10
+2020-05-18,Northampton,Pennsylvania,42095,2727,171
+2020-05-18,Northampton,Virginia,51131,198,9
+2020-05-19,Northampton,North Carolina,37131,131,10
+2020-05-19,Northampton,Pennsylvania,42095,2758,176
+2020-05-19,Northampton,Virginia,51131,204,11
+2020-05-20,Northampton,North Carolina,37131,131,11
+2020-05-20,Northampton,Pennsylvania,42095,2779,182
+2020-05-20,Northampton,Virginia,51131,205,15
+2020-05-21,Northampton,North Carolina,37131,132,11
+2020-05-21,Northampton,Pennsylvania,42095,2814,186
+2020-05-21,Northampton,Virginia,51131,206,16
+2020-05-22,Northampton,North Carolina,37131,135,12
+2020-05-22,Northampton,Pennsylvania,42095,2842,192
+2020-05-22,Northampton,Virginia,51131,206,16
+2020-05-23,Northampton,North Carolina,37131,137,12
+2020-05-23,Northampton,Pennsylvania,42095,2866,197
+2020-05-23,Northampton,Virginia,51131,210,16
+2020-05-24,Northampton,North Carolina,37131,138,12
+2020-05-24,Northampton,Pennsylvania,42095,2911,198
+2020-05-24,Northampton,Virginia,51131,213,16
+2020-05-25,Northampton,North Carolina,37131,140,12
+2020-05-25,Northampton,Pennsylvania,42095,2920,199
+2020-05-25,Northampton,Virginia,51131,216,17
+2020-05-26,Northampton,North Carolina,37131,141,12
+2020-05-26,Northampton,Pennsylvania,42095,2933,199
+2020-05-26,Northampton,Virginia,51131,221,17
+2020-05-27,Northampton,North Carolina,37131,144,12
+2020-05-27,Northampton,Pennsylvania,42095,2958,203
+2020-05-27,Northampton,Virginia,51131,225,18
+2020-05-28,Northampton,North Carolina,37131,143,12
+2020-05-28,Northampton,Pennsylvania,42095,3022,206
+2020-05-28,Northampton,Virginia,51131,227,20
+2020-05-29,Northampton,North Carolina,37131,144,14
+2020-05-29,Northampton,Pennsylvania,42095,3045,207
+2020-05-29,Northampton,Virginia,51131,228,20
+2020-05-30,Northampton,North Carolina,37131,147,14
+2020-05-30,Northampton,Pennsylvania,42095,3062,210
+2020-05-30,Northampton,Virginia,51131,230,20
+2020-05-31,Northampton,North Carolina,37131,147,14
+2020-05-31,Northampton,Pennsylvania,42095,3083,210
+2020-05-31,Northampton,Virginia,51131,237,23
+2020-06-01,Northampton,North Carolina,37131,148,14
+2020-06-01,Northampton,Pennsylvania,42095,3082,210
+2020-06-01,Northampton,Virginia,51131,241,23
+2020-06-02,Northampton,North Carolina,37131,155,14
+2020-06-02,Northampton,Pennsylvania,42095,3108,213
+2020-06-02,Northampton,Virginia,51131,243,23
+2020-06-03,Northampton,North Carolina,37131,156,14
+2020-06-03,Northampton,Pennsylvania,42095,3120,220
+2020-06-03,Northampton,Virginia,51131,245,23
+2020-06-04,Northampton,North Carolina,37131,155,14
+2020-06-04,Northampton,Pennsylvania,42095,3124,225
+2020-06-04,Northampton,Virginia,51131,247,25
+2020-06-05,Northampton,North Carolina,37131,153,14
+2020-06-05,Northampton,Pennsylvania,42095,3136,229
+2020-06-05,Northampton,Virginia,51131,249,25
+2020-06-06,Northampton,North Carolina,37131,155,14
+2020-06-06,Northampton,Pennsylvania,42095,3144,231
+2020-06-06,Northampton,Virginia,51131,251,25
+2020-06-07,Northampton,North Carolina,37131,156,14
+2020-06-07,Northampton,Pennsylvania,42095,3151,232
+2020-06-07,Northampton,Virginia,51131,255,26
+2020-06-08,Northampton,North Carolina,37131,156,14
+2020-06-08,Northampton,Pennsylvania,42095,3168,232
+2020-06-08,Northampton,Virginia,51131,255,26
+2020-06-09,Northampton,North Carolina,37131,158,14
+2020-06-09,Northampton,Pennsylvania,42095,3175,236
+2020-06-09,Northampton,Virginia,51131,256,27
+2020-06-10,Northampton,North Carolina,37131,160,14
+2020-06-10,Northampton,Pennsylvania,42095,3193,238
+2020-06-10,Northampton,Virginia,51131,257,27
+2020-06-11,Northampton,North Carolina,37131,162,14
+2020-06-11,Northampton,Pennsylvania,42095,3202,238
+2020-06-11,Northampton,Virginia,51131,259,27
+2020-06-12,Northampton,North Carolina,37131,163,14
+2020-06-12,Northampton,Pennsylvania,42095,3217,238
+2020-06-12,Northampton,Virginia,51131,259,27
+2020-06-13,Northampton,North Carolina,37131,165,14
+2020-06-13,Northampton,Pennsylvania,42095,3232,241
+2020-06-13,Northampton,Virginia,51131,261,27
+2020-06-14,Northampton,North Carolina,37131,166,14
+2020-06-14,Northampton,Pennsylvania,42095,3240,241
+2020-06-14,Northampton,Virginia,51131,262,27
+2020-06-15,Northampton,North Carolina,37131,169,14
+2020-06-15,Northampton,Pennsylvania,42095,3246,243
+2020-06-15,Northampton,Virginia,51131,262,27
+2020-06-16,Northampton,North Carolina,37131,171,15
+2020-06-16,Northampton,Pennsylvania,42095,3250,244
+2020-06-16,Northampton,Virginia,51131,264,27
+2020-06-17,Northampton,North Carolina,37131,171,15
+2020-06-17,Northampton,Pennsylvania,42095,3255,247
+2020-06-17,Northampton,Virginia,51131,265,27
+2020-06-18,Northampton,North Carolina,37131,174,15
+2020-06-18,Northampton,Pennsylvania,42095,3270,249
+2020-06-18,Northampton,Virginia,51131,267,27
+2020-06-19,Northampton,North Carolina,37131,176,15
+2020-06-19,Northampton,Pennsylvania,42095,3284,250
+2020-06-19,Northampton,Virginia,51131,267,27
+2020-06-20,Northampton,North Carolina,37131,173,15
+2020-06-20,Northampton,Pennsylvania,42095,3304,252
+2020-06-20,Northampton,Virginia,51131,268,27
+2020-06-21,Northampton,North Carolina,37131,175,15
+2020-06-21,Northampton,Pennsylvania,42095,3309,252
+2020-06-21,Northampton,Virginia,51131,270,28
+2020-06-22,Northampton,North Carolina,37131,175,15
+2020-06-22,Northampton,Pennsylvania,42095,3312,252
+2020-06-22,Northampton,Virginia,51131,271,28
+2020-06-23,Northampton,North Carolina,37131,177,15
+2020-06-23,Northampton,Pennsylvania,42095,3327,255
+2020-06-23,Northampton,Virginia,51131,271,28
+2020-06-24,Northampton,North Carolina,37131,178,15
+2020-06-24,Northampton,Pennsylvania,42095,3339,259
+2020-06-24,Northampton,Virginia,51131,270,28
+2020-06-25,Northampton,North Carolina,37131,177,15
+2020-06-25,Northampton,Pennsylvania,42095,3352,262
+2020-06-25,Northampton,Virginia,51131,269,28
+2020-06-26,Northampton,North Carolina,37131,179,15
+2020-06-26,Northampton,Pennsylvania,42095,3360,263
+2020-06-26,Northampton,Virginia,51131,269,28
+2020-06-27,Northampton,North Carolina,37131,179,15
+2020-06-27,Northampton,Pennsylvania,42095,3377,265
+2020-06-27,Northampton,Virginia,51131,269,28
+2020-06-28,Northampton,North Carolina,37131,180,15
+2020-06-28,Northampton,Pennsylvania,42095,3389,265
+2020-06-28,Northampton,Virginia,51131,269,28
+2020-06-29,Northampton,North Carolina,37131,180,15
+2020-06-29,Northampton,Pennsylvania,42095,3407,266
+2020-06-29,Northampton,Virginia,51131,269,28
+2020-06-30,Northampton,North Carolina,37131,181,15
+2020-06-30,Northampton,Pennsylvania,42095,3413,266
+2020-06-30,Northampton,Virginia,51131,269,28
+2020-07-01,Northampton,North Carolina,37131,183,15
+2020-07-01,Northampton,Pennsylvania,42095,3425,266
+2020-07-01,Northampton,Virginia,51131,269,28
+2020-07-02,Northampton,North Carolina,37131,185,15
+2020-07-02,Northampton,Pennsylvania,42095,3441,270
+2020-07-02,Northampton,Virginia,51131,271,28
+2020-07-03,Northampton,North Carolina,37131,186,15
+2020-07-03,Northampton,Pennsylvania,42095,3458,272
+2020-07-03,Northampton,Virginia,51131,271,28
+2020-07-04,Northampton,North Carolina,37131,188,15
+2020-07-04,Northampton,Pennsylvania,42095,3463,272
+2020-07-04,Northampton,Virginia,51131,271,28
+2020-07-05,Northampton,North Carolina,37131,190,15
+2020-07-05,Northampton,Pennsylvania,42095,3471,273
+2020-07-05,Northampton,Virginia,51131,272,28
+2020-07-06,Northampton,North Carolina,37131,191,15
+2020-07-06,Northampton,Pennsylvania,42095,3475,273
+2020-07-06,Northampton,Virginia,51131,272,28
+2020-07-07,Northampton,North Carolina,37131,189,15
+2020-07-07,Northampton,Pennsylvania,42095,3485,275
+2020-07-07,Northampton,Virginia,51131,272,28
+2020-07-08,Northampton,North Carolina,37131,189,15
+2020-07-08,Northampton,Pennsylvania,42095,3500,276
+2020-07-08,Northampton,Virginia,51131,272,28
+2020-07-09,Northampton,North Carolina,37131,189,15
+2020-07-09,Northampton,Pennsylvania,42095,3513,276
+2020-07-09,Northampton,Virginia,51131,272,28
+2020-07-10,Northampton,North Carolina,37131,192,16
+2020-07-10,Northampton,Pennsylvania,42095,3527,278
+2020-07-10,Northampton,Virginia,51131,273,28
+2020-07-11,Northampton,North Carolina,37131,193,16
+2020-07-11,Northampton,Pennsylvania,42095,3546,279
+2020-07-11,Northampton,Virginia,51131,274,28
+2020-07-12,Northampton,North Carolina,37131,196,16
+2020-07-12,Northampton,Pennsylvania,42095,3554,279
+2020-07-12,Northampton,Virginia,51131,274,28
+2020-07-13,Northampton,North Carolina,37131,198,16
+2020-07-13,Northampton,Pennsylvania,42095,3555,279
+2020-07-13,Northampton,Virginia,51131,274,28
