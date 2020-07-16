@@ -19,7 +19,6 @@ def search_twitter(arg, place, input_date):
     geolocator = Nominatim(user_agent="COVID_Tracker")
     location = geolocator.geocode(place)
 
-
     # configuring date
     date = datetime.datetime.strptime(input_date, '%Y-%m-%d')
     # configuring twint
@@ -70,7 +69,7 @@ def count_csv():
     count the total tweets scraped by twint
     """
     line_num = 0
-    with open("Output/tweets.csv", newline='') as csvfile:
+    with open("Output/tweets.csv", newline='', encoding="utf-8") as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         for row in reader:
             line_num += 1
@@ -96,17 +95,20 @@ def process(file_name):
         reader = csv.reader(csvfile, delimiter=',')
         for row in reader:
             line_buffer = row
+            print("GATHERING DATA", line_buffer)
             # iterating for each word
             for word in trigger_list:
                 search_twitter(
                     arg=word, input_date=row[0], place=capital_dic[row[1]] + "," + row[1])
                 # time for the file to save
                 time.sleep(3)
-                # storing the occurances at the end of the line
-                line_buffer.append(count_csv)
-                # clearing storage
+
                 if os.listdir("Output").__contains__("tweets.csv"):
+                    # storing the occurances at the end of the line
+                    line_buffer.append(count_csv())
+                    # clearing storage
                     os.remove("Output/tweets.csv")
+
             # stacking the line into the final file
             line_stack.append(line_buffer)
             # avoiding twitter detection
@@ -181,4 +183,5 @@ capital_dic = {
 }
 list = os.listdir("Data/States")
 for file in list:
-    process(file)
+    if not file.__contains__("00"):
+        process(file)
