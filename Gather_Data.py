@@ -6,6 +6,7 @@ import twint
 import csv
 from geopy.geocoders import Nominatim
 import datetime
+import time
 
 
 def search_twitter(arg, place, input_date):
@@ -17,8 +18,7 @@ def search_twitter(arg, place, input_date):
     # configuring location
     geolocator = Nominatim(user_agent="COVID_Tracker")
     location = geolocator.geocode(place)
-    print("LOCATION FOUND AT", location.latitude, location.longitude)
-
+    print(location)
     # configuring date
     date = datetime.datetime.strptime(input_date, '%Y-%m-%d')
     # configuring twint
@@ -27,7 +27,8 @@ def search_twitter(arg, place, input_date):
     c.Search = arg
     c.Since = str(date - datetime.timedelta(days=1))
     c.Until = str(date)
-    c.Geo = str(location.latitude) + "," + str(location.longitude) + ", 200mi"
+    #c.Geo = str(location.latitude) + "," + str(location.longitude) + ",100mi"
+    c.Near = location
     c.Count = True
     c.Store_csv = True
     c.Output = "Output"
@@ -100,6 +101,8 @@ def process(file_name):
                 line_buffer.append(count_csv)
             # stacking the line into the final file
             line_stack.append(line_buffer)
+            # so twitter doesn't block this
+            time.sleep(10)
 
     # writing output
     with open(os.path.join("Data/States", "00PROCESSED" + file_name), newline='') as csvfile:
