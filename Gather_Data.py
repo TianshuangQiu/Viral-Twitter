@@ -25,12 +25,13 @@ def search_twitter(arg, place, input_date):
     c = twint.Config()
     c.Lang = "en"
     c.Search = arg
-    c.Since = date - datetime.timedelta(days=1)
-    c.Until = date
+    c.Since = str(date - datetime.timedelta(days=1))
+    c.Until = str(date)
+    c.Filter_retweets = True
     c.Geo = str(location.latitude) + "," + str(location.longitude) + ", 5km"
     c.Count = True
     c.Store_csv = True
-    c.Output = "test"
+    c.Output = "Output"
 
     twint.run.Search(c)
 
@@ -81,6 +82,10 @@ def process(file_name):
     Takes the file, scrape twitter for trigger words, outputs the results to
     another compiled csv
     """
+    # buffer for each line
+    line_buffer = []
+    # combined file
+    line_stack = []
     # list of words to search twitter
     trigger_list = ["#NoMasks", "#BurnYourMask", "#IWillNotComply",
                     "#OpenAmerica", "#OpenSchools", "#WearAMask", "#WearADamnMask"]
@@ -88,8 +93,9 @@ def process(file_name):
     with open(os.path.join("Data/States", file_name), newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         for row in reader:
-            print(row)
-        search_twitter(arg="j", input_date="2020-07-10", place="Virginia")
+            line_buffer = row
+            for word in trigger_list:
+                search_twitter(arg=word, input_date=row[0], place=row[1])
 
 
 list = os.listdir("Data/States")
