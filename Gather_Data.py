@@ -19,6 +19,7 @@ def search_twitter(arg, place, input_date):
     geolocator = Nominatim(user_agent="COVID_Tracker")
     location = geolocator.geocode(place)
 
+
     # configuring date
     date = datetime.datetime.strptime(input_date, '%Y-%m-%d')
     # configuring twint
@@ -91,15 +92,16 @@ def process(file_name):
     trigger_list = ["#NoMasks", "#BurnYourMask", "#IWillNotComply",
                     "#OpenAmerica", "#OpenSchools", "#WearAMask", "#WearADamnMask"]
     # reading csv
-    with open(os.path.join("Data/Counties", file_name), newline='') as csvfile:
+    with open(os.path.join("Data/States/", file_name), newline='') as csvfile:
         reader = csv.reader(csvfile, delimiter=',')
         for row in reader:
             line_buffer = row
             # iterating for each word
             for word in trigger_list:
-                search_twitter(arg=word, input_date=row[0], place=row[1]+","+row[2])
-                # so twitter doesn't block this
-                time.sleep(10)
+                search_twitter(
+                    arg=word, input_date=row[0], place=capital_dic[row[1]] + "," + row[1])
+                # time for the file to save
+                time.sleep(3)
                 # storing the occurances at the end of the line
                 line_buffer.append(count_csv)
                 # clearing storage
@@ -107,9 +109,11 @@ def process(file_name):
                     os.remove("Output/tweets.csv")
             # stacking the line into the final file
             line_stack.append(line_buffer)
+            # avoiding twitter detection
+            time.sleep(10)
 
     # writing output
-    with open(os.path.join("Data/Counties/", "00PROCESSED" + file_name), newline='') as csvfile:
+    with open(os.path.join("Data/States/", "00PROCESSED" + file_name), newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
         for row in line_stack:
@@ -121,6 +125,60 @@ def process(file_name):
     line_stack.clear()
 
 
-list = os.listdir("Data/Counties")
+# Data for optimizing state searches
+# key is the state and value is the capital
+capital_dic = {
+    'Alabama': 'Montgomery',
+    'Alaska': 'Juneau',
+    'Arizona': 'Phoenix',
+    'Arkansas': 'Little Rock',
+    'California': 'Sacramento',
+    'Colorado': 'Denver',
+    'Connecticut': 'Hartford',
+    'Delaware': 'Dover',
+    'Florida': 'Tallahassee',
+    'Georgia': 'Atlanta',
+    'Hawaii': 'Honolulu',
+    'Idaho': 'Boise',
+    'Illinios': 'Springfield',
+    'Indiana': 'Indianapolis',
+    'Iowa': 'Des Monies',
+    'Kansas': 'Topeka',
+    'Kentucky': 'Frankfort',
+    'Louisiana': 'Baton Rouge',
+    'Maine': 'Augusta',
+    'Maryland': 'Annapolis',
+    'Massachusetts': 'Boston',
+    'Michigan': 'Lansing',
+    'Minnesota': 'St. Paul',
+    'Mississippi': 'Jackson',
+    'Missouri': 'Jefferson City',
+    'Montana': 'Helena',
+    'Nebraska': 'Lincoln',
+    'Neveda': 'Carson City',
+    'New Hampshire': 'Concord',
+    'New Jersey': 'Trenton',
+    'New Mexico': 'Santa Fe',
+    'New York': 'Albany',
+    'North Carolina': 'Raleigh',
+    'North Dakota': 'Bismarck',
+    'Ohio': 'Columbus',
+    'Oklahoma': 'Oklahoma City',
+    'Oregon': 'Salem',
+    'Pennsylvania': 'Harrisburg',
+    'Rhoda Island': 'Providence',
+    'South Carolina': 'Columbia',
+    'South Dakoda': 'Pierre',
+    'Tennessee': 'Nashville',
+    'Texas': 'Austin',
+    'Utah': 'Salt Lake City',
+    'Vermont': 'Montpelier',
+    'Virginia': 'Richmond',
+    'Washington': 'Olympia',
+    'West Virginia': 'Charleston',
+    'Wisconsin': 'Madison',
+    'Wyoming': 'Cheyenne'
+}
+list = os.listdir("Data/States")
 for file in list:
     process(file)
