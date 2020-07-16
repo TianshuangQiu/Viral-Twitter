@@ -27,8 +27,7 @@ def search_twitter(arg, place, input_date):
     c.Search = arg
     c.Since = str(date - datetime.timedelta(days=1))
     c.Until = str(date)
-    c.Filter_retweets = True
-    c.Geo = str(location.latitude) + "," + str(location.longitude) + ", 5km"
+    c.Geo = str(location.latitude) + "," + str(location.longitude) + ", 200mi"
     c.Count = True
     c.Store_csv = True
     c.Output = "Output"
@@ -94,11 +93,26 @@ def process(file_name):
         reader = csv.reader(csvfile, delimiter=',')
         for row in reader:
             line_buffer = row
+            # iterating for each word
             for word in trigger_list:
                 search_twitter(arg=word, input_date=row[0], place=row[1])
+                # storing the occurances at the end of the line
+                line_buffer.append(count_csv)
+            # stacking the line into the final file
+            line_stack.append(line_buffer)
+
+    # writing output
+    with open(os.path.join("Data/States", "00PROCESSED" + file_name), newline='') as csvfile:
+        writer = csv.writer(csvfile, delimiter=',',
+                            quotechar='|', quoting=csv.QUOTE_MINIMAL)
+        for row in line_stack:
+            writer.writerow(row)
+
+    # clearing storage
+    line_buffer.clear()
+    line_stack.clear()
 
 
 list = os.listdir("Data/States")
 for file in list:
-    print(os.path.join("Data/States", file))
     process(file)
