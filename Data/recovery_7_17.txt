@@ -1,0 +1,1259 @@
+GATHERING DATA ['2020-03-01', 'Florida', '12', '2', '0']
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-02', 'Florida', '12', '2', '0']
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-03', 'Florida', '12', '3', '0']
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 17 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-04', 'Florida', '12', '3', '0']
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-05', 'Florida', '12', '4', '0']
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+GATHERING DATA ['2020-03-06', 'Florida', '12', '7', '2']
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-07', 'Florida', '12', '12', '2']
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-08', 'Florida', '12', '13', '2']
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-09', 'Florida', '12', '14', '2']
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-03-10', 'Florida', '12', '23', '2']
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 23 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-11', 'Florida', '12', '26', '2']
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-12', 'Florida', '12', '46', '2']
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-13', 'Florida', '12', '70', '2']
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 11 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-14', 'Florida', '12', '70', '3']
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-15', 'Florida', '12', '109', '3']
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-16', 'Florida', '12', '141', '4']
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-17', 'Florida', '12', '210', '6']
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 19 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 29 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-18', 'Florida', '12', '326', '7']
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 16 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 52 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-19', 'Florida', '12', '434', '8']
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 30 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 38 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-20', 'Florida', '12', '564', '9']
+[+] Finished: Successfully collected 16 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 21 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 51 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-21', 'Florida', '12', '764', '11']
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 39 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-22', 'Florida', '12', '1000', '13']
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 44 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-23', 'Florida', '12', '1222', '18']
+[+] Finished: Successfully collected 17 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 11 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 63 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-03-24', 'Florida', '12', '1467', '20']
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 27 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 73 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-25', 'Florida', '12', '1971', '23']
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 52 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 101 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-26', 'Florida', '12', '2478', '29']
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 37 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 100 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-27', 'Florida', '12', '3198', '46']
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 15 Tweets.
+[+] Finished: Successfully collected 27 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 70 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-28', 'Florida', '12', '4038', '56']
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 15 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 106 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-03-29', 'Florida', '12', '4943', '60']
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 107 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-30', 'Florida', '12', '5695', '72']
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 53 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 234 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-03-31', 'Florida', '12', '6742', '85']
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 29 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 244 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-01', 'Florida', '12', '7769', '100']
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+[+] Finished: Successfully collected 35 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 318 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-02', 'Florida', '12', '9000', '144']
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 23 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 307 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-03', 'Florida', '12', '10260', '169']
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 16 Tweets.
+[+] Finished: Successfully collected 43 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 458 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-04', 'Florida', '12', '11537', '194']
+[+] Finished: Successfully collected 11 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 20 Tweets.
+[+] Finished: Successfully collected 71 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 584 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+GATHERING DATA ['2020-04-05', 'Florida', '12', '12342', '220']
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 72 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 759 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-06', 'Florida', '12', '13621', '253']
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 43 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 498 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+GATHERING DATA ['2020-04-07', 'Florida', '12', '14739', '295']
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 21 Tweets.
+[+] Finished: Successfully collected 26 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 429 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-08', 'Florida', '12', '15690', '322']
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 48 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 438 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-09', 'Florida', '12', '16819', '370']
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 25 Tweets.
+[+] Finished: Successfully collected 77 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 337 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-10', 'Florida', '12', '17960', '418']
+[+] Finished: Successfully collected 8 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 21 Tweets.
+[+] Finished: Successfully collected 76 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 343 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+GATHERING DATA ['2020-04-11', 'Florida', '12', '18978', '445']
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 34 Tweets.
+[+] Finished: Successfully collected 103 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 371 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-12', 'Florida', '12', '19855', '460']
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 38 Tweets.
+[+] Finished: Successfully collected 163 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 287 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-13', 'Florida', '12', '21011', '498']
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 40 Tweets.
+[+] Finished: Successfully collected 129 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 271 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+GATHERING DATA ['2020-04-14', 'Florida', '12', '21620', '570']
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 27 Tweets.
+[+] Finished: Successfully collected 212 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 290 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-15', 'Florida', '12', '22526', '613']
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 21 Tweets.
+[+] Finished: Successfully collected 181 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 267 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-16', 'Florida', '12', '23332', '667']
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 30 Tweets.
+[+] Finished: Successfully collected 227 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 346 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-17', 'Florida', '12', '24745', '725']
+[+] Finished: Successfully collected 11 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 41 Tweets.
+[+] Finished: Successfully collected 552 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 346 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+GATHERING DATA ['2020-04-18', 'Florida', '12', '25484', '747']
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 15 Tweets.
+[+] Finished: Successfully collected 416 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 301 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-19', 'Florida', '12', '26306', '773']
+[+] Finished: Successfully collected 15 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 48 Tweets.
+[+] Finished: Successfully collected 447 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 273 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-20', 'Florida', '12', '27050', '822']
+[+] Finished: Successfully collected 15 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 34 Tweets.
+[+] Finished: Successfully collected 438 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 292 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-04-21', 'Florida', '12', '27861', '866']
+[+] Finished: Successfully collected 20 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 20 Tweets.
+[+] Finished: Successfully collected 474 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 391 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-04-22', 'Florida', '12', '28301', '926']
+[+] Finished: Successfully collected 15 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 587 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 364 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-04-23', 'Florida', '12', '29640', '986']
+[+] Finished: Successfully collected 20 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 25 Tweets.
+[+] Finished: Successfully collected 397 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 387 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-24', 'Florida', '12', '30525', '1045']
+[+] Finished: Successfully collected 40 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 17 Tweets.
+[+] Finished: Successfully collected 510 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 505 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-25', 'Florida', '12', '30831', '1054']
+[+] Finished: Successfully collected 21 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 24 Tweets.
+[+] Finished: Successfully collected 495 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 472 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-04-26', 'Florida', '12', '31520', '1073']
+[+] Finished: Successfully collected 16 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 366 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 312 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-27', 'Florida', '12', '32130', '1087']
+[+] Finished: Successfully collected 27 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 18 Tweets.
+[+] Finished: Successfully collected 453 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 285 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-04-28', 'Florida', '12', '32838', '1170']
+[+] Finished: Successfully collected 30 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 23 Tweets.
+[+] Finished: Successfully collected 687 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 308 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+GATHERING DATA ['2020-04-29', 'Florida', '12', '33185', '1216']
+[+] Finished: Successfully collected 35 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 24 Tweets.
+[+] Finished: Successfully collected 605 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 653 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-04-30', 'Florida', '12', '33683', '1267']
+[+] Finished: Successfully collected 33 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 29 Tweets.
+[+] Finished: Successfully collected 344 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 832 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+GATHERING DATA ['2020-05-01', 'Florida', '12', '34720', '1313']
+[+] Finished: Successfully collected 67 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 53 Tweets.
+[+] Finished: Successfully collected 299 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 454 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+GATHERING DATA ['2020-05-02', 'Florida', '12', '35455', '1363']
+[+] Finished: Successfully collected 71 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 63 Tweets.
+[+] Finished: Successfully collected 412 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 430 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-05-03', 'Florida', '12', '36070', '1378']
+[+] Finished: Successfully collected 72 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 42 Tweets.
+[+] Finished: Successfully collected 674 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 458 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-05-04', 'Florida', '12', '36889', '1398']
+[+] Finished: Successfully collected 86 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 40 Tweets.
+[+] Finished: Successfully collected 622 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 564 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-05-05', 'Florida', '12', '37431', '1470']
+[+] Finished: Successfully collected 76 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 36 Tweets.
+[+] Finished: Successfully collected 545 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+[+] Finished: Successfully collected 732 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+GATHERING DATA ['2020-05-06', 'Florida', '12', '37994', '1538']
+[+] Finished: Successfully collected 112 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 31 Tweets.
+[+] Finished: Successfully collected 374 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 895 Tweets.
+[+] Finished: Successfully collected 10 Tweets.
+GATHERING DATA ['2020-05-07', 'Florida', '12', '38820', '1599']
+[+] Finished: Successfully collected 111 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 31 Tweets.
+[+] Finished: Successfully collected 520 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 790 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-05-08', 'Florida', '12', '39191', '1668']
+[+] Finished: Successfully collected 123 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 34 Tweets.
+CRITICAL:root:twint.output:checkData:copyrightedTweet
+[+] Finished: Successfully collected 343 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 767 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-05-09', 'Florida', '12', '39993', '1714']
+[+] Finished: Successfully collected 104 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 22 Tweets.
+[+] Finished: Successfully collected 183 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 965 Tweets.
+[+] Finished: Successfully collected 11 Tweets.
+GATHERING DATA ['2020-05-10', 'Florida', '12', '40588', '1720']
+[+] Finished: Successfully collected 119 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 25 Tweets.
+[+] Finished: Successfully collected 293 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 992 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+GATHERING DATA ['2020-05-11', 'Florida', '12', '40974', '1734']
+[+] Finished: Successfully collected 106 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 41 Tweets.
+[+] Finished: Successfully collected 234 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 782 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+GATHERING DATA ['2020-05-12', 'Florida', '12', '41915', '1778']
+[+] Finished: Successfully collected 114 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 31 Tweets.
+[+] Finished: Successfully collected 312 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 1034 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+GATHERING DATA ['2020-05-13', 'Florida', '12', '42394', '1826']
+[+] Finished: Successfully collected 173 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 35 Tweets.
+[+] Finished: Successfully collected 512 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 901 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+GATHERING DATA ['2020-05-14', 'Florida', '12', '43202', '1874']
+[+] Finished: Successfully collected 151 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 48 Tweets.
+[+] Finished: Successfully collected 535 Tweets.
+[+] Finished: Successfully collected 16 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.output:checkData:copyrightedTweet
+[+] Finished: Successfully collected 958 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+GATHERING DATA ['2020-05-15', 'Florida', '12', '44130', '1916']
+[+] Finished: Successfully collected 148 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 58 Tweets.
+[+] Finished: Successfully collected 381 Tweets.
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 1101 Tweets.
+[+] Finished: Successfully collected 13 Tweets.
+GATHERING DATA ['2020-05-16', 'Florida', '12', '44803', '1963']
+[+] Finished: Successfully collected 210 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 44 Tweets.
+[+] Finished: Successfully collected 328 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 1206 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+GATHERING DATA ['2020-05-17', 'Florida', '12', '45580', '1972']
+[+] Finished: Successfully collected 138 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 58 Tweets.
+[+] Finished: Successfully collected 336 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+CRITICAL:root:twint.output:checkData:copyrightedTweet
+[+] Finished: Successfully collected 989 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-05-18', 'Florida', '12', '46434', '1996']
+[+] Finished: Successfully collected 197 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 53 Tweets.
+[+] Finished: Successfully collected 407 Tweets.
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 952 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+GATHERING DATA ['2020-05-19', 'Florida', '12', '46936', '2051']
+[+] Finished: Successfully collected 241 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 70 Tweets.
+[+] Finished: Successfully collected 438 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+CRITICAL:root:twint.output:checkData:copyrightedTweet
+[+] Finished: Successfully collected 1044 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+GATHERING DATA ['2020-05-20', 'Florida', '12', '47463', '2095']
+[+] Finished: Successfully collected 173 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 25 Tweets.
+[+] Finished: Successfully collected 263 Tweets.
+[+] Finished: Successfully collected 15 Tweets.
+[+] Finished: Successfully collected 958 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+GATHERING DATA ['2020-05-21', 'Florida', '12', '48667', '2143']
+[+] Finished: Successfully collected 180 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 43 Tweets.
+[+] Finished: Successfully collected 285 Tweets.
+[+] Finished: Successfully collected 10 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+[+] Finished: Successfully collected 1652 Tweets.
+[+] Finished: Successfully collected 39 Tweets.
+GATHERING DATA ['2020-05-22', 'Florida', '12', '49443', '2189']
+[+] Finished: Successfully collected 232 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 42 Tweets.
+[+] Finished: Successfully collected 407 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 1937 Tweets.
+[+] Finished: Successfully collected 18 Tweets.
+GATHERING DATA ['2020-05-23', 'Florida', '12', '50119', '2232']
+[+] Finished: Successfully collected 278 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 46 Tweets.
+[+] Finished: Successfully collected 523 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 1749 Tweets.
+[+] Finished: Successfully collected 18 Tweets.
+GATHERING DATA ['2020-05-24', 'Florida', '12', '50859', '2236']
+[+] Finished: Successfully collected 251 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 29 Tweets.
+[+] Finished: Successfully collected 339 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 2159 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+GATHERING DATA ['2020-05-25', 'Florida', '12', '51738', '2251']
+[+] Finished: Successfully collected 239 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 36 Tweets.
+[+] Finished: Successfully collected 382 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 2510 Tweets.
+[+] Finished: Successfully collected 19 Tweets.
+GATHERING DATA ['2020-05-26', 'Florida', '12', '52247', '2258']
+[+] Finished: Successfully collected 280 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 37 Tweets.
+[+] Finished: Successfully collected 291 Tweets.
+[+] Finished: Successfully collected 18 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+[+] Finished: Successfully collected 2179 Tweets.
+[+] Finished: Successfully collected 18 Tweets.
+GATHERING DATA ['2020-05-27', 'Florida', '12', '52626', '2318']
+[+] Finished: Successfully collected 376 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 52 Tweets.
+[+] Finished: Successfully collected 331 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 2242 Tweets.
+[+] Finished: Successfully collected 22 Tweets.
+GATHERING DATA ['2020-05-28', 'Florida', '12', '53277', '2363']
+[+] Finished: Successfully collected 344 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 51 Tweets.
+[+] Finished: Successfully collected 248 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 2125 Tweets.
+[+] Finished: Successfully collected 11 Tweets.
+GATHERING DATA ['2020-05-29', 'Florida', '12', '54489', '2412']
+[+] Finished: Successfully collected 285 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 29 Tweets.
+[+] Finished: Successfully collected 187 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 1936 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+GATHERING DATA ['2020-05-30', 'Florida', '12', '55416', '2446']
+[+] Finished: Successfully collected 274 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 29 Tweets.
+[+] Finished: Successfully collected 119 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 959 Tweets.
+[+] Finished: Successfully collected 22 Tweets.
+GATHERING DATA ['2020-05-31', 'Florida', '12', '56155', '2450']
+[+] Finished: Successfully collected 143 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 18 Tweets.
+[+] Finished: Successfully collected 87 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 686 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+GATHERING DATA ['2020-06-01', 'Florida', '12', '56822', '2459']
+[+] Finished: Successfully collected 83 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 60 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+[+] Finished: Successfully collected 598 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+GATHERING DATA ['2020-06-02', 'Florida', '12', '57439', '2529']
+[+] Finished: Successfully collected 131 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 20 Tweets.
+[+] Finished: Successfully collected 56 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+[+] Finished: Successfully collected 555 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-06-03', 'Florida', '12', '58756', '2565']
+[+] Finished: Successfully collected 95 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 45 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 460 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-06-04', 'Florida', '12', '60175', '2606']
+[+] Finished: Successfully collected 78 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 51 Tweets.
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 490 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-06-05', 'Florida', '12', '61480', '2659']
+[+] Finished: Successfully collected 94 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 82 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 538 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+GATHERING DATA ['2020-06-06', 'Florida', '12', '62750', '2687']
+[+] Finished: Successfully collected 131 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 93 Tweets.
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 563 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-06-07', 'Florida', '12', '63930', '2699']
+[+] Finished: Successfully collected 133 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 20 Tweets.
+[+] Finished: Successfully collected 94 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 654 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+GATHERING DATA ['2020-06-08', 'Florida', '12', '64896', '2711']
+[+] Finished: Successfully collected 126 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 16 Tweets.
+[+] Finished: Successfully collected 50 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 606 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+GATHERING DATA ['2020-06-09', 'Florida', '12', '65992', '2764']
+[+] Finished: Successfully collected 119 Tweets.
+[+] Finished: Successfully collected 0 Tweets.
+[+] Finished: Successfully collected 24 Tweets.
+[+] Finished: Successfully collected 37 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 685 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+GATHERING DATA ['2020-06-10', 'Florida', '12', '67363', '2800']
+[+] Finished: Successfully collected 173 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 50 Tweets.
+[+] Finished: Successfully collected 7 Tweets.
+[+] Finished: Successfully collected 710 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+GATHERING DATA ['2020-06-11', 'Florida', '12', '69061', '2847']
+[+] Finished: Successfully collected 148 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 19 Tweets.
+[+] Finished: Successfully collected 50 Tweets.
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 711 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+GATHERING DATA ['2020-06-12', 'Florida', '12', '70963', '2876']
+[+] Finished: Successfully collected 128 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 15 Tweets.
+[+] Finished: Successfully collected 72 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 924 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+GATHERING DATA ['2020-06-13', 'Florida', '12', '73544', '2924']
+[+] Finished: Successfully collected 140 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 68 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 1310 Tweets.
+[+] Finished: Successfully collected 23 Tweets.
+GATHERING DATA ['2020-06-14', 'Florida', '12', '75560', '2930']
+[+] Finished: Successfully collected 102 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+[+] Finished: Successfully collected 22 Tweets.
+[+] Finished: Successfully collected 33 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+[+] Finished: Successfully collected 1349 Tweets.
+[+] Finished: Successfully collected 68 Tweets.
+GATHERING DATA ['2020-06-15', 'Florida', '12', '77318', '2937']
+[+] Finished: Successfully collected 108 Tweets.
+[+] Finished: Successfully collected 1 Tweets.
+[+] Finished: Successfully collected 15 Tweets.
+[+] Finished: Successfully collected 29 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 1587 Tweets.
+[+] Finished: Successfully collected 83 Tweets.
+GATHERING DATA ['2020-06-16', 'Florida', '12', '80101', '2992']
+[+] Finished: Successfully collected 187 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 35 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 2096 Tweets.
+[+] Finished: Successfully collected 75 Tweets.
+GATHERING DATA ['2020-06-17', 'Florida', '12', '82711', '3017']
+[+] Finished: Successfully collected 141 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 2070 Tweets.
+[+] Finished: Successfully collected 124 Tweets.
+GATHERING DATA ['2020-06-18', 'Florida', '12', '85918', '3060']
+CRITICAL:root:twint.output:checkData:copyrightedTweet
+[+] Finished: Successfully collected 210 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 18 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 3387 Tweets.
+[+] Finished: Successfully collected 180 Tweets.
+GATHERING DATA ['2020-06-19', 'Florida', '12', '89740', '3103']
+[+] Finished: Successfully collected 360 Tweets.
+[+] Finished: Successfully collected 6 Tweets.
+[+] Finished: Successfully collected 32 Tweets.
+[+] Finished: Successfully collected 27 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+[+] Finished: Successfully collected 3238 Tweets.
+[+] Finished: Successfully collected 206 Tweets.
+GATHERING DATA ['2020-06-20', 'Florida', '12', '93789', '3143']
+[+] Finished: Successfully collected 382 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 34 Tweets.
+[+] Finished: Successfully collected 10 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 3679 Tweets.
+[+] Finished: Successfully collected 341 Tweets.
+GATHERING DATA ['2020-06-21', 'Florida', '12', '97283', '3160']
+[+] Finished: Successfully collected 305 Tweets.
+[+] Finished: Successfully collected 21 Tweets.
+[+] Finished: Successfully collected 38 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 3269 Tweets.
+[+] Finished: Successfully collected 168 Tweets.
+GATHERING DATA ['2020-06-22', 'Florida', '12', '100209', '3172']
+[+] Finished: Successfully collected 199 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 11 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+[+] Finished: Successfully collected 1673 Tweets.
+[+] Finished: Successfully collected 92 Tweets.
+GATHERING DATA ['2020-06-23', 'Florida', '12', '103495', '3237']
+[+] Finished: Successfully collected 255 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 17 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 3 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+[+] Finished: Successfully collected 2519 Tweets.
+[+] Finished: Successfully collected 213 Tweets.
+GATHERING DATA ['2020-06-24', 'Florida', '12', '109006', '3280']
+[+] Finished: Successfully collected 272 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 33 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 8 Tweets.
+[+] Finished: Successfully collected 2599 Tweets.
+[+] Finished: Successfully collected 610 Tweets.
+GATHERING DATA ['2020-06-25', 'Florida', '12', '114010', '3326']
+[+] Finished: Successfully collected 427 Tweets.
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 82 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 3260 Tweets.
+[+] Finished: Successfully collected 5119 Tweets.
+GATHERING DATA ['2020-06-26', 'Florida', '12', '122952', '3365']
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 512 Tweets.
+[+] Finished: Successfully collected 11 Tweets.
+[+] Finished: Successfully collected 75 Tweets.
+[+] Finished: Successfully collected 17 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 4409 Tweets.
+[+] Finished: Successfully collected 6096 Tweets.
+GATHERING DATA ['2020-06-27', 'Florida', '12', '132537', '3389']
+[+] Finished: Successfully collected 757 Tweets.
+[+] Finished: Successfully collected 19 Tweets.
+[+] Finished: Successfully collected 104 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 10 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 7030 Tweets.
+[+] Finished: Successfully collected 4916 Tweets.
+GATHERING DATA ['2020-06-28', 'Florida', '12', '141067', '3418']
+[+] Finished: Successfully collected 580 Tweets.
+[+] Finished: Successfully collected 28 Tweets.
+[+] Finished: Successfully collected 81 Tweets.
+[+] Finished: Successfully collected 13 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 7218 Tweets.
+[+] Finished: Successfully collected 3733 Tweets.
+GATHERING DATA ['2020-06-29', 'Florida', '12', '146333', '3446']
+[+] Finished: Successfully collected 376 Tweets.
+[+] Finished: Successfully collected 33 Tweets.
+[+] Finished: Successfully collected 59 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 5 Tweets.
+[+] Finished: Successfully collected 6026 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 2513 Tweets.
+GATHERING DATA ['2020-06-30', 'Florida', '12', '152426', '3504']
+[+] Finished: Successfully collected 570 Tweets.
+[+] Finished: Successfully collected 48 Tweets.
+[+] Finished: Successfully collected 86 Tweets.
+[+] Finished: Successfully collected 14 Tweets.
+[+] Finished: Successfully collected 12 Tweets.
+[+] Finished: Successfully collected 6742 Tweets.
+[+] Finished: Successfully collected 2347 Tweets.
+GATHERING DATA ['2020-07-01', 'Florida', '12', '158989', '3549']
+[+] Finished: Successfully collected 682 Tweets.
+[+] Finished: Successfully collected 199 Tweets.
+[+] Finished: Successfully collected 88 Tweets.
+[+] Finished: Successfully collected 11 Tweets.
+[+] Finished: Successfully collected 11 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 6863 Tweets.
+[+] Finished: Successfully collected 2277 Tweets.
+GATHERING DATA ['2020-07-02', 'Florida', '12', '169098', '3616']
+[+] Finished: Successfully collected 608 Tweets.
+[+] Finished: Successfully collected 78 Tweets.
+[+] Finished: Successfully collected 68 Tweets.
+[+] Finished: Successfully collected 31 Tweets.
+[+] Finished: Successfully collected 19 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 6814 Tweets.
+[+] Finished: Successfully collected 3836 Tweets.
+GATHERING DATA ['2020-07-03', 'Florida', '12', '178586', '3683']
+[+] Finished: Successfully collected 689 Tweets.
+[+] Finished: Successfully collected 113 Tweets.
+[+] Finished: Successfully collected 126 Tweets.
+[+] Finished: Successfully collected 74 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 6311 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 7231 Tweets.
+GATHERING DATA ['2020-07-04', 'Florida', '12', '190044', '3701']
+[+] Finished: Successfully collected 669 Tweets.
+[+] Finished: Successfully collected 85 Tweets.
+[+] Finished: Successfully collected 92 Tweets.
+[+] Finished: Successfully collected 58 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 6655 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 6638 Tweets.
+GATHERING DATA ['2020-07-05', 'Florida', '12', '200103', '3730']
+[+] Finished: Successfully collected 518 Tweets.
+[+] Finished: Successfully collected 153 Tweets.
+[+] Finished: Successfully collected 36 Tweets.
+[+] Finished: Successfully collected 34 Tweets.
+[+] Finished: Successfully collected 4 Tweets.
+[+] Finished: Successfully collected 5310 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 4696 Tweets.
+GATHERING DATA ['2020-07-06', 'Florida', '12', '206439', '3777']
+[+] Finished: Successfully collected 397 Tweets.
+[+] Finished: Successfully collected 88 Tweets.
+[+] Finished: Successfully collected 18 Tweets.
+[+] Finished: Successfully collected 21 Tweets.
+[+] Finished: Successfully collected 2 Tweets.
+[+] Finished: Successfully collected 4764 Tweets.
+[+] Finished: Successfully collected 2562 Tweets.
+GATHERING DATA ['2020-07-07', 'Florida', '12', '213786', '3840']
+[+] Finished: Successfully collected 499 Tweets.
+[+] Finished: Successfully collected 52 Tweets.
+[+] Finished: Successfully collected 33 Tweets.
+[+] Finished: Successfully collected 27 Tweets.
+[+] Finished: Successfully collected 9 Tweets.
+[+] Finished: Successfully collected 1860 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 3295 Tweets.
+GATHERING DATA ['2020-07-08', 'Florida', '12', '223775', '3888']
+[+] Finished: Successfully collected 680 Tweets.
+[+] Finished: Successfully collected 33 Tweets.
+[+] Finished: Successfully collected 42 Tweets.
+[+] Finished: Successfully collected 26 Tweets.
+[+] Finished: Successfully collected 29 Tweets.
+[+] Finished: Successfully collected 6035 Tweets.
+[+] Finished: Successfully collected 3778 Tweets.
+GATHERING DATA ['2020-07-09', 'Florida', '12', '232710', '4008']
+[+] Finished: Successfully collected 869 Tweets.
+[+] Finished: Successfully collected 27 Tweets.
+[+] Finished: Successfully collected 74 Tweets.
+[+] Finished: Successfully collected 39 Tweets.
+[+] Finished: Successfully collected 241 Tweets.
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 1.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 8.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 27.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 64.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 125.0 secs
+CRITICAL:root:twint.run:Twint:Feed:noDataExpecting value: line 1 column 1 (char 0)
+sleeping for 216.0 secs
+[+] Finished: Successfully collected 6480 Tweets.
+[+] Finished: Successfully collected 2823 Tweets.
