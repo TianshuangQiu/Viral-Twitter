@@ -108,6 +108,9 @@ def process(file_name):
                     line_buffer.append(count_csv())
                     # clearing storage
                     os.remove("Output/tweets.csv")
+                else:
+                    line_buffer.append(0)
+                    continue
 
             # stacking the line into the final file
             line_stack.append(line_buffer)
@@ -115,7 +118,7 @@ def process(file_name):
             time.sleep(10)
 
     # writing output
-    with open(os.path.join("Data/States/", "00PROCESSED" + file_name), newline='') as csvfile:
+    with open(os.path.join("Data/States/", "00PROCESSED" + file_name), "w", newline='') as csvfile:
         writer = csv.writer(csvfile, delimiter=',',
                             quotechar='|', quoting=csv.QUOTE_MINIMAL)
         for row in line_stack:
@@ -130,58 +133,59 @@ def process(file_name):
 # Data for optimizing state searches
 # key is the state and value is the capital
 capital_dic = {
-    'Alabama': 'Montgomery',
-    'Alaska': 'Juneau',
+    'Alabama': 'Birmingham',
+    'Alaska': 'Anchorage',
     'Arizona': 'Phoenix',
     'Arkansas': 'Little Rock',
-    'California': 'Sacramento',
+    'California': 'Los Angeles',
     'Colorado': 'Denver',
-    'Connecticut': 'Hartford',
-    'Delaware': 'Dover',
-    'Florida': 'Tallahassee',
+    'Connecticut': 'Bridgeport',
+    'Delaware': 'Wilmington',
+    'Florida': 'Jacksonville',
     'Georgia': 'Atlanta',
     'Hawaii': 'Honolulu',
     'Idaho': 'Boise',
-    'Illinios': 'Springfield',
+    'Illinios': 'Chicago',
     'Indiana': 'Indianapolis',
     'Iowa': 'Des Monies',
-    'Kansas': 'Topeka',
-    'Kentucky': 'Frankfort',
-    'Louisiana': 'Baton Rouge',
-    'Maine': 'Augusta',
-    'Maryland': 'Annapolis',
+    'Kansas': 'Wichita',
+    'Kentucky': 'Louisville',
+    'Louisiana': 'New Orleans',
+    'Maine': 'Portland',
+    'Maryland': 'Baltimore',
     'Massachusetts': 'Boston',
-    'Michigan': 'Lansing',
-    'Minnesota': 'St. Paul',
+    'Michigan': 'Detroit',
+    'Minnesota': 'Minneapolis',
     'Mississippi': 'Jackson',
-    'Missouri': 'Jefferson City',
-    'Montana': 'Helena',
-    'Nebraska': 'Lincoln',
-    'Neveda': 'Carson City',
-    'New Hampshire': 'Concord',
-    'New Jersey': 'Trenton',
-    'New Mexico': 'Santa Fe',
-    'New York': 'Albany',
-    'North Carolina': 'Raleigh',
-    'North Dakota': 'Bismarck',
+    'Missouri': 'Kansas City',
+    'Montana': 'Billings',
+    'Nebraska': 'Omaha',
+    'Neveda': 'Las Vegas',
+    'New Hampshire': 'Manchester',
+    'New Jersey': 'Newark',
+    'New Mexico': 'Albuquerque',
+    'New York': 'New York City',
+    'North Carolina': 'Charlotte',
+    'North Dakota': 'Fargo',
     'Ohio': 'Columbus',
     'Oklahoma': 'Oklahoma City',
-    'Oregon': 'Salem',
-    'Pennsylvania': 'Harrisburg',
+    'Oregon': 'Portland',
+    'Pennsylvania': 'Philadelphia',
     'Rhoda Island': 'Providence',
-    'South Carolina': 'Columbia',
-    'South Dakoda': 'Pierre',
+    'South Carolina': 'Charleston',
+    'South Dakoda': 'Sioux Falls',
     'Tennessee': 'Nashville',
-    'Texas': 'Austin',
+    'Texas': 'Houston',
     'Utah': 'Salt Lake City',
-    'Vermont': 'Montpelier',
-    'Virginia': 'Richmond',
-    'Washington': 'Olympia',
+    'Vermont': 'Burlington',
+    'Virginia': 'Virginia Beach',
+    'Washington': 'Seattle',
     'West Virginia': 'Charleston',
-    'Wisconsin': 'Madison',
+    'Wisconsin': 'Milwaukee',
     'Wyoming': 'Cheyenne'
 }
-list = os.listdir("Data/States")
-for file in list:
-    if not file.__contains__("00"):
+
+flist = os.listdir("Data/States")
+for file in flist:
+    if file.__contains__("Florida"):
         process(file)
