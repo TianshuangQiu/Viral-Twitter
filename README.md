@@ -14,4 +14,6 @@ split the COVID data into each county.
 This program is likely not very efficient and may take a long time to run. Be advised to tune
 up the sleep time on twint should Twitter block further accesses.
 
-This will be updated when I finish running the program.
+Should the code crash due to an internet outage, copy the console output into a text file and 
+run recovery.py. Running the code on Google Colab seem to demonstrate significantly better results, although this 
+can be due to a lack of updated hardware.
