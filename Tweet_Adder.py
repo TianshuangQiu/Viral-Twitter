@@ -1,7 +1,7 @@
 import csv
 
 # path to the file we are editing
-path = "Data/States/00PROCESSEDFlorida.csv"
+path = "Data/States/00PROCESSEDNew York.csv"
 
 # file to keep the data when the stream closes
 storage = []
