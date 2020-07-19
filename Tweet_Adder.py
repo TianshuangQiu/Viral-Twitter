@@ -1,7 +1,9 @@
 import csv
 
 # path to the file we are editing
+
 path = "Data/States/00PROCESSEDNew York.csv"
+
 
 # file to keep the data when the stream closes
 storage = []
@@ -34,7 +36,7 @@ with open(path, newline='') as csvfile:
         rowx[4] = deaths_holder
         storage.append(rowx)
 
-with open("COMPLETE.csv", "w", newline="") as csvfile:
+with open("Output/COMPLETE_AZ.csv", "w", newline="") as csvfile:
     writer = csv.writer(csvfile, delimiter=',',
                         quotechar='|', quoting=csv.QUOTE_MINIMAL)
     for row in storage:
